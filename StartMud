@@ -1,0 +1,7 @@
+# /home/quest/mud/ftpd/ftpd &
+# /home/quest/mud/bin/hname &
+# /home/quest/mud64/bin/ldmud --no-strict-euids 3000 &> /home/quest/mud/lib/ldmud_log.txt
+while true; do
+/home/quest/mud/bin/ldmud 3000 &>> /home/quest/mud/lib/ldmud_log.txt
+sleep 120s
+done

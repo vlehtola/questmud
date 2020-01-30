@@ -1,0 +1,1006 @@
+Sun Mar 14 21:36:04 2004 [31mThe forgotten god of the world, Ra'Mos'Tot[0m (strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/r#82527, 110) killed by Xiakin (53) 
+Sun Mar 14 22:46:20 2004 Nagidi Tokiro, The ancient samurai of 'Frazis'(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/tokiro#83600, 70) killed by Jenny (219) 
+Sun Mar 14 23:05:04 2004 Takiru Ikira, The leader of 'Frazis' samurai(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/ikira#93111, 80) killed by Jenny (219) 
+Mon Mar 15 12:18:33 2004 Mohataki Akituro, The ancient samurai of 'Frazis'(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/akituro#14040, 56) killed by Jenny (219) 
+wizards/moonstar/areas/valley/test.c line 10 :Illegal character (hex 2e) '.'
+wizards/moonstar/areas/valley/test.c line 10 :syntax error
+wizards/moonstar/areas/valley/test.c line 10 :Illegal character (hex 2e) '.'
+wizards/moonstar/areas/valley/test.c line 10 :Illegal character (hex 2e) '.'
+wizards/moonstar/areas/valley/test.c line 10 :Illegal character (hex 2e) '.'
+wizards/moonstar/areas/valley/test.c line 19 :Illegal LHS
+Tue Mar 16 00:44:11 2004 Nagidi Tokiro, The ancient samurai of 'Frazis'(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/tokiro#47112, 70) killed by Jenny (219) 
+Tue Mar 16 04:57:22 2004 Takiru Ikira, The leader of 'Frazis' samurai(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/ikira#645, 80) killed by Jenny (219) 
+Wed Mar 17 00:33:09 2004 Mohataki Akituro, The ancient samurai of 'Frazis'(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/akituro#64993, 60) killed by Jenny (220) 
+Wed Mar 17 22:49:43 2004 Nagidi Tokiro, The ancient samurai of 'Frazis'(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/tokiro#43779, 70) killed by Jenny (221) 
+Wed Mar 17 23:34:50 2004 Takiru Ikira, The leader of 'Frazis' samurai(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/ikira#44665, 80) killed by Jenny (221) 
+Thu Mar 18 10:22:39 2004 [31mThe forgotten god of the world, Ra'Mos'Tot[0m (strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/r#282, 111) killed by Jenny (221) 
+wizards/moonstar/areas/mosnotar/forest/eq/circlet.c line 13 :syntax error
+wizards/moonstar/areas/mosnotar/forest/eq/circlet.c line 14 :syntax error
+wizards/moonstar/areas/mosnotar/forest/eq/circlet.c line 13 :syntax error
+wizards/moonstar/areas/mosnotar/forest/eq/circlet.c line 14 :syntax error
+wizards/moonstar/eval_file.c line 2 :Bad argument 1 type to efun read_file()
+wizards/moonstar/muut/test.c line 51 :syntax error
+wizards/moonstar/muut/test.c line 53 :Variable this_player not declared !
+wizards/moonstar/muut/test2.c line 51 :syntax error
+Mon Mar 22 21:46:09 2004 Drazil's bodyguard is standing here(strong) (/wizards/moonstar/areas/forest/monsut/bguard#42693, 57) killed by Bloodstorm (211) 
+Mon Mar 22 22:56:22 2004 Ranger Drazil, The secret keeper of fire(strong) (/wizards/moonstar/areas/forest/monsut/drazil#44344, 86) killed by Bloodstorm (211) 
+Tue Mar 23 17:00:48 2004 Drazil's bodyguard is standing here(strong) (/wizards/moonstar/areas/forest/monsut/bguard#38680, 57) killed by Jenny (222) 
+Thu Apr  1 00:05:17 2004 Drazil's bodyguard is standing here(strong) (/wizards/moonstar/areas/forest/monsut/bguard#60484, 57) killed by Kaappi (158) 
+wizards/moonstar/test/stormreaper.c line 13 :syntax error
+wizards/moonstar/muut/map.c line 9 :Illegal character (hex 5c) '\'
+wizards/moonstar/muut/map.c line 9 :syntax error
+wizards/moonstar/muut/map.c line 10 :Illegal character (hex 5c) '\'
+wizards/moonstar/muut/map.c line 44 :Illegal LHS
+wizards/moonstar/muut/map.c line 44 :Variable i not declared !
+wizards/moonstar/muut/map.c line 44 :Variable str not declared !
+wizards/moonstar/muut/map.c line 141 :End of file in a comment
+wizards/moonstar/muut/map.c line 141 :syntax error
+wizards/moonstar/muut/map.c line 141 :End of file in a comment
+wizards/moonstar/muut/map.c line 141 :syntax error
+wizards/moonstar/eval_file.c line 2 :syntax error
+wizards/moonstar/muut/hum.c line 18 :Variable More not declared !
+wizards/moonstar/muut/hum.c line 18 :syntax error
+wizards/moonstar/muut/hum.c line 51 :syntax error
+wizards/moonstar/muut/hum.c line 77 :Illegal LHS
+wizards/moonstar/muut/hum.c line 77 :Illegal LHS
+wizards/moonstar/muut/hum.c line 77 :Illegal LHS
+wizards/moonstar/muut/map.c line 105 :syntax error
+wizards/moonstar/muut/map.c line 8 :syntax error
+wizards/moonstar/areas/asgroth/virtual_map.c line 10 :Variable wizards not declared !
+wizards/moonstar/areas/asgroth/virtual_map.c line 10 :Variable moonstar not declared !
+wizards/moonstar/areas/asgroth/virtual_map.c line 10 :Variable areas not declared !
+wizards/moonstar/areas/asgroth/virtual_map.c line 10 :Variable asgroth not declared !
+wizards/moonstar/areas/asgroth/virtual_map.c line 10 :Newline in string
+wizards/moonstar/areas/asgroth/virtual_map.c line 10 :syntax error
+wizards/moonstar/muut/ma.c line 12 :syntax error
+wizards/moonstar/muut/ma.c line 13 :Variable banshee not declared !
+wizards/moonstar/muut/ma.c line 14 :Variable banshee not declared !
+wizards/moonstar/muut/ma.c line 12 :syntax error
+wizards/moonstar/muut/ma.c line 13 :Variable banshee not declared !
+wizards/moonstar/muut/ma.c line 14 :Variable banshee not declared !
+wizards/moonstar/muut/ma.c line 13 :Variable i not declared !
+wizards/moonstar/muut/ma.c line 16 :Variable i not declared !
+wizards/moonstar/muut/ma.c line 25 :Variable i not declared !
+wizards/moonstar/muut/ma.c line 13 :Variable i not declared !
+wizards/moonstar/muut/ma.c line 16 :Variable i not declared !
+wizards/moonstar/muut/ma.c line 25 :Variable i not declared !
+wizards/moonstar/muut/ma.c line 13 :Variable i not declared !
+wizards/moonstar/muut/ma.c line 16 :Variable i not declared !
+wizards/moonstar/muut/ma.c line 13 :Variable i not declared !
+wizards/moonstar/muut/ma.c line 16 :Variable i not declared !
+wizards/moonstar/areas/asgroth/other/bakery.c line 5 :syntax error
+wizards/moonstar/areas/asgroth/other/bakery.c line 11 :Variable desc_short not declared !
+wizards/moonstar/areas/asgroth/other/bakery.c line 12 :Variable desc_long not declared !
+wizards/moonstar/beer.c line 5 :syntax error
+wizards/moonstar/beer.c line 2 :syntax error
+wizards/moonstar/areas/asgroth/eq/bearclaw.c line 6 :syntax error
+wizards/moonstar/areas/asgroth/city/bar.c line 15 :Newline in string
+wizards/moonstar/areas/asgroth/city/bar.c line 16 :syntax error
+wizards/moonstar/areas/asgroth/city/bar.c line 22 :Illegal LHS
+wizards/moonstar/areas/asgroth/city/bar.c line 25 :syntax error
+wizards/moonstar/areas/asgroth/city/bar.c line 24 :syntax error
+wizards/moonstar/areas/asgroth/city/bar.c line 29 :syntax error
+wizards/moonstar/areas/asgroth/city/bar.c line 24 :syntax error
+wizards/moonstar/areas/asgroth/city/bar.c line 29 :syntax error
+wizards/moonstar/areas/asgroth/city/bar.c line 24 :syntax error
+wizards/moonstar/areas/asgroth/city/bar.c line 29 :syntax error
+wizards/moonstar/areas/asgroth/rooms/tie.c line 13 :syntax error
+wizards/moonstar/areas/asgroth/rooms/tie.c line 11 :syntax error
+wizards/moonstar/areas/asgroth/mobs/citizens.c line 4 :function not defined by inheritance as specified
+wizards/moonstar/areas/asgroth/mobs/citizens.c line 4 :function not defined by inheritance as specified
+wizards/moonstar/areas/asgroth/mobs/cit.c line 6 :function not defined by inheritance as specified
+wizards/moonstar/areas/asgroth/mobs/cit.c line 5 :function not defined by inheritance as specified
+wizards/moonstar/areas/asgroth/cit.c line 20 :Variable BOLD_F not declared !
+wizards/moonstar/areas/asgroth/rooms/tie.c line 20 :syntax error
+wizards/moonstar/areas/asgroth/eq/ogresmilk.c line 5 :syntax error
+wizards/moonstar/areas/asgroth/city/bar.c line 8 :syntax error
+wizards/moonstar/areas/asgroth/shops/magic_shop.c line 21 :syntax error
+wizards/moonstar/areas/asgroth/eq/witchamulet.c line 13 :syntax error
+wizards/moonstar/areas/asgroth/potion/wispotion.c line 17 :syntax error
+wizards/moonstar/areas/asgroth/potion/wispotion.c line 18 :Variable ob not declared !
+wizards/moonstar/areas/asgroth/potion/wispotion.c line 18 :Illegal LHS
+wizards/moonstar/areas/asgroth/potion/wispotion.c line 19 :Variable bon not declared !
+wizards/moonstar/areas/asgroth/potion/wispotion.c line 19 :Illegal LHS
+wizards/moonstar/areas/asgroth/potion/wispotion.c line 20 :Illegal LHS
+wizards/moonstar/muut/pot.c line 17 :syntax error
+wizards/moonstar/muut/pot.c line 18 :Variable ob not declared !
+wizards/moonstar/muut/pot.c line 18 :Illegal LHS
+wizards/moonstar/muut/pot.c line 19 :Variable bon not declared !
+wizards/moonstar/muut/pot.c line 19 :Illegal LHS
+wizards/moonstar/muut/pot.c line 20 :Illegal LHS
+wizards/moonstar/muut/pot.c line 16 :syntax error
+wizards/moonstar/muut/pot.c line 17 :Variable ob not declared !
+wizards/moonstar/muut/pot.c line 17 :Illegal LHS
+wizards/moonstar/muut/pot.c line 18 :Variable bon not declared !
+wizards/moonstar/muut/pot.c line 18 :Illegal LHS
+wizards/moonstar/muut/pot.c line 19 :Illegal LHS
+wizards/moonstar/muut/pot.c line 17 :Variable ob not declared !
+wizards/moonstar/muut/pot.c line 18 :Variable bon not declared !
+wizards/moonstar/muut/pot.c line 20 :syntax error
+wizards/moonstar/muut/pot.c line 15 :Variable ob not declared !
+wizards/moonstar/muut/pot.c line 16 :syntax error
+wizards/moonstar/muut/pot.c line 18 :Variable tp not declared !
+wizards/moonstar/muut/pot.c line 18 :Variable ob not declared !
+wizards/moonstar/muut/pot.c line 19 :Variable bonus not declared !
+wizards/moonstar/muut/pot.c line 19 :Variable bon not declared !
+wizards/moonstar/test/testmayor.c line 32 :Variable str not declared !
+wizards/moonstar/test/testmayor.c line 32 :syntax error
+wizards/moonstar/test/testmayor.c line 40 :syntax error
+wizards/moonstar/muut/pot.c line 15 :Variable ob not declared !
+wizards/moonstar/muut/pot.c line 16 :syntax error
+wizards/moonstar/muut/pot.c line 18 :Variable tp not declared !
+wizards/moonstar/muut/pot.c line 18 :Variable ob not declared !
+wizards/moonstar/muut/pot.c line 19 :Variable bonus not declared !
+wizards/moonstar/muut/pot.c line 19 :Variable bon not declared !
+wizards/moonstar/muut/pot.c line 17 :syntax error
+wizards/moonstar/muut/pot.c line 17 :syntax error
+wizards/moonstar/muut/pot.c line 23 :Variable this_player not declared !
+wizards/moonstar/muut/pot.c line 25 :syntax error
+wizards/moonstar/muut/pot.c line 17 :syntax error
+wizards/moonstar/muut/pot.c line 25 :syntax error
+wizards/moonstar/muut/pot.c line 17 :syntax error
+wizards/moonstar/muut/pot.c line 25 :syntax error
+wizards/moonstar/muut/pot.c line 18 :syntax error
+wizards/moonstar/muut/pot.c line 18 :syntax error
+wizards/moonstar/muut/pot.c line 25 :syntax error
+wizards/moonstar/muut/pot.c line 28 :syntax error
+wizards/moonstar/muut/pot.c line 41 :syntax error
+wizards/moonstar/muut/pot.c line 28 :syntax error
+wizards/moonstar/muut/pot.c line 41 :syntax error
+wizards/moonstar/muut/pot.c line 28 :syntax error
+wizards/moonstar/muut/pot.c line 41 :syntax error
+wizards/moonstar/muut/potikka.c line 28 :syntax error
+wizards/moonstar/muut/potikka.c line 38 :syntax error
+wizards/moonstar/muut/potikka.c line 29 :syntax error
+wizards/moonstar/muut/potikka.c line 36 :syntax error
+wizards/moonstar/muut/pot.c line 19 :syntax error
+wizards/moonstar/muut/pot.c line 20 :Variable time not declared !
+wizards/moonstar/muut/pot.c line 22 :Variable time not declared !
+wizards/moonstar/muut/pot.c line 18 :syntax error
+wizards/moonstar/muut/pot.c line 19 :Variable time not declared !
+wizards/moonstar/muut/pot.c line 21 :Variable time not declared !
+wizards/moonstar/areas/asgroth/potion/potions/regenpotion.c line 22 :Variable regen not declared !
+wizards/moonstar/areas/asgroth/potion/potions/regenpotion.c line 24 :Variable regen not declared !
+wizards/moonstar/areas/asgroth/potion/potions/powerregen.c line 17 :Variable More not declared !
+wizards/moonstar/areas/asgroth/potion/potions/powerregen.c line 17 :syntax error
+wizards/moonstar/areas/asgroth/potion/potions/powerregen.c line 24 :Too few arguments to clone_object
+wizards/moonstar/areas/asgroth/potion/potions/powerregen.c line 24 :Type mismatch ( unknown vs object ) when initializing regen
+wizards/moonstar/areas/asgroth/potion/potions/powerregen.c line 24 :Missing type
+wizards/moonstar/areas/asgroth/potion/potions/powerregen.c line 25 :syntax error
+wizards/moonstar/erg.c line 31 :syntax error
+wizards/moonstar/amulet.c line 102 :Redeclaration of function start.
+wizards/moonstar/amulet.c line 125 :Redeclaration of function start.
+wizards/moonstar/amulet.c line 127 :Redeclaration of function init.
+wizards/moonstar/amulet.c line 134 :Redeclaration of function init.
+wizards/moonstar/amulet.c line 136 :Redeclaration of function wear.
+wizards/moonstar/amulet.c line 147 :Redeclaration of function wear.
+wizards/moonstar/cmds/_awardtp.c line 7 :syntax error
+wizards/moonstar/eval_file.c line 2 :Too many arguments to this_player
+wizards/moonstar/areas/asgroth/city/ghe.c line 21 :Newline in string
+wizards/moonstar/areas/asgroth/city/ghe.c line 22 :syntax error
+wizards/moonstar/areas/asgroth/eq/helm.c line 11 :Variable CYAN not declared !
+wizards/moonstar/areas/asgroth/eq/helm.c line 30 :Variable RED not declared !
+wizards/moonstar/artists/uudet/special_hit.c line 13 :syntax error
+wizards/moonstar/test/gm.c line 27 :syntax error
+wizards/moonstar/test/gm.c line 31 :Variable o not declared !
+wizards/moonstar/test/gm.c line 31 :Undefined function resolve_hit
+wizards/moonstar/test/gm.c line 31 :syntax error
+wizards/moonstar/test/gm.c line 33 :Variable ob not declared !
+wizards/moonstar/test/gm.c line 33 :Variable o not declared !
+wizards/moonstar/areas/asgroth/eq/palneck.c line 1 :Unrecognised # directive
+wizards/moonstar/areas/asgroth/eq/palneck.c line 7 :Variable BLUE_F not declared !
+wizards/moonstar/areas/asgroth/eq/palneck.c line 7 :Variable OFF not declared !
+wizards/moonstar/areas/asgroth/rooms/cs.c line 4 :syntax error
+wizards/moonstar/areas/asgroth/rooms/cs.c line 2 :syntax error
+wizards/moonstar/areas/asgroth/rooms/cs.c line 2 :syntax error
+wizards/moonstar/test/gm.c line 21 :Variable o not declared !
+wizards/moonstar/test/gm.c line 21 :Variable o not declared !
+wizards/moonstar/areas/mosnotar/forest/eq/m.c line 4 :Type mismatch ( unknown vs mixed ) when initializing i
+wizards/moonstar/areas/mosnotar/forest/eq/m.c line 4 :Missing type
+wizards/moonstar/areas/mosnotar/forest/eq/m.c line 30 :syntax error
+wizards/moonstar/areas/mosnotar/forest/eq/m.c line 32 :Too few arguments to clone_object
+wizards/moonstar/areas/mosnotar/forest/eq/m.c line 32 :Illegal LHS
+wizards/moonstar/areas/mosnotar/forest/eq/m.c line 32 :syntax error
+Sun May  2 19:53:36 2004 Channelor Eve is cursing here(strong) (/wizards/moonstar/areas/sewers/monsut/channelor#40303, 40) killed by Reaper (161) 
+Sun May  2 19:58:04 2004 Channelors's husband Marx(strong) (/wizards/moonstar/areas/sewers/monsut/evilman#40979, 40) killed by Golthar (161) 
+wizards/moonstar/areas/mosnotar/forest/eq/staff.c line 10 :syntax error
+wizards/moonstar/atest.c line 31 :syntax error
+wizards/moonstar/areas/mosnotar/forest/eq/shield.c line 10 :syntax error
+wizards/moonstar/test/gm2.c line 52 :Variable combat not declared !
+wizards/moonstar/areas/asgroth/temple/t.c line 33 :syntax error
+wizards/moonstar/areas/asgroth/temple/t.c line 33 :Illegal LHS
+wizards/moonstar/areas/asgroth/temple/t.c line 38 :syntax error
+wizards/moonstar/areas/asgroth/temple/t.c line 33 :syntax error
+wizards/moonstar/areas/asgroth/temple/t.c line 33 :Illegal LHS
+wizards/moonstar/areas/asgroth/temple/t.c line 38 :syntax error
+wizards/moonstar/areas/asgroth/temple/t.c line 44 :syntax error
+wizards/moonstar/areas/asgroth/mobs/priest.c line 72 :Variable tmp3 not declared !
+wizards/moonstar/areas/asgroth/d.c line 85 :syntax error
+wizards/moonstar/areas/asgroth/d.c line 86 :Variable avain not declared !
+wizards/moonstar/areas/asgroth/d.c line 87 :Variable this_object not declared !
+wizards/moonstar/areas/asgroth/d.c line 96 :syntax error
+wizards/moonstar/areas/asgroth/d.c line 86 :syntax error
+wizards/moonstar/areas/asgroth/d.c line 87 :Variable avain not declared !
+wizards/moonstar/areas/asgroth/d.c line 88 :Variable avain not declared !
+wizards/moonstar/areas/asgroth/mobs/thief.c line 10 :Variable set_long not declared !
+wizards/moonstar/areas/asgroth/mobs/thief.c line 10 :Newline in string
+wizards/moonstar/eval_file.c line 2 :syntax error
+wizards/moonstar/eval_file.c line 2 :syntax error
+wizards/moonstar/areas/asgroth/sewers/room1.c line 12 :Newline in string
+wizards/moonstar/areas/asgroth/sewers/room1.c line 13 :syntax error
+wizards/moonstar/areas/asgroth/sewers/room1.c line 20 :Illegal LHS
+wizards/moonstar/areas/asgroth/sewers/room1.c line 20 :Illegal LHS
+wizards/moonstar/areas/asgroth/sewers/room1.c line 21 :syntax error
+wizards/moonstar/areas/asgroth/sewers/room1.c line 28 :Illegal LHS
+wizards/moonstar/areas/asgroth/sewers/room1.c line 30 :Variable set_light8 not declared !
+wizards/moonstar/areas/asgroth/sewers/room1.c line 30 :syntax error
+wizards/moonstar/areas/asgroth/eq/sewcloak.c line 12 :syntax error
+wizards/moonstar/areas/asgroth/eq/sewcloak.c line 10 :syntax error
+wizards/moonstar/areas/asgroth/sewers/entrance.c line 13 :Newline in string
+wizards/moonstar/areas/asgroth/sewers/entrance.c line 14 :syntax error
+wizards/moonstar/areas/asgroth/sewers/entrance.c line 14 :Illegal LHS
+wizards/moonstar/areas/asgroth/sewers/entrance.c line 14 :syntax error
+wizards/moonstar/areas/asgroth/mobs/azyltas.c line 55 :Variable obj not declared !
+wizards/moonstar/areas/asgroth/mobs/kaix.c line 85 :syntax error
+wizards/moonstar/areas/asgroth/test.c line 70 :syntax error
+wizards/moonstar/areas/asgroth/test.c line 72 :Variable ob not declared !
+wizards/moonstar/areas/asgroth/test.c line 73 :Variable ob not declared !
+wizards/moonstar/areas/asgroth/test.c line 74 :Variable ob not declared !
+wizards/moonstar/areas/asgroth/test.c line 74 :Variable ob not declared !
+wizards/moonstar/areas/asgroth/test.c line 75 :Variable ob not declared !
+wizards/moonstar/areas/asgroth/test.c line 70 :Variable lev not declared !
+wizards/moonstar/areas/asgroth/test.c line 70 :Variable lev not declared !
+wizards/moonstar/areas/asgroth/test.c line 71 :Variable lev not declared !
+wizards/moonstar/areas/asgroth/test.c line 71 :Variable lev not declared !
+wizards/moonstar/areas/asgroth/test.c line 75 :Variable lev not declared !
+wizards/moonstar/areas/asgroth/test.c line 75 :Variable lev not declared !
+wizards/moonstar/areas/asgroth/test.c line 92 :syntax error
+wizards/moonstar/areas/asgroth/test.c line 96 :syntax error
+wizards/moonstar/worker.c line 2 :syntax error
+wizards/moonstar/worker.c line 2 :Unrecognized inheritance modifier qualifier
+wizards/moonstar/worker.c line 2 :Unrecognized inheritance modifier qualifier
+wizards/moonstar/worker.c line 2 :syntax error
+wizards/moonstar/worker.c line 5 :syntax error
+wizards/moonstar/worker.c line 22 :Illegal LHS
+wizards/moonstar/worker.c line 22 :Illegal LHS
+wizards/moonstar/worker.c line 22 :Illegal LHS
+wizards/moonstar/worker.c line 29 :syntax error
+wizards/moonstar/worker.c line 48 :Illegal LHS
+wizards/moonstar/test/testmayor.c line 32 :Variable str not declared !
+wizards/moonstar/test/testmayor.c line 32 :syntax error
+wizards/moonstar/test/testmayor.c line 40 :syntax error
+wizards/moonstar/worker.c line 5 :syntax error
+wizards/moonstar/worker.c line 22 :Illegal LHS
+wizards/moonstar/worker.c line 22 :Illegal LHS
+wizards/moonstar/worker.c line 22 :Illegal LHS
+wizards/moonstar/worker.c line 29 :syntax error
+wizards/moonstar/worker.c line 48 :Illegal LHS
+wizards/moonstar/sorcerers/tower/floor1/basement.c line 7 :syntax error
+wizards/moonstar/sorcerers/base.c line 32 :syntax error
+wizards/moonstar/sorcerers/second.c line 29 :syntax error
+wizards/moonstar/sorcerers/second.c line 37 :Illegal LHS
+wizards/moonstar/sorcerers/second.c line 37 :syntax error
+wizards/moonstar/sorcerers/second.c line 49 :Illegal LHS
+wizards/moonstar/sorcerers/second.c line 49 :syntax error
+wizards/moonstar/sorcerers/second.c line 50 :Illegal LHS
+wizards/moonstar/sorcerers/second.c line 29 :syntax error
+wizards/moonstar/sorcerers/second.c line 37 :Illegal LHS
+wizards/moonstar/sorcerers/second.c line 37 :syntax error
+wizards/moonstar/sorcerers/second.c line 49 :Illegal LHS
+wizards/moonstar/sorcerers/second.c line 49 :syntax error
+wizards/moonstar/sorcerers/second.c line 50 :Illegal LHS
+wizards/moonstar/sorcerers/masters.c line 29 :syntax error
+wizards/moonstar/sorcerers/masters.c line 37 :Illegal LHS
+wizards/moonstar/sorcerers/masters.c line 37 :syntax error
+wizards/moonstar/sorcerers/masters.c line 49 :Illegal LHS
+wizards/moonstar/sorcerers/masters.c line 49 :syntax error
+wizards/moonstar/sorcerers/masters.c line 50 :Illegal LHS
+wizards/moonstar/sorcerers/anrax_priests.c line 28 :syntax error
+wizards/moonstar/sorcerers/anrax_priests.c line 36 :Illegal LHS
+wizards/moonstar/sorcerers/anrax_priests.c line 36 :syntax error
+wizards/moonstar/sorcerers/anrax_priests.c line 47 :Illegal LHS
+wizards/moonstar/sorcerers/anrax_priests.c line 47 :syntax error
+wizards/moonstar/sorcerers/anrax_priests.c line 48 :Illegal LHS
+wizards/moonstar/sorcerers/arch.c line 28 :syntax error
+wizards/moonstar/sorcerers/arch.c line 36 :Illegal LHS
+wizards/moonstar/sorcerers/arch.c line 36 :syntax error
+wizards/moonstar/sorcerers/arch.c line 48 :Illegal LHS
+wizards/moonstar/sorcerers/arch.c line 48 :syntax error
+wizards/moonstar/sorcerers/arch.c line 49 :Illegal LHS
+wizards/moonstar/second.c line 31 :syntax error
+wizards/moonstar/test.c line 19 :syntax error
+wizards/moonstar/test.c line 26 :Illegal LHS
+wizards/moonstar/test.c line 26 :syntax error
+wizards/moonstar/test.c line 32 :Illegal LHS
+wizards/moonstar/test.c line 32 :syntax error
+wizards/moonstar/test.c line 38 :Illegal LHS
+wizards/moonstar/test.c line 19 :syntax error
+wizards/moonstar/test.c line 26 :Illegal LHS
+wizards/moonstar/test.c line 26 :syntax error
+wizards/moonstar/test.c line 32 :Illegal LHS
+wizards/moonstar/test.c line 32 :syntax error
+wizards/moonstar/test.c line 38 :Illegal LHS
+wizards/moonstar/test.c line 41 :syntax error
+wizards/moonstar/test.c line 43 :Illegal LHS
+wizards/moonstar/test.c line 46 :Illegal LHS
+wizards/moonstar/test.c line 46 :syntax error
+wizards/moonstar/test.c line 65 :Illegal LHS
+wizards/moonstar/test.c line 65 :syntax error
+wizards/moonstar/test/testmayor.c line 32 :Variable str not declared !
+wizards/moonstar/test/testmayor.c line 32 :syntax error
+wizards/moonstar/test/testmayor.c line 40 :syntax error
+wizards/moonstar/test.c line 41 :syntax error
+wizards/moonstar/test.c line 43 :Illegal LHS
+wizards/moonstar/test.c line 46 :Illegal LHS
+wizards/moonstar/test.c line 46 :syntax error
+wizards/moonstar/test.c line 65 :Illegal LHS
+wizards/moonstar/test.c line 65 :syntax error
+wizards/moonstar/test.c line 60 :syntax error
+wizards/moonstar/test.c line 65 :Illegal LHS
+wizards/moonstar/test.c line 65 :syntax error
+wizards/moonstar/test.c line 67 :Illegal LHS
+wizards/moonstar/test.c line 67 :syntax error
+wizards/moonstar/staff.c line 13 :Newline in string
+wizards/moonstar/staff.c line 14 :syntax error
+wizards/moonstar/areas/asgroth/rooms/wbridge.c line 8 :Variable short_desc not declared !
+wizards/moonstar/areas/asgroth/rooms/wbridge.c line 9 :Variable long_desc not declared !
+wizards/moonstar/areas/asgroth/rooms/wbridge.c line 6 :Variable short_desc not declared !
+wizards/moonstar/areas/asgroth/rooms/wbridge.c line 7 :Variable long_desc not declared !
+wizards/moonstar/test.c line 7 :syntax error
+wizards/moonstar/test.c line 7 :Illegal LHS
+wizards/moonstar/test.c line 7 :syntax error
+wizards/moonstar/test.c line 26 :Illegal LHS
+wizards/moonstar/test.c line 26 :Illegal LHS
+wizards/moonstar/test.c line 26 :Illegal LHS
+wizards/moonstar/test.c line 27 :syntax error
+wizards/moonstar/test.c line 34 :Illegal LHS
+wizards/moonstar/test/testmayor.c line 32 :Variable str not declared !
+wizards/moonstar/test/testmayor.c line 32 :syntax error
+wizards/moonstar/test/testmayor.c line 40 :syntax error
+wizards/moonstar/test.c line 7 :syntax error
+wizards/moonstar/test.c line 26 :Illegal LHS
+wizards/moonstar/test.c line 26 :Illegal LHS
+wizards/moonstar/test.c line 26 :Illegal LHS
+wizards/moonstar/test.c line 27 :syntax error
+wizards/moonstar/test.c line 34 :Illegal LHS
+wizards/moonstar/test.c line 9 :syntax error
+wizards/moonstar/test.c line 29 :Illegal LHS
+wizards/moonstar/test.c line 29 :Illegal LHS
+wizards/moonstar/test.c line 29 :Illegal LHS
+wizards/moonstar/test.c line 30 :syntax error
+wizards/moonstar/test.c line 37 :Illegal LHS
+wizards/moonstar/test/testmayor.c line 32 :Variable str not declared !
+wizards/moonstar/test/testmayor.c line 32 :syntax error
+wizards/moonstar/test/testmayor.c line 40 :syntax error
+wizards/moonstar/test/testmayor.c line 32 :Variable str not declared !
+wizards/moonstar/test/testmayor.c line 32 :syntax error
+wizards/moonstar/test/testmayor.c line 40 :syntax error
+wizards/moonstar/staff.c line 43 :Variable i not declared !
+wizards/moonstar/staff.c line 43 :Variable i not declared !
+wizards/moonstar/staff.c line 44 :syntax error
+wizards/moonstar/staff.c line 44 :syntax error
+wizards/moonstar/staff.c line 13 :syntax error
+wizards/moonstar/staff.c line 35 :syntax error
+wizards/moonstar/staff.c line 45 :Variable ob not declared !
+wizards/moonstar/staff.c line 45 :Illegal LHS
+wizards/moonstar/staff.c line 45 :syntax error
+wizards/moonstar/staff.c line 13 :syntax error
+wizards/moonstar/staff.c line 35 :syntax error
+wizards/moonstar/staff.c line 45 :Variable ob not declared !
+wizards/moonstar/staff.c line 45 :Illegal LHS
+wizards/moonstar/staff.c line 45 :syntax error
+wizards/moonstar/amulet.c line 20 :Redeclaration of function start.
+wizards/moonstar/amulet.c line 43 :Redeclaration of function start.
+wizards/moonstar/rael.c line 82 :Variable knuckles not declared !
+wizards/moonstar/rael.c line 6 :function not defined by inheritance as specified
+wizards/moonstar/rael.c line 43 :Variable GUILDRANK_D not declared !
+wizards/moonstar/rael.c line 44 :Variable GUILDRANK_D not declared !
+wizards/moonstar/rael.c line 45 :Variable GUILDRANK_D not declared !
+wizards/moonstar/rael.c line 46 :Variable GUILDRANK_D not declared !
+wizards/moonstar/rael.c line 80 :Variable staff not declared !
+wizards/moonstar/cloak.c line 46 :Missing type for argument
+wizards/moonstar/cloak.c line 46 :syntax error
+wizards/moonstar/cloak.c line 46 :Missing type for argument
+wizards/moonstar/cloak.c line 47 :Missing type for argument
+wizards/moonstar/cloak.c line 46 :Missing type for argument
+wizards/moonstar/cloak.c line 47 :Missing type for argument
+wizards/moonstar/cloak.c line 46 :Missing type for argument
+wizards/moonstar/cloak.c line 47 :Missing type for argument
+wizards/moonstar/cloak.c line 44 :syntax error
+wizards/moonstar/cloak.c line 47 :syntax error
+wizards/moonstar/cloak.c line 44 :syntax error
+wizards/moonstar/cloak.c line 47 :syntax error
+wizards/moonstar/cloak.c line 48 :syntax error
+wizards/moonstar/cloak.c line 48 :syntax error
+wizards/moonstar/cloak.c line 48 :syntax error
+wizards/moonstar/cloak.c line 31 :syntax error
+wizards/moonstar/test/gm.c line 34 :syntax error
+wizards/moonstar/test/gm.c line 38 :syntax error
+wizards/moonstar/test/gm.c line 34 :syntax error
+wizards/moonstar/test/gm.c line 38 :syntax error
+wizards/moonstar/areas/asgroth/potion/potions/powerregen.c line 25 :syntax error
+wizards/moonstar/areas/asgroth/potion/potions/powerregen.c line 25 :syntax error
+wizards/moonstar/entrance.c line 21 :Variable More not declared !
+wizards/moonstar/entrance.c line 21 :syntax error
+wizards/moonstar/entrance.c line 23 :Illegal LHS
+wizards/moonstar/entrance.c line 26 :syntax error
+wizards/moonstar/muut/test.c line 41 :syntax error
+wizards/moonstar/muut/test.c line 48 :Illegal LHS
+wizards/moonstar/muut/test.c line 49 :Variable color not declared !
+wizards/moonstar/muut/test.c line 50 :Variable prevcolor not declared !
+wizards/moonstar/muut/test.c line 54 :Variable i not declared !
+wizards/moonstar/muut/test.c line 54 :Variable i not declared !
+wizards/moonstar/muut/test.c line 41 :syntax error
+wizards/moonstar/muut/test.c line 48 :Illegal LHS
+wizards/moonstar/muut/test.c line 49 :Variable color not declared !
+wizards/moonstar/muut/test.c line 50 :Variable prevcolor not declared !
+wizards/moonstar/muut/test.c line 54 :Variable i not declared !
+wizards/moonstar/muut/test.c line 54 :Variable i not declared !
+wizards/moonstar/areas/asgroth/rooms/wbridge.c line 13 :syntax error
+wizards/moonstar/areas/asgroth/rooms/wbridge.c line 13 :syntax error
+wizards/moonstar/areas/asgroth/rooms/wbridge.c line 13 :syntax error
+wizards/moonstar/cmds/_levelzap.c line 26 :syntax error
+wizards/moonstar/cmds/_levelzap.c line 26 :syntax error
+wizards/moonstar/cmds/_levelzap.c line 26 :syntax error
+wizards/moonstar/cmds/_levelzap.c line 17 :Variable points not declared !
+wizards/moonstar/cmds/_levelzap.c line 28 :Variable points not declared !
+wizards/moonstar/cmds/_levelzap.c line 28 :Variable points not declared !
+wizards/moonstar/cmds/_levelzap.c line 47 :Bad argument number 1 to '*': "string "
+wizards/moonstar/cmds/_levelzap.c line 47 :Too many arguments to this_player
+wizards/moonstar/cmds/_levelzap.c line 47 :Too many arguments to this_player
+Sat May 22 21:52:29 2004 Takiru Ikira, The leader of 'Frazis' samurai(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/ikira#36092, 80) killed by Bloodstorm (194) 
+wizards/moonstar/areas/asgroth/mobs/aspider.c line 13 :Variable RED_F not declared !
+wizards/moonstar/areas/asgroth/mobs/aspider.c line 13 :Variable OFF not declared !
+wizards/moonstar/areas/asgroth/mobs/aspider.c line 25 :syntax error
+wizards/moonstar/areas/asgroth/mobs/aspider.c line 25 :syntax error
+wizards/moonstar/areas/asgroth/mobs/aspider.c line 25 :syntax error
+Sun May 23 01:03:54 2004 The white paladin Ihenoa [34m<Blessed>[0m(strong) (/wizards/moonstar/areas/asgroth/mobs/ihenoa#38602, 65) killed by Reaper (206) 
+Sun May 23 01:20:20 2004 Rina, The nun of Asgroth(strong) (/wizards/moonstar/areas/asgroth/mobs/runa#38598, 65) killed by Reaper (206) 
+Sun May 23 03:15:59 2004 Old witch Azyltas is here selling potions(strong) (/wizards/moonstar/areas/asgroth/mobs/azyltas#35985, 80) killed by Reaper (206) 
+wizards/moonstar/areas/asgroth/shops/wepshop.c line 15 :Newline in string
+wizards/moonstar/areas/asgroth/shops/wepshop.c line 16 :syntax error
+wizards/moonstar/key.c line 15 :function not defined by inheritance as specified
+wizards/moonstar/areas/asgroth/other/teleportroom.c line 17 :syntax error
+wizards/moonstar/areas/asgroth/other/teleportroom.c line 18 :Illegal LHS
+Mon May 24 11:18:59 2004 Rina, The nun of Asgroth(strong) (/wizards/moonstar/areas/asgroth/mobs/runa#4650, 65) killed by Reaper (212) 
+Mon May 24 11:35:20 2004 Drazil's bodyguard is standing here(strong) (/wizards/moonstar/areas/forest/monsut/bguard#7448, 57) killed by Reaper (212) 
+wizards/moonstar/areas/asgroth/test.c line 4 :Type mismatch ( unknown vs object ) when initializing item_ob
+wizards/moonstar/areas/asgroth/test.c line 4 :Missing type
+wizards/moonstar/areas/asgroth/test.c line 39 :syntax error
+wizards/moonstar/areas/asgroth/test.c line 32 :Variable i not declared !
+wizards/moonstar/areas/asgroth/test.c line 38 :syntax error
+wizards/moonstar/areas/asgroth/test.c line 38 :syntax error
+wizards/moonstar/areas/asgroth/test.c line 33 :Too many arguments to this_object
+wizards/moonstar/areas/asgroth/test.c line 5 :Variable item_ob not declared !
+wizards/moonstar/areas/asgroth/test.c line 21 :syntax error
+wizards/moonstar/areas/asgroth/test.c line 22 :syntax error
+wizards/moonstar/areas/asgroth/sewers/room19.c line 22 :syntax error
+wizards/moonstar/areas/asgroth/sewers/room19.c line 23 :Illegal LHS
+wizards/moonstar/areas/asgroth/sewers/room19.c line 23 :syntax error
+wizards/moonstar/areas/asgroth/sewers/room19.c line 24 :Illegal LHS
+wizards/moonstar/areas/asgroth/sewers/room19.c line 25 :Illegal LHS
+wizards/moonstar/areas/asgroth/sewers/room19.c line 26 :Illegal LHS
+wizards/moonstar/areas/gnomes/eq/eqdag.c line 5 :syntax error
+wizards/moonstar/areas/gnomes/eq/eqdag.c line 5 :syntax error
+wizards/moonstar/areas/gnomes/monsters/isak.c line 33 :Variable ob not declared !
+wizards/moonstar/areas/gnomes/monsters/isak.c line 34 :Variable ob not declared !
+wizards/moonstar/areas/gnomes/monsters/isak.c line 38 :Variable ob not declared !
+wizards/moonstar/areas/brownie/rooms/l1tree3.c line 26 :Newline in string
+wizards/moonstar/areas/brownie/rooms/l1tree3.c line 26 :Newline in string
+wizards/moonstar/areas/brownie/monsters/brownieelite.c line 17 :Newline in string
+wizards/moonstar/areas/brownie/monsters/brownieelite.c line 17 :Newline in string
+Wed May 26 13:57:47 2004 Rina, The nun of Asgroth(strong) (/wizards/moonstar/areas/asgroth/mobs/runa#4163, 65) killed by Reaper (224) 
+Thu May 27 16:34:14 2004 The white paladin Ihenoa [34m<Blessed>[0m(strong) (/wizards/moonstar/areas/asgroth/mobs/ihenoa#13641, 65) killed by Golthar (101) 
+Thu May 27 16:34:14 2004 Rina, The nun of Asgroth(strong) (/wizards/moonstar/areas/asgroth/mobs/runa#13636, 65) killed by Golthar (101) 
+Thu May 27 16:46:38 2004 Drazil's bodyguard is standing here(strong) (/wizards/moonstar/areas/forest/monsut/bguard#30879, 57) killed by Reaper (225) 
+Thu May 27 18:29:18 2004 Kaix Paria, The lord of city Asgroth(strong) (/wizards/moonstar/areas/asgroth/mobs/kaix#31193, 96) killed by Reaper (225) 
+wizards/moonstar/areas/brownie/rooms/l1tree3.c line 29 :Newline in string
+wizards/moonstar/areas/brownie/rooms/l1tree3.c line 29 :Newline in string
+wizards/moonstar/areas/brownie/rooms/l1tree3.c line 29 :Newline in string
+wizards/moonstar/areas/brownie/rooms/l1tree3.c line 29 :Newline in string
+wizards/moonstar/areas/asgroth/test.c line 7 :syntax error
+wizards/moonstar/areas/asgroth/test.c line 61 :Variable swordi not declared !
+wizards/moonstar/areas/asgroth/other/test.c line 34 :syntax error
+wizards/moonstar/areas/asgroth/other/test.c line 35 :Variable num not declared !
+wizards/moonstar/areas/asgroth/other/test.c line 36 :Variable num not declared !
+wizards/moonstar/areas/asgroth/other/test.c line 40 :Variable num not declared !
+Fri May 28 20:57:55 2004 The brownie healer Anita(strong) (/wizards/moonstar/areas/brownie/monsters/browniehealer#32093, 35) killed by Yodin (100) 
+Fri May 28 22:29:19 2004 The legendary brownie fighter Isak(strong) (/wizards/moonstar/areas/brownie/monsters/isak#24674, 40) killed by Yodin (100) 
+wizards/moonstar/areas/brownie/monsters/browniehealer.c line 10 :Variable query_max_hp not declared !
+Sat May 29 14:15:41 2004 The legendary brownie fighter Isak(strong) (/wizards/moonstar/areas/brownie/monsters/isak#14704, 40) killed by Reaper (244) 
+Sun May 30 13:24:30 2004 Rina, The nun of Asgroth(strong) (/wizards/moonstar/areas/asgroth/mobs/runa#16788, 65) killed by Reaper (253) 
+Sun May 30 13:41:14 2004 Drazil's bodyguard is standing here(strong) (/wizards/moonstar/areas/forest/monsut/bguard#18510, 57) killed by Reaper (253) 
+Sun May 30 22:52:43 2004 Kaix Paria, The lord of city Asgroth(strong) (/wizards/moonstar/areas/asgroth/mobs/kaix#42239, 100) killed by Reaper (253) 
+Sun May 30 23:40:21 2004 The legendary brownie fighter Isak(strong) (/wizards/moonstar/areas/brownie/monsters/isak#47836, 40) killed by Golthar (107) 
+wizards/moonstar/test/gm.c line 34 :syntax error
+wizards/moonstar/test/gm.c line 38 :syntax error
+wizards/moonstar/test/gm.c line 34 :syntax error
+wizards/moonstar/test/gm.c line 38 :syntax error
+Tue Jun  1 17:39:44 2004 Rina, The nun of Asgroth(strong) (/wizards/moonstar/areas/asgroth/mobs/runa#17639, 65) killed by Bloodstorm (195) 
+Tue Jun  1 18:31:49 2004 Drazil's bodyguard is standing here(strong) (/wizards/moonstar/areas/forest/monsut/bguard#23560, 57) killed by Bloodstorm (195) 
+Tue Jun  1 18:48:44 2004 The brownie healer Anita(strong) (/wizards/moonstar/areas/brownie/monsters/browniehealer#25109, 40) killed by Bloodstorm (195) 
+Tue Jun  1 18:52:32 2004 The legendary brownie fighter Isak(strong) (/wizards/moonstar/areas/brownie/monsters/isak#25411, 40) killed by Bloodstorm (195) 
+wizards/moonstar/cmds/_event_larvae.c line 7 :Variable TP not declared !
+wizards/moonstar/areas/asgroth/potion/effects/conboost.c line 7 :Variable time not declared !
+wizards/moonstar/cmds/_levelzap.c line 47 :Too many arguments to this_player
+wizards/moonstar/cmds/_levelzap.c line 47 :Too many arguments to this_player
+wizards/moonstar/cmds/_levelzap.c line 47 :Too many arguments to this_player
+wizards/moonstar/cmds/_levelzap.c line 47 :Too many arguments to this_player
+wizards/moonstar/areas/dragonlair/room28.c line 37 :syntax error
+wizards/moonstar/areas/dragonlair/room28.c line 41 :Illegal LHS
+wizards/moonstar/areas/dragonlair/room28.c line 36 :syntax error
+wizards/moonstar/areas/dragonlair/room28.c line 40 :Illegal LHS
+wizards/moonstar/areas/dragonlair/room28.c line 36 :syntax error
+wizards/moonstar/areas/dragonlair/room28.c line 40 :Illegal LHS
+wizards/moonstar/eval_file.c line 2 :Too many arguments to this_player
+wizards/moonstar/eval_file.c line 2 :Too many arguments to this_player
+wizards/moonstar/areas/mf/npc/elf.c line 12 :syntax error
+wizards/moonstar/areas/mf/npc/elf.c line 12 :syntax error
+wizards/moonstar/areas/mf/npc/elf.c line 12 :syntax error
+Sun Jun  6 20:06:37 2004 An old sorcerer is standing here(strong) (/wizards/moonstar/areas/mf/npc/sorcerer#19228, 22) killed by Bloodstorm (205) 
+wizards/moonstar/iron_will.c line 16 :syntax error
+wizards/moonstar/iron_will.c line 28 :Variable sp_needed not declared !
+wizards/moonstar/iron_will.c line 30 :Variable sp_needed not declared !
+wizards/moonstar/iron_will.c line 35 :Variable sp_needed not declared !
+wizards/moonstar/iron_will.c line 38 :Variable time not declared !
+wizards/moonstar/iron_will.c line 39 :Variable time not declared !
+wizards/moonstar/iron_will.c line 15 :syntax error
+wizards/moonstar/iron_will.c line 27 :Variable sp_needed not declared !
+wizards/moonstar/iron_will.c line 29 :Variable sp_needed not declared !
+wizards/moonstar/iron_will.c line 34 :Variable sp_needed not declared !
+wizards/moonstar/iron_will.c line 37 :Variable time not declared !
+wizards/moonstar/iron_will.c line 38 :Variable time not declared !
+Wed Jun  9 12:45:35 2004 An old sorcerer is standing here(strong) (/wizards/moonstar/areas/mf/npc/sorcerer#3366, 22) killed by Atomska (52) 
+Fri Jun 11 23:47:54 2004 Mohataki Akituro, The ancient samurai of 'Frazis'(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/akituro#33036, 58) killed by Bloodstorm (213) 
+Sat Jun 12 00:43:40 2004 Nagidi Tokiro, The ancient samurai of 'Frazis'(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/tokiro#34996, 70) killed by Bloodstorm (213) 
+Mon Jun 14 13:22:43 2004 The leader of brownies(strong) (/wizards/moonstar/areas/brownie/monsters/brownieleader#10429, 37) killed by Aleksi (155) 
+Tue Jun 15 01:10:36 2004 The legendary brownie fighter Isak(strong) (/wizards/moonstar/areas/brownie/monsters/isak#57850, 40) killed by Yodin (115) 
+Thu Jun 17 19:37:19 2004 An old sorcerer is standing here(strong) (/wizards/moonstar/areas/mf/npc/sorcerer#29585, 22) killed by Jin (169) 
+wizards/moonstar/staff.c line 21 :Illegal character (hex 5c) '\'
+wizards/moonstar/staff.c line 21 :syntax error
+wizards/moonstar/staff.c line 21 :Newline in string
+wizards/moonstar/test/toweri.c line 1 :Unrecognized inheritance modifier qualifier
+wizards/moonstar/test/toweri.c line 1 :Unrecognized inheritance modifier qualifier
+wizards/moonstar/test/toweri.c line 1 :Unrecognized inheritance modifier qualifier
+wizards/moonstar/test/toweri.c line 1 :Unrecognized inheritance modifier qualifier
+wizards/moonstar/test/toweri.c line 1 :Unrecognized inheritance modifier qualifier
+wizards/moonstar/test/toweri.c line 1 :Unrecognized inheritance modifier qualifier
+wizards/moonstar/muut/unicorn.c line 21 :syntax error
+wizards/moonstar/muut/unicorn.c line 20 :syntax error
+wizards/moonstar/death_shadow.c line 13 :syntax error
+wizards/moonstar/death_shadow.c line 13 :syntax error
+wizards/moonstar/death_shadow.c line 13 :syntax error
+wizards/moonstar/death_shadow.c line 13 :syntax error
+wizards/moonstar/shifters/bear/bear_shadow.c line 21 :syntax error
+wizards/moonstar/shifters/bear/bear_shadow.c line 46 :syntax error
+wizards/moonstar/shifters/bear/bear_shadow.c line 68 :Illegal LHS
+wizards/moonstar/shifters/bear/bear_shadow.c line 68 :syntax error
+wizards/moonstar/shifters/bear/bear_shadow.c line 69 :Illegal LHS
+wizards/moonstar/shifters/bear/bear_shadow.c line 69 :syntax error
+wizards/moonstar/shifters/bear/bear_shadow.c line 25 :Variable liv not declared !
+wizards/moonstar/shifters/bear/bear_shadow.c line 29 :Variable liv not declared !
+wizards/moonstar/shifters/bear/bear_shadow.c line 32 :Variable liv not declared !
+wizards/moonstar/shifters/bear/bear_shadow.c line 108 :Type mismatch ( unknown vs int ) when initializing dam
+wizards/moonstar/shifters/bear/bear_shadow.c line 108 :Missing type
+wizards/moonstar/shifters/bear/bear_shadow.c line 109 :syntax error
+wizards/moonstar/shifters/bear/bear_shadow.c line 108 :Type mismatch ( unknown vs int ) when initializing dam
+wizards/moonstar/shifters/bear/bear_shadow.c line 108 :Missing type
+wizards/moonstar/shifters/bear/bear_shadow.c line 109 :syntax error
+wizards/moonstar/test.c line 101 :Type mismatch ( unknown vs mixed ) when initializing dam
+wizards/moonstar/test.c line 101 :Missing type
+wizards/moonstar/test.c line 102 :syntax error
+wizards/moonstar/test.c line 101 :Type mismatch ( unknown vs mixed ) when initializing dam
+wizards/moonstar/test.c line 101 :Missing type
+wizards/moonstar/test.c line 102 :syntax error
+wizards/moonstar/bearstrike.c line 12 :Variable str not declared !
+wizards/moonstar/bearstrike.c line 33 :Variable str not declared !
+wizards/moonstar/bearstrike.c line 33 :Variable str not declared !
+wizards/moonstar/bearstrike.c line 43 :Variable this_player not declared !
+wizards/moonstar/bearstrike.c line 43 :syntax error
+wizards/moonstar/test/dragon_amu.c line 1 :syntax error
+wizards/moonstar/test/dragon_amu.c line 1 :Cannot #include /wizards/moonstar/test/dragon.c
+wizards/moonstar/test/dragon_amu.c line 30 :Variable owner not declared !
+wizards/moonstar/shifters/bear/test.c line 105 :syntax error
+wizards/moonstar/shifters/bear/test.c line 106 :Variable roll not declared !
+wizards/moonstar/shifters/bear/test.c line 107 :Variable roll not declared !
+wizards/moonstar/shifters/bear/test.c line 107 :Variable roll not declared !
+wizards/moonstar/shifters/bear/test.c line 109 :Variable roll not declared !
+wizards/moonstar/shifters/bear/bear_shadow.c line 113 :Type mismatch ( unknown vs mixed ) when initializing target
+wizards/moonstar/shifters/bear/bear_shadow.c line 113 :Missing type
+wizards/moonstar/shifters/bear/bear_shadow.c line 114 :Type mismatch ( unknown vs mixed ) when initializing roll
+wizards/moonstar/shifters/bear/bear_shadow.c line 114 :Missing type
+wizards/moonstar/shifters/bear/bear_shadow.c line 115 :syntax error
+wizards/moonstar/shifters/bear/bear_strike.c line 20 :syntax error
+wizards/moonstar/shifters/bear/bear_shadow.c line 87 :syntax error
+wizards/moonstar/shifters/bear/bear_shadow.c line 88 :Variable roll not declared !
+wizards/moonstar/shifters/bear/bear_shadow.c line 89 :Variable roll not declared !
+wizards/moonstar/shifters/bear/bear_shadow.c line 89 :Variable roll not declared !
+wizards/moonstar/shifters/bear/bear_shadow.c line 91 :Variable roll not declared !
+wizards/moonstar/shifters/bear/bear_shadow.c line 88 :syntax error
+Wed Jul 14 01:31:13 2004 Drazil's bodyguard is standing here(strong) (/wizards/moonstar/areas/forest/monsut/bguard#20082, 57) killed by Reaper (346) 
+Wed Jul 14 02:34:47 2004 Ranger Drazil, The secret keeper of fire(strong) (/wizards/moonstar/areas/forest/monsut/drazil#20419, 86) killed by Reaper (346) 
+Wed Jul 14 03:00:16 2004 Dark shadow floats here(undead) (strong) (/wizards/moonstar/areas/wasteland/monsut/shadow#22285, 65) killed by Reaper (346) 
+Wed Jul 14 03:48:00 2004 Krazzt, the secret keeper of water(strong) (/wizards/moonstar/areas/wasteland/monsut/bluewizard#23163, 87) killed by Reaper (346) 
+Wed Jul 14 23:43:03 2004 Mohataki Akituro, The ancient samurai of 'Frazis'(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/akituro#32433, 52) killed by Reaper (346) 
+wizards/moonstar/areas/mosnotar/forest/eq/axe.c line 25 :Newline in string
+wizards/moonstar/areas/mosnotar/forest/eq/axe.c line 26 :syntax error
+wizards/moonstar/test/demon.c line 9 :Variable set_long not declared !
+wizards/moonstar/demon.c line 19 :Variable east not declared !
+wizards/moonstar/demon.c line 19 :Variable west not declared !
+wizards/moonstar/demon.c line 19 :Variable north not declared !
+wizards/moonstar/demon.c line 19 :Variable south not declared !
+wizards/moonstar/demon.c line 19 :Variable east not declared !
+wizards/moonstar/demon.c line 19 :Variable west not declared !
+wizards/moonstar/demon.c line 19 :Variable north not declared !
+wizards/moonstar/demon.c line 19 :Variable south not declared !
+wizards/moonstar/demon.c line 2 :Illegal character (hex ffffffa8) '¨'
+wizards/moonstar/demon.c line 2 :syntax error
+wizards/moonstar/demon.c line 2 :Illegal character (hex ffffffa8) '¨'
+wizards/moonstar/demon.c line 2 :syntax error
+wizards/moonstar/demon.c line 21 :Variable west not declared !
+wizards/moonstar/demon.c line 22 :Variable east not declared !
+wizards/moonstar/test.c line 8 :syntax error
+wizards/moonstar/test.c line 113 :Too long ansi style string concatenation
+wizards/moonstar/test.c line 114 :Too long ansi style string concatenation
+wizards/moonstar/test.c line 115 :Too long ansi style string concatenation
+wizards/moonstar/test.c line 116 :Too long ansi style string concatenation
+wizards/moonstar/test.c line 117 :Too long ansi style string concatenation
+wizards/moonstar/areas/mosnotar/forest/vortex/7.c line 8 :Variable monster not declared !
+wizards/moonstar/areas/mosnotar/forest/vortex/7.c line 9 :Variable monster not declared !
+wizards/moonstar/areas/mosnotar/forest/vortex/7.c line 13 :Variable monster not declared !
+wizards/moonstar/areas/mosnotar/forest/vortex/7.c line 14 :Variable monster not declared !
+wizards/moonstar/areas/mosnotar/forest/vortex/7.c line 17 :Variable monster not declared !
+wizards/moonstar/areas/mosnotar/forest/vortex/7.c line 18 :Variable monster not declared !
+wizards/moonstar/areas/mosnotar/forest/vortex/7.c line 7 :Variable monster not declared !
+wizards/moonstar/areas/mosnotar/forest/vortex/7.c line 8 :Variable monster not declared !
+wizards/moonstar/areas/mosnotar/forest/vortex/7.c line 12 :Variable monster not declared !
+wizards/moonstar/areas/mosnotar/forest/vortex/7.c line 13 :Variable monster not declared !
+wizards/moonstar/areas/mosnotar/forest/vortex/7.c line 7 :Variable monster not declared !
+wizards/moonstar/areas/mosnotar/forest/vortex/7.c line 8 :Variable monster not declared !
+wizards/moonstar/areas/mosnotar/forest/vortex/7.c line 12 :Variable monster not declared !
+wizards/moonstar/areas/mosnotar/forest/vortex/7.c line 13 :Variable monster not declared !
+wizards/moonstar/muut/cbandit.c line 1 :syntax error
+wizards/moonstar/muut/larvae_s.c line 86 :syntax error
+wizards/moonstar/areas/asgroth/potion/effects/powerregen.c line 31 :Redeclaration of function death.
+wizards/moonstar/areas/asgroth/potion/effects/powerregen.c line 32 :Variable effect not declared !
+wizards/moonstar/areas/asgroth/potion/effects/powerregen.c line 37 :Redeclaration of function death.
+wizards/moonstar/areas/asgroth/potion/effects/powerregen.c line 31 :Redeclaration of function death.
+wizards/moonstar/areas/asgroth/potion/effects/powerregen.c line 36 :Redeclaration of function death.
+Thu Jul 22 20:11:41 2004 Channelor Eve is cursing here(strong) (/wizards/moonstar/areas/sewers/monsut/channelor#27021, 40) killed by Reaper (347) 
+Thu Jul 22 20:13:47 2004 Channelors's husband Marx(strong) (/wizards/moonstar/areas/sewers/monsut/evilman#27169, 40) killed by Reaper (347) 
+Fri Jul 23 20:49:11 2004 Rina, The nun of Asgroth(strong) (/wizards/moonstar/areas/asgroth/mobs/runa#15444, 65) killed by Reaper (348) 
+Fri Jul 23 21:37:54 2004 Drazil's bodyguard is standing here(strong) (/wizards/moonstar/areas/forest/monsut/bguard#16015, 57) killed by Reaper (348) 
+Sun Jul 25 01:13:45 2004 An old sorcerer is standing here(strong) (/wizards/moonstar/areas/mf/npc/sorcerer#28884, 22) killed by Reaper (349) 
+wizards/moonstar/guildrank_d.c line 245 :syntax error
+wizards/moonstar/guildrank_d.c line 246 :syntax error
+wizards/moonstar/guildrank_d.c line 250 :Illegal LHS
+wizards/moonstar/guildrank_d.c line 250 :Illegal LHS
+wizards/moonstar/guildrank_d.c line 250 :syntax error
+wizards/moonstar/guildrank_d.c line 253 :Illegal LHS
+Wed Aug  4 11:31:15 2004 The white paladin Ihenoa [34m<Blessed>[0m(strong) (/wizards/moonstar/areas/asgroth/mobs/ihenoa#11547, 65) killed by Jin (170) 
+Wed Aug  4 11:39:37 2004 Rina, The nun of Asgroth(strong) (/wizards/moonstar/areas/asgroth/mobs/runa#11543, 65) killed by Jin (170) 
+Sun Sep 05 01:12:17 2004 The white paladin Ihenoa [34m<Blessed>[0m(strong) (/wizards/moonstar/areas/asgroth/mobs/ihenoa#24382, 65) killed by Jin (180) 
+Sun Sep 05 01:16:53 2004 Rina, The nun of Asgroth(strong) (/wizards/moonstar/areas/asgroth/mobs/runa#24377, 65) killed by Jin (180) 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 72: casting a value to its own type: int 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 125: casting a value to its own type: int 
+Sun Sep 05 18:27:48 2004 Rina, The nun of Asgroth(strong) (/wizards/moonstar/areas/asgroth/mobs/runa#14071, 65) killed by Reaper (349) 
+Sun Sep 05 18:35:20 2004 Drazil's bodyguard is standing here(strong) (/wizards/moonstar/areas/forest/monsut/bguard#14894, 57) killed by Reaper (349) 
+Sun Sep 05 22:04:12 2004 Kaix Paria, The lord of city Asgroth(strong) (/wizards/moonstar/areas/asgroth/mobs/kaix#15437, 90) killed by Reaper (349) 
+Mon Sep 06 17:08:15 2004 Mohataki Akituro, The ancient samurai of 'Frazis'(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/akituro#16899, 61) killed by Reaper (349) 
+Mon Sep 06 17:24:22 2004 Nagidi Tokiro, The ancient samurai of 'Frazis'(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/tokiro#17293, 70) killed by Reaper (349) 
+Mon Sep 06 18:12:19 2004 Takiru Ikira, The leader of 'Frazis' samurai(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/ikira#17614, 80) killed by Reaper (349) 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 72: casting a value to its own type: int 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 125: casting a value to its own type: int 
+Thu Sep 09 14:51:20 2004 Channelor Eve is cursing here(strong) (/wizards/moonstar/areas/sewers/monsut/channelor#11639, 40) killed by Madk (109) 
+Thu Sep 09 15:04:52 2004 Channelors's husband Marx(strong) (/wizards/moonstar/areas/sewers/monsut/evilman#12056, 40) killed by Madk (109) 
+Fri Sep 10 19:10:35 2004 Dark shadow floats here(undead) (strong) (/wizards/moonstar/areas/wasteland/monsut/shadow#18135, 65) killed by Reaper (355) 
+Fri Sep 10 20:21:45 2004 Krazzt, the secret keeper of water(strong) (/wizards/moonstar/areas/wasteland/monsut/bluewizard#18883, 84) killed by Reaper (355) 
+Sat Sep 11 17:12:42 2004 Rina, The nun of Asgroth(strong) (/wizards/moonstar/areas/asgroth/mobs/runa#9422, 65) killed by Reaper (355) 
+Sat Sep 11 17:20:26 2004 Drazil's bodyguard is standing here(strong) (/wizards/moonstar/areas/forest/monsut/bguard#9838, 57) killed by Reaper (355) 
+Sat Sep 11 17:50:11 2004 Dark shadow floats here(undead) (strong) (/wizards/moonstar/areas/wasteland/monsut/shadow#10338, 65) killed by Reaper (355) 
+Sat Sep 11 18:11:27 2004 Krazzt, the secret keeper of water(strong) (/wizards/moonstar/areas/wasteland/monsut/bluewizard#10947, 87) killed by Reaper (355) 
+Sat Sep 11 19:45:13 2004 Mohataki Akituro, The ancient samurai of 'Frazis'(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/akituro#15163, 60) killed by Reaper (355) 
+Sat Sep 11 20:11:21 2004 Nagidi Tokiro, The ancient samurai of 'Frazis'(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/tokiro#15690, 70) killed by Reaper (355) 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 72: casting a value to its own type: int 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 125: casting a value to its own type: int 
+Thu Sep 16 06:26:38 2004 The white paladin Ihenoa [34m<Blessed>[0m(strong) (/wizards/moonstar/areas/asgroth/mobs/ihenoa#460, 65) killed by Reaper (357) 
+Thu Sep 16 06:26:38 2004 Rina, The nun of Asgroth(strong) (/wizards/moonstar/areas/asgroth/mobs/runa#455, 65) killed by Reaper (357) 
+Thu Sep 16 06:35:12 2004 Drazil's bodyguard is standing here(strong) (/wizards/moonstar/areas/forest/monsut/bguard#851, 57) killed by Reaper (357) 
+Thu Sep 16 08:14:48 2004 Kaix Paria, The lord of city Asgroth(strong) (/wizards/moonstar/areas/asgroth/mobs/kaix#960, 95) killed by Reaper (357) 
+wizards/moonstar/sk.c line 61: syntax error
+wizards/moonstar/sk.c line 66: Illegal LHS
+wizards/moonstar/sk.c line 66: syntax error
+wizards/moonstar/sk.c line 68: Illegal LHS
+wizards/moonstar/sk.c line 71: Illegal LHS
+wizards/moonstar/sk.c line 71: Illegal LHS
+wizards/moonstar/sk.c line 61: syntax error
+wizards/moonstar/sk.c line 66: Illegal LHS
+wizards/moonstar/sk.c line 66: syntax error
+wizards/moonstar/sk.c line 68: Illegal LHS
+wizards/moonstar/sk.c line 71: Illegal LHS
+wizards/moonstar/sk.c line 71: Illegal LHS
+wizards/moonstar/wepa.c line 33: Variable str not declared !
+wizards/moonstar/wepa.c line 33: Variable ob not declared !
+Sat Sep 18 19:59:50 2004 The brownie healer Anita(strong) (/wizards/moonstar/areas/brownie/monsters/browniehealer#27638, 40) killed by Reaper (358) 
+Sat Sep 18 20:10:09 2004 The legendary brownie fighter Isak(strong) (/wizards/moonstar/areas/brownie/monsters/isak#28139, 40) killed by Glyco (98) 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 72: casting a value to its own type: int 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 125: casting a value to its own type: int 
+Mon Sep 20 09:53:26 2004 The legendary brownie fighter Isak(strong) (/wizards/moonstar/areas/brownie/monsters/isak#3384, 40) killed by Aleksi (162) 
+Mon Sep 20 09:58:52 2004 The brownie healer Anita(strong) (/wizards/moonstar/areas/brownie/monsters/browniehealer#3514, 40) killed by Aleksi (162) 
+Thu Sep 23 15:42:11 2004 An old sorcerer is standing here(strong) (/wizards/moonstar/areas/mf/npc/sorcerer#3305, 22) killed by Reaper (361) 
+Thu Sep 23 18:31:14 2004 [31mThe forgotten god of the world, Ra'Mos'Tot[0m (strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/r#27824, 110) killed by Reaper (361) 
+Thu Sep 23 21:10:39 2004 The white paladin Ihenoa [34m<Blessed>[0m(strong) (/wizards/moonstar/areas/asgroth/mobs/ihenoa#45590, 65) killed by Reaper (361) 
+Thu Sep 23 21:10:39 2004 Rina, The nun of Asgroth(strong) (/wizards/moonstar/areas/asgroth/mobs/runa#45585, 65) killed by Reaper (361) 
+Thu Sep 23 21:12:21 2004 Drazil's bodyguard is standing here(strong) (/wizards/moonstar/areas/forest/monsut/bguard#45667, 57) killed by Reaper (361) 
+Fri Sep 24 16:09:51 2004 The legendary brownie fighter Isak(strong) (/wizards/moonstar/areas/brownie/monsters/isak#42395, 40) killed by Elric (139) 
+Fri Sep 24 16:11:41 2004 The leader of brownies(strong) (/wizards/moonstar/areas/brownie/monsters/brownieleader#42892, 37) killed by Elric (139) 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 72: casting a value to its own type: int 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 125: casting a value to its own type: int 
+Fri Sep 24 18:17:55 2004 Channelor Eve is cursing here(strong) (/wizards/moonstar/areas/sewers/monsut/channelor#62595, 40) killed by Madk (123) 
+Fri Sep 24 18:24:38 2004 Channelors's husband Marx(strong) (/wizards/moonstar/areas/sewers/monsut/evilman#64410, 40) killed by Madk (123) 
+Sun Sep 26 16:04:04 2004 The legendary brownie fighter Isak(strong) (/wizards/moonstar/areas/brownie/monsters/isak#45733, 40) killed by Reaper (79) 
+Sun Sep 26 19:52:34 2004 Channelor Eve is cursing here(strong) (/wizards/moonstar/areas/sewers/monsut/channelor#63308, 40) killed by Madk (123) 
+Sun Sep 26 19:57:13 2004 Channelors's husband Marx(strong) (/wizards/moonstar/areas/sewers/monsut/evilman#64706, 40) killed by Madk (123) 
+Mon Sep 27 12:24:31 2004 The legendary brownie fighter Isak(strong) (/wizards/moonstar/areas/brownie/monsters/isak#18335, 40) killed by Golthar (146) 
+wizards/moonstar/shovel.c line 32: Variable More not declared !
+wizards/moonstar/shovel.c line 32: syntax error
+wizards/moonstar/shovel.c line 36: Too few arguments to write
+wizards/moonstar/shovel.c line 39: Too few arguments to write
+wizards/moonstar/shovel.c line 40: syntax error
+wizards/moonstar/shovel.c line 42: Illegal LHS
+wizards/moonstar/shovel.c line 32: Variable More not declared !
+wizards/moonstar/shovel.c line 32: syntax error
+wizards/moonstar/shovel.c line 36: Too few arguments to write
+wizards/moonstar/shovel.c line 39: Too few arguments to write
+wizards/moonstar/shovel.c line 40: syntax error
+wizards/moonstar/shovel.c line 42: Illegal LHS
+wizards/moonstar/areas/valley/virtual_map.c line 1: syntax error
+wizards/moonstar/areas/valley/oldentrance.c line 6: syntax error
+wizards/moonstar/areas/valley/oldentrance.c line 7: syntax error
+wizards/moonstar/test/bless_shadow.c line 36: syntax error
+wizards/moonstar/test/bless_shadow.c line 39: Variable hpbless_tft not declared !
+wizards/moonstar/test/bless_shadow.c line 40: Variable hpbless_tft not declared !
+wizards/moonstar/test/bless_shadow.c line 41: Variable hpbless_tft not declared !
+wizards/moonstar/test/bless_shadow.c line 42: Variable hpbless_tft not declared !
+wizards/moonstar/cmds/_event_moonstar_bless.c line 17: Illegal character (hex 5c) '\'
+wizards/moonstar/cmds/_event_moonstar_bless.c line 17: syntax error
+wizards/moonstar/cmds/_event_moonstar_bless.c line 17: Newline in string
+wizards/moonstar/cmds/_event_moonstar_bless.c line 18: Too few arguments to clone_object
+wizards/moonstar/cmds/_event_moonstar_bless.c line 18: Illegal LHS
+wizards/moonstar/cmds/_event_moonstar_bless.c line 18: syntax error
+wizards/moonstar/cmds/_event_moonstar_bless.c line 15: syntax error
+wizards/moonstar/cmds/_event_moonstar_bless.c line 15: Illegal character (hex 5c) '\'
+wizards/moonstar/cmds/_event_moonstar_bless.c line 15: Newline in string
+wizards/moonstar/cmds/_event_moonstar_bless.c line 17: Too few arguments to clone_object
+wizards/moonstar/cmds/_event_moonstar_bless.c line 17: Illegal LHS
+wizards/moonstar/cmds/_event_moonstar_bless.c line 17: syntax error
+wizards/moonstar/armour.c line 64: syntax error
+Tue Sep 28 11:10:34 2004 The legendary brownie fighter Isak(strong) (/wizards/moonstar/areas/brownie/monsters/isak#12262, 40) killed by Exslayer (108) 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 73: casting a value to its own type: int 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 126: casting a value to its own type: int 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 73: casting a value to its own type: int 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 126: casting a value to its own type: int 
+Thu Sep 30 10:13:38 2004 Channelor Eve is cursing here(strong) (/wizards/moonstar/areas/sewers/monsut/channelor#16427, 40) killed by Madk (130) 
+Thu Sep 30 10:23:24 2004 Channelors's husband Marx(strong) (/wizards/moonstar/areas/sewers/monsut/evilman#17192, 40) killed by Madk (130) 
+Thu Sep 30 10:35:22 2004 The brownie healer Anita(strong) (/wizards/moonstar/areas/brownie/monsters/browniehealer#18570, 40) killed by Yodin (114) 
+Thu Sep 30 10:37:48 2004 The legendary brownie fighter Isak(strong) (/wizards/moonstar/areas/brownie/monsters/isak#19167, 40) killed by Yodin (114) 
+wizards/moonstar/shovel.c line 46: syntax error
+wizards/moonstar/shovel.c line 46: syntax error
+wizards/moonstar/areas/asgroth/other/blackjack.c line 73: casting a value to its own type: int 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 126: casting a value to its own type: int 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 73: casting a value to its own type: int 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 126: casting a value to its own type: int 
+wizards/moonstar/sky_strike.c line 143: Variable RED_f not declared !
+wizards/moonstar/sky_strike.c line 145: Variable nreak not declared !
+wizards/moonstar/claws_storm.c line 30: Variable target not declared !
+wizards/moonstar/claws_storm.c line 31: Variable ob not declared !
+wizards/moonstar/claws_storm.c line 30: Variable livingtgt not declared !
+wizards/moonstar/claws_storm.c line 30: syntax error
+wizards/moonstar/claws_storm.c line 34: Variable tp not declared !
+wizards/moonstar/claws_storm.c line 34: Variable tp not declared !
+wizards/moonstar/claws_storm.c line 34: Variable tp not declared !
+wizards/moonstar/claws_storm.c line 34: Variable tp not declared !
+wizards/moonstar/sky_strike.c line 143: Variable RED_f not declared !
+wizards/moonstar/sky_strike.c line 145: Variable nreak not declared !
+wizards/moonstar/claws_storm.c line 30: Variable livingtgt not declared !
+wizards/moonstar/claws_storm.c line 30: syntax error
+wizards/moonstar/claws_storm.c line 34: Variable tp not declared !
+wizards/moonstar/claws_storm.c line 34: Variable tp not declared !
+wizards/moonstar/claws_storm.c line 34: Variable tp not declared !
+wizards/moonstar/claws_storm.c line 34: Variable tp not declared !
+wizards/moonstar/meditate_ob.c line 14: function not defined by inheritance as specified
+wizards/moonstar/meditate_ob.c line 6: syntax error
+wizards/moonstar/meditate_ob.c line 19: syntax error
+wizards/moonstar/meditate_ob.c line 44: function not defined by inheritance as specified
+wizards/moonstar/areas/asgroth/other/blackjack.c line 73: casting a value to its own type: int 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 126: casting a value to its own type: int 
+Tue Oct 05 21:54:28 2004 The brownie healer Anita(strong) (/wizards/moonstar/areas/brownie/monsters/browniehealer#73322, 40) killed by Exslayer (126) 
+Tue Oct 05 22:12:04 2004 The leader of brownies(strong) (/wizards/moonstar/areas/brownie/monsters/brownieleader#63926, 37) killed by Exslayer (126) 
+Tue Oct 05 22:19:28 2004 Mohataki Akituro, The ancient samurai of 'Frazis'(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/akituro#75312, 55) killed by Reaper (126) 
+Wed Oct 06 01:55:24 2004 Channelor Eve is cursing here(strong) (/wizards/moonstar/areas/sewers/monsut/channelor#89979, 40) killed by Reaper (126) 
+Wed Oct 06 21:08:56 2004 Channelor Eve is cursing here(strong) (/wizards/moonstar/areas/sewers/monsut/channelor#59280, 40) killed by Exslayer (126) 
+Wed Oct 06 21:13:30 2004 Channelors's husband Marx(strong) (/wizards/moonstar/areas/sewers/monsut/evilman#60029, 40) killed by Exslayer (126) 
+wizards/moonstar/staff.c line 67: Variable str not declared !
+wizards/moonstar/staff.c line 67: Undefined function 'banish'
+wizards/moonstar/staff.c line 67: syntax error
+wizards/moonstar/staff.c line 70: Return type not matching: got int , expected void 
+wizards/moonstar/staff.c line 72: syntax error
+Sun Oct 10 19:57:59 2004 Channelor Eve is cursing here(strong) (/wizards/moonstar/areas/sewers/monsut/channelor#46557, 40) killed by Gravius (143) 
+Sun Oct 10 20:02:29 2004 Channelors's husband Marx(strong) (/wizards/moonstar/areas/sewers/monsut/evilman#47193, 40) killed by Gravius (143) 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 73: casting a value to its own type: int 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 126: casting a value to its own type: int 
+Sat Oct 16 17:14:33 2004 Channelor Eve is cursing here(strong) (/wizards/moonstar/areas/sewers/monsut/channelor#24418, 40) killed by Exslayer (133) 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 73: casting a value to its own type: int 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 126: casting a value to its own type: int 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 73: casting a value to its own type: int 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 126: casting a value to its own type: int 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 73: casting a value to its own type: int 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 126: casting a value to its own type: int 
+Fri Nov 19 19:01:38 2004 Mohataki Akituro, The ancient samurai of 'Frazis'(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/akituro#22587, 52) killed by Yodin (138) 
+Fri Nov 19 19:56:24 2004 Nagidi Tokiro, The ancient samurai of 'Frazis'(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/tokiro#23139, 70) killed by Golthar (218) 
+Fri Nov 19 21:02:44 2004 Takiru Ikira, The leader of 'Frazis' samurai(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/ikira#25016, 80) killed by Yodin (138) 
+Tue Nov 30 18:33:51 2004 The white paladin Ihenoa [34m<Blessed>[0m(strong) (/wizards/moonstar/areas/asgroth/mobs/ihenoa#27094, 65) killed by Celes (216) 
+Tue Nov 30 18:37:09 2004 Rina, The nun of Asgroth(strong) (/wizards/moonstar/areas/asgroth/mobs/runa#27090, 65) killed by Golthar (239) 
+Tue Nov 30 19:05:12 2004 Mohataki Akituro, The ancient samurai of 'Frazis'(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/akituro#31486, 57) killed by Celes (216) 
+Tue Nov 30 19:28:09 2004 Nagidi Tokiro, The ancient samurai of 'Frazis'(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/tokiro#31817, 70) killed by Golthar (239) 
+Fri Dec 03 20:22:42 2004 Drazil's bodyguard is standing here(strong) (/wizards/moonstar/areas/forest/monsut/bguard#22272, 57) killed by Celes (216) 
+Sat Dec 04 14:51:06 2004 Mohataki Akituro, The ancient samurai of 'Frazis'(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/akituro#6881, 61) killed by Golthar (239) 
+Sat Dec 04 16:30:29 2004 Nagidi Tokiro, The ancient samurai of 'Frazis'(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/tokiro#9597, 70) killed by Golthar (239) 
+Sat Dec 04 16:44:05 2004 Takiru Ikira, The leader of 'Frazis' samurai(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/ikira#9823, 80) killed by Celes (216) 
+Sat Dec 04 21:40:57 2004 [31mThe forgotten god of the world, Ra'Mos'Tot[0m (strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/r#10123, 110) killed by Celes (216) 
+Thu Dec 09 01:29:55 2004 Channelor Eve is cursing here(strong) (/wizards/moonstar/areas/sewers/monsut/channelor#54835, 40) killed by Gravius (150) 
+Thu Dec 09 10:00:06 2004 Mohataki Akituro, The ancient samurai of 'Frazis'(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/akituro#10718, 58) killed by Golthar (241) 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 73: casting a value to its own type: int 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 126: casting a value to its own type: int 
+Sat Dec 11 11:07:59 2004 The white paladin Ihenoa [34m<Blessed>[0m(strong) (/wizards/moonstar/areas/asgroth/mobs/ihenoa#721, 65) killed by Celes (217) 
+Sat Dec 11 11:11:01 2004 Rina, The nun of Asgroth(strong) (/wizards/moonstar/areas/asgroth/mobs/runa#716, 65) killed by Celes (217) 
+Sat Dec 11 11:17:21 2004 Drazil's bodyguard is standing here(strong) (/wizards/moonstar/areas/forest/monsut/bguard#1778, 57) killed by Celes (217) 
+Sat Dec 11 16:11:53 2004 Dark shadow floats here(undead) (strong) (/wizards/moonstar/areas/wasteland/monsut/shadow#22639, 65) killed by Celes (217) 
+Sat Dec 11 16:29:33 2004 Krazzt, the secret keeper of water(strong) (/wizards/moonstar/areas/wasteland/monsut/bluewizard#23361, 81) killed by Celes (217) 
+Sat Dec 11 19:32:06 2004 The legendary brownie fighter Isak(strong) (/wizards/moonstar/areas/brownie/monsters/isak#41465, 40) killed by Celes (217) 
+Tue Dec 14 05:08:23 2004 Channelor Eve is cursing here(strong) (/wizards/moonstar/areas/sewers/monsut/channelor#57924, 40) killed by Jin (241) 
+Thu Dec 16 00:34:19 2004 Channelor Eve is cursing here(strong) (/wizards/moonstar/areas/sewers/monsut/channelor#30785, 53) killed by Madk (156) 
+Thu Dec 16 00:40:23 2004 Channelors's husband Marx(strong) (/wizards/moonstar/areas/sewers/monsut/evilman#45675, 40) killed by Madk (156) 
+Thu Dec 16 19:13:03 2004 Channelor Eve is cursing here(strong) (/wizards/moonstar/areas/sewers/monsut/channelor#39250, 40) killed by Madk (156) 
+Sat Dec 18 11:23:26 2004 Mohataki Akituro, The ancient samurai of 'Frazis'(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/akituro#5347, 54) killed by Golthar (243) 
+Sat Dec 18 12:13:57 2004 Drazil's bodyguard is standing here(strong) (/wizards/moonstar/areas/forest/monsut/bguard#6811, 57) killed by Golthar (243) 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 73: casting a value to its own type: int 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 126: casting a value to its own type: int 
+Sat Dec 18 12:33:59 2004 Rina, The nun of Asgroth(strong) (/wizards/moonstar/areas/asgroth/mobs/runa#6938, 65) killed by Golthar (243) 
+Sun Dec 19 11:53:19 2004 Dark shadow floats here(undead) (strong) (/wizards/moonstar/areas/wasteland/monsut/shadow#2478, 65) killed by Golthar (243) 
+Sun Dec 19 12:12:47 2004 Krazzt, the secret keeper of water(strong) (/wizards/moonstar/areas/wasteland/monsut/bluewizard#2837, 81) killed by Golthar (243) 
+Sun Dec 19 12:23:28 2004 Drazil's bodyguard is standing here(strong) (/wizards/moonstar/areas/forest/monsut/bguard#3265, 57) killed by Golthar (243) 
+Sun Dec 19 13:11:43 2004 Ranger Drazil, The secret keeper of fire(strong) (/wizards/moonstar/areas/forest/monsut/drazil#3284, 88) killed by Golthar (243) 
+Tue Dec 21 13:33:37 2004 Rina, The nun of Asgroth(strong) (/wizards/moonstar/areas/asgroth/mobs/runa#14895, 65) killed by Golthar (246) 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 73: casting a value to its own type: int 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 126: casting a value to its own type: int 
+Tue Dec 21 13:42:26 2004 Drazil's bodyguard is standing here(strong) (/wizards/moonstar/areas/forest/monsut/bguard#15334, 57) killed by Golthar (246) 
+Mon Dec 27 11:56:24 2004 Rina, The nun of Asgroth(strong) (/wizards/moonstar/areas/asgroth/mobs/runa#4434, 65) killed by Golthar (256) 
+Mon Dec 27 12:03:20 2004 Drazil's bodyguard is standing here(strong) (/wizards/moonstar/areas/forest/monsut/bguard#4846, 57) killed by Golthar (256) 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 73: casting a value to its own type: int 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 126: casting a value to its own type: int 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 73: casting a value to its own type: int 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 126: casting a value to its own type: int 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 73: casting a value to its own type: int 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 126: casting a value to its own type: int 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 73: casting a value to its own type: int 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 126: casting a value to its own type: int 
+Sat Jan 08 14:45:46 2005 Mohataki Akituro, The ancient samurai of 'Frazis'(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/akituro#12403, 56) killed by Golthar (256) 
+Sat Jan 08 15:14:34 2005 Nagidi Tokiro, The ancient samurai of 'Frazis'(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/tokiro#12704, 70) killed by Golthar (256) 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 73: casting a value to its own type: int 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 126: casting a value to its own type: int 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 73: casting a value to its own type: int 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 126: casting a value to its own type: int 
+Mon Jan 10 01:01:01 2005 The brownie healer Anita(strong) (/wizards/moonstar/areas/brownie/monsters/browniehealer#44645, 53) killed by Madk (158) 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 73: casting a value to its own type: int 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 126: casting a value to its own type: int 
+Mon Jan 10 17:15:00 2005 The brownie healer Anita(strong) (/wizards/moonstar/areas/brownie/monsters/browniehealer#11405, 40) killed by Oaycrin (144) 
+Mon Jan 10 17:19:58 2005 The legendary brownie fighter Isak(strong) (/wizards/moonstar/areas/brownie/monsters/isak#11300, 40) killed by Oaycrin (144) 
+Tue Jan 11 04:42:39 2005 An old sorcerer is standing here(strong) (/wizards/moonstar/areas/mf/npc/sorcerer#54473, 22) killed by Ntg (60) 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 73: casting a value to its own type: int 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 126: casting a value to its own type: int 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 73: casting a value to its own type: int 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 126: casting a value to its own type: int 
+Thu Jan 13 00:18:50 2005 The legendary brownie fighter Isak(strong) (/wizards/moonstar/areas/brownie/monsters/isak#9120, 40) killed by Ntg (130) 
+Thu Jan 13 00:30:20 2005 The brownie healer Anita(strong) (/wizards/moonstar/areas/brownie/monsters/browniehealer#23667, 40) killed by Ntg (130) 
+Thu Jan 13 10:34:39 2005 The legendary brownie fighter Isak(strong) (/wizards/moonstar/areas/brownie/monsters/isak#4313, 40) killed by Golthar (256) 
+Thu Jan 13 10:47:24 2005 The leader of brownies(strong) (/wizards/moonstar/areas/brownie/monsters/brownieleader#4853, 37) killed by Madk (155) 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 73: casting a value to its own type: int 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 126: casting a value to its own type: int 
+Fri Jan 14 06:33:10 2005 The legendary brownie fighter Isak(strong) (/wizards/moonstar/areas/brownie/monsters/isak#844, 40) killed by Madk (155) 
+Sun Jan 16 12:53:42 2005 Mohataki Akituro, The ancient samurai of 'Frazis'(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/akituro#4588, 54) killed by Celes (228) 
+Sun Jan 16 13:06:40 2005 Nagidi Tokiro, The ancient samurai of 'Frazis'(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/tokiro#5112, 70) killed by Celes (228) 
+Sun Jan 16 13:41:01 2005 Takiru Ikira, The leader of 'Frazis' samurai(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/ikira#5424, 80) killed by Golthar (256) 
+Mon Jan 24 17:31:02 2005 Mohataki Akituro, The ancient samurai of 'Frazis'(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/akituro#26772, 52) killed by Golthar (257) 
+Mon Jan 24 17:37:30 2005 Nagidi Tokiro, The ancient samurai of 'Frazis'(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/tokiro#27134, 70) killed by Golthar (257) 
+Mon Jan 24 17:56:15 2005 Takiru Ikira, The leader of 'Frazis' samurai(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/ikira#27514, 80) killed by Celes (228) 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 73: casting a value to its own type: int 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 126: casting a value to its own type: int 
+Mon Jan 24 22:01:42 2005 The leader of brownies(strong) (/wizards/moonstar/areas/brownie/monsters/brownieleader#43835, 37) killed by Kaappi (218) 
+Mon Jan 24 22:08:04 2005 The legendary brownie fighter Isak(strong) (/wizards/moonstar/areas/brownie/monsters/isak#44510, 40) killed by Kaappi (218) 
+Tue Jan 25 07:58:19 2005 The leader of brownies(strong) (/wizards/moonstar/areas/brownie/monsters/brownieleader#3112, 37) killed by Ntg (175) 
+Tue Jan 25 08:12:12 2005 The legendary brownie fighter Isak(strong) (/wizards/moonstar/areas/brownie/monsters/isak#3761, 40) killed by Ntg (175) 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 73: casting a value to its own type: int 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 126: casting a value to its own type: int 
+Wed Jan 26 23:50:48 2005 The legendary brownie fighter Isak(strong) (/wizards/moonstar/areas/brownie/monsters/isak#40421, 40) killed by Ntg (175) 
+Thu Jan 27 11:18:42 2005 Rina, The nun of Asgroth(strong) (/wizards/moonstar/areas/asgroth/mobs/runa#8613, 65) killed by Golthar (259) 
+Thu Jan 27 11:26:00 2005 Drazil's bodyguard is standing here(strong) (/wizards/moonstar/areas/forest/monsut/bguard#8831, 57) killed by Golthar (259) 
+Tue Feb 01 23:30:55 2005 The legendary brownie fighter Isak(strong) (/wizards/moonstar/areas/brownie/monsters/isak#9461, 40) killed by Atw (136) 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 73: casting a value to its own type: int 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 126: casting a value to its own type: int 
+Tue Feb 08 13:10:50 2005 The legendary brownie fighter Isak(strong) (/wizards/moonstar/areas/brownie/monsters/isak#11315, 40) killed by Ntg (126) 
+Wed Feb 09 09:32:09 2005 The legendary brownie fighter Isak(strong) (/wizards/moonstar/areas/brownie/monsters/isak#4114, 40) killed by Madk (121) 
+Wed Feb 09 12:58:21 2005 Channelor Eve is cursing here(strong) (/wizards/moonstar/areas/sewers/monsut/channelor#9553, 40) killed by Kaappi (247) 
+Wed Feb 09 13:06:44 2005 Channelors's husband Marx(strong) (/wizards/moonstar/areas/sewers/monsut/evilman#9827, 40) killed by Kaappi (247) 
+Thu Feb 10 10:47:14 2005 Mohataki Akituro, The ancient samurai of 'Frazis'(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/akituro#4955, 54) killed by Kaappi (249) 
+Thu Feb 10 11:12:51 2005 Nagidi Tokiro, The ancient samurai of 'Frazis'(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/tokiro#5382, 70) killed by Kaappi (249) 
+Thu Feb 10 11:56:08 2005 Takiru Ikira, The leader of 'Frazis' samurai(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/ikira#5679, 80) killed by Kaappi (249) 
+Fri Feb 11 09:40:39 2005 Mohataki Akituro, The ancient samurai of 'Frazis'(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/akituro#3057, 57) killed by Kaappi (250) 
+Fri Feb 11 16:13:55 2005 Nagidi Tokiro, The ancient samurai of 'Frazis'(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/tokiro#11532, 70) killed by Ntg (109) 
+Fri Feb 11 16:33:57 2005 Takiru Ikira, The leader of 'Frazis' samurai(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/ikira#11850, 80) killed by Kaappi (265) 
+Fri Feb 11 21:34:44 2005 Dark shadow floats here(undead) (strong) (/wizards/moonstar/areas/wasteland/monsut/shadow#20586, 65) killed by Kaappi (265) 
+Fri Feb 11 21:43:30 2005 Drazil's bodyguard is standing here(strong) (/wizards/moonstar/areas/forest/monsut/bguard#21051, 57) killed by Kaappi (265) 
+Sat Feb 12 18:32:30 2005 Drazil's bodyguard is standing here(strong) (/wizards/moonstar/areas/forest/monsut/bguard#1716, 57) killed by Kaappi (265) 
+Sat Feb 12 19:42:54 2005 Dark shadow floats here(undead) (strong) (/wizards/moonstar/areas/wasteland/monsut/shadow#13620, 65) killed by Kaappi (265) 
+Sat Feb 12 20:06:56 2005 Krazzt, the secret keeper of water(strong) (/wizards/moonstar/areas/wasteland/monsut/bluewizard#13835, 86) killed by Kaappi (265) 
+Sun Feb 13 08:47:28 2005 Dark shadow floats here(undead) (strong) (/wizards/moonstar/areas/wasteland/monsut/shadow#1425, 65) killed by Kaappi (265) 
+Sun Feb 13 09:07:26 2005 Krazzt, the secret keeper of water(strong) (/wizards/moonstar/areas/wasteland/monsut/bluewizard#1672, 80) killed by Kaappi (265) 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 73: casting a value to its own type: int 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 126: casting a value to its own type: int 
+Sun Feb 13 14:22:27 2005 Drazil's bodyguard is standing here(strong) (/wizards/moonstar/areas/forest/monsut/bguard#10429, 57) killed by Kaappi (265) 
+Mon Feb 14 10:03:57 2005 Dark shadow floats here(undead) (strong) (/wizards/moonstar/areas/wasteland/monsut/shadow#1436, 65) killed by Kaappi (265) 
+Mon Feb 14 10:21:25 2005 Krazzt, the secret keeper of water(strong) (/wizards/moonstar/areas/wasteland/monsut/bluewizard#2692, 81) killed by Kaappi (265) 
+Mon Feb 14 11:10:46 2005 Rina, The nun of Asgroth(strong) (/wizards/moonstar/areas/asgroth/mobs/runa#2344, 65) killed by Kaappi (265) 
+Mon Feb 14 11:15:08 2005 The white paladin Ihenoa [34m<Blessed>[0m(strong) (/wizards/moonstar/areas/asgroth/mobs/ihenoa#2348, 65) killed by Kaappi (265) 
+Mon Feb 14 11:50:34 2005 Drazil's bodyguard is standing here(strong) (/wizards/moonstar/areas/forest/monsut/bguard#4241, 57) killed by Kaappi (265) 
+Tue Feb 15 08:22:07 2005 Rina, The nun of Asgroth(strong) (/wizards/moonstar/areas/asgroth/mobs/runa#665, 86) killed by Kaappi (265) 
+Tue Feb 15 08:28:29 2005 Drazil's bodyguard is standing here(strong) (/wizards/moonstar/areas/forest/monsut/bguard#1359, 57) killed by Kaappi (265) 
+Tue Feb 15 09:11:34 2005 Channelor Eve is cursing here(strong) (/wizards/moonstar/areas/sewers/monsut/channelor#2155, 40) killed by Kaappi (265) 
+Tue Feb 15 09:32:30 2005 Mohataki Akituro, The ancient samurai of 'Frazis'(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/akituro#2358, 54) killed by Kaappi (265) 
+Tue Feb 15 09:52:55 2005 Nagidi Tokiro, The ancient samurai of 'Frazis'(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/tokiro#2984, 70) killed by Golthar (277) 
+Tue Feb 15 10:08:11 2005 Takiru Ikira, The leader of 'Frazis' samurai(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/ikira#3290, 80) killed by Golthar (277) 
+Tue Feb 15 12:41:57 2005 [31mThe forgotten god of the world, Ra'Mos'Tot[0m (strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/r#3665, 110) killed by Golthar (277) 
+Wed Feb 16 08:55:20 2005 Mohataki Akituro, The ancient samurai of 'Frazis'(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/akituro#1619, 58) killed by Kaappi (265) 
+Wed Feb 16 09:08:56 2005 Nagidi Tokiro, The ancient samurai of 'Frazis'(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/tokiro#1869, 70) killed by Golthar (277) 
+Wed Feb 16 09:20:04 2005 Takiru Ikira, The leader of 'Frazis' samurai(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/ikira#2103, 80) killed by Golthar (277) 
+Wed Feb 16 21:44:53 2005 Channelor Eve is cursing here(strong) (/wizards/moonstar/areas/sewers/monsut/channelor#23580, 40) killed by Kaappi (266) 
+Thu Feb 17 10:23:59 2005 Drazil's bodyguard is standing here(strong) (/wizards/moonstar/areas/forest/monsut/bguard#3203, 57) killed by Golthar (278) 
+Thu Feb 17 11:51:52 2005 Ranger Drazil, The secret keeper of fire(strong) (/wizards/moonstar/areas/forest/monsut/drazil#3350, 91) killed by Golthar (278) 
+Fri Feb 18 08:46:25 2005 Mohataki Akituro, The ancient samurai of 'Frazis'(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/akituro#1799, 60) killed by Golthar (278) 
+Fri Feb 18 09:06:51 2005 Nagidi Tokiro, The ancient samurai of 'Frazis'(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/tokiro#2017, 70) killed by Golthar (278) 
+Fri Feb 18 09:18:26 2005 Takiru Ikira, The leader of 'Frazis' samurai(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/ikira#2198, 80) killed by Golthar (278) 
+Fri Feb 18 10:52:12 2005 Kaix Paria, The lord of city Asgroth(strong) (/wizards/moonstar/areas/asgroth/mobs/kaix#2797, 90) killed by Golthar (278) 
+Fri Feb 18 19:29:53 2005 The legendary brownie fighter Isak(strong) (/wizards/moonstar/areas/brownie/monsters/isak#21661, 40) killed by Ultramar (83) 
+Sat Feb 19 18:54:42 2005 The legendary brownie fighter Isak(strong) (/wizards/moonstar/areas/brownie/monsters/isak#16730, 40) killed by Ntg (137) 
+Mon Feb 21 21:19:27 2005 Drazil's bodyguard is standing here(strong) (/wizards/moonstar/areas/forest/monsut/bguard#18776, 57) killed by Kaappi (267) 
+Wed Mar 02 11:13:41 2005 Rina, The nun of Asgroth(strong) (/wizards/moonstar/areas/asgroth/mobs/runa#2677, 65) killed by Kaappi (280) 
+Wed Mar 02 11:23:38 2005 Drazil's bodyguard is standing here(strong) (/wizards/moonstar/areas/forest/monsut/bguard#6589, 57) killed by Kaappi (280) 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 73: casting a value to its own type: int 
+wizards/moonstar/areas/asgroth/other/blackjack.c line 126: casting a value to its own type: int 
+Thu Mar 03 10:53:49 2005 Drazil's bodyguard is standing here(strong) (/wizards/moonstar/areas/forest/monsut/bguard#2893, 57) killed by Kaappi (280) 
+Thu Mar 03 11:03:42 2005 Rina, The nun of Asgroth(strong) (/wizards/moonstar/areas/asgroth/mobs/runa#3181, 65) killed by Kaappi (280) 
+Sat Mar 05 01:06:46 2005 Rina, The nun of Asgroth(strong) (/wizards/moonstar/areas/asgroth/mobs/runa#10694, 65) killed by Kaappi (280) 
+Sat Mar 05 01:12:08 2005 Drazil's bodyguard is standing here(strong) (/wizards/moonstar/areas/forest/monsut/bguard#13801, 57) killed by Kaappi (280) 
+Sat Apr 09 05:22:45 2005 The leader of brownies(strong) (/wizards/moonstar/areas/brownie/monsters/brownieleader#6520, 37) killed by Ntg (179) 
+Sat Apr 09 05:25:45 2005 The legendary brownie fighter Isak(strong) (/wizards/moonstar/areas/brownie/monsters/isak#6662, 40) killed by Ntg (179) 
+wizards/moonstar/test/testmayor.c line 32: Variable str not declared !
+wizards/moonstar/test/testmayor.c line 32: syntax error
+wizards/moonstar/test/testmayor.c line 40: syntax error
+wizards/moonstar/test/testmayor.c line 32: Variable str not declared !
+wizards/moonstar/test/testmayor.c line 32: syntax error
+wizards/moonstar/test/testmayor.c line 40: syntax error
+wizards/moonstar/test/testmayor.c line 32: Variable str not declared !
+wizards/moonstar/test/testmayor.c line 32: syntax error
+wizards/moonstar/test/testmayor.c line 40: syntax error
+wizards/moonstar/test/testmayor.c line 32: Variable str not declared !
+wizards/moonstar/test/testmayor.c line 32: syntax error
+wizards/moonstar/test/testmayor.c line 40: syntax error
+wizards/moonstar/test/testmayor.c line 32: Variable str not declared !
+wizards/moonstar/test/testmayor.c line 32: syntax error
+wizards/moonstar/test/testmayor.c line 40: syntax error
+wizards/moonstar/muut/potikka.c line 29: syntax error
+wizards/moonstar/muut/potikka.c line 36: syntax error
+wizards/moonstar/muut/potikka.c line 29: syntax error
+wizards/moonstar/muut/potikka.c line 36: syntax error
+wizards/moonstar/muut/potikka.c line 29: syntax error
+wizards/moonstar/muut/potikka.c line 36: syntax error

@@ -1,0 +1,533 @@
+wizards/greed/eval_file.c line 2 :Undefined function more
+wizards/greed/eval_file.c line 2 :Undefined function more
+wizards/greed/eval_file.c line 2 :Undefined function master
+wizards/greed/workroom2.c line 23 :syntax error
+wizards/greed/workroom2.c line 29 :Illegal LHS
+wizards/greed/workroom2.c line 29 :syntax error
+wizards/greed/eval_file.c line 2 :Undefined function wizardp
+wizards/greed/eval_file.c line 2 :Undefined function functions
+wizards/greed/sauna.c line 31 :Variable door_number not declared !
+wizards/greed/sauna.c line 32 :Variable door_number not declared !
+wizards/greed/sauna.c line 33 :Variable door_number not declared !
+wizards/greed/sauna.c line 34 :Variable door_number not declared !
+wizards/greed/sauna.c line 35 :Variable door_number not declared !
+wizards/greed/sauna.c line 36 :Variable door_number not declared !
+wizards/greed/saunankiuas.c line 39 :syntax error
+wizards/greed/saunankiuas.c line 43 :syntax error
+wizards/greed/saunankiuas.c line 104 :Newline in string
+wizards/greed/saunankiuas.c line 105 :syntax error
+wizards/greed/saunankiuas.c line 43 :syntax error
+wizards/greed/saunankiuas.c line 56 :syntax error
+wizards/greed/saunankiuas.c line 56 :syntax error
+wizards/greed/saunankiuas.c line 56 :syntax error
+wizards/greed/saunankiuas.c line 66 :syntax error
+wizards/greed/saunankiuas.c line 113 :Missing type for argument
+wizards/greed/eval_file.c line 2 :Undefined function _object_cpu
+wizards/greed/eval_file.c line 2 :Undefined function people
+wizards/greed/eval_file.c line 2 :Undefined function functions
+wizards/greed/eval_file.c line 2 :Undefined function tell
+wizards/greed/eval_file.c line 2 :Bad argument 1 type to efun tell_object()
+wizards/greed/eval_file.c line 2 :Undefined function tell_objects
+wizards/greed/eval_file.c line 2 :Undefined function identify
+wizards/greed/events/snowball/snowball.c line 8 :syntax error
+wizards/greed/events/snowball/snowball.c line 21 :Undefined function tell
+wizards/greed/events/snowball/master.c line 27 :syntax error
+wizards/greed/events/snowball/master.c line 30 :Undefined function undefinedp
+wizards/greed/events/snowball/master.c line 38 :syntax error
+wizards/greed/events/snowball/master.c line 39 :Variable str not declared !
+wizards/greed/events/snowball/master.c line 39 :Variable str not declared !
+wizards/greed/events/snowball/master.c line 39 :Illegal LHS
+wizards/greed/events/snowball/master.c line 39 :syntax error
+wizards/greed/events/snowball/master.c line 30 :Undefined function undefinedp
+wizards/greed/events/snowball/master.c line 38 :syntax error
+wizards/greed/events/snowball/master.c line 39 :Illegal LHS
+wizards/greed/events/snowball/master.c line 39 :syntax error
+wizards/greed/events/snowball/master.c line 45 :Illegal LHS
+wizards/greed/events/snowball/master.c line 47 :Illegal LHS
+wizards/greed/events/snowball/master.c line 30 :Undefined function undefinedp
+wizards/greed/events/snowball/master.c line 38 :syntax error
+wizards/greed/events/snowball/master.c line 39 :Illegal LHS
+wizards/greed/events/snowball/master.c line 39 :syntax error
+wizards/greed/events/snowball/master.c line 45 :Illegal LHS
+wizards/greed/events/snowball/master.c line 47 :Illegal LHS
+wizards/greed/eval_file.c line 2 :Variable foo not declared !
+wizards/greed/eval_file.c line 2 :syntax error
+wizards/greed/eval_file.c line 2 :Variable foo not declared !
+wizards/greed/eval_file.c line 2 :syntax error
+wizards/greed/eval_file.c line 2 :Variable foo not declared !
+wizards/greed/eval_file.c line 2 :syntax error
+wizards/greed/eval_file.c line 2 :syntax error
+wizards/greed/eval_file.c line 2 :syntax error
+wizards/greed/eval_file.c line 2 :syntax error
+wizards/greed/eval_file.c line 2 :syntax error
+wizards/greed/eval_file.c line 2 :syntax error
+wizards/greed/eval_file.c line 2 :syntax error
+wizards/greed/eval_file.c line 2 :syntax error
+wizards/greed/events/snowball/master.c line 30 :Undefined function undefinedp
+wizards/greed/events/snowball/master.c line 38 :syntax error
+wizards/greed/events/snowball/master.c line 39 :Illegal LHS
+wizards/greed/events/snowball/master.c line 39 :syntax error
+wizards/greed/events/snowball/master.c line 45 :Illegal LHS
+wizards/greed/events/snowball/master.c line 47 :Illegal LHS
+wizards/greed/events/snowball/master.c line 30 :Undefined function undefinedp
+wizards/greed/events/snowball/master.c line 38 :syntax error
+wizards/greed/events/snowball/master.c line 39 :Illegal LHS
+wizards/greed/events/snowball/master.c line 39 :syntax error
+wizards/greed/events/snowball/master.c line 45 :Illegal LHS
+wizards/greed/events/snowball/master.c line 47 :Illegal LHS
+wizards/greed/events/snowball/master.c line 1 :Cannot #include /wizards/greed/simuls.h
+wizards/greed/events/snowball/master.c line 31 :Undefined function undefinedp
+wizards/greed/events/snowball/master.c line 39 :syntax error
+wizards/greed/events/snowball/master.c line 40 :Illegal LHS
+wizards/greed/events/snowball/master.c line 40 :syntax error
+wizards/greed/events/snowball/master.c line 46 :Illegal LHS
+wizards/greed/events/snowball/master.c line 1 :Cannot #include /wizards/greed/simuls.h
+wizards/greed/events/snowball/master.c line 31 :Undefined function undefinedp
+wizards/greed/events/snowball/master.c line 39 :syntax error
+wizards/greed/events/snowball/master.c line 40 :Illegal LHS
+wizards/greed/events/snowball/master.c line 40 :syntax error
+wizards/greed/events/snowball/master.c line 46 :Illegal LHS
+wizards/greed/events/snowball/master.c line 1 :Cannot #include /wizards/greed/simuls.h
+wizards/greed/events/snowball/master.c line 31 :Undefined function undefinedp
+wizards/greed/events/snowball/master.c line 39 :syntax error
+wizards/greed/events/snowball/master.c line 40 :Illegal LHS
+wizards/greed/events/snowball/master.c line 40 :syntax error
+wizards/greed/events/snowball/master.c line 46 :Illegal LHS
+wizards/greed/events/snowball/master.c line 1 :Cannot #include /wizards/greed/simuls.h
+wizards/greed/events/snowball/master.c line 31 :Undefined function undefinedp
+wizards/greed/events/snowball/master.c line 39 :syntax error
+wizards/greed/events/snowball/master.c line 40 :Illegal LHS
+wizards/greed/events/snowball/master.c line 40 :syntax error
+wizards/greed/events/snowball/master.c line 46 :Illegal LHS
+wizards/greed/events/snowball/master.c line 1 :Cannot #include /wizards/greed/simuls.h
+wizards/greed/events/snowball/master.c line 31 :Undefined function undefinedp
+wizards/greed/events/snowball/master.c line 39 :syntax error
+wizards/greed/events/snowball/master.c line 40 :Illegal LHS
+wizards/greed/events/snowball/master.c line 40 :syntax error
+wizards/greed/events/snowball/master.c line 46 :Illegal LHS
+wizards/greed/events/snowball/master.c line 1 :Cannot #include /wizards/greed/simuls.h
+wizards/greed/events/snowball/master.c line 31 :Undefined function undefinedp
+wizards/greed/events/snowball/master.c line 39 :syntax error
+wizards/greed/events/snowball/master.c line 40 :Illegal LHS
+wizards/greed/events/snowball/master.c line 40 :syntax error
+wizards/greed/events/snowball/master.c line 47 :Illegal LHS
+wizards/greed/events/snowball/master.c line 1 :Cannot #include /wizards/greed/simuls.h
+wizards/greed/events/snowball/master.c line 31 :Undefined function undefinedp
+wizards/greed/events/snowball/master.c line 39 :syntax error
+wizards/greed/events/snowball/master.c line 40 :Illegal LHS
+wizards/greed/events/snowball/master.c line 40 :syntax error
+wizards/greed/events/snowball/master.c line 47 :Illegal LHS
+wizards/greed/events/snowball/master.c line 1 :Cannot #include /wizards/greed/simuls.h
+wizards/greed/events/snowball/master.c line 31 :Undefined function undefinedp
+wizards/greed/events/snowball/master.c line 39 :syntax error
+wizards/greed/events/snowball/master.c line 40 :Illegal LHS
+wizards/greed/events/snowball/master.c line 40 :syntax error
+wizards/greed/events/snowball/master.c line 47 :Illegal LHS
+wizards/greed/events/snowball/master.c line 1 :Cannot #include /wizards/greed/simuls.h
+wizards/greed/events/snowball/master.c line 31 :Undefined function undefinedp
+wizards/greed/events/snowball/master.c line 39 :syntax error
+wizards/greed/events/snowball/master.c line 40 :Illegal LHS
+wizards/greed/events/snowball/master.c line 40 :syntax error
+wizards/greed/events/snowball/master.c line 47 :Illegal LHS
+wizards/greed/events/snowball/master.c line 30 :Undefined function undefinedp
+wizards/greed/events/snowball/master.c line 38 :syntax error
+wizards/greed/events/snowball/master.c line 39 :Illegal LHS
+wizards/greed/events/snowball/master.c line 39 :syntax error
+wizards/greed/events/snowball/master.c line 46 :Illegal LHS
+wizards/greed/events/snowball/master.c line 47 :Illegal LHS
+wizards/greed/events/snowball/master.c line 38 :syntax error
+wizards/greed/events/snowball/master.c line 39 :Illegal LHS
+wizards/greed/events/snowball/master.c line 39 :syntax error
+wizards/greed/events/snowball/master.c line 46 :Illegal LHS
+wizards/greed/events/snowball/master.c line 47 :Illegal LHS
+wizards/greed/events/snowball/master.c line 48 :Illegal LHS
+wizards/greed/events/snowball/master.c line 38 :syntax error
+wizards/greed/events/snowball/master.c line 39 :Illegal LHS
+wizards/greed/events/snowball/master.c line 39 :syntax error
+wizards/greed/events/snowball/master.c line 46 :Illegal LHS
+wizards/greed/events/snowball/master.c line 47 :Illegal LHS
+wizards/greed/events/snowball/master.c line 49 :Illegal LHS
+wizards/greed/events/snowball/master.c line 37 :syntax error
+wizards/greed/events/snowball/master.c line 37 :syntax error
+wizards/greed/events/snowball/master.c line 40 :Variable keys not declared !
+wizards/greed/events/snowball/master.c line 41 :Variable i not declared !
+wizards/greed/events/snowball/master.c line 41 :Variable i not declared !
+wizards/greed/events/snowball/master.c line 41 :Variable keys not declared !
+wizards/greed/events/snowball/master.c line 41 :Variable i not declared !
+wizards/greed/events/snowball/master.c line 37 :syntax error
+wizards/greed/events/snowball/master.c line 40 :Variable keys not declared !
+wizards/greed/events/snowball/master.c line 41 :Variable keys not declared !
+wizards/greed/events/snowball/master.c line 42 :Variable i not declared !
+wizards/greed/events/snowball/master.c line 42 :Variable i not declared !
+wizards/greed/events/snowball/master.c line 42 :Variable keys not declared !
+wizards/greed/events/snowball/master.c line 37 :syntax error
+wizards/greed/events/snowball/master.c line 40 :Variable keys not declared !
+wizards/greed/events/snowball/master.c line 41 :Variable keys not declared !
+wizards/greed/events/snowball/master.c line 42 :Variable i not declared !
+wizards/greed/events/snowball/master.c line 42 :Variable i not declared !
+wizards/greed/events/snowball/master.c line 42 :Variable keys not declared !
+wizards/greed/events/snowball/master.c line 37 :syntax error
+wizards/greed/events/snowball/master.c line 38 :Variable keys not declared !
+wizards/greed/events/snowball/master.c line 39 :syntax error
+wizards/greed/events/snowball/master.c line 41 :Variable keys not declared !
+wizards/greed/events/snowball/master.c line 42 :Variable keys not declared !
+wizards/greed/events/snowball/master.c line 43 :Variable i not declared !
+wizards/greed/events/snowball/master.c line 37 :syntax error
+wizards/greed/events/snowball/master.c line 38 :Variable keys not declared !
+wizards/greed/events/snowball/master.c line 39 :syntax error
+wizards/greed/events/snowball/master.c line 41 :Variable keys not declared !
+wizards/greed/events/snowball/master.c line 42 :Variable keys not declared !
+wizards/greed/events/snowball/master.c line 43 :Variable i not declared !
+wizards/greed/events/snowball/master.c line 37 :syntax error
+wizards/greed/events/snowball/master.c line 37 :Illegal LHS
+wizards/greed/events/snowball/master.c line 38 :Variable keys not declared !
+wizards/greed/events/snowball/master.c line 39 :syntax error
+wizards/greed/events/snowball/master.c line 41 :Variable keys not declared !
+wizards/greed/events/snowball/master.c line 42 :Variable keys not declared !
+wizards/greed/events/snowball/master.c line 36 :syntax error
+wizards/greed/events/snowball/master.c line 36 :syntax error
+wizards/greed/areas/spider_caves/cave3.c line 6 :syntax error
+wizards/greed/areas/spider_caves/cave3.c line 6 :syntax error
+wizards/greed/areas/spider_caves/cave3.c line 6 :syntax error
+wizards/greed/areas/spider_caves/cave3.c line 18 :Variable i not declared !
+wizards/greed/areas/spider_caves/cave3.c line 19 :Variable i not declared !
+wizards/greed/areas/spider_caves/cave3.c line 21 :Variable ret not declared !
+wizards/greed/areas/spider_caves/cave3.c line 21 :Variable MOBPATH not declared !
+wizards/greed/areas/spider_caves/cave3.c line 23 :Variable ret not declared !
+wizards/greed/areas/spider_caves/cave3.c line 23 :Variable MOBPATH not declared !
+wizards/greed/areas/spider_caves/cave3.c line 22 :Variable ret not declared !
+wizards/greed/areas/spider_caves/cave3.c line 24 :Variable ret not declared !
+wizards/greed/areas/spider_caves/cave3.c line 25 :Variable ret not declared !
+wizards/greed/areas/spider_caves/cave3.c line 26 :Variable ret not declared !
+wizards/greed/areas/spider_caves/cave3.c line 27 :Variable ret not declared !
+wizards/greed/areas/spider_caves/cave3.c line 22 :Variable ret not declared !
+wizards/greed/areas/spider_caves/cave3.c line 24 :Variable ret not declared !
+wizards/greed/areas/spider_caves/cave3.c line 25 :Variable ret not declared !
+wizards/greed/areas/spider_caves/cave3.c line 26 :Variable ret not declared !
+wizards/greed/areas/spider_caves/cave3.c line 27 :Variable ret not declared !
+wizards/greed/areas/spider_caves/cave3.c line 10 :syntax error
+wizards/greed/areas/spider_caves/cave3.c line 12 :Variable ret not declared !
+wizards/greed/areas/spider_caves/cave3.c line 24 :Variable ret not declared !
+wizards/greed/areas/spider_caves/cave3.c line 26 :Variable ret not declared !
+wizards/greed/areas/spider_caves/cave3.c line 27 :Variable ret not declared !
+wizards/greed/areas/spider_caves/cave3.c line 28 :Variable ret not declared !
+wizards/greed/areas/spider_caves/cave3.c line 10 :syntax error
+wizards/greed/areas/spider_caves/cave3.c line 12 :Variable ret not declared !
+wizards/greed/areas/spider_caves/cave3.c line 24 :Variable ret not declared !
+wizards/greed/areas/spider_caves/cave3.c line 26 :Variable ret not declared !
+wizards/greed/areas/spider_caves/cave3.c line 27 :Variable ret not declared !
+wizards/greed/areas/spider_caves/cave3.c line 28 :Variable ret not declared !
+wizards/greed/areas/spider_caves/cave4.c line 21 :Variable ret not declared !
+wizards/greed/areas/spider_caves/cave4.c line 21 :Variable MOBPATH not declared !
+wizards/greed/areas/spider_caves/cave4.c line 23 :Variable ret not declared !
+wizards/greed/areas/spider_caves/cave4.c line 23 :Variable MOBPATH not declared !
+wizards/greed/areas/spider_caves/cave4.c line 24 :Variable ret not declared !
+wizards/greed/areas/spider_caves/cave4.c line 25 :Variable ret not declared !
+wizards/greed/areas/spider_caves/cave2.c line 21 :Variable MOBPATH not declared !
+wizards/greed/areas/spider_caves/cave2.c line 23 :Variable MOBPATH not declared !
+wizards/greed/areas/spider_caves/cave2.c line 25 :Variable MOBPATH not declared !
+wizards/greed/areas/spider_caves/cave2.c line 27 :Variable MOBPATH not declared !
+wizards/greed/areas/spider_caves/cave2.c line 21 :Variable MOBPATH not declared !
+wizards/greed/areas/spider_caves/cave2.c line 23 :Variable MOBPATH not declared !
+wizards/greed/areas/spider_caves/cave2.c line 25 :Variable MOBPATH not declared !
+wizards/greed/areas/spider_caves/cave2.c line 27 :Variable MOBPATH not declared !
+wizards/greed/areas/spider_caves/cave4.c line 27 :syntax error
+wizards/greed/areas/spider_caves/cave4.c line 28 :Illegal LHS
+wizards/greed/areas/spider_caves/cave4.c line 29 :syntax error
+wizards/greed/areas/spider_caves/cave4.c line 30 :Illegal LHS
+wizards/greed/eval_file.c line 2 :Undefined function readfile
+wizards/greed/eval_file.c line 2 :Undefined function identify
+wizards/greed/cmds/_diff.c line 1 :syntax error
+wizards/greed/cmds/_diff.c line 1 :syntax error
+wizards/greed/cmds/_diff.c line 1 :syntax error
+wizards/greed/cmds/bugs.c line 1 :syntax error
+wizards/greed/cmds/_diff.c line 1 :syntax error
+wizards/greed/cmds/_diff.c line 1 :syntax error
+wizards/greed/cmds/_diff.c line 1 :syntax error
+wizards/greed/cmds/_diff.c line 1 :syntax error
+wizards/greed/cmds/_diff.c line 1 :syntax error
+wizards/greed/cmds/_diff.c line 1 :syntax error
+wizards/greed/cmds/_diff.c line 2 :syntax error
+wizards/greed/cmds/_diff.c line 11 :syntax error
+wizards/greed/cmds/_diff.c line 11 :Illegal LHS
+wizards/greed/cmds/_diff.c line 12 :Variable args not declared !
+wizards/greed/cmds/_diff.c line 13 :Variable args not declared !
+wizards/greed/cmds/_diff.c line 15 :Return type not matching: "void "
+wizards/greed/cmds/_diff.c line 17 :Variable args not declared !
+wizards/greed/cmds/_diff.c line 11 :syntax error
+wizards/greed/cmds/_diff.c line 11 :Illegal LHS
+wizards/greed/cmds/_diff.c line 12 :Variable args not declared !
+wizards/greed/cmds/_diff.c line 13 :Variable args not declared !
+wizards/greed/cmds/_diff.c line 15 :Return type not matching: "void "
+wizards/greed/cmds/_diff.c line 17 :Variable args not declared !
+wizards/greed/cmds/_diff.c line 11 :syntax error
+wizards/greed/cmds/_diff.c line 11 :Illegal LHS
+wizards/greed/cmds/_diff.c line 12 :Variable args not declared !
+wizards/greed/cmds/_diff.c line 13 :Variable args not declared !
+wizards/greed/cmds/_diff.c line 15 :Return type not matching: "void "
+wizards/greed/cmds/_diff.c line 17 :Variable args not declared !
+wizards/greed/cmds/_diff.c line 8 :syntax error
+wizards/greed/cmds/_diff.c line 8 :syntax error
+wizards/greed/cmds/_diff.c line 1 :syntax error
+wizards/greed/cmds/_diff.c line 1 :syntax error
+wizards/greed/cmds/_diff.c line 1 :Cannot #include /wiz/greed/cmdlib.h
+wizards/greed/cmds/_diff.c line 8 :syntax error
+wizards/greed/cmds/_diff.c line 1 :Cannot #include /wiz/greed/cmdlib.h
+wizards/greed/cmds/_diff.c line 8 :syntax error
+wizards/greed/cmdlib.h line 11 :syntax error
+wizards/greed/eval_file.c line 2 :Undefined function find
+wizards/greed/cmdlib.h line 20 :syntax error
+wizards/greed/cmdlib.h line 21 :Undefined function arrayp
+wizards/greed/cmdlib.h line 21 :Variable arr not declared !
+wizards/greed/cmdlib.h line 22 :Variable arr not declared !
+wizards/greed/cmdlib.h line 22 :Variable arr not declared !
+wizards/greed/cmdlib.h line 22 :Function arrayp undefined
+wizards/greed/cmdlib.h line 20 :syntax error
+wizards/greed/cmdlib.h line 21 :Undefined function arrayp
+wizards/greed/cmdlib.h line 21 :Variable arr not declared !
+wizards/greed/cmdlib.h line 22 :Variable arr not declared !
+wizards/greed/cmdlib.h line 22 :Variable arr not declared !
+wizards/greed/cmdlib.h line 22 :Function arrayp undefined
+wizards/greed/eval_file.c line 2 :Undefined function is_array
+wizards/greed/eval_file.c line 2 :Undefined function isarray
+wizards/greed/cmdlib.h line 26 :syntax error
+wizards/greed/cmdlib.h line 27 :syntax error
+wizards/greed/cmdlib.h line 27 :Illegal LHS
+wizards/greed/cmdlib.h line 27 :syntax error
+wizards/greed/cmdlib.h line 29 :Illegal LHS
+wizards/greed/cmdlib.h line 37 :Variable where not declared !
+wizards/greed/cmdlib.h line 26 :syntax error
+wizards/greed/cmdlib.h line 27 :syntax error
+wizards/greed/cmdlib.h line 27 :Illegal LHS
+wizards/greed/cmdlib.h line 27 :syntax error
+wizards/greed/cmdlib.h line 29 :Illegal LHS
+wizards/greed/cmdlib.h line 37 :Variable where not declared !
+wizards/greed/cmdlib.h line 26 :syntax error
+wizards/greed/cmdlib.h line 27 :syntax error
+wizards/greed/cmdlib.h line 27 :Illegal LHS
+wizards/greed/cmdlib.h line 27 :syntax error
+wizards/greed/cmdlib.h line 29 :Illegal LHS
+wizards/greed/cmdlib.h line 37 :Variable where not declared !
+wizards/greed/cmdlib.h line 26 :syntax error
+wizards/greed/cmdlib.h line 27 :Variable arr not declared !
+wizards/greed/cmdlib.h line 28 :Variable arr not declared !
+wizards/greed/cmdlib.h line 28 :Variable arr not declared !
+wizards/greed/cmdlib.h line 28 :Variable arr not declared !
+wizards/greed/cmdlib.h line 29 :Variable arr not declared !
+wizards/greed/cmdlib.h line 26 :syntax error
+wizards/greed/cmdlib.h line 27 :Variable arr not declared !
+wizards/greed/cmdlib.h line 28 :Variable arr not declared !
+wizards/greed/cmdlib.h line 28 :Variable arr not declared !
+wizards/greed/cmdlib.h line 28 :Variable arr not declared !
+wizards/greed/cmdlib.h line 29 :Variable arr not declared !
+wizards/greed/cmdlib.h line 26 :syntax error
+wizards/greed/cmdlib.h line 27 :Variable arr not declared !
+wizards/greed/cmdlib.h line 28 :Variable arr not declared !
+wizards/greed/cmdlib.h line 29 :Variable arr not declared !
+wizards/greed/cmdlib.h line 29 :Variable arr not declared !
+wizards/greed/cmdlib.h line 29 :Variable arr not declared !
+wizards/greed/cmdlib.h line 26 :syntax error
+wizards/greed/cmdlib.h line 27 :Variable arr not declared !
+wizards/greed/cmdlib.h line 28 :Variable arr not declared !
+wizards/greed/cmdlib.h line 29 :Variable arr not declared !
+wizards/greed/cmdlib.h line 30 :Variable arr not declared !
+wizards/greed/cmdlib.h line 30 :Variable arr not declared !
+wizards/greed/cmdlib.h line 26 :syntax error
+wizards/greed/cmdlib.h line 27 :Variable arr not declared !
+wizards/greed/cmdlib.h line 28 :Variable arr not declared !
+wizards/greed/cmdlib.h line 29 :Variable arr not declared !
+wizards/greed/cmdlib.h line 30 :Variable arr not declared !
+wizards/greed/cmdlib.h line 30 :Variable arr not declared !
+wizards/greed/cmdlib.h line 26 :syntax error
+wizards/greed/cmdlib.h line 27 :Variable ar not declared !
+wizards/greed/cmdlib.h line 28 :Variable ar not declared !
+wizards/greed/cmdlib.h line 29 :Variable ar not declared !
+wizards/greed/cmdlib.h line 30 :Variable ar not declared !
+wizards/greed/cmdlib.h line 30 :Variable ar not declared !
+wizards/greed/cmdlib.h line 26 :syntax error
+wizards/greed/cmdlib.h line 27 :Variable ar not declared !
+wizards/greed/cmdlib.h line 28 :Variable ar not declared !
+wizards/greed/cmdlib.h line 29 :Variable ar not declared !
+wizards/greed/cmdlib.h line 30 :Variable ar not declared !
+wizards/greed/cmdlib.h line 30 :Variable ar not declared !
+wizards/greed/cmdlib.h line 40 :syntax error
+wizards/greed/cmdlib.h line 40 :syntax error
+wizards/greed/eval_file.c line 2 :Illegal character constant
+wizards/greed/eval_file.c line 2 :syntax error
+wizards/greed/cmdlib.h line 40 :syntax error
+wizards/greed/cmdlib.h line 40 :syntax error
+wizards/greed/cmdlib.h line 43 :Bad assignment. Rhs: "string "
+wizards/greed/cmds/_diff.c line 8 :syntax error
+wizards/greed/cmds/_diff.c line 12 :Variable args not declared !
+wizards/greed/cmds/_diff.c line 13 :Variable diff not declared !
+wizards/greed/cmds/_diff.c line 16 :Variable args not declared !
+wizards/greed/cmds/_diff.c line 17 :Variable args not declared !
+wizards/greed/cmdlib.h line 43 :Bad assignment. Rhs: "string "
+wizards/greed/cmds/_diff.c line 8 :syntax error
+wizards/greed/cmds/_diff.c line 12 :Variable args not declared !
+wizards/greed/cmds/_diff.c line 13 :Variable diff not declared !
+wizards/greed/cmds/_diff.c line 16 :Variable args not declared !
+wizards/greed/cmds/_diff.c line 17 :Variable args not declared !
+wizards/greed/cmds/_diff.c line 8 :syntax error
+wizards/greed/cmds/_diff.c line 12 :Variable args not declared !
+wizards/greed/cmds/_diff.c line 13 :Variable diff not declared !
+wizards/greed/cmds/_diff.c line 16 :Variable args not declared !
+wizards/greed/cmds/_diff.c line 17 :Variable args not declared !
+wizards/greed/cmds/_diff.c line 21 :Variable args not declared !
+wizards/greed/cmds/_diff.c line 8 :syntax error
+wizards/greed/cmds/_diff.c line 12 :Variable args not declared !
+wizards/greed/cmds/_diff.c line 13 :Variable diff not declared !
+wizards/greed/cmds/_diff.c line 16 :Variable args not declared !
+wizards/greed/cmds/_diff.c line 17 :Variable args not declared !
+wizards/greed/cmds/_diff.c line 21 :Variable args not declared !
+wizards/greed/cmds/_diff.c line 8 :syntax error
+wizards/greed/cmds/_diff.c line 12 :Variable ar not declared !
+wizards/greed/cmds/_diff.c line 13 :Variable diff not declared !
+wizards/greed/cmds/_diff.c line 16 :Variable ar not declared !
+wizards/greed/cmds/_diff.c line 17 :Variable ar not declared !
+wizards/greed/cmds/_diff.c line 21 :Variable ar not declared !
+wizards/greed/cmds/_diff.c line 8 :syntax error
+wizards/greed/cmds/_diff.c line 12 :Variable ar not declared !
+wizards/greed/cmds/_diff.c line 13 :Variable diff not declared !
+wizards/greed/cmds/_diff.c line 16 :Variable ar not declared !
+wizards/greed/cmds/_diff.c line 17 :Variable ar not declared !
+wizards/greed/cmds/_diff.c line 21 :Variable ar not declared !
+wizards/greed/cmds/_diff.c line 9 :syntax error
+wizards/greed/cmds/_diff.c line 13 :Variable args not declared !
+wizards/greed/cmds/_diff.c line 14 :Variable diff not declared !
+wizards/greed/cmds/_diff.c line 17 :Variable args not declared !
+wizards/greed/cmds/_diff.c line 18 :Variable args not declared !
+wizards/greed/cmds/_diff.c line 22 :Variable args not declared !
+wizards/greed/cmds/_diff.c line 5 :syntax error
+wizards/greed/cmds/_diff.c line 11 :Variable data not declared !
+wizards/greed/cmds/_diff.c line 12 :Variable data2 not declared !
+wizards/greed/cmds/_diff.c line 13 :Variable args not declared !
+wizards/greed/cmds/_diff.c line 14 :Variable diff not declared !
+wizards/greed/cmds/_diff.c line 17 :Variable args not declared !
+wizards/greed/cmds/_diff.c line 5 :syntax error
+wizards/greed/cmds/_diff.c line 5 :Variable array not declared !
+wizards/greed/cmds/_diff.c line 5 :Variable args not declared !
+wizards/greed/cmds/_diff.c line 6 :syntax error
+wizards/greed/cmds/_diff.c line 11 :Variable data not declared !
+wizards/greed/cmds/_diff.c line 12 :Variable data2 not declared !
+wizards/greed/cmds/_diff.c line 13 :Variable args not declared !
+wizards/greed/cmds/_diff.c line 5 :syntax error
+wizards/greed/cmds/_diff.c line 5 :Illegal LHS
+wizards/greed/cmds/_diff.c line 6 :syntax error
+wizards/greed/cmds/_diff.c line 11 :Variable data not declared !
+wizards/greed/cmds/_diff.c line 12 :Variable data2 not declared !
+wizards/greed/cmds/_diff.c line 13 :Variable args not declared !
+wizards/greed/cmds/_diff.c line 5 :syntax error
+wizards/greed/cmds/_diff.c line 11 :Variable data not declared !
+wizards/greed/cmds/_diff.c line 12 :Variable data2 not declared !
+wizards/greed/cmds/_diff.c line 13 :Variable args not declared !
+wizards/greed/cmds/_diff.c line 14 :Variable diff not declared !
+wizards/greed/cmds/_diff.c line 17 :Variable args not declared !
+wizards/greed/cmds/_diff.c line 5 :syntax error
+wizards/greed/cmds/_diff.c line 11 :Variable data not declared !
+wizards/greed/cmds/_diff.c line 12 :Variable data2 not declared !
+wizards/greed/cmds/_diff.c line 13 :Variable params not declared !
+wizards/greed/cmds/_diff.c line 14 :Variable diff not declared !
+wizards/greed/cmds/_diff.c line 17 :Variable params not declared !
+wizards/greed/cmds/_diff.c line 5 :syntax error
+wizards/greed/cmds/_diff.c line 11 :Variable data not declared !
+wizards/greed/cmds/_diff.c line 12 :Variable data2 not declared !
+wizards/greed/cmds/_diff.c line 13 :Variable params not declared !
+wizards/greed/cmds/_diff.c line 14 :Variable diff not declared !
+wizards/greed/cmds/_diff.c line 17 :Variable params not declared !
+wizards/greed/cmds/_diff.c line 10 :syntax error
+wizards/greed/cmds/_diff.c line 14 :Variable diff not declared !
+wizards/greed/cmds/_diff.c line 41 :Undefined function replace_string
+wizards/greed/cmds/_diff.c line 42 :Function replace_string undefined
+wizards/greed/cmds/_diff.c line 42 :Wrong number of arguments to replace_string
+wizards/greed/cmds/_diff.c line 42 :Bad assignment. Rhs: "unknown "
+wizards/greed/cmds/_diff.c line 41 :Undefined function replace_string
+wizards/greed/cmds/_diff.c line 42 :Function replace_string undefined
+wizards/greed/cmds/_diff.c line 42 :Wrong number of arguments to replace_string
+wizards/greed/cmds/_diff.c line 42 :Bad assignment. Rhs: "unknown "
+wizards/greed/cmds/_diff.c line 43 :Variable array not declared !
+wizards/greed/cmds/_diff.c line 43 :syntax error
+wizards/greed/cmds/_diff.c line 43 :Variable array not declared !
+wizards/greed/cmds/_diff.c line 43 :syntax error
+wizards/greed/cmds/_diff.c line 44 :Variable array not declared !
+wizards/greed/cmds/_diff.c line 44 :syntax error
+wizards/greed/cmds/_diff.c line 45 :Illegal LHS
+wizards/greed/cmds/_diff.c line 45 :Illegal LHS
+wizards/greed/cmds/_diff.c line 43 :Variable array not declared !
+wizards/greed/cmds/_diff.c line 43 :syntax error
+wizards/greed/cmds/_diff.c line 44 :Variable array not declared !
+wizards/greed/cmds/_diff.c line 44 :syntax error
+wizards/greed/cmds/_diff.c line 45 :Illegal LHS
+wizards/greed/cmds/_diff.c line 45 :Illegal LHS
+wizards/greed/cmds/_diff.c line 82 :Too few arguments to implode
+wizards/greed/events/snowball/master.c line 36 :syntax error
+wizards/greed/events/snowball/master.c line 41 :syntax error
+wizards/greed/events/snowball/master.c line 45 :Variable i not declared !
+wizards/greed/events/snowball/master.c line 46 :Variable i not declared !
+wizards/greed/events/snowball/master.c line 46 :syntax error
+wizards/greed/events/snowball/master.c line 47 :Variable i not declared !
+wizards/greed/events/snowball/master.c line 47 :Variable i not declared !
+wizards/greed/events/snowball/master.c line 46 :syntax error
+wizards/greed/events/snowball/master.c line 47 :Illegal LHS
+wizards/greed/events/snowball/master.c line 47 :syntax error
+wizards/greed/events/snowball/master.c line 55 :Illegal LHS
+wizards/greed/events/snowball/master.c line 56 :Illegal LHS
+wizards/greed/events/snowball/master.c line 56 :syntax error
+wizards/greed/events/snowball/master.c line 46 :syntax error
+wizards/greed/events/snowball/master.c line 47 :Illegal LHS
+wizards/greed/events/snowball/master.c line 47 :syntax error
+wizards/greed/events/snowball/master.c line 55 :Illegal LHS
+wizards/greed/events/snowball/master.c line 56 :Illegal LHS
+wizards/greed/events/snowball/master.c line 56 :syntax error
+wizards/greed/events/snowball/master.c line 48 :Undefined function tell
+wizards/greed/events/snowball/master.c line 54 :syntax error
+wizards/greed/events/snowball/master.c line 56 :Variable keys not declared !
+wizards/greed/events/snowball/master.c line 58 :Variable keys not declared !
+wizards/greed/events/snowball/master.c line 59 :Variable keys not declared !
+wizards/greed/events/snowball/master.c line 60 :Variable keys not declared !
+wizards/greed/events/snowball/master.c line 54 :syntax error
+wizards/greed/events/snowball/master.c line 56 :Variable keys not declared !
+wizards/greed/events/snowball/master.c line 58 :Variable keys not declared !
+wizards/greed/events/snowball/master.c line 59 :Variable keys not declared !
+wizards/greed/events/snowball/master.c line 60 :Variable keys not declared !
+wizards/greed/events/snowball/master.c line 60 :Variable keys not declared !
+wizards/greed/events/snowball/master.c line 103 :syntax error
+wizards/greed/events/snowball/master.c line 110 :Variable i not declared !
+wizards/greed/events/snowball/master.c line 110 :Variable i not declared !
+wizards/greed/events/snowball/master.c line 110 :Variable NUM_BALLS not declared !
+wizards/greed/events/snowball/master.c line 110 :Variable i not declared !
+wizards/greed/events/snowball/master.c line 165 :Duplicate case in line 129 and 126
+wizards/greed/events/snowball/master.c line 103 :syntax error
+wizards/greed/events/snowball/master.c line 110 :Variable i not declared !
+wizards/greed/events/snowball/master.c line 110 :Variable i not declared !
+wizards/greed/events/snowball/master.c line 110 :Variable NUM_BALLS not declared !
+wizards/greed/events/snowball/master.c line 110 :Variable i not declared !
+wizards/greed/events/snowball/master.c line 165 :Duplicate case in line 129 and 126
+wizards/greed/events/snowball/master.c line 110 :Variable i not declared !
+wizards/greed/events/snowball/master.c line 110 :Variable i not declared !
+wizards/greed/events/snowball/master.c line 110 :Variable NUM_BALLS not declared !
+wizards/greed/events/snowball/master.c line 110 :Variable i not declared !
+wizards/greed/events/snowball/master.c line 165 :Duplicate case in line 129 and 126
+wizards/greed/events/snowball/master.c line 165 :Duplicate case in line 126 and 123
+wizards/greed/events/snowball/master.c line 111 :Variable NUM_BALLS not declared !
+wizards/greed/eval_file.c line 2 :Bad argument 1 type to efun destruct()
+wizards/greed/eval_file.c line 2 :syntax error
+wizards/greed/areas/swamp/swampthing1.c line 3: Missing type for argument
+wizards/greed/areas/swamp/swamp1.c line 2: Cannot #include '/wizards/greed/arealib.h'
+wizards/greed/areas/swamp/swamp1.c line 5: function not defined by inheritance as specified
+wizards/greed/arealib.h line 21: Variable filename not declared !
+wizards/greed/areas/swamp/swamp1.c line 5: function not defined by inheritance as specified
+wizards/greed/areas/swamp/swamp1.c line 5: function not defined by inheritance as specified
+wizards/greed/eval_file.c line 2: Undefined function 'base_name'
+wizards/greed/eval_file.c line 2: Undefined function 'depath'
+wizards/greed/eval_file.c line 2: Undefined function 'query_exits'
+wizards/greed/eval_file.c line 2: Undefined function 'query_exits'
+wizards/greed/eval_file.c line 2: Undefined function 'deep_inherit_list'
+wizards/greed/eval_file.c line 2: Variable $10 not declared !
+wizards/greed/eval_file.c line 2: syntax error
+wizards/greed/arealib.h line 35: Undefined function 'add_exit'
+wizards/greed/eval_file.c line 2: Variable look not declared !
+wizards/greed/eval_file.c line 2: Undefined function 'move_player'
+wizards/greed/areas/swamp/cave6.c line 15: syntax error
+wizards/greed/eval_file.c line 2: Undefined function 'wrap'
+wizards/greed/eval_file.c line 2: Undefined function 'wrap'

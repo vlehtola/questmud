@@ -1,0 +1,36 @@
+/wizards/greed/areas/swamp/swamp1 Typo Ahma
+fungus=fungi (molemmat kohdat)
+/wizards/greed/areas/swamp/swamp2 Typo Ahma
+dark and tall, -> dark. Tall, -- fungus=fungi
+/wizards/greed/areas/swamp/swamp13 Typo Ahma
+You just wish.. Tollasii omii ajatuksii ois kyl syyt‰ v‰ltt‰‰, ti‰ks.
+/wizards/greed/areas/swamp/swamp17 Typo Ahma
+Sama ku tos aikasemmas. throught = through -- and bit dry = and (a bit) more dry
+/wizards/greed/areas/swamp/swamp17 Typo Ahma
+Dig what??? ja Crawl where??? pari ?-merkkii pois molemmist. action crawl: crawls down from the.. = down in the
+/wizards/greed/areas/swamp/cave1 Typo Ahma
+Sikapitk‰ eka lause = paha. stumbling to = stumbling over -- splashes = splash (tai sit pist‰t echoes = echo, jompi kumpi), feet=foot (eih‰ me hypit‰ tasajalkaa eteenp‰in), aika helvetillisen pitk‰ toinenki lause.
+/wizards/greed/areas/swamp/cave2 Typo Ahma
+Piiiitk‰ lause. Pist vaiks: A small ray of sunlight cuts through the black shadows behind a small distance in west. Otherwise this tunnel is very dark. A small river, filled with tiny rocks, is flowing along the tunnel eastwards. Tai jottai. Kuha ehdottelen.
+/wizards/greed/areas/swamp/cave3 Typo Ahma
+Samat ku cave1.c
+/wizards/greed/areas/swamp/cave4 Typo Ahma
+stalagtite = stalagmite -- creates = create, to the already dark = to already dark ..
+/wizards/greed/areas/swamp/cave5 Typo Ahma
+stalagtite
+/wizards/greed/areas/swamp/cave6 Typo Ahma
+feet foot
+/wizards/greed/areas/swamp/mob/gruisah#19164 Typo Ahma
+by a two = by two -- meter = meters
+/wizards/greed/areas/swamp/mob/gruisah#19164 Typo Ahma
+set_name("mob/swampthing"); ?? Pist vaiks se swampthing sit =)
+/wizards/greed/areas/swamp/mob/swampthing1#20073 Typo Ahma
+name ja alias p‰in helvettii. Vois kyl pist‰‰ sit eri descin ku arean "p‰‰monsul".
+/wizards/greed/areas/swamp/mob/swampthing3#20463 Typo Ahma
+swampthing2 ja 3 samat jutskat.
+/wizards/greed/areas/swamp/eq/collar#20561 Typo Ahma
+short: Nimess‰ on Guirash, vaikka monsun nimi on Gruisah. -- reflecting = reflect sunlight. It is constantly .. Ja lauseen lopussa on 2 pistett‰ -> Toinen veks, tietty.
+/wizards/greed/areas/swamp/cave1 Typo Ahma
+action climb, pari ?-merkkii sielt‰ki Climb what???'st pois.
+/wizards/greed/areas/swamp/mob/gruisah#21498 Typo Ahma
+T‰‰ j‰tk‰ ei osaa kloonata itellee sit‰ ekuu mik‰ sil o suunniteltu. Fiksaa se koodis. Ja kelaa v‰h‰ et onks liia hyv‰t statit siin collaris.

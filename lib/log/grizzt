@@ -1,0 +1,121 @@
+wizards/grizzt/dragon.c line 31 :Cannot #include heart.h
+wizards/grizzt/dragon.c line 32 :Cannot #include command.h
+wizards/grizzt/thiraband/gates.c line 28 :syntax error
+wizards/grizzt/workroom.c line 16 :syntax error
+wizards/grizzt/workroom.c line 16 :Newline in string
+wizards/grizzt/workroom.c line 20 :Illegal LHS
+wizards/grizzt/workroom.c line 20 :syntax error
+wizards/grizzt/thiraband/gates.c line 28 :syntax error
+wizards/grizzt/thiraband/gates.c line 28 :syntax error
+wizards/grizzt/workroom.c line 81 :syntax error
+wizards/grizzt/workroom.c line 57 :syntax error
+wizards/grizzt/workroom.c line 77 :syntax error
+wizards/grizzt/workroom.c line 78 :syntax error
+wizards/grizzt/workroom.c line 80 :syntax error
+wizards/grizzt/workroom.c line 57 :syntax error
+wizards/grizzt/workroom.c line 77 :syntax error
+wizards/grizzt/workroom.c line 78 :syntax error
+wizards/grizzt/workroom.c line 80 :syntax error
+wizards/grizzt/workroom.c line 57 :syntax error
+wizards/grizzt/workroom.c line 77 :syntax error
+wizards/grizzt/workroom.c line 78 :syntax error
+wizards/grizzt/workroom.c line 80 :syntax error
+wizards/grizzt/workroom.c line 88 :Redeclaration of function init.
+wizards/grizzt/workroom.c line 94 :syntax error
+wizards/grizzt/workroom.c line 88 :Redeclaration of function init.
+wizards/grizzt/workroom.c line 91 :syntax error
+wizards/grizzt/workroom.c line 88 :Redeclaration of function init.
+wizards/grizzt/workroom.c line 98 :Redeclaration of function init.
+wizards/grizzt/workroom.c line 88 :Redeclaration of function init.
+wizards/grizzt/workroom.c line 98 :Redeclaration of function init.
+wizards/grizzt/workroom.c line 88 :Redeclaration of function init.
+wizards/grizzt/workroom.c line 98 :Redeclaration of function init.
+wizards/grizzt/eval_file.c line 2 :Variable this_player not declared !
+wizards/grizzt/eval_file.c line 2 :syntax error
+wizards/grizzt/boombox.c line 30 :syntax error
+wizards/grizzt/eval_file.c line 2 :Undefined function fin_player
+wizards/grizzt/eval_file.c line 2 :Undefined function set_surname
+wizards/grizzt/eval_file.c line 2 :syntax error
+wizards/grizzt/eval_file.c line 2 :syntax error
+wizards/grizzt/eval_file.c line 2 :Undefined function add_quest_points
+wizards/grizzt/eval_file.c line 2 :Undefined function add_quest_points
+wizards/grizzt/eval_file.c line 2 :syntax error
+wizards/grizzt/eval_file.c line 2 :syntax error
+wizards/grizzt/eval_file.c line 2 :syntax error
+wizards/grizzt/eval_file.c line 2 :syntax error
+wizards/grizzt/eval_file.c line 2 :Undefined function environtment
+wizards/grizzt/tower/2ndfloor1.c line 32 :syntax error
+wizards/grizzt/tower/2ndfloor1.c line 38 :Illegal character (hex 2e) '.'
+wizards/grizzt/tower/2ndfloor1.c line 38 :Illegal character (hex 5c) '\'
+wizards/grizzt/tower/2ndfloor1.c line 38 :Newline in string
+wizards/grizzt/tower/2ndfloor1.c line 32 :syntax error
+wizards/grizzt/tower/2ndfloor1.c line 36 :syntax error
+wizards/grizzt/tower/2ndfloor1.c line 39 :Illegal character (hex 2e) '.'
+wizards/grizzt/tower/2ndfloor1.c line 39 :Illegal character (hex 5c) '\'
+wizards/grizzt/tower/2ndfloor1.c line 39 :Newline in string
+wizards/grizzt/tower/2ndfloor1.c line 32 :syntax error
+wizards/grizzt/tower/2ndfloor1.c line 36 :syntax error
+wizards/grizzt/tower/2ndfloor1.c line 39 :Illegal character (hex 2e) '.'
+wizards/grizzt/tower/2ndfloor1.c line 39 :Illegal character (hex 5c) '\'
+wizards/grizzt/tower/2ndfloor1.c line 39 :Newline in string
+wizards/grizzt/tower/2ndfloor1.c line 43 :syntax error
+wizards/grizzt/tower/2ndfloor1.c line 32 :syntax error
+wizards/grizzt/tower/2ndfloor1.c line 36 :syntax error
+wizards/grizzt/tower/2ndfloor1.c line 39 :Illegal character (hex 2e) '.'
+wizards/grizzt/tower/2ndfloor1.c line 39 :Illegal character (hex 5c) '\'
+wizards/grizzt/tower/2ndfloor1.c line 39 :Newline in string
+wizards/grizzt/tower/2ndfloor1.c line 43 :syntax error
+wizards/grizzt/tower/2ndfloor1.c line 32 :syntax error
+wizards/grizzt/tower/2ndfloor1.c line 36 :syntax error
+wizards/grizzt/tower/2ndfloor1.c line 39 :Illegal character (hex 2e) '.'
+wizards/grizzt/tower/2ndfloor1.c line 39 :Illegal character (hex 5c) '\'
+wizards/grizzt/tower/2ndfloor1.c line 39 :Newline in string
+wizards/grizzt/tower/2ndfloor1.c line 43 :syntax error
+wizards/grizzt/tower/2ndfloor1.c line 32 :syntax error
+wizards/grizzt/tower/2ndfloor1.c line 36 :syntax error
+wizards/grizzt/tower/2ndfloor1.c line 39 :Illegal character (hex 2e) '.'
+wizards/grizzt/tower/2ndfloor1.c line 39 :Illegal character (hex 5c) '\'
+wizards/grizzt/tower/2ndfloor1.c line 39 :Newline in string
+wizards/grizzt/tower/2ndfloor1.c line 43 :syntax error
+wizards/grizzt/tower/2ndfloor1.c line 32 :syntax error
+wizards/grizzt/tower/2ndfloor1.c line 36 :syntax error
+wizards/grizzt/tower/2ndfloor1.c line 43 :syntax error
+wizards/grizzt/tower/2ndfloor1.c line 32 :syntax error
+wizards/grizzt/tower/2ndfloor1.c line 36 :syntax error
+wizards/grizzt/tower/2ndfloor1.c line 43 :syntax error
+wizards/grizzt/tower/2ndfloor1.c line 36 :syntax error
+wizards/grizzt/tower/2ndfloor1.c line 44 :syntax error
+wizards/grizzt/tower/2ndfloor1.c line 32 :syntax error
+wizards/grizzt/tower/2ndfloor1.c line 36 :syntax error
+wizards/grizzt/tower/2ndfloor1.c line 43 :syntax error
+wizards/grizzt/tower/2ndfloor1.c line 37 :syntax error
+wizards/grizzt/tower/2ndfloor1.c line 47 :syntax error
+wizards/grizzt/tower/2ndfloor1.c line 37 :syntax error
+wizards/grizzt/tower/2ndfloor1.c line 47 :syntax error
+wizards/grizzt/tower/2ndfloor1.c line 37 :syntax error
+wizards/grizzt/tower/2ndfloor1.c line 47 :syntax error
+wizards/grizzt/tower/2ndfloor1.c line 47 :syntax error
+wizards/grizzt/tower/2ndfloor1.c line 47 :syntax error
+wizards/grizzt/tower/3rdfloor1.c line 44 :syntax error
+wizards/grizzt/tower/3rdfloor1.c line 44 :syntax error
+wizards/grizzt/tower/3rdfloor1.c line 44 :Redeclaration of function init.
+wizards/grizzt/tower/3rdfloor1.c line 48 :Redeclaration of function init.
+wizards/grizzt/tower/3rdfloor1.c line 44 :syntax error
+wizards/grizzt/eval_file.c line 2 :Variable help not declared !
+wizards/grizzt/eval_file.c line 2 :syntax error
+wizards/grizzt/eval_file.c line 2 :syntax error
+wizards/grizzt/eval_file.c line 2 :syntax error
+wizards/grizzt/tower/inneralcove.c line 33 :syntax error
+wizards/grizzt/tower/inneralcove.c line 33 :syntax error
+wizards/grizzt/tower/3rdfloor1.c line 65 :syntax error
+wizards/grizzt/tower/3rdfloor1.c line 65 :syntax error
+wizards/grizzt/dragon.c line 31: Cannot #include 'heart.h'
+wizards/grizzt/dragon.c line 32: Cannot #include 'command.h'
+wizards/grizzt/dragon.c line 31: Cannot #include 'heart.h'
+wizards/grizzt/dragon.c line 32: Cannot #include 'command.h'
+wizards/grizzt/dragon.c line 31: Cannot #include 'heart.h'
+wizards/grizzt/dragon.c line 32: Cannot #include 'command.h'
+wizards/grizzt/dragon.c line 31: Cannot #include 'heart.h'
+wizards/grizzt/dragon.c line 32: Cannot #include 'command.h'
+wizards/grizzt/dragon.c line 31: Cannot #include 'heart.h'
+wizards/grizzt/dragon.c line 32: Cannot #include 'command.h'

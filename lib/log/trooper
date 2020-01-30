@@ -1,0 +1,668 @@
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper//areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper//areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper//areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper//areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper//areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper//areas/muhoscity/monsters/god.c line 32 :syntax error
+wizards/trooper//areas/muhoscity/monsters/god.c line 40 :Variable hammer not declared !
+wizards/trooper//areas/muhoscity/monsters/god.c line 44 :syntax error
+wizards/trooper/areas/muhoscity/r14.c line 30 :syntax error
+wizards/trooper/areas/muhoscity/r27.c line 28 :syntax error
+wizards/trooper/areas/muhoscity/r27.c line 28 :syntax error
+wizards/trooper/areas/muhoscity/r15.c line 23 :Redeclaration of function reset.
+wizards/trooper/areas/muhoscity/r15.c line 36 :Redeclaration of function reset.
+wizards/trooper/areas/muhoscity/r15.c line 23 :Redeclaration of function reset.
+wizards/trooper/areas/muhoscity/r15.c line 36 :Redeclaration of function reset.
+wizards/trooper/areas/muhoscity/r27.c line 28 :syntax error
+wizards/trooper/areas/muhoscity/r27.c line 28 :syntax error
+wizards/trooper//areas/muhoscity/r28.c line 15 :syntax error
+wizards/trooper//areas/muhoscity/r29.c line 16 :syntax error
+wizards/trooper//areas/muhoscity/r30.c line 15 :syntax error
+wizards/trooper//areas/muhoscity/r31.c line 15 :syntax error
+wizards/trooper//areas/muhoscity/r33.c line 33 :syntax error
+wizards/trooper//areas/muhoscity/r36.c line 14 :syntax error
+wizards/trooper/areas/muhoscity/r27.c line 28 :syntax error
+wizards/trooper/areas/muhoscity/r15.c line 23 :Redeclaration of function reset.
+wizards/trooper/areas/muhoscity/r15.c line 36 :Redeclaration of function reset.
+wizards/trooper/areas/muhoscity/r15.c line 23 :Redeclaration of function reset.
+wizards/trooper/areas/muhoscity/r15.c line 36 :Redeclaration of function reset.
+wizards/trooper/areas/muhoscity/r15.c line 23 :Redeclaration of function reset.
+wizards/trooper/areas/muhoscity/r15.c line 36 :Redeclaration of function reset.
+wizards/trooper//areas/muhoscity/r14.c line 30 :syntax error
+wizards/trooper/areas/muhoscity/r27.c line 28 :syntax error
+wizards/trooper/areas/muhoscity/r27.c line 28 :syntax error
+wizards/trooper//areas/muhoscity/r27.c line 28 :syntax error
+wizards/trooper//areas/muhoscity/r27.c line 28 :syntax error
+wizards/trooper//areas/muhoscity/r33.c line 33 :syntax error
+wizards/trooper/areas/muhoscity/r27.c line 28 :syntax error
+wizards/trooper/areas/muhoscity/r14.c line 30 :syntax error
+wizards/trooper/areas/muhoscity/r14.c line 30 :syntax error
+wizards/trooper//areas/muhoscity/r15.c line 23 :Redeclaration of function reset.
+wizards/trooper//areas/muhoscity/r15.c line 36 :Redeclaration of function reset.
+wizards/trooper/areas/muhoscity/r15.c line 23 :Redeclaration of function reset.
+wizards/trooper/areas/muhoscity/r15.c line 36 :Redeclaration of function reset.
+wizards/trooper/areas/muhoscity/r27.c line 28 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/r15.c line 23 :Redeclaration of function reset.
+wizards/trooper/areas/muhoscity/r15.c line 36 :Redeclaration of function reset.
+wizards/trooper/areas/muhoscity/r27.c line 28 :syntax error
+wizards/trooper/areas/muhoscity/r15.c line 23 :Redeclaration of function reset.
+wizards/trooper/areas/muhoscity/r15.c line 36 :Redeclaration of function reset.
+wizards/trooper/areas/muhoscity/r15.c line 23 :Redeclaration of function reset.
+wizards/trooper/areas/muhoscity/r15.c line 36 :Redeclaration of function reset.
+wizards/trooper/areas/muhoscity/r15.c line 23 :Redeclaration of function reset.
+wizards/trooper/areas/muhoscity/r15.c line 36 :Redeclaration of function reset.
+wizards/trooper/areas/muhoscity/r15.c line 23 :Redeclaration of function reset.
+wizards/trooper/areas/muhoscity/r15.c line 36 :Redeclaration of function reset.
+wizards/trooper/areas/muhoscity/r27.c line 28 :syntax error
+wizards/trooper/areas/muhoscity/r27.c line 28 :syntax error
+wizards/trooper/areas/muhoscity/r27.c line 28 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/necropolis/r1.c line 31 :Newline in string
+wizards/trooper/areas/necropolis/r1.c line 32 :syntax error
+wizards/trooper/areas/necropolis/r1.c line 38 :Too few arguments to clone_object
+wizards/trooper/areas/necropolis/r1.c line 38 :Illegal LHS
+wizards/trooper/areas/necropolis/r1.c line 38 :syntax error
+wizards/trooper/areas/necropolis/r1.c line 40 :Too few arguments to clone_object
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 45 :syntax error
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable str not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp1 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 48 :Variable tmp2 not declared !
+wizards/trooper/areas/muhoscity/monsters/bard.c line 49 :Variable tmp1 not declared !
+wizards/trooper/areas/rohelm/entrance.c line 30 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 29 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 5 :Variable aika not declared !
+wizards/trooper/areas/rohelm/entrance.c line 19 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 22 :Variable str not declared !
+wizards/trooper/areas/rohelm/entrance.c line 22 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 27 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 30 :Variable aika not declared !
+wizards/trooper/areas/rohelm/entrance.c line 5 :Variable aika not declared !
+wizards/trooper/areas/rohelm/entrance.c line 19 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 22 :Variable str not declared !
+wizards/trooper/areas/rohelm/entrance.c line 22 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 27 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 30 :Variable aika not declared !
+wizards/trooper/areas/rohelm/entrance.c line 4 :Type mismatch ( unknown vs mixed ) when initializing aika
+wizards/trooper/areas/rohelm/entrance.c line 4 :Missing type
+wizards/trooper/areas/rohelm/entrance.c line 6 :Type mismatch ( unknown vs string ) when initializing short_desc
+wizards/trooper/areas/rohelm/entrance.c line 6 :Missing type
+wizards/trooper/areas/rohelm/entrance.c line 10 :Type mismatch ( unknown vs mixed ) when initializing long_desc
+wizards/trooper/areas/rohelm/entrance.c line 10 :Missing type
+wizards/trooper/areas/rohelm/entrance.c line 4 :Type mismatch ( unknown vs mixed ) when initializing aika
+wizards/trooper/areas/rohelm/entrance.c line 4 :Missing type
+wizards/trooper/areas/rohelm/entrance.c line 6 :Type mismatch ( unknown vs string ) when initializing short_desc
+wizards/trooper/areas/rohelm/entrance.c line 6 :Missing type
+wizards/trooper/areas/rohelm/entrance.c line 10 :Type mismatch ( unknown vs mixed ) when initializing long_desc
+wizards/trooper/areas/rohelm/entrance.c line 10 :Missing type
+wizards/trooper/areas/rohelm/entrance.c line 2 :Unrecognized inheritance modifier qualifier
+wizards/trooper/areas/rohelm/entrance.c line 2 :Unrecognized inheritance modifier qualifier
+wizards/trooper/areas/rohelm/entrance.c line 2 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 2 :Unrecognized inheritance modifier qualifier
+wizards/trooper/areas/rohelm/entrance.c line 2 :Unrecognized inheritance modifier qualifier
+wizards/trooper/areas/rohelm/entrance.c line 2 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 2 :Unrecognized inheritance modifier qualifier
+wizards/trooper/areas/rohelm/entrance.c line 2 :Unrecognized inheritance modifier qualifier
+wizards/trooper/areas/rohelm/entrance.c line 2 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 21 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 27 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 53 :Newline in string
+wizards/trooper/areas/rohelm/entrance.c line 21 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 27 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 53 :Newline in string
+wizards/trooper/areas/rohelm/entrance.c line 4 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 4 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 5 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 5 :Illegal LHS
+wizards/trooper/areas/rohelm/entrance.c line 10 :Type mismatch ( unknown vs string ) when initializing short_desc
+wizards/trooper/areas/rohelm/entrance.c line 10 :Missing type
+wizards/trooper/areas/rohelm/entrance.c line 14 :Type mismatch ( unknown vs mixed ) when initializing long_desc
+wizards/trooper/areas/rohelm/entrance.c line 14 :Missing type
+wizards/trooper/areas/rohelm/entrance.c line 4 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 4 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 4 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 5 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 5 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 5 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 55 :Newline in string
+wizards/trooper/areas/rohelm/entrance.c line 55 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 55 :Newline in string
+wizards/trooper/areas/rohelm/entrance.c line 55 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 62 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 32 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 62 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 32 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 62 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 33 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 44 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 52 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 33 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 44 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 52 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 33 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 35 :Too few arguments to write
+wizards/trooper/areas/rohelm/entrance.c line 39 :Too few arguments to write
+wizards/trooper/areas/rohelm/entrance.c line 42 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 33 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 35 :Too few arguments to write
+wizards/trooper/areas/rohelm/entrance.c line 39 :Too few arguments to write
+wizards/trooper/areas/rohelm/entrance.c line 42 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 33 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 35 :Too few arguments to write
+wizards/trooper/areas/rohelm/entrance.c line 39 :Too few arguments to write
+wizards/trooper/areas/rohelm/entrance.c line 42 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 33 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 35 :Too few arguments to write
+wizards/trooper/areas/rohelm/entrance.c line 38 :Too few arguments to write
+wizards/trooper/areas/rohelm/entrance.c line 41 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 33 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 35 :Too few arguments to write
+wizards/trooper/areas/rohelm/entrance.c line 38 :Too few arguments to write
+wizards/trooper/areas/rohelm/entrance.c line 41 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 33 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 35 :Too few arguments to write
+wizards/trooper/areas/rohelm/entrance.c line 38 :Too few arguments to write
+wizards/trooper/areas/rohelm/entrance.c line 41 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 63 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 63 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 63 :syntax error
+wizards/trooper/areas/rohelm//entrance.c line 63 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 58 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 60 :Too few arguments to write
+wizards/trooper/areas/rohelm/entrance.c line 64 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 58 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 60 :Too few arguments to write
+wizards/trooper/areas/rohelm/entrance.c line 64 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 6 :syntax error
+wizards/trooper/areas/rohelm/entrance.c line 6 :Illegal LHS
+wizards/trooper/areas/rohelm/r8.c line 27 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 28 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 29 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 30 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 31 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 32 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 27 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 28 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 29 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 30 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 31 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 32 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 27 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 28 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 29 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 30 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 31 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 32 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 27 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 28 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 29 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 30 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 31 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 32 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 27 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 28 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 29 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 30 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 31 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 32 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 27 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 28 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 29 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 30 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 31 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 32 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 27 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 28 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 29 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 30 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 31 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 32 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 27 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 28 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 29 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 30 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 31 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 32 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 27 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 28 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 29 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 30 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 31 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 32 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 27 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 28 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 29 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 30 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 31 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 32 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 27 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 28 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 29 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 30 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 31 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 32 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 27 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 28 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 29 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 30 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 31 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 32 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 27 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 28 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 29 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 30 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 31 :Newline in string
+wizards/trooper/areas/rohelm/r8.c line 32 :Newline in string

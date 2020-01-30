@@ -1,0 +1,243 @@
+wizards/balrog/eval_file.c line 2 :syntax error
+wizards/balrog/test/test.c line 2 :syntax error
+wizards/balrog/test/test.c line 4 :Variable char not declared !
+wizards/balrog/test/test.c line 4 :Variable hostname not declared !
+wizards/balrog/test/test.c line 5 :Variable char not declared !
+wizards/balrog/test/test.c line 5 :Variable etc not declared !
+wizards/balrog/test/test.c line 6 :Extra ';'. Ignored.
+wizards/balrog/test/test.c line 2 :syntax error
+wizards/balrog/test/test.c line 4 :Variable char not declared !
+wizards/balrog/test/test.c line 4 :Variable hostname not declared !
+wizards/balrog/test/test.c line 5 :Variable char not declared !
+wizards/balrog/test/test.c line 5 :Variable etc not declared !
+wizards/balrog/test/test.c line 6 :Extra ';'. Ignored.
+wizards/balrog/testroom2.c line 51 :Variable coord1 not declared !
+wizards/balrog/testroom2.c line 51 :Variable coord2 not declared !
+wizards/balrog/testroom2.c line 51 :Variable coord1 not declared !
+wizards/balrog/testroom2.c line 51 :Variable coord2 not declared !
+wizards/balrog/testroom2.c line 51 :Variable coord1 not declared !
+wizards/balrog/testroom2.c line 51 :Variable coord2 not declared !
+wizards/balrog/testroom2.c line 51 :Variable coord1 not declared !
+wizards/balrog/testroom2.c line 51 :Variable coord2 not declared !
+wizards/balrog/testroom2.c line 51 :Variable coord1 not declared !
+wizards/balrog/testroom2.c line 51 :Variable coord2 not declared !
+wizards/balrog/testroom2.c line 51 :Variable coord1 not declared !
+wizards/balrog/testroom2.c line 51 :Variable coord2 not declared !
+wizards/balrog/testroom2.c line 51 :Variable coord1 not declared !
+wizards/balrog/testroom2.c line 51 :Variable coord2 not declared !
+wizards/balrog/eval_file.c line 2 :syntax error
+wizards/balrog/eval_file.c line 2 :Undefined function this_room
+wizards/balrog/eval_file.c line 2 :syntax error
+wizards/balrog/eval_file.c line 2 :syntax error
+wizards/balrog/eval_file.c line 2 :Illegal character (hex 2e) '.'
+wizards/balrog/eval_file.c line 2 :syntax error
+wizards/balrog/eval_file.c line 2 :Illegal character (hex 2e) '.'
+wizards/balrog/test/grep.c line 15 :Variable fn not declared !
+wizards/balrog/test/grep.c line 16 :Variable fn not declared !
+wizards/balrog/test/grep.c line 16 :Variable fn not declared !
+wizards/balrog/test/test.c line 5 :Newline in string
+wizards/balrog/test/test.c line 7 :syntax error
+wizards/balrog/test/test.c line 5 :Newline in string
+wizards/balrog/test/test.c line 7 :syntax error
+wizards/balrog/cmds/_grep.c line 13 :syntax error
+wizards/balrog/cmds/_grep.c line 17 :Illegal LHS
+wizards/balrog/cmds/_grep.c line 17 :Illegal LHS
+wizards/balrog/cmds/_grep.c line 19 :syntax error
+wizards/balrog/cmds/_grep.c line 22 :Illegal LHS
+wizards/balrog/cmds/_grep.c line 22 :syntax error
+wizards/balrog/cmds/_grep.c line 13 :syntax error
+wizards/balrog/cmds/_grep.c line 17 :Illegal LHS
+wizards/balrog/cmds/_grep.c line 17 :Illegal LHS
+wizards/balrog/cmds/_grep.c line 19 :syntax error
+wizards/balrog/cmds/_grep.c line 22 :Illegal LHS
+wizards/balrog/cmds/_grep.c line 22 :syntax error
+wizards/balrog/cmds/_grep.c line 13 :syntax error
+wizards/balrog/cmds/_grep.c line 17 :Illegal LHS
+wizards/balrog/cmds/_grep.c line 17 :Illegal LHS
+wizards/balrog/cmds/_grep.c line 19 :syntax error
+wizards/balrog/cmds/_grep.c line 22 :Illegal LHS
+wizards/balrog/cmds/_grep.c line 22 :syntax error
+wizards/balrog/eval_file.c line 2 :Undefined function atoi
+wizards/balrog/eval_file.c line 2 :syntax error
+wizards/balrog/eval_file.c line 4 :syntax error
+wizards/balrog/eval_file.c line 2 :syntax error
+wizards/balrog/eval_file.c line 4 :syntax error
+wizards/balrog/eval_file.c line 2 :syntax error
+wizards/balrog/cmds/./_grep.c line 20 :syntax error
+wizards/balrog/cmds/./_grep.c line 23 :Illegal LHS
+wizards/balrog/cmds/./_grep.c line 23 :syntax error
+wizards/balrog/cmds/./_grep.c line 25 :Illegal LHS
+wizards/balrog/cmds/./_grep.c line 26 :Illegal LHS
+wizards/balrog/cmds/./_grep.c line 29 :Illegal LHS
+wizards/balrog/cmds/./_grep.c line 20 :syntax error
+wizards/balrog/cmds/./_grep.c line 23 :Illegal LHS
+wizards/balrog/cmds/./_grep.c line 23 :syntax error
+wizards/balrog/cmds/./_grep.c line 25 :Illegal LHS
+wizards/balrog/cmds/./_grep.c line 26 :Illegal LHS
+wizards/balrog/cmds/./_grep.c line 29 :Illegal LHS
+wizards/balrog/cmds/./_grep.c line 20 :syntax error
+wizards/balrog/cmds/./_grep.c line 23 :Illegal LHS
+wizards/balrog/cmds/./_grep.c line 23 :syntax error
+wizards/balrog/cmds/./_grep.c line 25 :Illegal LHS
+wizards/balrog/cmds/./_grep.c line 26 :Illegal LHS
+wizards/balrog/cmds/./_grep.c line 29 :Illegal LHS
+wizards/balrog/cmds/_grep.c line 48 :syntax error
+wizards/balrog/cmds/_grep.c line 49 :Illegal LHS
+wizards/balrog/cmds/_grep.c line 49 :syntax error
+wizards/balrog/cmds/_grep.c line 54 :Illegal LHS
+wizards/balrog/cmds/_grep.c line 66 :syntax error
+wizards/balrog/cmds/_grep.c line 69 :Variable ob not declared !
+wizards/balrog/eval_file.c line 2 :syntax error
+wizards/balrog/eval_file.c line 2 :syntax error
+wizards/balrog/eval_file.c line 2 :syntax error
+wizards/balrog/eval_file.c line 2 :syntax error
+wizards/balrog/eval_file.c line 2 :syntax error
+wizards/balrog/cmds/_grep.c line 36 :syntax error
+wizards/balrog/eval_file.c line 2 :Bad assignment. Rhs: "string "
+wizards/balrog/eval_file.c line 2 :Bad assignment. Rhs: "string "
+wizards/balrog/eval_file.c line 2 :Bad assignment. Rhs: "string "
+wizards/balrog/cmds/_grep.c line 35 :Type mismatch ( unknown vs mixed ) when initializing counta
+wizards/balrog/cmds/_grep.c line 35 :Missing type
+wizards/balrog/cmds/_grep.c line 37 :Variable fns not declared !
+wizards/balrog/cmds/_grep.c line 37 :Type mismatch ( unknown vs mixed ) when initializing filenames
+wizards/balrog/cmds/_grep.c line 37 :Missing type
+wizards/balrog/cmds/_grep.c line 38 :Type mismatch ( unknown vs int ) when initializing mfiles
+wizards/balrog/cmds/_grep.c line 35 :Type mismatch ( unknown vs mixed ) when initializing counta
+wizards/balrog/cmds/_grep.c line 35 :Missing type
+wizards/balrog/cmds/_grep.c line 37 :Variable fns not declared !
+wizards/balrog/cmds/_grep.c line 37 :Type mismatch ( unknown vs mixed ) when initializing filenames
+wizards/balrog/cmds/_grep.c line 37 :Missing type
+wizards/balrog/cmds/_grep.c line 38 :Type mismatch ( unknown vs int ) when initializing mfiles
+wizards/balrog/cmds/_grep.c line 30 :syntax error
+wizards/balrog/cmds/_grep.c line 31 :Illegal LHS
+wizards/balrog/cmds/_grep.c line 31 :syntax error
+wizards/balrog/cmds/_grep.c line 35 :Illegal LHS
+wizards/balrog/cmds/_grep.c line 37 :Illegal LHS
+wizards/balrog/cmds/_grep.c line 38 :Illegal LHS
+wizards/balrog/cmds/_grep.c line 30 :syntax error
+wizards/balrog/cmds/_grep.c line 31 :Illegal LHS
+wizards/balrog/cmds/_grep.c line 31 :syntax error
+wizards/balrog/cmds/_grep.c line 35 :Illegal LHS
+wizards/balrog/cmds/_grep.c line 37 :Illegal LHS
+wizards/balrog/cmds/_grep.c line 38 :Illegal LHS
+wizards/balrog/cmds/_grep.c line 30 :syntax error
+wizards/balrog/cmds/_grep.c line 31 :Illegal LHS
+wizards/balrog/cmds/_grep.c line 31 :syntax error
+wizards/balrog/cmds/_grep.c line 35 :Illegal LHS
+wizards/balrog/cmds/_grep.c line 37 :Illegal LHS
+wizards/balrog/cmds/_grep.c line 38 :Illegal LHS
+wizards/balrog/cmds/_grep.c line 30 :syntax error
+wizards/balrog/cmds/_grep.c line 31 :Illegal LHS
+wizards/balrog/cmds/_grep.c line 31 :syntax error
+wizards/balrog/cmds/_grep.c line 35 :Illegal LHS
+wizards/balrog/cmds/_grep.c line 37 :Illegal LHS
+wizards/balrog/cmds/_grep.c line 38 :Illegal LHS
+wizards/balrog/cmds/_grep.c line 3 :syntax error
+wizards/balrog/cmds/_grep.c line 14 :Variable start not declared !
+wizards/balrog/cmds/_grep.c line 15 :Variable fns not declared !
+wizards/balrog/cmds/_grep.c line 18 :Variable sstring not declared !
+wizards/balrog/cmds/_grep.c line 18 :Variable filename not declared !
+wizards/balrog/cmds/_grep.c line 20 :Variable filename not declared !
+wizards/balrog/cmds/_grep.c line 3 :syntax error
+wizards/balrog/cmds/_grep.c line 14 :Variable start not declared !
+wizards/balrog/cmds/_grep.c line 15 :Variable fns not declared !
+wizards/balrog/cmds/_grep.c line 18 :Variable sstring not declared !
+wizards/balrog/cmds/_grep.c line 18 :Variable filename not declared !
+wizards/balrog/cmds/_grep.c line 20 :Variable filename not declared !
+wizards/balrog/cmds/_grep.c line 39 :Type mismatch ( unknown vs mixed ) when initializing counta
+wizards/balrog/cmds/_grep.c line 39 :Missing type
+wizards/balrog/cmds/_grep.c line 41 :Variable fns not declared !
+wizards/balrog/cmds/_grep.c line 41 :Type mismatch ( unknown vs mixed ) when initializing filenames
+wizards/balrog/cmds/_grep.c line 41 :Missing type
+wizards/balrog/cmds/_grep.c line 42 :Type mismatch ( unknown vs int ) when initializing mfiles
+wizards/balrog/cmds/_grep.c line 39 :Type mismatch ( unknown vs mixed ) when initializing counta
+wizards/balrog/cmds/_grep.c line 39 :Missing type
+wizards/balrog/cmds/_grep.c line 41 :Variable fns not declared !
+wizards/balrog/cmds/_grep.c line 41 :Type mismatch ( unknown vs mixed ) when initializing filenames
+wizards/balrog/cmds/_grep.c line 41 :Missing type
+wizards/balrog/cmds/_grep.c line 42 :Type mismatch ( unknown vs int ) when initializing mfiles
+wizards/balrog/cmds/_grep.c line 118 :Undefined function len
+wizards/balrog/cmds/_grep.c line 118 :Function len undefined
+wizards/balrog/cmds/_grep.c line 118 :Wrong number of arguments to len
+wizards/balrog/cmds/_grep.c line 118 :Bad argument number 1 to '-': "unknown "
+wizards/balrog/eval_file.c line 2 :Bad assignment. Rhs: "string "
+wizards/balrog/eval_file.c line 2 :Bad argument 1 type to efun sizeof()
+wizards/balrog/cmds/_grep.c line 133 :Variable tmp not declared !
+wizards/balrog/cmds/_grep.c line 134 :Variable tmp not declared !
+wizards/balrog/cmds/_grep.c line 134 :syntax error
+wizards/balrog/cmds/_grep.c line 135 :Illegal LHS
+wizards/balrog/cmds/_grep.c line 135 :syntax error
+wizards/balrog/cmds/_grep.c line 137 :Illegal LHS
+wizards/balrog/cmds/_grep.c line 137 :syntax error
+wizards/balrog/cmds/_grep.c line 139 :Illegal LHS
+wizards/balrog/cmds/_grep.c line 134 :syntax error
+wizards/balrog/cmds/_grep.c line 135 :Illegal LHS
+wizards/balrog/cmds/_grep.c line 135 :syntax error
+wizards/balrog/cmds/_grep.c line 137 :Illegal LHS
+wizards/balrog/cmds/_grep.c line 137 :syntax error
+wizards/balrog/cmds/_grep.c line 139 :Illegal LHS
+wizards/balrog/cmds/_grep.c line 168 :End of file in a comment
+wizards/balrog/cmds/_grep.c line 168 :syntax error
+wizards/balrog/cmds/_grep.c line 169 :End of file in a comment
+wizards/balrog/cmds/_grep.c line 169 :syntax error
+wizards/balrog/cmds/_grep.c line 129 :Function is_dir undefined
+wizards/balrog/cmds/_grep.c line 142 :Function is_dir undefined
+wizards/balrog/cmds/_grep.c line 129 :Function is_dir undefined
+wizards/balrog/cmds/_grep.c line 142 :Function is_dir undefined
+wizards/balrog/cmds/_grep.c line 109 :function not defined by inheritance as specified
+wizards/balrog/cmds/_grep.c line 136 :syntax error
+wizards/balrog/cmds/_grep.c line 109 :Function fix_file undefined
+wizards/balrog/cmds/_grep.c line 136 :syntax error
+wizards/balrog/cmds/_grep.c line 136 :syntax error
+wizards/balrog/testroom.c line 33 :syntax error
+wizards/balrog/testroom.c line 38 :syntax error
+wizards/balrog/cmds/_where.c line 12 :Variable BOLD not declared !
+wizards/balrog/cmds/_where.c line 12 :Variable BLUE_F not declared !
+wizards/balrog/cmds/_where.c line 12 :Variable CYAN_F not declared !
+wizards/balrog/cmds/_where.c line 12 :Variable OFF not declared !
+wizards/balrog/cmds/_where.c line 13 :Variable BOLD not declared !
+wizards/balrog/cmds/_where.c line 13 :Variable BLUE_F not declared !
+wizards/balrog/cmds/_where.c line 13 :Variable CYAN_F not declared !
+wizards/balrog/cmds/_where.c line 13 :Variable OFF not declared !
+wizards/balrog/cmds/_where.c line 50 :Bad assignment. Rhs: "string "
+wizards/balrog/cmds/_where.c line 51 :Bad assignment. Rhs: "string "
+wizards/balrog/cmds/_where.c line 51 :Bad assignment. Rhs: "string "
+wizards/balrog/cmds/_where.c line 52 :Bad assignment. Rhs: "string "
+wizards/balrog/cmds/_where.c line 52 :Bad assignment. Rhs: "string "
+wizards/balrog/cmds/_where.c line 53 :Bad assignment. Rhs: "string "
+wizards/balrog/cmds/_where.c line 52 :Bad assignment. Rhs: "string "
+wizards/balrog/cmds/_where.c line 53 :Bad assignment. Rhs: "string "
+wizards/balrog/eval_file.c line 2 :Variable dira not declared !
+wizards/balrog/eval_file.c line 2 :Variable lvl not declared !
+wizards/balrog/eval_file.c line 2 :Variable dirb not declared !
+wizards/balrog/eval_file.c line 2 :Variable dira not declared !
+wizards/balrog/eval_file.c line 2 :Variable lvl not declared !
+wizards/balrog/eval_file.c line 2 :Variable dirb not declared !
+wizards/balrog/eval_file.c line 2 :Variable dira not declared !
+wizards/balrog/eval_file.c line 2 :Variable lvl not declared !
+wizards/balrog/eval_file.c line 2 :Variable dira not declared !
+wizards/balrog/eval_file.c line 2 :Variable lvl not declared !
+wizards/balrog/eval_file.c line 2 :Variable dira not declared !
+wizards/balrog/eval_file.c line 2 :Variable lvl not declared !
+wizards/balrog/eval_file.c line 2 :Variable dira not declared !
+wizards/balrog/eval_file.c line 2 :Variable lvl not declared !
+wizards/balrog/eval_file.c line 2 :syntax error
+wizards/balrog/eval_file.c line 2 :Newline in string
+wizards/balrog/eval_file.c line 2 :syntax error
+wizards/balrog/eval_file.c line 2 :Newline in string
+wizards/balrog/eval_file.c line 2 :syntax error
+wizards/balrog/eval_file.c line 2 :Newline in string
+wizards/balrog/eval_file.c line 2 :syntax error
+wizards/balrog/eval_file.c line 2 :Newline in string
+wizards/balrog/test/fun_space.c line 8 :Bad assignment. Rhs: "string "
+wizards/balrog/baz/dbaz.c line 40 :Variable this_player not declared !
+wizards/balrog/baz/dbaz.c line 83 :syntax error
+wizards/balrog/baz/dbaz.c line 69 :syntax error
+wizards/balrog/baz/dbaz.c line 70 :Illegal character (hex 5c) '\'
+wizards/balrog/baz/dbaz.c line 70 :syntax error
+wizards/balrog/baz/dbaz.c line 70 :Illegal character (hex 5c) '\'
+wizards/balrog/baz/dbaz.c line 70 :Newline in string
+wizards/balrog/baz/dbaz.c line 70 :Illegal character constant
+wizards/balrog/baz/dbaz.c line 70 :syntax error
+wizards/balrog/baz/dbaz.c line 37 :Variable PATH not declared !
+wizards/balrog/baz/dbaz.c line 49 :Variable this_player not declared !

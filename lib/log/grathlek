@@ -1,0 +1,530 @@
+wizards/grathlek/area2/croome.c line 15 :Illegal character (hex 5c) '\'
+wizards/grathlek/area2/croome.c line 15 :syntax error
+wizards/grathlek/area2/croome.c line 15 :Illegal character (hex 5c) '\'
+wizards/grathlek/area2/croome.c line 15 :syntax error
+wizards/grathlek/area2/eq/cstaff.c line 6 :Newline in string
+wizards/grathlek/area2/eq/cstaff.c line 7 :syntax error
+wizards/grathlek/area2/croomp.c line 6 :syntax error
+wizards/grathlek/area2/croomp.c line 6 :syntax error
+wizards/grathlek/area2/croomp.c line 6 :syntax error
+wizards/grathlek/area2/croomp.c line 6 :syntax error
+wizards/grathlek/area2/croomp.c line 6 :syntax error
+wizards/grathlek/area2/croomp.c line 6 :syntax error
+wizards/grathlek/area2/croomp.c line 6 :syntax error
+wizards/grathlek/area2/croomp.c line 6 :syntax error
+wizards/grathlek/area2/croomp.c line 6 :syntax error
+wizards/grathlek/area2/croomp.c line 6 :syntax error
+wizards/grathlek/area2/croomp.c line 12 :Illegal character (hex 5c) '\'
+wizards/grathlek/area2/croomp.c line 12 :syntax error
+wizards/grathlek/ablade.c line 4 :Variable arg not declared !
+wizards/grathlek/ablade.c line 5 :Variable arg not declared !
+wizards/grathlek/ablade.c line 12 :Newline in string
+wizards/grathlek/ablade.c line 13 :syntax error
+wizards/grathlek/ablade.c line 10 :Newline in string
+wizards/grathlek/ablade.c line 11 :syntax error
+wizards/grathlek/area4/monsies/necro.c line 16 :Variable human not declared !
+wizards/grathlek/area4/monsies/necro.c line 22 :Newline in string
+wizards/grathlek/area4/monsies/necro.c line 22 :syntax error
+wizards/grathlek/area4/monsies/necro.c line 26 :Too few arguments to clone_object
+wizards/grathlek/area4/monsies/necro.c line 30 :Too few arguments to clone_object
+wizards/grathlek/area4/monsies/necro.c line 34 :Too few arguments to clone_object
+wizards/grathlek/area4/monsies/necro.c line 16 :Variable human not declared !
+wizards/grathlek/area4/monsies/necro.c line 16 :Variable human not declared !
+wizards/grathlek/area4/monsies/gzombie.c line 18 :Variable northeast not declared !
+wizards/grathlek/area4/monsies/gzombie.c line 19 :Variable southwest not declared !
+wizards/grathlek/area4/monsies/gzombie.c line 17 :Variable northeast not declared !
+wizards/grathlek/area4/monsies/gzombie.c line 18 :Variable southwest not declared !
+wizards/grathlek/area4/monsies/gzombie.c line 17 :Variable northeast not declared !
+wizards/grathlek/area4/monsies/gzombie.c line 18 :Variable southwest not declared !
+wizards/grathlek/area4/monsies/gzombie.c line 16 :Variable northeast not declared !
+wizards/grathlek/area4/monsies/gzombie.c line 17 :Variable southwest not declared !
+wizards/grathlek/area4/hroom1.c line 11 :Newline in string
+wizards/grathlek/area4/hroom1.c line 17 :syntax error
+wizards/grathlek/area4/hroom1.c line 11 :Newline in string
+wizards/grathlek/area4/hroom1.c line 17 :syntax error
+wizards/grathlek/area4/hroom1.c line 11 :Newline in string
+wizards/grathlek/area4/hroom1.c line 17 :syntax error
+wizards/grathlek/area4/hroom1.c line 11 :Newline in string
+wizards/grathlek/area4/hroom1.c line 17 :syntax error
+wizards/grathlek/area4/testi.c line 13 :syntax error
+wizards/grathlek/area4/monsies/arppa.c line 47 :Variable magma_moko not declared !
+wizards/grathlek/area4/monsies/arppa.c line 48 :Variable magma_moko not declared !
+wizards/grathlek/area4/testi.c line 9 :syntax error
+wizards/grathlek/area4/testi.c line 11 :Illegal LHS
+wizards/grathlek/area4/testi.c line 13 :syntax error
+wizards/grathlek/area4/testi.c line 13 :syntax error
+wizards/grathlek/area2/testi.c line 8 :Too many arguments to this_object
+wizards/grathlek/area4/monsies/testi.c line 10 :Variable dead not declared !
+wizards/grathlek/area4/test.c line 12 :syntax error
+wizards/grathlek/area4/te.c line 10 :syntax error
+wizards/grathlek/area4/te.c line 10 :syntax error
+wizards/grathlek/area4/tes.c line 11 :syntax error
+wizards/grathlek/area4/monsies/bsheep.c line 11 :syntax error
+wizards/grathlek/area4/monsies/bsheep.c line 15 :Illegal LHS
+wizards/grathlek/area4/monsies/bsheep.c line 15 :syntax error
+wizards/grathlek/area4/monsies/bsheep.c line 11 :syntax error
+wizards/grathlek/area4/monsies/bsheep.c line 14 :Illegal LHS
+wizards/grathlek/area4/monsies/bsheep.c line 14 :syntax error
+wizards/grathlek/area4/monsies/bsheep.c line 11 :syntax error
+wizards/grathlek/area4/monsies/bsheep.c line 11 :Illegal character (hex 5c) '\'
+wizards/grathlek/area4/monsies/bsheep.c line 11 :syntax error
+wizards/grathlek/area4/monsies/bsheep.c line 11 :Newline in string
+wizards/grathlek/area4/monsies/bsheep.c line 15 :Too few arguments to clone_object
+wizards/grathlek/area4/monsies/bsheep.c line 15 :Illegal LHS
+wizards/grathlek/area4/monsies/bsheep.c line 15 :syntax error
+wizards/grathlek/area4/monsies/bsheep.c line 11 :Illegal character (hex 5c) '\'
+wizards/grathlek/area4/monsies/bsheep.c line 11 :syntax error
+wizards/grathlek/area4/monsies/bsheep.c line 11 :Newline in string
+wizards/grathlek/area4/monsies/bsheep.c line 15 :Too few arguments to clone_object
+wizards/grathlek/area4/monsies/bsheep.c line 15 :Illegal LHS
+wizards/grathlek/area4/monsies/bsheep.c line 15 :syntax error
+wizards/grathlek/area4/monsies/bsheep.c line 10 :Illegal character (hex 5c) '\'
+wizards/grathlek/area4/monsies/bsheep.c line 10 :syntax error
+wizards/grathlek/area4/monsies/bsheep.c line 10 :Newline in string
+wizards/grathlek/area4/monsies/cyclops.c line 11 :syntax error
+wizards/grathlek/area4/monsies/cyclops.c line 14 :Illegal LHS
+wizards/grathlek/area4/monsies/cyclops.c line 14 :syntax error
+wizards/grathlek/area4/monsies/cyclops.c line 11 :syntax error
+wizards/grathlek/area4/monsies/cyclops.c line 14 :Illegal LHS
+wizards/grathlek/area4/monsies/cyclops.c line 14 :syntax error
+wizards/grathlek/area4/monsies/bsheep.c line 11 :syntax error
+wizards/grathlek/area4/monsies/bsheep.c line 15 :Illegal LHS
+wizards/grathlek/area4/monsies/bsheep.c line 15 :syntax error
+wizards/grathlek/area4/monsies/bsheep.c line 11 :syntax error
+wizards/grathlek/area4/monsies/bsheep.c line 14 :Illegal LHS
+wizards/grathlek/area4/monsies/bsheep.c line 14 :syntax error
+wizards/grathlek/area4/monsies/sheep.c line 11 :syntax error
+wizards/grathlek/area4/monsies/sheep.c line 14 :Illegal LHS
+wizards/grathlek/area4/monsies/sheep.c line 14 :syntax error
+wizards/grathlek/area1/eq/caxe.c line 7 :syntax error
+wizards/grathlek/area1/eq/caxe.c line 7 :syntax error
+wizards/grathlek/area1/eq/caxe.c line 7 :syntax error
+wizards/grathlek/area1/eq/caxe.c line 7 :syntax error
+wizards/grathlek/area1/eq/caxe.c line 7 :syntax error
+wizards/grathlek/area1/eq/caxe.c line 7 :syntax error
+wizards/grathlek/area1/eq/caxe.c line 7 :syntax error
+wizards/grathlek/area1/eq/caxe.c line 7 :syntax error
+wizards/grathlek/area1/eq/caxe.c line 7 :syntax error
+wizards/grathlek/area1/eq/caxe.c line 7 :syntax error
+wizards/grathlek/area1/eq/caxe.c line 7 :syntax error
+wizards/grathlek/area1/eq/caxe.c line 7 :syntax error
+wizards/grathlek/area1/eq/caxe.c line 7 :syntax error
+wizards/grathlek/area1/eq/caxe.c line 7 :syntax error
+wizards/grathlek/area1/eq/caxe.c line 7 :syntax error
+wizards/grathlek/area1/eq/caxe.c line 7 :syntax error
+wizards/grathlek/area1/eq/caxe.c line 7 :syntax error
+wizards/grathlek/area1/eq/caxe.c line 7 :syntax error
+wizards/grathlek/ablade.c line 10 :Newline in string
+wizards/grathlek/ablade.c line 11 :syntax error
+wizards/grathlek/area2/monsies/adrel.c line 4 :Variable a_chat_str not declared !
+wizards/grathlek/area2/monsies/adrel.c line 5 :syntax error
+wizards/grathlek/area2/monsies/adrel.c line 24 :Variable a_chat_str not declared !
+wizards/grathlek/area2/monsies/adrel.c line 25 :Variable a_chat_str not declared !
+wizards/grathlek/area2/monsies/adrel.c line 26 :Variable a_chat_str not declared !
+wizards/grathlek/area2/monsies/adrel.c line 28 :Variable chat_str not declared !
+wizards/grathlek/area2/monsies/testi.c line 4 :Variable a_chat_str not declared !
+wizards/grathlek/area2/monsies/testi.c line 5 :syntax error
+wizards/grathlek/area2/monsies/testi.c line 23 :Variable a_chat_str not declared !
+wizards/grathlek/area2/monsies/testi.c line 24 :Variable a_chat_str not declared !
+wizards/grathlek/area2/monsies/testi.c line 25 :Variable a_chat_str not declared !
+wizards/grathlek/area2/monsies/testi.c line 27 :Variable chat_str not declared !
+wizards/grathlek/area2/hrooma.c line 21 :Illegal character (hex 5c) '\'
+wizards/grathlek/area2/hrooma.c line 21 :syntax error
+wizards/grathlek/area2/hrooma.c line 21 :Newline in string
+wizards/grathlek/area2/monsies/addi.c line 4 :Variable a_chat_str not declared !
+wizards/grathlek/area2/monsies/addi.c line 5 :syntax error
+wizards/grathlek/area2/monsies/addi.c line 23 :Variable a_chat_str not declared !
+wizards/grathlek/area2/monsies/addi.c line 24 :Variable a_chat_str not declared !
+wizards/grathlek/area2/monsies/addi.c line 25 :Variable a_chat_str not declared !
+wizards/grathlek/area2/monsies/addi.c line 27 :Variable chat_str not declared !
+wizards/grathlek/area2/hrooma.c line 21 :Illegal character (hex 5c) '\'
+wizards/grathlek/area2/hrooma.c line 21 :syntax error
+wizards/grathlek/area2/hrooma.c line 21 :Newline in string
+wizards/grathlek/area2/hrooma.c line 21 :Illegal character (hex 5c) '\'
+wizards/grathlek/area2/hrooma.c line 21 :syntax error
+wizards/grathlek/area2/hrooma.c line 21 :Newline in string
+wizards/grathlek/area2/hrooma.c line 21 :Illegal character (hex 5c) '\'
+wizards/grathlek/area2/hrooma.c line 21 :syntax error
+wizards/grathlek/area2/hrooma.c line 21 :Newline in string
+wizards/grathlek/area2/hrooma.c line 21 :Illegal character (hex 5c) '\'
+wizards/grathlek/area2/hrooma.c line 21 :syntax error
+wizards/grathlek/area2/hrooma.c line 21 :Newline in string
+wizards/grathlek/homo.c line 20 :Type mismatch ( unknown vs mixed * ) when initializing items
+wizards/grathlek/homo.c line 20 :Missing type
+wizards/grathlek/homo.c line 21 :syntax error
+wizards/grathlek/hroomi.c line 29 :Redeclaration of function reset.
+wizards/grathlek/hroomi.c line 31 :Redeclaration of function reset.
+wizards/grathlek/area2/monsies/ukulele.c line 28 :Redeclaration of function reset.
+wizards/grathlek/area2/monsies/ukulele.c line 30 :Redeclaration of function reset.
+wizards/grathlek/area2/monsies/ukulele.c line 28 :Redeclaration of function reset.
+wizards/grathlek/area2/monsies/ukulele.c line 30 :Redeclaration of function reset.
+wizards/grathlek/area4/monsies/cimp.c line 10 :syntax error
+wizards/grathlek/area4/monsies/cimp.c line 10 :Illegal character (hex 2e) '.'
+wizards/grathlek/area4/monsies/cimp.c line 10 :Illegal character (hex 5c) '\'
+wizards/grathlek/area4/monsies/cimp.c line 10 :Newline in string
+wizards/grathlek/area4/croom2.c line 15 :Newline in string
+wizards/grathlek/area4/eq/hat.c line 5 :Variable hat not declared !
+wizards/grathlek/area4/eq/hat.c line 6 :syntax error
+wizards/grathlek/area4/eq/hat.c line 9 :Illegal character (hex 2e) '.'
+wizards/grathlek/area4/eq/boots.c line 5 :Variable boots not declared !
+wizards/grathlek/area4/eq/boots.c line 6 :syntax error
+wizards/grathlek/area4/eq/boots.c line 9 :Illegal character (hex 2e) '.'
+wizards/grathlek/area4/eq/knuckleses.c line 5 :Variable knuckleses not declared !
+wizards/grathlek/area4/eq/knuckleses.c line 6 :syntax error
+wizards/grathlek/area4/eq/knuckleses.c line 7 :Illegal character (hex 2e) '.'
+wizards/grathlek/area4/monsies/wwimp.c line 14 :Variable west not declared !
+wizards/grathlek/area4/monsies/simp.c line 13 :syntax error
+wizards/grathlek/area4/monsies/simp.c line 13 :Illegal character (hex 2e) '.'
+wizards/grathlek/area4/monsies/simp.c line 13 :Illegal character (hex 5c) '\'
+wizards/grathlek/area4/monsies/simp.c line 13 :Newline in string
+wizards/grathlek/area4/monsies/simp.c line 18 :Illegal LHS
+wizards/grathlek/area4/monsies/simp.c line 18 :syntax error
+wizards/grathlek/area4/monsies/simp.c line 34 :Type mismatch ( unknown vs object ) when initializing armour
+wizards/grathlek/area4/monsies/simp.c line 34 :Missing type
+wizards/grathlek/area4/monsies/simp.c line 35 :syntax error
+wizards/grathlek/area4/monsies/simp.c line 34 :Type mismatch ( unknown vs object ) when initializing armour
+wizards/grathlek/area4/monsies/simp.c line 34 :Missing type
+wizards/grathlek/area4/monsies/simp.c line 35 :syntax error
+wizards/grathlek/area4/monsies/simp.c line 34 :Type mismatch ( unknown vs object ) when initializing armour
+wizards/grathlek/area4/monsies/simp.c line 34 :Missing type
+wizards/grathlek/area4/monsies/simp.c line 35 :syntax error
+wizards/grathlek/area4/monsies/simp.c line 34 :Type mismatch ( unknown vs object ) when initializing armour
+wizards/grathlek/area4/monsies/simp.c line 34 :Missing type
+wizards/grathlek/area4/monsies/simp.c line 35 :syntax error
+wizards/grathlek/area4/monsies/simp.c line 34 :Type mismatch ( unknown vs object ) when initializing armour
+wizards/grathlek/area4/monsies/simp.c line 34 :Missing type
+wizards/grathlek/area4/monsies/simp.c line 35 :syntax error
+wizards/grathlek/area4/monsies/ewimp.c line 14 :Variable east not declared !
+wizards/grathlek/area4/mroom8.c line 18 :Newline in string
+wizards/grathlek/area4/mroom8.c line 18 :Newline in string
+wizards/grathlek/area4/mroom8.c line 18 :Newline in string
+wizards/grathlek/area4/mroom8.c line 18 :Newline in string
+wizards/grathlek/area4/kroom1.c line 14 :Newline in string
+wizards/grathlek/area4/croom9.c line 43 :syntax error
+wizards/grathlek/area4/monsies/king.c line 12 :syntax error
+wizards/grathlek/area4/monsies/king.c line 12 :Illegal character (hex 2e) '.'
+wizards/grathlek/area4/monsies/king.c line 12 :Illegal character (hex 5c) '\'
+wizards/grathlek/area4/monsies/king.c line 12 :Newline in string
+wizards/grathlek/area4/monsies/king.c line 17 :Too few arguments to clone_object
+wizards/grathlek/area4/monsies/king.c line 17 :Illegal LHS
+wizards/grathlek/area4/monsies/king.c line 12 :syntax error
+wizards/grathlek/area4/monsies/king.c line 12 :Illegal character (hex 2e) '.'
+wizards/grathlek/area4/monsies/king.c line 12 :Illegal character (hex 5c) '\'
+wizards/grathlek/area4/monsies/king.c line 12 :Newline in string
+wizards/grathlek/area4/monsies/king.c line 17 :Too few arguments to clone_object
+wizards/grathlek/area4/monsies/king.c line 17 :Illegal LHS
+wizards/grathlek/area4/monsies/king.c line 12 :syntax error
+wizards/grathlek/area4/monsies/king.c line 12 :Illegal character (hex 2e) '.'
+wizards/grathlek/area4/monsies/king.c line 12 :Illegal character (hex 5c) '\'
+wizards/grathlek/area4/monsies/king.c line 12 :Newline in string
+wizards/grathlek/area4/monsies/king.c line 17 :Too few arguments to clone_object
+wizards/grathlek/area4/monsies/king.c line 17 :Illegal LHS
+wizards/grathlek/area4/mroom8.c line 18 :Newline in string
+wizards/grathlek/area4/mroom4.c line 17 :Newline in string
+wizards/grathlek/area4/mroom4.c line 17 :Newline in string
+wizards/grathlek/area4/mroom4.c line 17 :Newline in string
+wizards/grathlek/area4/monsies/limp.c line 43 :Redeclaration of function monster_init.
+wizards/grathlek/area4/monsies/limp.c line 47 :Redeclaration of function monster_init.
+wizards/grathlek/area4/monsies/limp.c line 49 :Redeclaration of function catch_tell.
+wizards/grathlek/area4/monsies/limp.c line 67 :Redeclaration of function catch_tell.
+wizards/grathlek/area4/monsies/limp.c line 33 :Variable str not declared !
+wizards/grathlek/area4/monsies/limp.c line 33 :syntax error
+wizards/grathlek/area4/monsies/limp.c line 35 :Variable str not declared !
+wizards/grathlek/area4/monsies/eimp.c line 14 :Variable str not declared !
+wizards/grathlek/area4/monsies/eimp.c line 14 :syntax error
+wizards/grathlek/area4/monsies/eimp.c line 17 :Variable str not declared !
+wizards/grathlek/area4/monsies/eimp.c line 17 :Variable tmp1 not declared !
+wizards/grathlek/area4/monsies/eimp.c line 17 :Variable tmp2 not declared !
+wizards/grathlek/area4/monsies/eimp.c line 18 :Variable ob not declared !
+wizards/grathlek/area4/monsies/eimp.c line 14 :Variable str not declared !
+wizards/grathlek/area4/monsies/eimp.c line 14 :syntax error
+wizards/grathlek/area4/monsies/eimp.c line 17 :Variable str not declared !
+wizards/grathlek/area4/monsies/eimp.c line 17 :Variable tmp1 not declared !
+wizards/grathlek/area4/monsies/eimp.c line 17 :Variable tmp2 not declared !
+wizards/grathlek/area4/monsies/eimp.c line 18 :Variable ob not declared !
+wizards/grathlek/area4/croom9.c line 43 :syntax error
+wizards/grathlek/area4/croom9.c line 43 :syntax error
+wizards/grathlek/area4/croom9.c line 23 :syntax error
+wizards/grathlek/area4/croom9.c line 25 :syntax error
+wizards/grathlek/area4/croom9.c line 27 :syntax error
+wizards/grathlek/area4/croom9.c line 36 :Illegal LHS
+wizards/grathlek/area4/croom9.c line 60 :Illegal LHS
+wizards/grathlek/area4/croom9.c line 23 :syntax error
+wizards/grathlek/area4/croom9.c line 25 :syntax error
+wizards/grathlek/area4/croom9.c line 27 :syntax error
+wizards/grathlek/area4/croom9.c line 36 :Illegal LHS
+wizards/grathlek/area4/croom9.c line 60 :Illegal LHS
+wizards/grathlek/area4/croom9.c line 44 :syntax error
+wizards/grathlek/area4/croom9.c line 44 :syntax error
+wizards/grathlek/area4/croom9.c line 44 :syntax error
+wizards/grathlek/area4/croom9.c line 57 :syntax error
+wizards/grathlek/area4/croom9.c line 60 :syntax error
+wizards/grathlek/area4/croom9.c line 62 :Illegal LHS
+wizards/grathlek/area4/croom9.c line 57 :syntax error
+wizards/grathlek/area4/croom9.c line 60 :syntax error
+wizards/grathlek/area4/croom9.c line 62 :Illegal LHS
+wizards/grathlek/area4/croom9.c line 44 :syntax error
+wizards/grathlek/area4/croom9.c line 35 :Variable rock_pushed not declared !
+wizards/grathlek/area4/croom9.c line 39 :syntax error
+wizards/grathlek/area4/croom9.c line 35 :Variable rock_pushed not declared !
+wizards/grathlek/area4/croom9.c line 39 :syntax error
+wizards/grathlek/area4/croom9.c line 38 :syntax error
+wizards/grathlek/area4/croom9.c line 37 :syntax error
+wizards/grathlek/area1/croom9.c line 44 :Newline in string
+wizards/grathlek/area1/croom9.c line 45 :syntax error
+wizards/grathlek/area4/croom9.c line 45 :Newline in string
+wizards/grathlek/area4/croom9.c line 46 :syntax error
+wizards/grathlek/area4/croom9.c line 45 :Newline in string
+wizards/grathlek/area4/croom9.c line 46 :syntax error
+wizards/grathlek/area4/croom9.c line 44 :Newline in string
+wizards/grathlek/area4/croom9.c line 45 :syntax error
+wizards/grathlek/ablade.c line 10 :Newline in string
+wizards/grathlek/ablade.c line 11 :syntax error
+wizards/grathlek/area1/monsies/mastl.c line 22 :syntax error
+Sat Mar  4 18:21:54 2000 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#3227, 55) killed by Zapda (147) (Zapda)
+Sat Mar  4 18:40:44 2000 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#3318, 55) killed by Zapda (147) (Zapda)
+Sat Mar  4 19:03:08 2000 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#3656, 55) killed by Zapda (147) (Zapda)
+Sat Mar  4 19:18:40 2000 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#3910, 55) killed by Zapda (147) (Zapda)
+Sat Mar  4 19:33:14 2000 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#4128, 55) killed by Zapda (147) (Zapda)
+Sat Mar  4 19:46:12 2000 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#4333, 55) killed by Zapda (147) (Zapda)
+Sat Mar  4 20:02:12 2000 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#4536, 55) killed by Zapda (147) (Zapda)
+Sat Mar  4 20:18:54 2000 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#4740, 55) killed by Zapda (147) (Zapda)
+Sat Mar  4 20:34:04 2000 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#4960, 55) killed by Zapda (147) (Zapda)
+Sat Mar  4 20:55:24 2000 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#5195, 55) killed by Zapda (147) (Zapda)
+Sun Mar  5 12:27:31 2000 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#5890, 55) killed by Zapda (149) (Zapda)
+Sun Mar  5 12:45:51 2000 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#12260, 55) killed by Zapda (149) (Zapda)
+Sun Mar  5 13:02:25 2000 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#12608, 55) killed by Zapda (149) (Zapda)
+Sun Mar  5 13:18:47 2000 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#12902, 55) killed by Zapda (149) (Zapda)
+Sun Mar  5 13:34:39 2000 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#13206, 55) killed by Zapda (149) (Zapda)
+Sun Mar  5 13:49:13 2000 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#13774, 55) killed by Zapda (149) (Zapda)
+Sun Mar  5 14:49:24 2000 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#141, 55) killed by Zapda (149) (Zapda)
+Sun Mar  5 15:05:08 2000 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#373, 55) killed by Zapda (149) (Zapda)
+Sun Mar  5 15:24:22 2000 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#657, 55) killed by Zapda (149) (Zapda)
+Sun Mar  5 15:47:26 2000 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#1132, 55) killed by Zapda (150) (Zapda)
+Sun Mar  5 16:01:46 2000 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#1520, 55) killed by Zapda (150) (Zapda)
+Sun Mar  5 16:17:28 2000 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#1909, 55) killed by Zapda (150) (Zapda)
+Sun Mar  5 16:38:16 2000 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#2047, 55) killed by Zapda (150) (Zapda)
+Sun Mar  5 16:50:56 2000 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#2235, 55) killed by Zapda (150) (Zapda)
+Sun Mar  5 17:04:14 2000 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#2416, 55) killed by Zapda (150) (Zapda)
+Sun Mar  5 17:21:12 2000 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#2690, 55) killed by Zapda (150) (Zapda)
+Sun Mar  5 17:33:16 2000 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#2962, 55) killed by Zapda (150) (Zapda)
+Sun Mar  5 17:48:08 2000 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#3216, 55) killed by Zapda (150) (Zapda)
+Wed Mar 15 14:25:40 2000 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#21737, 55) killed by Zapda (159) (Zapda)
+Wed Mar 15 17:56:47 2000 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#2654, 55) killed by Zapda (159) (Zapda)
+Fri Mar 17 17:59:44 2000 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#1299, 55) killed by Zapda (162) (Zapda)
+Mon Apr  3 16:10:42 2000 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#30696, 55) killed by Rehti (85) (Rehti, Ab)
+Sat May 13 09:44:06 2000 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#5230, 55) killed by Zapda (169) (Zapda)
+Thu May 18 14:31:46 2000 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#26090, 55) killed by Nigel (133) (Drude, Nigel, Atreyu)
+Tue May 23 13:55:51 2000 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#26649, 55) killed by Drude (98) (Drude, Nigel, Maddoc)
+Tue Aug  1 05:38:12 2000 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#11226, 55) killed by Rantz (79) (Torspo, Descad, Rantz)
+Tue Aug 22 17:07:40 2000 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#26198, 55) killed by Drude (100) (Drude)
+wizards/grathlek/area4/eq/ball.c line 2 :syntax error
+wizards/grathlek/area4/eq/pillu.c line 17 :Variable More not declared !
+wizards/grathlek/area4/eq/pillu.c line 17 :syntax error
+wizards/grathlek/area4/eq/pillu.c line 19 :Illegal LHS
+wizards/grathlek/area4/eq/pillu.c line 25 :syntax error
+wizards/grathlek/homo.c line 16 :syntax error
+wizards/grathlek/homo.c line 16 :syntax error
+wizards/grathlek/homo.c line 16 :syntax error
+wizards/grathlek/area1/croom9.c line 44 :Newline in string
+wizards/grathlek/area1/croom9.c line 45 :syntax error
+wizards/grathlek/area4/monsies/limp.c line 57 :illegal to inherit after defining functions
+wizards/grathlek/area4/monsies/limp.c line 89 :Redeclaration of function monster_init.
+wizards/grathlek/area4/monsies/limp.c line 93 :Redeclaration of function monster_init.
+wizards/grathlek/area4/monsies/limp.c line 57 :illegal to inherit after defining functions
+wizards/grathlek/area4/monsies/limp.c line 89 :Redeclaration of function monster_init.
+wizards/grathlek/area4/monsies/limp.c line 93 :Redeclaration of function monster_init.
+wizards/grathlek/area4/monsies/limp.c line 57 :illegal to inherit after defining functions
+wizards/grathlek/area4/monsies/limp.c line 89 :Redeclaration of function monster_init.
+wizards/grathlek/area4/monsies/limp.c line 93 :Redeclaration of function monster_init.
+wizards/grathlek/area4/monsies/limp.c line 17 :Variable More not declared !
+wizards/grathlek/area4/monsies/limp.c line 17 :syntax error
+wizards/grathlek/area4/monsies/limp.c line 18 :Illegal LHS
+wizards/grathlek/area4/monsies/limp.c line 24 :syntax error
+wizards/grathlek/area4/monsies/limp.c line 17 :Variable More not declared !
+wizards/grathlek/area4/monsies/limp.c line 17 :syntax error
+wizards/grathlek/area4/monsies/limp.c line 18 :Illegal LHS
+wizards/grathlek/area4/monsies/limp.c line 24 :syntax error
+wizards/grathlek/kukkuu.c line 8 :Newline in string
+wizards/grathlek/kukkuu.c line 9 :syntax error
+wizards/grathlek/kaksmonsuu.c line 1 :syntax error
+wizards/grathlek/kukkuu/paha.c line 26 :syntax error
+wizards/grathlek/kukkuu/paha.c line 32 :Variable monster not declared !
+wizards/grathlek/kukkuu/paha.c line 32 :Too few arguments to clone_object
+wizards/grathlek/kukkuu/paha.c line 33 :Variable monster not declared !
+wizards/grathlek/kukkuu/paha.c line 37 :Variable ob not declared !
+wizards/grathlek/kukkuu/paha.c line 38 :Variable ob not declared !
+wizards/grathlek/kukkuu/paha.c line 17 :syntax error
+wizards/grathlek/kukkuu/paha.c line 17 :syntax error
+wizards/grathlek/ala.c line 8 :Variable str not declared !
+wizards/grathlek/ala.c line 9 :Variable dex not declared !
+wizards/grathlek/ala.c line 10 :Variable damage not declared !
+wizards/grathlek/ala.c line 11 :Variable hit not declared !
+wizards/grathlek/ala.c line 8 :Variable str not declared !
+wizards/grathlek/ala.c line 9 :Variable dex not declared !
+wizards/grathlek/ala.c line 10 :Variable damage not declared !
+wizards/grathlek/ala.c line 11 :Variable hit not declared !
+Sat Oct 21 12:40:03 2000 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#13168, 55) killed by Piikki (133) 
+Wed Nov 22 13:20:20 2000 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#33314, 55) killed by Ahma (100) (Ahma, Tekari)
+Wed Nov 22 18:19:00 2000 Tyrael the paladin commander (wizards/grathlek/area1/monsies/cpaladin#4863, 62) killed by Tekari (100) (Ahma, Tekari)
+Thu Nov 23 21:15:21 2000 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#13473, 55) killed by Ahma (102) (Ahma, Tekari)
+Thu Nov 23 21:27:15 2000 Tyrael the paladin commander (wizards/grathlek/area1/monsies/cpaladin#13729, 62) killed by Tekari (100) (Ahma, Tekari)
+Mon Nov 27 01:40:20 2000 Tyrael the paladin commander (wizards/grathlek/area1/monsies/cpaladin#5933, 62) killed by Zapda (177) 
+Mon Nov 27 02:24:09 2000 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#8135, 55) killed by Zapda (177) 
+Tue Nov 28 14:41:45 2000 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#22003, 55) killed by Zapda (178) 
+Tue Nov 28 18:50:19 2000 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#2074, 55) killed by Zapda (178) 
+Thu Dec  7 00:52:01 2000 Tyrael the paladin commander (wizards/grathlek/area1/monsies/cpaladin#12123, 62) killed by Ahma (104) (Ahma, Tekari, Veron)
+Thu Dec 14 22:39:10 2000 Tyrael the paladin commander (wizards/grathlek/area1/monsies/cpaladin#12063, 62) killed by Ahma (106) (Ahma, Tekari, Trooper)
+Fri Dec 15 19:34:07 2000 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#2201, 55) killed by Dooyee (81) (Trooper, Ab, Rehti, Dooyee)
+Fri Dec 15 19:50:44 2000 Tyrael the paladin commander (wizards/grathlek/area1/monsies/cpaladin#2557, 62) killed by Rehti (79) (Trooper, Ab, Rehti, Dooyee)
+Sat Dec 16 18:35:10 2000 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#1470, 55) killed by Dooyee (81) (Rehti, Dooyee, Trooper, Ab)
+Sat Dec 16 18:48:27 2000 Tyrael the paladin commander (wizards/grathlek/area1/monsies/cpaladin#1715, 62) killed by Rehti (81) (Rehti, Dooyee, Trooper, Ab)
+Sun Dec 17 19:26:43 2000 Tyrael the paladin commander (wizards/grathlek/area1/monsies/cpaladin#2176, 62) killed by Tekari (100) (Ahma, Tekari, Hemies)
+Tue Dec 19 22:11:20 2000 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#10109, 55) killed by Tekari (100) (Tekari, Kaappi, Ahma)
+Tue Dec 19 22:20:46 2000 Tyrael the paladin commander (wizards/grathlek/area1/monsies/cpaladin#10292, 62) killed by Tekari (100) (Tekari, Kaappi, Ahma)
+Sat Dec 23 15:38:57 2000 Tyrael the paladin commander (wizards/grathlek/area1/monsies/cpaladin#11345, 62) killed by Ahma (91) (Ahma, Tekari, Kaappi)
+Mon Dec 25 02:11:59 2000 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#1743, 55) killed by Trooper (93) (Trooper, Dooyee, Rag, Tekari)
+Wed Feb 28 19:30:52 2001 Tyrael the paladin commander (wizards/grathlek/area1/monsies/cpaladin#44211, 54) killed by Tekari (103) (Tekari, Quest, Ahma)
+Sat Mar 10 23:50:48 2001 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#9993, 55) killed by Celes (72) (Celes, Golthar, Frotz, Edwin, Nether)
+Sat Mar 24 00:57:50 2001 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#23080, 58) killed by Tekari (103) (Tekari, Rehti, Trooper, Veron, Celes)
+Sat Mar 24 19:21:47 2001 Tyrael the paladin commander (wizards/grathlek/area1/monsies/cpaladin#49039, 54) killed by Edwin (80) (Edwin, Nether, Frotz, Rag, Dooyee)
+Sat Mar 24 21:23:52 2001 Tyrael the paladin commander (wizards/grathlek/area1/monsies/cpaladin#650, 58) killed by Edwin (80) (Edwin, Dooyee, Frotz, Nether, Veron)
+Sun Mar 25 22:36:57 2001 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#2775, 58) killed by Kaappi (104) (Kaappi, Terror, Celes, Frotz, Edwin)
+Tue Mar 27 20:41:17 2001 Tyrael the paladin commander (wizards/grathlek/area1/monsies/cpaladin#5475, 62) killed by Kaappi (101) (Terror, Celes, Frotz, Kaappi, Edwin)
+Wed Mar 28 19:33:05 2001 Tyrael the paladin commander (wizards/grathlek/area1/monsies/cpaladin#43093, 54) killed by Kaappi (101) (Terror, Celes, Kaappi, Nether, Frotz)
+Wed Mar 28 19:45:15 2001 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#43548, 58) killed by Kaappi (101) (Terror, Celes, Kaappi, Nether, Frotz)
+Wed Mar 28 23:15:24 2001 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#5571, 58) killed by Kaappi (101) (Kaappi, Celes, Terror, Drakhor, Frotz)
+Fri May 18 02:05:48 2001 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#6179, 58) killed by Oaycrin (66) (Terror, , Oaycrin, Trooper)
+Mon Jun  4 18:14:51 2001 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#15531, 58) killed by Terror (76) (Terror, Maple, Trooper, Coil)
+Mon Jun  4 22:47:09 2001 Tyrael the paladin commander (wizards/grathlek/area1/monsies/cpaladin#15864, 58) killed by Terror (76) (Moonstar, Trooper, Coil, Terror)
+Thu Jul 26 16:14:50 2001 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#8502, 58) killed by Rehti (102) (Trooper, Ab, Rehti)
+Thu Jul 26 16:39:34 2001 Tyrael the paladin commander (wizards/grathlek/area1/monsies/cpaladin#8765, 62) killed by Rehti (102) (Trooper, Ab, Rehti)
+Fri Aug 10 20:22:36 2001 Tyrael the paladin commander (wizards/grathlek/area1/monsies/cpaladin#32022, 62) killed by Bloodstorm (72) (Jenny, Garuda, Bloodstorm)
+Tue Aug 14 14:20:30 2001 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#18179, 58) killed by Rehti (106) (Trooper, Rehti, Maple)
+Tue Aug 14 14:31:56 2001 Tyrael the paladin commander (wizards/grathlek/area1/monsies/cpaladin#18831, 62) killed by ghost of rehti (106) (Trooper, ghost of rehti, Maple)
+Wed Aug 22 17:39:28 2001 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#27621, 58) killed by Terror (100) (Tekari, Trooper, , Terror)
+Wed Aug 22 17:45:08 2001 Tyrael the paladin commander (wizards/grathlek/area1/monsies/cpaladin#27952, 54) killed by Terror (100) (Tekari, Trooper, , Terror)
+Thu Aug 23 15:49:44 2001 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#13404, 58) killed by Rehti (139) (Trooper, Rehti, Rag)
+Tue Aug 28 21:30:46 2001 Tyrael the paladin commander (wizards/grathlek/area1/monsies/cpaladin#7278, 58) killed by Ahma (141) (Terror, Tekari, Ahma)
+Thu Aug 30 18:19:57 2001 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#1575, 58) killed by Ahma (143) (Terror, Tekari, Ahma)
+Sun Sep  2 19:23:09 2001 Master Leornic the mage (wizards/grathlek/area1/monsies/mastl#44599, 58) killed by Ahma (152) (Terror, Tekari, Ahma)
+wizards/grathlek/area1/monsies/mastl.c line 5 :syntax error
+wizards/grathlek/test/darl.c line 8 :Variable dwarf not declared !
+wizards/grathlek/test/darl.c line 11 :Variable miner not declared !
+wizards/grathlek/test/darl.c line 12 :Variable dwarf not declared !
+wizards/grathlek/test/darl.c line 14 :syntax error
+wizards/grathlek/test/darl.c line 24 :Illegal LHS
+wizards/grathlek/test/darl.c line 24 :syntax error
+wizards/grathlek/test/darl.c line 36 :syntax error
+wizards/grathlek/test/darl.c line 36 :Newline in string
+Sat Sep 22 17:17:33 2001 Master Leornic the mage (/wizards/grathlek/area1/monsies/mastl#18956, 63) killed by Terror (139) (Terror, Ahma, Tekari)
+Wed Sep 26 21:58:32 2001 Tyrael the paladin commander (/wizards/grathlek/area1/monsies/cpaladin#35496, 58) killed by Ahma (192) (Ahma, Terror)
+Wed Sep 26 22:27:54 2001 Master Leornic the mage (/wizards/grathlek/area1/monsies/mastl#43123, 58) killed by Terror (131) (Ahma, Terror)
+Wed Oct 17 00:07:59 2001 Master Leornic the mage (/wizards/grathlek/area1/monsies/mastl#42012, 63) killed by Trooper (175) (Trooper, Piikki, Vertical)
+Sat Oct 20 23:48:23 2001 Tyrael the paladin commander (/wizards/grathlek/area1/monsies/cpaladin#22931, 62) killed by Bloodstorm (78) (Jenny, Garuda, Bloodstorm, Dar)
+Sun Oct 21 14:48:58 2001 Tyrael the paladin commander (/wizards/grathlek/area1/monsies/cpaladin#4874, 54) killed by Jenny (106) (Jenny, Bloodstorm, Garuda, Dar)
+Wed Oct 24 23:41:56 2001 Master Leornic the mage (/wizards/grathlek/area1/monsies/mastl#26679, 63) killed by Jenny (106) (Jenny, Maple, Rag, Dar)
+Sat Nov  3 19:28:38 2001 Tyrael the paladin commander (/wizards/grathlek/area1/monsies/cpaladin#25222, 54) killed by Rehti (147) (Rehti, Slat, Piikki, Maple)
+Sat Nov  3 19:43:50 2001 Master Leornic the mage (/wizards/grathlek/area1/monsies/mastl#25710, 63) killed by Rehti (147) (Rehti, Slat, Piikki, Maple)
+Sat Nov 10 20:54:12 2001 Tyrael the paladin commander (/wizards/grathlek/area1/monsies/cpaladin#6121, 54) killed by Jenny (104) (Jenny, Gorth, Maple, Bloodstorm, )
+Fri Nov 16 23:39:36 2001 Tyrael the paladin commander (/wizards/grathlek/area1/monsies/cpaladin#23838, 54) killed by Nether (88) (Nether, Dar, Ntg, Frotz)
+Sat Dec  8 04:00:17 2001 Tyrael the paladin commander (/wizards/grathlek/area1/monsies/cpaladin#26183, 54) killed by Trooper (170) (Trooper, , Maple, Bloodstorm)
+Thu Dec 13 18:20:48 2001 Tyrael the paladin commander (/wizards/grathlek/area1/monsies/cpaladin#5138, 62) killed by Trooper (196) (Trooper, Jenny, , Bloodstorm)
+Fri Dec 21 16:28:27 2001 Tyrael the paladin commander (/wizards/grathlek/area1/monsies/cpaladin#52458, 62) killed by Jenny (127) (Jenny, Bloodstorm)
+Sat Dec 29 15:40:20 2001 Tyrael the paladin commander (/wizards/grathlek/area1/monsies/cpaladin#14536, 62) killed by Dar (93) (Digimon, Dar, Jenny)
+Sun Dec 30 01:50:40 2001 Tyrael the paladin commander (/wizards/grathlek/area1/monsies/cpaladin#5397, 58) killed by Dar (101) (Dar, Digimon, Vertical, Atw)
+Thu Jan  3 04:40:21 2002 Master Leornic the mage (/wizards/grathlek/area1/monsies/mastl#17583, 63) killed by Jenny (153) (Jenny, Dar, )
+Fri Jan 18 21:41:09 2002 Master Leornic the mage (/wizards/grathlek/area1/monsies/mastl#4169, 63) killed by Jenny (163) (Jenny, Golthar)
+Sun Jan 20 22:49:31 2002 Master Leornic the mage (/wizards/grathlek/area1/monsies/mastl#7416, 63) killed by Jenny (172) (Jenny, Devil, ghost of ozmolokki)
+Tue Jan 22 16:24:57 2002 Master Leornic the mage (/wizards/grathlek/area1/monsies/mastl#32568, 63) killed by Jenny (174) (Jenny, Vertical)
+Mon Feb 11 18:12:21 2002 Tyrael the paladin commander (/wizards/grathlek/area1/monsies/cpaladin#9338, 62) killed by Sepiroth (73) (Devil, Rimber, Sepiroth)
+Mon Feb 11 21:43:00 2002 Tyrael the paladin commander (/wizards/grathlek/area1/monsies/cpaladin#1264, 54) killed by Sepiroth (73) (Devil, , Sepiroth, ghost of ozmolokki)
+Tue Feb 12 22:20:19 2002 Master Leornic the mage (/wizards/grathlek/area1/monsies/mastl#436, 63) killed by Sepiroth (73) (Devil, , Bloodstorm, Sepiroth)
+Mon Feb 25 19:24:34 2002 Tyrael the paladin commander (/wizards/grathlek/area1/monsies/cpaladin#8617, 58) killed by Devil (95) (, Rimber, Ozmolokki, Devil)
+Sat Mar  2 23:27:12 2002 Tyrael the paladin commander (/wizards/grathlek/area1/monsies/cpaladin#8646, 62) killed by Jenny (183) (Devil, Bloodstorm, Jenny)
+Sat Mar  2 23:39:46 2002 Master Leornic the mage (/wizards/grathlek/area1/monsies/mastl#8639, 58) killed by Jenny (183) (Devil, Bloodstorm, Jenny)
+Wed Mar  6 17:35:46 2002 Master Leornic the mage (/wizards/grathlek/area1/monsies/mastl#8117, 58) killed by Jenny (164) 
+Sun Mar 24 13:56:01 2002 Master Leornic the mage (/wizards/grathlek/area1/monsies/mastl#24868, 58) killed by Jenny (185) 
+Wed Mar 27 23:14:47 2002 Master Leornic the mage (/wizards/grathlek/area1/monsies/mastl#5995, 63) killed by Sepiroth (81) (Devil, Sepiroth, , Kaappi)
+Sat Apr 20 20:19:57 2002 Master Leornic the mage(strong) (/wizards/grathlek/area1/monsies/mastl#7153, 630) killed by Jenny (204) (Jenny, Lord, Feanor)
+Tue May 28 20:53:32 2002 Master Leornic the mage(strong) (/wizards/grathlek/area1/monsies/mastl#1531, 58) killed by Jenny (204) 
+Tue Jun 25 01:26:56 2002 Tyrael the paladin commander(strong) (/wizards/grathlek/area1/monsies/cpaladin#53942, 58) killed by Horde (129) 
+Thu Jun 27 04:27:58 2002 Tyrael the paladin commander(strong) (/wizards/grathlek/area1/monsies/cpaladin#3441, 58) killed by Trooper (240) 
+Tue Jul 16 14:55:04 2002 Master Leornic the mage(strong) (/wizards/grathlek/area1/monsies/mastl#792, 63) killed by Celes (173) 
+Sun Sep 15 15:34:02 2002 Master Leornic the mage(strong) (/wizards/grathlek/area1/monsies/mastl#806, 58) killed by Trooper (221) 
+Wed Sep 18 21:02:41 2002 Tyrael the paladin commander(strong) (/wizards/grathlek/area1/monsies/cpaladin#490, 58) killed by Devil (153) 
+Mon Sep 23 21:20:59 2002 Tyrael the paladin commander(strong) (/wizards/grathlek/area1/monsies/cpaladin#6003, 58) killed by Devil (157) 
+Thu Nov 14 18:18:17 2002 Tyrael the paladin commander(strong) (/wizards/grathlek/area1/monsies/cpaladin#10940, 62) killed by Devil (184) 
+Tue Mar  4 19:54:21 2003 Tyrael the paladin commander(strong) (/wizards/grathlek/area1/monsies/cpaladin#1395, 54) killed by Devil (185) 
+Mon Jun  9 22:35:21 2003 Master Leornic the mage(strong) (/wizards/grathlek/area1/monsies/mastl#27181, 63) killed by Drakhor (208) 
+Fri Sep 26 21:00:14 2003 Master Leornic the mage(strong) (/wizards/grathlek/area1/monsies/mastl#1776, 63) killed by Devil (189) 
+Sat Nov 29 01:02:19 2003 Master Leornic the mage(strong) (/wizards/grathlek/area1/monsies/mastl#441, 63) killed by Devil (203) 
+Sun Feb 29 14:32:08 2004 Tyrael the paladin commander(strong) (/wizards/grathlek/area1/monsies/cpaladin#13709, 54) killed by Jenny (162) 
+Mon Mar  1 13:03:04 2004 Master Leornic the mage(strong) (/wizards/grathlek/area1/monsies/mastl#14212, 58) killed by Jenny (163) 
+Sat Mar  6 04:27:46 2004 Master Leornic the mage(strong) (/wizards/grathlek/area1/monsies/mastl#5604, 63) killed by Bloodstorm (176) 
+Sat Mar  6 04:32:54 2004 Tyrael the paladin commander(strong) (/wizards/grathlek/area1/monsies/cpaladin#5764, 54) killed by Bloodstorm (176) 
+Fri Mar 12 18:58:20 2004 Master Leornic the mage(strong) (/wizards/grathlek/area1/monsies/mastl#20496, 63) killed by Trooper (172) 
+Sat Mar 13 18:59:51 2004 Tyrael the paladin commander(strong) (/wizards/grathlek/area1/monsies/cpaladin#16156, 62) killed by Jenny (210) 
+Sun Mar 28 17:44:06 2004 Tyrael the paladin commander(strong) (/wizards/grathlek/area1/monsies/cpaladin#29077, 58) killed by Nightscale (127) 
+Sat Apr  3 13:37:20 2004 Master Leornic the mage(strong) (/wizards/grathlek/area1/monsies/mastl#34299, 58) killed by Nightscale (148) 
+Thu Sep 16 05:11:07 2004 Tyrael the paladin commander(strong) (/wizards/grathlek/area1/monsies/cpaladin#75057, 58) killed by Reaper (357) 
+Tue Dec 14 04:22:58 2004 Tyrael the paladin commander(strong) (/wizards/grathlek/area1/monsies/cpaladin#51502, 54) killed by Jin (241) 
+Sun Jan 09 11:07:53 2005 Tyrael the paladin commander(strong) (/wizards/grathlek/area1/monsies/cpaladin#10650, 62) killed by Madk (158) 
+Sun Feb 06 18:42:53 2005 Tyrael the paladin commander(strong) (/wizards/grathlek/area1/monsies/cpaladin#23584, 62) killed by Kaappi (241) 
+Thu Jul 28 22:00:36 2005 Master Leornic the mage(strong) (/wizards/grathlek/area1/monsies/mastl#20325, 58) killed by Kaappi (284) 
+Mon Oct 10 15:14:44 2005 Master Leornic the mage(strong) (/wizards/grathlek/area1/monsies/mastl#9483, 63) killed by Ntg (229) 
+Mon Oct 10 15:20:14 2005 Tyrael the paladin commander(strong) (/wizards/grathlek/area1/monsies/cpaladin#9920, 54) killed by Ntg (229) 
+Sat Oct 22 15:02:09 2005 Master Leornic the mage(strong) (/wizards/grathlek/area1/monsies/mastl#3153, 63) killed by Moonshdw (174) 
+Thu Oct 27 22:53:55 2005 Tyrael the paladin commander(strong) (/wizards/grathlek/area1/monsies/cpaladin#26186, 58) killed by Elric (184) 
+Mon Oct 31 20:27:52 2005 Master Leornic the mage(strong) (/wizards/grathlek/area1/monsies/mastl#28099, 63) killed by Elric (208) 
+Thu Nov 03 19:24:44 2005 Master Leornic the mage(strong) (/wizards/grathlek/area1/monsies/mastl#27969, 58) killed by Elric (184) 
+Thu Nov 03 20:45:38 2005 Tyrael the paladin commander(strong) (/wizards/grathlek/area1/monsies/cpaladin#32134, 54) killed by Elric (184) 
+Sat Dec 10 01:22:23 2005 Tyrael the paladin commander(strong) (/wizards/grathlek/area1/monsies/cpaladin#11396, 62) killed by Ntg (269) 
+Wed Dec 28 15:03:53 2005 Tyrael the paladin commander(strong) (/wizards/grathlek/area1/monsies/cpaladin#17180, 58) killed by Ntg (270) 
+Fri Dec 30 11:33:16 2005 Tyrael the paladin commander(strong) (/wizards/grathlek/area1/monsies/cpaladin#2196, 62) killed by Kaappi (296) 
+Sat Dec 31 07:59:07 2005 Tyrael the paladin commander(strong) (/wizards/grathlek/area1/monsies/cpaladin#1485, 62) killed by Ntg (269) 
+Wed Feb 15 15:57:58 2006 Master Leornic the mage(strong) (/wizards/grathlek/area1/monsies/mastl#6368, 63) killed by Nightwish (176) 
+Wed Jun 21 21:51:11 2006 Tyrael the paladin commander(strong) (/wizards/grathlek/area1/monsies/cpaladin#8512, 58) killed by Devil (186) 
+Wed Jul 26 00:22:09 2006 Master Leornic the mage(strong) (/wizards/grathlek/area1/monsies/mastl#8588, 63) killed by Bloodstorm (243) 
+Mon Jul 31 08:39:58 2006 Master Leornic the mage(strong) (/wizards/grathlek/area1/monsies/mastl#2837, 58) killed by Devil (181) 
+Mon Jul 31 21:25:01 2006 Tyrael the paladin commander(strong) (/wizards/grathlek/area1/monsies/cpaladin#9933, 58) killed by Reaper (238) 
+Wed Aug 02 20:44:46 2006 Master Leornic the mage(strong) (/wizards/grathlek/area1/monsies/mastl#5796, 58) killed by Devil (178) 
+Wed Aug 02 21:03:15 2006 Tyrael the paladin commander(strong) (/wizards/grathlek/area1/monsies/cpaladin#5936, 58) killed by Devil (178) 
+Wed Aug 09 14:55:08 2006 Master Leornic the mage(strong) (/wizards/grathlek/area1/monsies/mastl#4770, 63) killed by Elric (286) 
+Mon Nov 13 13:23:46 2006 Tyrael the paladin commander(strong) (/wizards/grathlek/area1/monsies/cpaladin#1118, 54) killed by Nightwish (161) 
+Mon Nov 13 13:42:01 2006 Master Leornic the mage(strong) (/wizards/grathlek/area1/monsies/mastl#1274, 63) killed by Nightwish (161) 
+Tue Nov 14 14:44:37 2006 Tyrael the paladin commander(strong) (/wizards/grathlek/area1/monsies/cpaladin#716, 58) killed by Nightwish (161) 
+Fri Dec 29 00:24:40 2006 Master Leornic the mage(strong) (/wizards/grathlek/area1/monsies/mastl#40488, 63) killed by Elric (303) 
+Sat Jan 06 15:39:49 2007 Master Leornic the mage(strong) (/wizards/grathlek/area1/monsies/mastl#9244, 63) killed by Elric (303) 
+Mon May 28 18:06:33 2007 Tyrael the paladin commander(strong) (/wizards/grathlek/area1/monsies/cpaladin#13566, 58) killed by Elric (400) 
+Mon Jul 09 15:41:25 2007 Tyrael the paladin commander(strong) (/wizards/grathlek/area1/monsies/cpaladin#2159, 58) killed by Nightwish (185) 
+Mon Jul 09 16:00:36 2007 Master Leornic the mage(strong) (/wizards/grathlek/area1/monsies/mastl#3185, 58) killed by Nightwish (185) 
+Thu Jul 12 16:15:23 2007 Tyrael the paladin commander(strong) (/wizards/grathlek/area1/monsies/cpaladin#5811, 54) killed by Nightwish (190) 
+Tue Jul 17 15:38:41 2007 Master Leornic the mage(strong) (/wizards/grathlek/area1/monsies/mastl#22732, 63) killed by Nightwish (184) 
+Thu Aug 23 13:24:36 2007 Master Leornic the mage(strong) (/wizards/grathlek/area1/monsies/mastl#940, 63) killed by Nightwish (222) 
+Sun Nov 11 17:26:29 2007 Master Leornic the mage(strong) (/wizards/grathlek/area1/monsies/mastl#3164, 58) killed by Reaper (168) 
+Wed Dec 19 00:58:56 2007 Tyrael the paladin commander(strong) (/wizards/grathlek/area1/monsies/cpaladin#37035, 58) killed by Bloodstorm (284) 
+Wed Dec 19 23:32:18 2007 Master Leornic the mage(strong) (/wizards/grathlek/area1/monsies/mastl#36197, 63) killed by Bloodstorm (285) 
+Sun Dec 23 21:13:09 2007 Tyrael the paladin commander(strong) (/wizards/grathlek/area1/monsies/cpaladin#24203, 62) killed by Madk (93) 
+Fri Jan 04 17:51:15 2008 Master Leornic the mage(strong) (/wizards/grathlek/area1/monsies/mastl#18562, 63) killed by Bloodstorm (286) 
+Tue Jan 08 15:42:57 2008 Master Leornic the mage(strong) (/wizards/grathlek/area1/monsies/mastl#499754, 63) killed by Devil (193) 
+Fri Jan 11 20:38:12 2008 Master Leornic the mage(strong) (/wizards/grathlek/area1/monsies/mastl#235538, 58) killed by Devil (205) 
+Sat Jan 12 05:59:06 2008 Tyrael the paladin commander(strong) (/wizards/grathlek/area1/monsies/cpaladin#277115, 58) killed by Devil (222) 
+Mon Feb 11 00:07:22 2008 Tyrael the paladin commander(strong) (/wizards/grathlek/area1/monsies/cpaladin#39959, 58) killed by Olsma (219) 
+Wed Feb 13 14:21:59 2008 Master Leornic the mage(strong) (/wizards/grathlek/area1/monsies/mastl#22152, 58) killed by Elric (400) 
+Fri Mar 07 10:55:34 2008 Tyrael the paladin commander(strong) (/wizards/grathlek/area1/monsies/cpaladin#8395, 58) killed by Alardolath (249) 
+Fri May 23 14:30:53 2008 Master Leornic the mage(strong) (/wizards/grathlek/area1/monsies/mastl#7272, 63) killed by Olsma (230) 
+Thu Aug 07 16:11:13 2008 Tyrael the paladin commander(strong) (/wizards/grathlek/area1/monsies/cpaladin#10944, 62) killed by Shadowman (175) 
+Fri Aug 08 13:51:36 2008 Tyrael the paladin commander(strong) (/wizards/grathlek/area1/monsies/cpaladin#6029, 62) killed by Shadowman (175) 
+Sat Sep 13 01:11:02 2008 Tyrael the paladin commander(strong) (/wizards/grathlek/area1/monsies/cpaladin#80085, 58) killed by Ntg (387) 
+Sat Sep 13 11:24:59 2008 Master Leornic the mage(strong) (/wizards/grathlek/area1/monsies/mastl#8735, 58) killed by Ntg (387) 
+Sat Sep 13 11:27:23 2008 Tyrael the paladin commander(strong) (/wizards/grathlek/area1/monsies/cpaladin#8836, 54) killed by Ntg (387) 
+Fri Oct 10 10:51:26 2008 Tyrael the paladin commander(strong) (/wizards/grathlek/area1/monsies/cpaladin#587, 58) killed by Golthar (400) 
+Wed Dec 03 20:35:46 2008 Master Leornic the mage(strong) (/wizards/grathlek/area1/monsies/mastl#4576, 63) killed by Ozmala (249) 
+Thu Dec 04 21:13:32 2008 Tyrael the paladin commander(strong) (/wizards/grathlek/area1/monsies/cpaladin#10916, 58) killed by Ozmala (249) 
+Tue Dec 23 09:08:49 2008 Master Leornic the mage(strong) (/wizards/grathlek/area1/monsies/mastl#366, 63) killed by Ozmala (245) 
+Mon Feb 02 16:32:13 2009 Tyrael the paladin commander(strong) (/wizards/grathlek/area1/monsies/cpaladin#19986, 54) killed by Terror (223) 
+Wed Feb 04 17:57:31 2009 Master Leornic the mage(strong) (/wizards/grathlek/area1/monsies/mastl#13332, 63) killed by Reaper (208) 
+Wed Feb 04 18:08:07 2009 Tyrael the paladin commander(strong) (/wizards/grathlek/area1/monsies/cpaladin#13960, 54) killed by Reaper (208) 
+Tue Apr 07 19:36:55 2009 Tyrael the paladin commander(strong) (/wizards/grathlek/area1/monsies/cpaladin#7962, 62) killed by Alardolath (532) 
+Fri Jan 29 14:48:24 2010 Tyrael the paladin commander(strong) (/wizards/grathlek/area1/monsies/cpaladin#3703, 54) killed by Olsma (251) 

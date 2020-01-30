@@ -1,0 +1,2520 @@
+Tue Jun  5 20:29:41 2001 The shaman of the village, Kar'hheni (surrounded by purple mist) (wizards/siki/lizard/monsters/shaman#4750, 60) killed by Terror (84) (Tekari, Trooper, Terror, Coil, Frotz)
+Thu Jul 26 16:54:54 2001 A huge sea monster (wizards/siki/lizard/monsters/monster#9646, 60) killed by Rehti (102) (Trooper, Ab, Rehti)
+Tue Aug 14 13:57:31 2001 A huge sea monster (wizards/siki/lizard/monsters/monster#14669, 62) killed by ghost of rehti (106) (Trooper, ghost of rehti, Maple)
+Tue Aug 14 14:04:56 2001 The shaman of the village, Kar'hheni (surrounded by purple mist) (wizards/siki/lizard/monsters/shaman#14516, 55) killed by Rehti (106) (Trooper, Rehti, Maple)
+Tue Aug 14 14:10:16 2001 A terrible beast with long horns (wizards/siki/lizard/monsters/beast#17033, 49) killed by Rehti (106) (Trooper, Rehti, Maple)
+Tue Aug 21 16:58:11 2001 The shaman of the village, Kar'hheni (surrounded by purple mist) (wizards/siki/lizard/monsters/shaman#19093, 55) killed by Rehti (139) (Trooper, Rehti, Veron)
+Thu Aug 23 16:07:18 2001 The shaman of the village, Kar'hheni (surrounded by purple mist) (wizards/siki/lizard/monsters/shaman#14495, 55) killed by Rehti (139) (Trooper, Rehti, Rag)
+Sun Sep  2 18:05:09 2001 A huge sea monster (wizards/siki/lizard/monsters/monster#37813, 64) killed by Ahma (152) (Terror, Tekari, Ahma)
+Sat Sep 22 00:39:15 2001 The shaman of the village, Kar'hheni (surrounded by purple mist) (/wizards/siki/lizard/monsters/shaman#46223, 60) killed by ghost of tekari (111) (Terror, Ahma, ghost of tekari)
+Sun Sep 23 16:21:59 2001 The lizardking Seb'stunus (/wizards/siki/lizard/monsters/king#36568, 64) killed by Tekari (108) (Terror, Ahma, Tekari)
+Wed Oct 17 18:47:36 2001 A terrible beast with long horns (/wizards/siki/lizard/monsters/beast#27900, 49) killed by Piikki (134) (Trooper, Piikki, Vertical)
+Wed Oct 17 18:58:39 2001 The shaman of the village, Kar'hheni (surrounded by purple mist) (/wizards/siki/lizard/monsters/shaman#21810, 55) killed by Trooper (175) (Trooper, Piikki, Vertical)
+Sun Oct 21 18:54:34 2001 A huge sea monster (/wizards/siki/lizard/monsters/monster#17940, 60) killed by ghost of maple (99) (Jenny, Bloodstorm, Piikki, Garuda, Dar, ghost of maple)
+Sat Oct 27 18:01:56 2001 A huge sea monster (/wizards/siki/lizard/monsters/monster#16252, 64) killed by Jenny (104) (Jenny, Bloodstorm, Piikki, Dar)
+Mon Nov 12 00:09:39 2001 A terrible beast with long horns (/wizards/siki/lizard/monsters/beast#37059, 49) killed by Terror (170) (Terror, Piikki, Tekari)
+Tue Nov 13 19:10:42 2001 A terrible beast with long horns (/wizards/siki/lizard/monsters/beast#12337, 49) killed by Terror (173) (Terror, Piikki)
+Wed Nov 14 23:52:08 2001 A huge sea monster (/wizards/siki/lizard/monsters/monster#28919, 60) killed by Terror (175) (Terror, Piikki, Tekari, )
+Sat Nov 17 14:07:00 2001 A huge sea monster (/wizards/siki/lizard/monsters/monster#47421, 60) killed by Terror (175) (Terror, Piikki)
+wizards/siki/orc/hall1.c line 29 :Illegal character (hex 18) ''
+wizards/siki/orc/hall1.c line 29 :syntax error
+wizards/siki/orc/hall1.c line 29 :Illegal character (hex 19) ''
+wizards/siki/orc/hall1.c line 29 :Illegal LHS
+wizards/siki/orc/hall1.c line 30 :Illegal character (hex 19) ''
+wizards/siki/orc/hall1.c line 30 :syntax error
+Sun Jan 13 03:24:07 2002 The shaman of the village, Kar'hheni (surrounded by purple mist) (/wizards/siki/lizard/monsters/shaman#17177, 60) killed by Trooper (196) (Jenny, Trooper, Bloodstorm)
+Sun Jan 13 03:48:29 2002 A huge sea monster (/wizards/siki/lizard/monsters/monster#17406, 63) killed by Trooper (196) (Jenny, Trooper, Bloodstorm)
+Tue Jan 29 18:55:50 2002 The shaman of the village, Kar'hheni (surrounded by purple mist) (/wizards/siki/lizard/monsters/shaman#39010, 55) killed by Jenny (179) (Jenny, , Golthar)
+wizards/siki/lizard/monsters/shaman.c line 22 :syntax error
+wizards/siki/lizard/monsters/shaman.c line 37 :Too few arguments to clone_object
+wizards/siki/lizard/monsters/shaman.c line 37 :Illegal LHS
+wizards/siki/lizard/monsters/shaman.c line 37 :syntax error
+wizards/siki/lizard/monsters/shaman.c line 43 :Too few arguments to clone_object
+wizards/siki/lizard/monsters/shaman.c line 43 :Illegal LHS
+Sun Mar  3 00:49:33 2002 The shaman of the village, Kar'hheni (surrounded by purple mist) (/wizards/siki/lizard/monsters/shaman#7038, 50) killed by Jenny (183) (Devil, Bloodstorm, Jenny)
+Sun Mar  3 01:19:57 2002 A huge sea monster (/wizards/siki/lizard/monsters/monster#14390, 62) killed by Jenny (183) (Devil, Bloodstorm, Jenny)
+Fri Apr  5 14:56:39 2002 The lizardking Seb'stunus (/wizards/siki/lizard/monsters/king#42441, 67) killed by Silver dragon (80) 
+Fri Apr  5 15:13:28 2002 The lizardqueen Amerl'da (/wizards/siki/lizard/monsters/queen#42447, 82) killed by Silver dragon (80) 
+Sat May 25 17:56:01 2002 The lizardking Seb'stunus(strong) (/wizards/siki/lizard/monsters/king#21371, 70) killed by Jenny (203) (Golthar, Celes, , Jenny)
+Sat May 25 18:51:21 2002 The lizardqueen Amerl'da(strong) (/wizards/siki/lizard/monsters/queen#21378, 72) killed by Jenny (203) (Golthar, Celes, , Jenny)
+Thu Jul  4 05:54:03 2002 A huge sea monster(strong) (/wizards/siki/lizard/monsters/monster#29282, 60) killed by Trooper (217) 
+wizards/siki/torch.c line 41 :Variable i not declared !
+wizards/siki/torch.c line 42 :Variable i not declared !
+Thu Sep 19 22:25:19 2002 A huge sea monster(strong) (/wizards/siki/lizard/monsters/monster#3404, 62) killed by Devil (153) 
+wizards/siki/eval_file.c line 2 :syntax error
+wizards/siki/eval_file.c line 2 :syntax error
+wizards/siki/eval_file.c line 2 :syntax error
+wizards/siki/eval_file.c line 2 :syntax error
+wizards/siki/race_object.c line 13 :Variable arg not declared !
+wizards/siki/race_object.c line 15 :syntax error
+wizards/siki/race_object.c line 21 :Too few arguments to get_dir
+wizards/siki/race_object.c line 21 :Illegal LHS
+wizards/siki/race_object.c line 21 :syntax error
+wizards/siki/race_object.c line 14 :syntax error
+wizards/siki/race_object.c line 19 :Too few arguments to get_dir
+wizards/siki/race_object.c line 19 :Illegal LHS
+wizards/siki/race_object.c line 19 :syntax error
+wizards/siki/eval_file.c line 2 :syntax error
+wizards/siki/eval_file.c line 2 :syntax error
+wizards/siki/eval_file.c line 3 :End of file in a comment
+wizards/siki/race_object.c line 15 :continue statement outside loop
+wizards/siki/race_object.c line 15 :continue statement outside loop
+wizards/siki/eval_file.c line 2 :syntax error
+wizards/siki/race_object.c line 17 :syntax error
+wizards/siki/race_object.c line 17 :Illegal LHS
+wizards/siki/race_object.c line 17 :Variable i not declared !
+wizards/siki/race_object.c line 17 :syntax error
+wizards/siki/race_object.c line 18 :syntax error
+wizards/siki/race_object.c line 19 :Variable file not declared !
+wizards/siki/race_object.c line 19 :Illegal LHS
+wizards/siki/race_object.c line 18 :Variable sz not declared !
+wizards/siki/race_object.c line 21 :Variable ii not declared !
+wizards/siki/race_object.c line 20 :syntax error
+wizards/siki/race_object.c line 20 :syntax error
+wizards/siki/race_object.c line 23 :Illegal LHS
+wizards/siki/race_object.c line 24 :Too few arguments to printf
+wizards/siki/race_object.c line 24 :syntax error
+wizards/siki/race_object.c line 17 :syntax error
+wizards/siki/race_object.c line 20 :Illegal LHS
+wizards/siki/race_object.c line 21 :syntax error
+wizards/siki/race_object.c line 17 :syntax error
+wizards/siki/race_object.c line 20 :Illegal LHS
+wizards/siki/race_object.c line 21 :syntax error
+wizards/siki/ob.c line 22 :Variable tmp2 not declared !
+wizards/siki/ob.c line 23 :syntax error
+wizards/siki/ob.c line 26 :Variable tmp2 not declared !
+wizards/siki/ob.c line 27 :Variable i not declared !
+wizards/siki/ob.c line 27 :Variable i not declared !
+wizards/siki/ob.c line 27 :Variable tmp2 not declared !
+wizards/siki/ob.c line 24 :syntax error
+wizards/siki/ob.c line 28 :Variable i not declared !
+wizards/siki/ob.c line 28 :Variable i not declared !
+wizards/siki/ob.c line 28 :Variable i not declared !
+wizards/siki/ob.c line 29 :Variable i not declared !
+wizards/siki/ob.c line 23 :syntax error
+wizards/siki/ob.c line 20 :syntax error
+wizards/siki/ob.c line 20 :syntax error
+wizards/siki/ob.c line 22 :syntax error
+wizards/siki/ob.c line 23 :Variable tmp not declared !
+wizards/siki/ob.c line 25 :Variable tmp not declared !
+wizards/siki/ob.c line 22 :syntax error
+wizards/siki/ob.c line 23 :Variable tmp not declared !
+wizards/siki/ob.c line 25 :Variable tmp not declared !
+wizards/siki/eval_file.c line 2 :Undefined function outf
+wizards/siki/ob1.c line 21 :syntax error
+wizards/siki/ob1.c line 21 :Illegal character (hex 2e) '.'
+wizards/siki/ob1.c line 22 :Illegal LHS
+wizards/siki/ob1.c line 22 :syntax error
+wizards/siki/ob1.c line 23 :Illegal LHS
+wizards/siki/ob1.c line 29 :syntax error
+wizards/siki/ob1.c line 21 :syntax error
+wizards/siki/ob1.c line 21 :Illegal character (hex 2e) '.'
+wizards/siki/ob1.c line 22 :Illegal LHS
+wizards/siki/ob1.c line 22 :syntax error
+wizards/siki/ob1.c line 23 :Illegal LHS
+wizards/siki/ob1.c line 30 :syntax error
+wizards/siki/ob1.c line 16 :syntax error
+wizards/siki/ob1.c line 25 :syntax error
+wizards/siki/ob1.c line 16 :syntax error
+wizards/siki/ob1.c line 25 :syntax error
+wizards/siki/ob1.c line 24 :syntax error
+wizards/siki/ob.c line 33 :syntax error
+wizards/siki/ob.c line 16 :syntax error
+wizards/siki/g.c line 22 :syntax error
+wizards/siki/g.c line 63 :Newline in string
+wizards/siki/g.c line 64 :syntax error
+wizards/siki/g.c line 19 :syntax error
+wizards/siki/g.c line 21 :Illegal LHS
+wizards/siki/g.c line 22 :Illegal LHS
+wizards/siki/g.c line 22 :syntax error
+wizards/siki/g.c line 23 :Illegal LHS
+wizards/siki/g.c line 23 :syntax error
+wizards/siki/g.c line 26 :Newline in string
+wizards/siki/g.c line 27 :syntax error
+wizards/siki/g.c line 27 :Illegal LHS
+wizards/siki/g.c line 26 :Newline in string
+wizards/siki/g.c line 27 :syntax error
+wizards/siki/g.c line 27 :Illegal LHS
+wizards/siki/help_tool.c line 14 :syntax error
+wizards/siki/help_tool.c line 41 :syntax error
+wizards/siki/help_tool.c line 45 :syntax error
+wizards/siki/weather_d.c line 26 :syntax error
+wizards/siki/weather_d.c line 87 :syntax error
+wizards/siki/weather_d.c line 101 :Illegal LHS
+wizards/siki/weather_d.c line 102 :Illegal LHS
+wizards/siki/weather_d.c line 102 :syntax error
+wizards/siki/weather_d.c line 105 :Variable last_state not declared !
+wizards/siki/weather_d.c line 105 :Illegal LHS
+wizards/siki/weather_d.c line 102 :Undefined function show_weather_chance
+wizards/siki/weather_d.c line 107 :syntax error
+wizards/siki/weather_d.c line 109 :Variable str not declared !
+wizards/siki/weather_d.c line 110 :Variable str not declared !
+wizards/siki/weather_d.c line 111 :Variable str not declared !
+wizards/siki/weather_d.c line 107 :syntax error
+wizards/siki/weather_d.c line 109 :Variable str not declared !
+wizards/siki/weather_d.c line 110 :Variable str not declared !
+wizards/siki/weather_d.c line 111 :Variable str not declared !
+wizards/siki/weather_d.c line 94 :Undefined function change_day
+wizards/siki/weather_d.c line 94 :Undefined function change_day
+wizards/siki/weather_d.c line 94 :Undefined function change_day
+wizards/siki/room.c line 172 :Too many arguments to tell_object
+wizards/siki/room.c line 172 :Too many arguments to tell_object
+wizards/siki/nroom.c line 1 :syntax error
+wizards/siki/nroom.c line 3 :syntax error
+wizards/siki/nroom.c line 20 :Variable w not declared !
+wizards/siki/nroom.c line 20 :syntax error
+wizards/siki/nroom.c line 20 :Variable w not declared !
+wizards/siki/nroom.c line 20 :Illegal LHS
+wizards/siki/nroom.c line 299 :Redeclaration of function query_long.
+wizards/siki/nroom.c line 301 :Redeclaration of function query_long.
+wizards/siki/nroom.c line 20 :Variable w not declared !
+wizards/siki/nroom.c line 20 :syntax error
+wizards/siki/nroom.c line 20 :Variable w not declared !
+wizards/siki/nroom.c line 20 :Illegal LHS
+wizards/siki/eval_file.c line 2 :syntax error
+wizards/siki/eval_file.c line 2 :Newline in string
+wizards/siki/walker.c line 28 :syntax error
+wizards/siki/walker.c line 34 :Variable darea not declared !
+wizards/siki/walker.c line 34 :syntax error
+wizards/siki/walker.c line 35 :Variable darea not declared !
+wizards/siki/walker.c line 35 :Variable wandering_area not declared !
+wizards/siki/walker.c line 34 :syntax error
+wizards/siki/walker.c line 35 :Variable wandering_area not declared !
+wizards/siki/walker.c line 34 :syntax error
+wizards/siki/walker.c line 30 :Variable str not declared !
+wizards/siki/walker.c line 31 :Variable str not declared !
+wizards/siki/walker.c line 32 :syntax error
+wizards/siki/walker.c line 33 :Variable str not declared !
+wizards/siki/walker.c line 33 :Illegal LHS
+wizards/siki/walker.c line 33 :syntax error
+wizards/siki/walker.c line 30 :Variable str not declared !
+wizards/siki/walker.c line 31 :Variable str not declared !
+wizards/siki/walker.c line 32 :syntax error
+wizards/siki/walker.c line 33 :Variable str not declared !
+wizards/siki/walker.c line 33 :Illegal LHS
+wizards/siki/walker.c line 33 :syntax error
+wizards/siki/walker.c line 33 :Variable str not declared !
+wizards/siki/walker.c line 36 :Variable str not declared !
+wizards/siki/walker.c line 23 :syntax error
+wizards/siki/walker.c line 29 :Variable dirs not declared !
+wizards/siki/walker.c line 30 :Variable i not declared !
+wizards/siki/walker.c line 30 :Variable i not declared !
+wizards/siki/walker.c line 30 :Variable dirs not declared !
+wizards/siki/walker.c line 30 :Variable i not declared !
+wizards/siki/walker.c line 23 :syntax error
+wizards/siki/walker.c line 29 :Variable dirs not declared !
+wizards/siki/walker.c line 30 :Variable i not declared !
+wizards/siki/walker.c line 30 :Variable i not declared !
+wizards/siki/walker.c line 30 :Variable dirs not declared !
+wizards/siki/walker.c line 30 :Variable i not declared !
+wizards/siki/walker.c line 11 :syntax error
+wizards/siki/walker.c line 11 :syntax error
+wizards/siki/walker.c line 17 :syntax error
+wizards/siki/walker.c line 21 :Variable str not declared !
+wizards/siki/walker.c line 17 :syntax error
+wizards/siki/walker.c line 18 :Illegal LHS
+wizards/siki/walker.c line 18 :syntax error
+wizards/siki/walker.c line 19 :Illegal LHS
+wizards/siki/walker.c line 19 :syntax error
+wizards/siki/walker.c line 26 :Variable str not declared !
+wizards/siki/walker.c line 17 :syntax error
+wizards/siki/walker.c line 18 :Illegal LHS
+wizards/siki/walker.c line 18 :syntax error
+wizards/siki/walker.c line 19 :Illegal LHS
+wizards/siki/walker.c line 19 :syntax error
+wizards/siki/walker.c line 26 :Variable str not declared !
+wizards/siki/walker.c line 16 :syntax error
+wizards/siki/walker.c line 16 :syntax error
+wizards/siki/walker.c line 12 :Variable i not declared !
+wizards/siki/walker.c line 12 :Variable i not declared !
+wizards/siki/walker.c line 12 :Variable i not declared !
+wizards/siki/walker.c line 13 :Variable i not declared !
+wizards/siki/walker.c line 15 :Variable i not declared !
+wizards/siki/walker.c line 15 :Variable i not declared !
+wizards/siki/walker.c line 29 :syntax error
+wizards/siki/walker.c line 35 :syntax error
+wizards/siki/walker.c line 36 :Illegal LHS
+wizards/siki/walker.c line 37 :syntax error
+wizards/siki/walker.c line 29 :syntax error
+wizards/siki/walker.c line 35 :syntax error
+wizards/siki/walker.c line 36 :Illegal LHS
+wizards/siki/walker.c line 37 :syntax error
+wizards/siki/walker.c line 36 :Variable wander not declared !
+wizards/siki/walker.c line 33 :syntax error
+wizards/siki/walker.c line 34 :Illegal LHS
+wizards/siki/walker.c line 35 :Illegal LHS
+wizards/siki/walker.c line 33 :syntax error
+wizards/siki/walker.c line 34 :Illegal LHS
+wizards/siki/walker.c line 35 :Illegal LHS
+wizards/siki/help_tool.c line 25 :syntax error
+wizards/siki/help_tool.c line 28 :syntax error
+wizards/siki/help_tool.c line 34 :Variable arg not declared !
+wizards/siki/help_tool.c line 34 :Illegal LHS
+wizards/siki/help_tool.c line 34 :syntax error
+wizards/siki/help_tool.c line 35 :Variable arg not declared !
+wizards/siki/help_tool.c line 25 :syntax error
+wizards/siki/help_tool.c line 28 :syntax error
+wizards/siki/help_tool.c line 34 :Variable arg not declared !
+wizards/siki/help_tool.c line 34 :Illegal LHS
+wizards/siki/help_tool.c line 34 :syntax error
+wizards/siki/help_tool.c line 35 :Variable arg not declared !
+wizards/siki/help_tool.c line 22 :syntax error
+wizards/siki/help_tool.c line 34 :Variable arg not declared !
+wizards/siki/help_tool.c line 34 :Illegal LHS
+wizards/siki/help_tool.c line 34 :syntax error
+wizards/siki/help_tool.c line 35 :Variable arg not declared !
+wizards/siki/help_tool.c line 35 :Illegal LHS
+wizards/siki/help_tool.c line 22 :syntax error
+wizards/siki/help_tool.c line 34 :Variable arg not declared !
+wizards/siki/help_tool.c line 34 :Illegal LHS
+wizards/siki/help_tool.c line 34 :syntax error
+wizards/siki/help_tool.c line 35 :Variable arg not declared !
+wizards/siki/help_tool.c line 35 :Illegal LHS
+wizards/siki/help_tool.c line 28 :syntax error
+wizards/siki/help_tool.c line 28 :syntax error
+wizards/siki/help_tool.c line 18 :syntax error
+wizards/siki/help_tool.c line 18 :syntax error
+wizards/siki/help_tool.c line 28 :syntax error
+wizards/siki/help_tool.c line 29 :Newline in string
+wizards/siki/help_tool.c line 41 :Variable arg not declared !
+wizards/siki/help_tool.c line 41 :Illegal LHS
+wizards/siki/help_tool.c line 41 :syntax error
+wizards/siki/help_tool.c line 42 :Variable arg not declared !
+wizards/siki/help_tool.c line 28 :syntax error
+wizards/siki/help_tool.c line 29 :Newline in string
+wizards/siki/help_tool.c line 41 :Variable arg not declared !
+wizards/siki/help_tool.c line 41 :Illegal LHS
+wizards/siki/help_tool.c line 41 :syntax error
+wizards/siki/help_tool.c line 42 :Variable arg not declared !
+wizards/siki/help_tool.c line 28 :syntax error
+wizards/siki/help_tool.c line 42 :Variable arg not declared !
+wizards/siki/help_tool.c line 42 :Illegal LHS
+wizards/siki/help_tool.c line 42 :syntax error
+wizards/siki/help_tool.c line 43 :Variable arg not declared !
+wizards/siki/help_tool.c line 43 :Illegal LHS
+wizards/siki/help_tool.c line 28 :syntax error
+wizards/siki/help_tool.c line 42 :Variable arg not declared !
+wizards/siki/help_tool.c line 42 :Illegal LHS
+wizards/siki/help_tool.c line 42 :syntax error
+wizards/siki/help_tool.c line 43 :Variable arg not declared !
+wizards/siki/help_tool.c line 43 :Illegal LHS
+wizards/siki/help_tool.c line 18 :syntax error
+wizards/siki/help_tool.c line 18 :syntax error
+wizards/siki/help_tool.c line 20 :syntax error
+wizards/siki/help_tool.c line 20 :Illegal LHS
+wizards/siki/help_tool.c line 21 :Variable ob not declared !
+wizards/siki/help_tool.c line 22 :syntax error
+wizards/siki/help_tool.c line 37 :Variable arg not declared !
+wizards/siki/help_tool.c line 37 :Illegal LHS
+wizards/siki/help_tool.c line 21 :Variable ob not declared !
+wizards/siki/help_tool.c line 22 :syntax error
+wizards/siki/help_tool.c line 37 :Variable arg not declared !
+wizards/siki/help_tool.c line 37 :Illegal LHS
+wizards/siki/help_tool.c line 37 :syntax error
+wizards/siki/help_tool.c line 38 :Variable arg not declared !
+wizards/siki/help_tool.c line 21 :Variable ob not declared !
+wizards/siki/help_tool.c line 22 :syntax error
+wizards/siki/help_tool.c line 37 :Variable arg not declared !
+wizards/siki/help_tool.c line 37 :Illegal LHS
+wizards/siki/help_tool.c line 37 :syntax error
+wizards/siki/help_tool.c line 38 :Variable arg not declared !
+wizards/siki/help_tool.c line 21 :Variable ob not declared !
+wizards/siki/help_tool.c line 22 :syntax error
+wizards/siki/help_tool.c line 38 :Variable arg not declared !
+wizards/siki/help_tool.c line 38 :Illegal LHS
+wizards/siki/help_tool.c line 38 :syntax error
+wizards/siki/help_tool.c line 39 :Variable arg not declared !
+wizards/siki/help_tool.c line 21 :Variable ob not declared !
+wizards/siki/help_tool.c line 22 :syntax error
+wizards/siki/help_tool.c line 38 :Variable arg not declared !
+wizards/siki/help_tool.c line 38 :Illegal LHS
+wizards/siki/help_tool.c line 38 :syntax error
+wizards/siki/help_tool.c line 39 :Variable arg not declared !
+wizards/siki/help_tool.c line 22 :syntax error
+wizards/siki/help_tool.c line 38 :Variable arg not declared !
+wizards/siki/help_tool.c line 38 :Illegal LHS
+wizards/siki/help_tool.c line 38 :syntax error
+wizards/siki/help_tool.c line 39 :Variable arg not declared !
+wizards/siki/help_tool.c line 39 :Illegal LHS
+wizards/siki/help_tool.c line 22 :syntax error
+wizards/siki/help_tool.c line 38 :Variable arg not declared !
+wizards/siki/help_tool.c line 38 :Illegal LHS
+wizards/siki/help_tool.c line 38 :syntax error
+wizards/siki/help_tool.c line 39 :Variable arg not declared !
+wizards/siki/help_tool.c line 39 :Illegal LHS
+wizards/siki/help_tool.c line 23 :Variable ob not declared !
+wizards/siki/container.c line 86 :syntax error
+wizards/siki/container.c line 86 :Illegal LHS
+wizards/siki/help_tool.c line 21 :syntax error
+wizards/siki/help_tool.c line 38 :Variable arg not declared !
+wizards/siki/help_tool.c line 38 :Illegal LHS
+wizards/siki/help_tool.c line 39 :syntax error
+wizards/siki/help_tool.c line 39 :Variable arg not declared !
+wizards/siki/help_tool.c line 39 :Illegal LHS
+wizards/siki/help_tool.c line 21 :syntax error
+wizards/siki/help_tool.c line 38 :Variable arg not declared !
+wizards/siki/help_tool.c line 38 :Illegal LHS
+wizards/siki/help_tool.c line 39 :syntax error
+wizards/siki/help_tool.c line 39 :Variable arg not declared !
+wizards/siki/help_tool.c line 39 :Illegal LHS
+wizards/siki/help_tool.c line 37 :Variable us not declared !
+wizards/siki/help_tool.c line 44 :syntax error
+wizards/siki/help_tool.c line 50 :Variable arg not declared !
+wizards/siki/help_tool.c line 50 :Illegal LHS
+wizards/siki/help_tool.c line 50 :syntax error
+wizards/siki/help_tool.c line 51 :Variable arg not declared !
+wizards/siki/help_tool.c line 37 :Variable us not declared !
+wizards/siki/help_tool.c line 44 :syntax error
+wizards/siki/help_tool.c line 50 :Variable arg not declared !
+wizards/siki/help_tool.c line 50 :Illegal LHS
+wizards/siki/help_tool.c line 50 :syntax error
+wizards/siki/help_tool.c line 51 :Variable arg not declared !
+wizards/siki/help_tool.c line 64 :syntax error
+wizards/siki/help_tool.c line 68 :Variable obs not declared !
+wizards/siki/help_tool.c line 69 :Variable obs not declared !
+wizards/siki/help_tool.c line 69 :Variable obs not declared !
+wizards/siki/help_tool.c line 70 :Variable obs not declared !
+wizards/siki/help_tool.c line 70 :Variable obs not declared !
+wizards/siki/help_tool.c line 64 :syntax error
+wizards/siki/help_tool.c line 68 :Variable obs not declared !
+wizards/siki/help_tool.c line 69 :Variable obs not declared !
+wizards/siki/help_tool.c line 69 :Variable obs not declared !
+wizards/siki/help_tool.c line 70 :Variable obs not declared !
+wizards/siki/help_tool.c line 70 :Variable obs not declared !
+wizards/siki/help_tool.c line 64 :syntax error
+wizards/siki/help_tool.c line 68 :Variable obs not declared !
+wizards/siki/help_tool.c line 69 :Variable obs not declared !
+wizards/siki/help_tool.c line 69 :Variable obs not declared !
+wizards/siki/help_tool.c line 70 :Variable obs not declared !
+wizards/siki/help_tool.c line 70 :Variable obs not declared !
+wizards/siki/help_tool.c line 46 :syntax error
+wizards/siki/help_tool.c line 47 :syntax error
+wizards/siki/help_tool.c line 67 :Illegal LHS
+wizards/siki/help_tool.c line 67 :syntax error
+wizards/siki/help_tool.c line 68 :Variable obs not declared !
+wizards/siki/help_tool.c line 68 :syntax error
+wizards/siki/help_tool.c line 46 :syntax error
+wizards/siki/help_tool.c line 47 :syntax error
+wizards/siki/help_tool.c line 67 :Illegal LHS
+wizards/siki/help_tool.c line 67 :syntax error
+wizards/siki/help_tool.c line 68 :Variable obs not declared !
+wizards/siki/help_tool.c line 68 :syntax error
+wizards/siki/help_tool.c line 46 :syntax error
+wizards/siki/help_tool.c line 47 :syntax error
+wizards/siki/help_tool.c line 67 :Illegal LHS
+wizards/siki/help_tool.c line 67 :syntax error
+wizards/siki/help_tool.c line 68 :Variable obs not declared !
+wizards/siki/help_tool.c line 68 :syntax error
+wizards/siki/help_tool.c line 46 :syntax error
+wizards/siki/help_tool.c line 47 :syntax error
+wizards/siki/help_tool.c line 67 :Illegal LHS
+wizards/siki/help_tool.c line 67 :syntax error
+wizards/siki/help_tool.c line 68 :Variable obs not declared !
+wizards/siki/help_tool.c line 68 :syntax error
+wizards/siki/help_tool.c line 49 :syntax error
+wizards/siki/help_tool.c line 63 :Illegal LHS
+wizards/siki/help_tool.c line 63 :syntax error
+wizards/siki/help_tool.c line 64 :Variable obs not declared !
+wizards/siki/help_tool.c line 64 :Illegal LHS
+wizards/siki/help_tool.c line 64 :syntax error
+wizards/siki/help_tool.c line 49 :syntax error
+wizards/siki/help_tool.c line 63 :Illegal LHS
+wizards/siki/help_tool.c line 63 :syntax error
+wizards/siki/help_tool.c line 64 :Variable obs not declared !
+wizards/siki/help_tool.c line 64 :Illegal LHS
+wizards/siki/help_tool.c line 64 :syntax error
+wizards/siki/help_tool.c line 49 :syntax error
+wizards/siki/help_tool.c line 63 :Illegal LHS
+wizards/siki/help_tool.c line 63 :syntax error
+wizards/siki/help_tool.c line 64 :Variable obs not declared !
+wizards/siki/help_tool.c line 64 :Illegal LHS
+wizards/siki/help_tool.c line 64 :syntax error
+wizards/siki/help_tool.c line 49 :syntax error
+wizards/siki/help_tool.c line 63 :Illegal LHS
+wizards/siki/help_tool.c line 63 :syntax error
+wizards/siki/help_tool.c line 64 :Variable obs not declared !
+wizards/siki/help_tool.c line 64 :Illegal LHS
+wizards/siki/help_tool.c line 64 :syntax error
+wizards/siki/help_tool.c line 49 :syntax error
+wizards/siki/help_tool.c line 63 :Illegal LHS
+wizards/siki/help_tool.c line 64 :Variable obs not declared !
+wizards/siki/help_tool.c line 64 :Variable obs not declared !
+wizards/siki/help_tool.c line 65 :Variable obs not declared !
+wizards/siki/help_tool.c line 65 :Variable obs not declared !
+wizards/siki/help_tool.c line 49 :syntax error
+wizards/siki/help_tool.c line 63 :Illegal LHS
+wizards/siki/help_tool.c line 64 :Variable obs not declared !
+wizards/siki/help_tool.c line 64 :Variable obs not declared !
+wizards/siki/help_tool.c line 65 :Variable obs not declared !
+wizards/siki/help_tool.c line 65 :Variable obs not declared !
+wizards/siki/help_tool.c line 49 :syntax error
+wizards/siki/help_tool.c line 63 :Illegal LHS
+wizards/siki/help_tool.c line 64 :Variable obs not declared !
+wizards/siki/help_tool.c line 64 :Variable obs not declared !
+wizards/siki/help_tool.c line 65 :Variable obs not declared !
+wizards/siki/help_tool.c line 65 :Variable obs not declared !
+wizards/siki/help_tool.c line 49 :syntax error
+wizards/siki/help_tool.c line 63 :Illegal LHS
+wizards/siki/help_tool.c line 64 :Variable obs not declared !
+wizards/siki/help_tool.c line 64 :Variable obs not declared !
+wizards/siki/help_tool.c line 65 :Variable obs not declared !
+wizards/siki/help_tool.c line 65 :Variable obs not declared !
+wizards/siki/help_tool.c line 51 :syntax error
+wizards/siki/help_tool.c line 51 :syntax error
+wizards/siki/help_tool.c line 51 :syntax error
+wizards/siki/help_tool.c line 51 :syntax error
+wizards/siki/help_tool.c line 51 :syntax error
+wizards/siki/help_tool.c line 51 :syntax error
+wizards/siki/help_tool.c line 34 :syntax error
+wizards/siki/help_tool.c line 43 :syntax error
+wizards/siki/help_tool.c line 47 :Illegal LHS
+wizards/siki/help_tool.c line 47 :Illegal LHS
+wizards/siki/help_tool.c line 47 :Illegal LHS
+wizards/siki/help_tool.c line 47 :Illegal LHS
+wizards/siki/help_tool.c line 34 :syntax error
+wizards/siki/help_tool.c line 43 :syntax error
+wizards/siki/help_tool.c line 47 :Illegal LHS
+wizards/siki/help_tool.c line 47 :Illegal LHS
+wizards/siki/help_tool.c line 47 :Illegal LHS
+wizards/siki/help_tool.c line 47 :Illegal LHS
+wizards/siki/help_tool.c line 34 :syntax error
+wizards/siki/help_tool.c line 43 :syntax error
+wizards/siki/help_tool.c line 47 :Illegal LHS
+wizards/siki/help_tool.c line 47 :Illegal LHS
+wizards/siki/help_tool.c line 47 :Illegal LHS
+wizards/siki/help_tool.c line 47 :Illegal LHS
+wizards/siki/help_tool.c line 34 :syntax error
+wizards/siki/help_tool.c line 43 :syntax error
+wizards/siki/help_tool.c line 47 :Illegal LHS
+wizards/siki/help_tool.c line 47 :Illegal LHS
+wizards/siki/help_tool.c line 47 :Illegal LHS
+wizards/siki/help_tool.c line 47 :Illegal LHS
+wizards/siki/help_tool.c line 49 :syntax error
+wizards/siki/help_tool.c line 50 :syntax error
+wizards/siki/help_tool.c line 52 :syntax error
+wizards/siki/help_tool.c line 66 :Illegal LHS
+wizards/siki/help_tool.c line 66 :syntax error
+wizards/siki/help_tool.c line 67 :Variable obs not declared !
+wizards/siki/help_tool.c line 49 :syntax error
+wizards/siki/help_tool.c line 50 :syntax error
+wizards/siki/help_tool.c line 52 :syntax error
+wizards/siki/help_tool.c line 66 :Illegal LHS
+wizards/siki/help_tool.c line 66 :syntax error
+wizards/siki/help_tool.c line 67 :Variable obs not declared !
+wizards/siki/help_tool.c line 49 :syntax error
+wizards/siki/help_tool.c line 50 :syntax error
+wizards/siki/help_tool.c line 52 :syntax error
+wizards/siki/help_tool.c line 66 :Illegal LHS
+wizards/siki/help_tool.c line 66 :syntax error
+wizards/siki/help_tool.c line 67 :Variable obs not declared !
+wizards/siki/help_tool.c line 49 :syntax error
+wizards/siki/help_tool.c line 50 :syntax error
+wizards/siki/help_tool.c line 52 :syntax error
+wizards/siki/help_tool.c line 66 :Illegal LHS
+wizards/siki/help_tool.c line 66 :syntax error
+wizards/siki/help_tool.c line 67 :Variable obs not declared !
+wizards/siki/help_tool.c line 49 :syntax error
+wizards/siki/help_tool.c line 50 :syntax error
+wizards/siki/help_tool.c line 52 :syntax error
+wizards/siki/help_tool.c line 66 :Illegal LHS
+wizards/siki/help_tool.c line 66 :syntax error
+wizards/siki/help_tool.c line 67 :Variable obs not declared !
+wizards/siki/help_tool.c line 49 :syntax error
+wizards/siki/help_tool.c line 50 :syntax error
+wizards/siki/help_tool.c line 52 :syntax error
+wizards/siki/help_tool.c line 67 :Illegal LHS
+wizards/siki/help_tool.c line 67 :syntax error
+wizards/siki/help_tool.c line 68 :Variable obs not declared !
+wizards/siki/help_tool.c line 49 :syntax error
+wizards/siki/help_tool.c line 50 :syntax error
+wizards/siki/help_tool.c line 52 :syntax error
+wizards/siki/help_tool.c line 67 :Illegal LHS
+wizards/siki/help_tool.c line 67 :syntax error
+wizards/siki/help_tool.c line 68 :Variable obs not declared !
+wizards/siki/help_tool.c line 35 :syntax error
+wizards/siki/help_tool.c line 45 :syntax error
+wizards/siki/help_tool.c line 49 :Illegal LHS
+wizards/siki/help_tool.c line 49 :Illegal LHS
+wizards/siki/help_tool.c line 49 :Illegal LHS
+wizards/siki/help_tool.c line 49 :Illegal LHS
+wizards/siki/help_tool.c line 35 :syntax error
+wizards/siki/help_tool.c line 45 :syntax error
+wizards/siki/help_tool.c line 49 :Illegal LHS
+wizards/siki/help_tool.c line 49 :Illegal LHS
+wizards/siki/help_tool.c line 49 :Illegal LHS
+wizards/siki/help_tool.c line 49 :Illegal LHS
+wizards/siki/help_tool.c line 35 :syntax error
+wizards/siki/help_tool.c line 45 :syntax error
+wizards/siki/help_tool.c line 49 :Illegal LHS
+wizards/siki/help_tool.c line 49 :Illegal LHS
+wizards/siki/help_tool.c line 49 :Illegal LHS
+wizards/siki/help_tool.c line 49 :Illegal LHS
+wizards/siki/help_tool.c line 35 :syntax error
+wizards/siki/help_tool.c line 45 :syntax error
+wizards/siki/help_tool.c line 49 :Illegal LHS
+wizards/siki/help_tool.c line 49 :Illegal LHS
+wizards/siki/help_tool.c line 49 :Illegal LHS
+wizards/siki/help_tool.c line 49 :Illegal LHS
+wizards/siki/help_tool.c line 37 :syntax error
+wizards/siki/help_tool.c line 45 :Illegal LHS
+wizards/siki/help_tool.c line 49 :Variable i not declared !
+wizards/siki/help_tool.c line 49 :Variable i not declared !
+wizards/siki/help_tool.c line 49 :Variable files not declared !
+wizards/siki/help_tool.c line 49 :Variable i not declared !
+wizards/siki/help_tool.c line 37 :syntax error
+wizards/siki/help_tool.c line 45 :Illegal LHS
+wizards/siki/help_tool.c line 49 :Variable i not declared !
+wizards/siki/help_tool.c line 49 :Variable i not declared !
+wizards/siki/help_tool.c line 49 :Variable files not declared !
+wizards/siki/help_tool.c line 49 :Variable i not declared !
+wizards/siki/help_tool.c line 37 :syntax error
+wizards/siki/help_tool.c line 45 :Illegal LHS
+wizards/siki/help_tool.c line 49 :Variable i not declared !
+wizards/siki/help_tool.c line 49 :Variable i not declared !
+wizards/siki/help_tool.c line 49 :Variable files not declared !
+wizards/siki/help_tool.c line 49 :Variable i not declared !
+wizards/siki/help_tool.c line 37 :syntax error
+wizards/siki/help_tool.c line 45 :Illegal LHS
+wizards/siki/help_tool.c line 49 :Variable i not declared !
+wizards/siki/help_tool.c line 49 :Variable i not declared !
+wizards/siki/help_tool.c line 49 :Variable files not declared !
+wizards/siki/help_tool.c line 49 :Variable i not declared !
+wizards/siki/help_tool.c line 41 :syntax error
+wizards/siki/help_tool.c line 46 :Variable files not declared !
+wizards/siki/help_tool.c line 50 :Variable i not declared !
+wizards/siki/help_tool.c line 50 :Variable i not declared !
+wizards/siki/help_tool.c line 50 :Variable files not declared !
+wizards/siki/help_tool.c line 50 :Variable i not declared !
+wizards/siki/help_tool.c line 41 :syntax error
+wizards/siki/help_tool.c line 46 :Variable files not declared !
+wizards/siki/help_tool.c line 50 :Variable i not declared !
+wizards/siki/help_tool.c line 50 :Variable i not declared !
+wizards/siki/help_tool.c line 50 :Variable files not declared !
+wizards/siki/help_tool.c line 50 :Variable i not declared !
+wizards/siki/help_tool.c line 41 :syntax error
+wizards/siki/help_tool.c line 46 :Variable files not declared !
+wizards/siki/help_tool.c line 50 :Variable i not declared !
+wizards/siki/help_tool.c line 50 :Variable i not declared !
+wizards/siki/help_tool.c line 50 :Variable files not declared !
+wizards/siki/help_tool.c line 50 :Variable i not declared !
+wizards/siki/help_tool.c line 41 :syntax error
+wizards/siki/help_tool.c line 46 :Variable files not declared !
+wizards/siki/help_tool.c line 50 :Variable i not declared !
+wizards/siki/help_tool.c line 50 :Variable i not declared !
+wizards/siki/help_tool.c line 50 :Variable files not declared !
+wizards/siki/help_tool.c line 50 :Variable i not declared !
+wizards/siki/help_tool.c line 41 :syntax error
+wizards/siki/help_tool.c line 46 :Variable files not declared !
+wizards/siki/help_tool.c line 50 :Variable i not declared !
+wizards/siki/help_tool.c line 50 :Variable i not declared !
+wizards/siki/help_tool.c line 50 :Variable files not declared !
+wizards/siki/help_tool.c line 50 :Variable i not declared !
+wizards/siki/help_tool.c line 41 :syntax error
+wizards/siki/help_tool.c line 46 :Variable files not declared !
+wizards/siki/help_tool.c line 50 :Variable i not declared !
+wizards/siki/help_tool.c line 50 :Variable i not declared !
+wizards/siki/help_tool.c line 50 :Variable files not declared !
+wizards/siki/help_tool.c line 50 :Variable i not declared !
+wizards/siki/help_tool.c line 41 :syntax error
+wizards/siki/help_tool.c line 46 :Variable files not declared !
+wizards/siki/help_tool.c line 50 :Variable i not declared !
+wizards/siki/help_tool.c line 50 :Variable i not declared !
+wizards/siki/help_tool.c line 50 :Variable files not declared !
+wizards/siki/help_tool.c line 50 :Variable i not declared !
+wizards/siki/help_tool.c line 41 :syntax error
+wizards/siki/help_tool.c line 46 :Variable files not declared !
+wizards/siki/help_tool.c line 50 :Variable i not declared !
+wizards/siki/help_tool.c line 50 :Variable i not declared !
+wizards/siki/help_tool.c line 50 :Variable files not declared !
+wizards/siki/help_tool.c line 50 :Variable i not declared !
+wizards/siki/help_tool.c line 41 :syntax error
+wizards/siki/help_tool.c line 46 :Variable files not declared !
+wizards/siki/help_tool.c line 50 :Variable i not declared !
+wizards/siki/help_tool.c line 50 :Variable i not declared !
+wizards/siki/help_tool.c line 50 :Variable files not declared !
+wizards/siki/help_tool.c line 50 :Variable i not declared !
+wizards/siki/help_tool.c line 41 :syntax error
+wizards/siki/help_tool.c line 46 :Variable files not declared !
+wizards/siki/help_tool.c line 50 :Variable i not declared !
+wizards/siki/help_tool.c line 50 :Variable i not declared !
+wizards/siki/help_tool.c line 50 :Variable files not declared !
+wizards/siki/help_tool.c line 50 :Variable i not declared !
+wizards/siki/help_tool.c line 41 :syntax error
+wizards/siki/help_tool.c line 46 :Variable files not declared !
+wizards/siki/help_tool.c line 50 :Variable i not declared !
+wizards/siki/help_tool.c line 50 :Variable i not declared !
+wizards/siki/help_tool.c line 50 :Variable files not declared !
+wizards/siki/help_tool.c line 50 :Variable i not declared !
+wizards/siki/help_tool.c line 41 :syntax error
+wizards/siki/help_tool.c line 46 :Variable files not declared !
+wizards/siki/help_tool.c line 50 :Variable i not declared !
+wizards/siki/help_tool.c line 50 :Variable i not declared !
+wizards/siki/help_tool.c line 50 :Variable files not declared !
+wizards/siki/help_tool.c line 50 :Variable i not declared !
+wizards/siki/help_tool.c line 57 :syntax error
+wizards/siki/help_tool.c line 59 :Illegal LHS
+wizards/siki/help_tool.c line 59 :syntax error
+wizards/siki/help_tool.c line 74 :Illegal LHS
+wizards/siki/help_tool.c line 74 :syntax error
+wizards/siki/help_tool.c line 75 :Variable obs not declared !
+wizards/siki/help_tool.c line 57 :syntax error
+wizards/siki/help_tool.c line 59 :Illegal LHS
+wizards/siki/help_tool.c line 59 :syntax error
+wizards/siki/help_tool.c line 74 :Illegal LHS
+wizards/siki/help_tool.c line 74 :syntax error
+wizards/siki/help_tool.c line 75 :Variable obs not declared !
+wizards/siki/help_tool.c line 57 :syntax error
+wizards/siki/help_tool.c line 59 :Illegal LHS
+wizards/siki/help_tool.c line 59 :syntax error
+wizards/siki/help_tool.c line 74 :Illegal LHS
+wizards/siki/help_tool.c line 74 :syntax error
+wizards/siki/help_tool.c line 75 :Variable obs not declared !
+wizards/siki/help_tool.c line 57 :syntax error
+wizards/siki/help_tool.c line 59 :Illegal LHS
+wizards/siki/help_tool.c line 59 :syntax error
+wizards/siki/help_tool.c line 74 :Illegal LHS
+wizards/siki/help_tool.c line 74 :syntax error
+wizards/siki/help_tool.c line 75 :Variable obs not declared !
+wizards/siki/help_tool.c line 57 :syntax error
+wizards/siki/help_tool.c line 59 :Illegal LHS
+wizards/siki/help_tool.c line 59 :syntax error
+wizards/siki/help_tool.c line 74 :Illegal LHS
+wizards/siki/help_tool.c line 74 :syntax error
+wizards/siki/help_tool.c line 75 :Variable obs not declared !
+wizards/siki/help_tool.c line 57 :syntax error
+wizards/siki/help_tool.c line 59 :Illegal LHS
+wizards/siki/help_tool.c line 59 :syntax error
+wizards/siki/help_tool.c line 74 :Illegal LHS
+wizards/siki/help_tool.c line 74 :syntax error
+wizards/siki/help_tool.c line 75 :Variable obs not declared !
+wizards/siki/help_tool.c line 59 :syntax error
+wizards/siki/help_tool.c line 59 :Illegal LHS
+wizards/siki/help_tool.c line 59 :syntax error
+wizards/siki/help_tool.c line 68 :Variable skill not declared !
+wizards/siki/help_tool.c line 68 :Illegal LHS
+wizards/siki/help_tool.c line 69 :Variable str1 not declared !
+wizards/siki/help_tool.c line 59 :syntax error
+wizards/siki/help_tool.c line 59 :Illegal LHS
+wizards/siki/help_tool.c line 59 :syntax error
+wizards/siki/help_tool.c line 68 :Variable skill not declared !
+wizards/siki/help_tool.c line 68 :Illegal LHS
+wizards/siki/help_tool.c line 69 :Variable str1 not declared !
+wizards/siki/help_tool.c line 59 :syntax error
+wizards/siki/help_tool.c line 59 :Illegal LHS
+wizards/siki/help_tool.c line 59 :syntax error
+wizards/siki/help_tool.c line 68 :Variable skill not declared !
+wizards/siki/help_tool.c line 68 :Illegal LHS
+wizards/siki/help_tool.c line 69 :Variable str1 not declared !
+wizards/siki/help_tool.c line 59 :syntax error
+wizards/siki/help_tool.c line 59 :Illegal LHS
+wizards/siki/help_tool.c line 59 :syntax error
+wizards/siki/help_tool.c line 68 :Variable skill not declared !
+wizards/siki/help_tool.c line 68 :Illegal LHS
+wizards/siki/help_tool.c line 69 :Variable str1 not declared !
+wizards/siki/help_tool.c line 59 :syntax error
+wizards/siki/help_tool.c line 59 :Illegal LHS
+wizards/siki/help_tool.c line 59 :syntax error
+wizards/siki/help_tool.c line 68 :Variable skill not declared !
+wizards/siki/help_tool.c line 68 :Illegal LHS
+wizards/siki/help_tool.c line 69 :Variable str1 not declared !
+wizards/siki/help_tool.c line 59 :syntax error
+wizards/siki/help_tool.c line 59 :Illegal LHS
+wizards/siki/help_tool.c line 59 :syntax error
+wizards/siki/help_tool.c line 68 :Variable skill not declared !
+wizards/siki/help_tool.c line 68 :Illegal LHS
+wizards/siki/help_tool.c line 69 :Variable str1 not declared !
+wizards/siki/help_tool.c line 54 :Variable countries not declared !
+wizards/siki/help_tool.c line 54 :Variable countries not declared !
+wizards/siki/help_tool.c line 54 :Variable countries not declared !
+wizards/siki/help_tool.c line 54 :Variable countries not declared !
+wizards/siki/help_tool.c line 46 :Variable country not declared !
+wizards/siki/help_tool.c line 48 :Variable country not declared !
+wizards/siki/help_tool.c line 46 :Variable country not declared !
+wizards/siki/help_tool.c line 48 :Variable country not declared !
+wizards/siki/help_tool.c line 46 :Variable country not declared !
+wizards/siki/help_tool.c line 48 :Variable country not declared !
+wizards/siki/help_tool.c line 46 :Variable country not declared !
+wizards/siki/help_tool.c line 48 :Variable country not declared !
+wizards/siki/help_tool.c line 46 :Variable country not declared !
+wizards/siki/help_tool.c line 48 :Variable country not declared !
+wizards/siki/help_tool.c line 46 :Variable country not declared !
+wizards/siki/help_tool.c line 48 :Variable country not declared !
+wizards/siki/help_tool.c line 42 :syntax error
+wizards/siki/help_tool.c line 42 :syntax error
+wizards/siki/help_tool.c line 42 :syntax error
+wizards/siki/help_tool.c line 42 :syntax error
+wizards/siki/help_tool.c line 42 :syntax error
+wizards/siki/help_tool.c line 42 :syntax error
+wizards/siki/help_tool.c line 42 :Too many arguments to query_ip_name
+wizards/siki/help_tool.c line 42 :syntax error
+wizards/siki/help_tool.c line 43 :Illegal LHS
+wizards/siki/help_tool.c line 43 :syntax error
+wizards/siki/help_tool.c line 46 :syntax error
+wizards/siki/help_tool.c line 58 :Variable skill not declared !
+wizards/siki/help_tool.c line 42 :Too many arguments to query_ip_name
+wizards/siki/help_tool.c line 42 :syntax error
+wizards/siki/help_tool.c line 43 :Illegal LHS
+wizards/siki/help_tool.c line 43 :syntax error
+wizards/siki/help_tool.c line 46 :syntax error
+wizards/siki/help_tool.c line 58 :Variable skill not declared !
+wizards/siki/help_tool.c line 42 :Too many arguments to query_ip_name
+wizards/siki/help_tool.c line 42 :syntax error
+wizards/siki/help_tool.c line 43 :Illegal LHS
+wizards/siki/help_tool.c line 43 :syntax error
+wizards/siki/help_tool.c line 46 :syntax error
+wizards/siki/help_tool.c line 58 :Variable skill not declared !
+wizards/siki/help_tool.c line 42 :Too many arguments to query_ip_name
+wizards/siki/help_tool.c line 42 :syntax error
+wizards/siki/help_tool.c line 43 :Illegal LHS
+wizards/siki/help_tool.c line 43 :syntax error
+wizards/siki/help_tool.c line 46 :syntax error
+wizards/siki/help_tool.c line 58 :Variable skill not declared !
+wizards/siki/help_tool.c line 55 :syntax error
+wizards/siki/help_tool.c line 58 :Variable skill not declared !
+wizards/siki/help_tool.c line 58 :Illegal LHS
+wizards/siki/help_tool.c line 59 :Variable str1 not declared !
+wizards/siki/help_tool.c line 59 :syntax error
+wizards/siki/help_tool.c line 60 :Variable str1 not declared !
+wizards/siki/help_tool.c line 55 :syntax error
+wizards/siki/help_tool.c line 58 :Variable skill not declared !
+wizards/siki/help_tool.c line 58 :Illegal LHS
+wizards/siki/help_tool.c line 59 :Variable str1 not declared !
+wizards/siki/help_tool.c line 59 :syntax error
+wizards/siki/help_tool.c line 60 :Variable str1 not declared !
+wizards/siki/help_tool.c line 55 :syntax error
+wizards/siki/help_tool.c line 58 :Variable skill not declared !
+wizards/siki/help_tool.c line 58 :Illegal LHS
+wizards/siki/help_tool.c line 59 :Variable str1 not declared !
+wizards/siki/help_tool.c line 59 :syntax error
+wizards/siki/help_tool.c line 60 :Variable str1 not declared !
+wizards/siki/help_tool.c line 55 :syntax error
+wizards/siki/help_tool.c line 58 :Variable skill not declared !
+wizards/siki/help_tool.c line 58 :Illegal LHS
+wizards/siki/help_tool.c line 59 :Variable str1 not declared !
+wizards/siki/help_tool.c line 59 :syntax error
+wizards/siki/help_tool.c line 60 :Variable str1 not declared !
+wizards/siki/help_tool.c line 55 :syntax error
+wizards/siki/help_tool.c line 58 :Variable skill not declared !
+wizards/siki/help_tool.c line 58 :Illegal LHS
+wizards/siki/help_tool.c line 59 :Variable str1 not declared !
+wizards/siki/help_tool.c line 59 :syntax error
+wizards/siki/help_tool.c line 60 :Variable str1 not declared !
+wizards/siki/help_tool.c line 55 :syntax error
+wizards/siki/help_tool.c line 58 :Variable skill not declared !
+wizards/siki/help_tool.c line 58 :Illegal LHS
+wizards/siki/help_tool.c line 59 :Variable str1 not declared !
+wizards/siki/help_tool.c line 59 :syntax error
+wizards/siki/help_tool.c line 60 :Variable str1 not declared !
+wizards/siki/help_tool.c line 190 :syntax error
+wizards/siki/help_tool.c line 190 :syntax error
+wizards/siki/help_tool.c line 190 :syntax error
+wizards/siki/help_tool.c line 190 :syntax error
+wizards/siki/questplaque.c line 82 :Illegal initialization
+wizards/siki/questplaque.c line 82 :Type mismatch ( unknown vs int ) when initializing i
+wizards/siki/questplaque.c line 82 :Missing type
+wizards/siki/questplaque.c line 83 :syntax error
+wizards/siki/questplaque.c line 83 :Illegal initialization
+wizards/siki/questplaque.c line 83 :Type mismatch ( unknown vs string ) when initializing st
+wizards/siki/questplaque.c line 83 :Missing type
+wizards/siki/questplaque.c line 85 :Type mismatch ( unknown vs object ) when initializing pager
+wizards/siki/questplaque.c line 85 :Missing type
+wizards/siki/questplaque.c line 86 :syntax error
+wizards/siki/help_tool.c line 68 :Variable player_country not declared !
+wizards/siki/help_tool.c line 77 :Variable player_country not declared !
+wizards/siki/help_tool.c line 68 :Variable player_country not declared !
+wizards/siki/help_tool.c line 77 :Variable player_country not declared !
+wizards/siki/help_tool.c line 76 :Variable player_country not declared !
+wizards/siki/help_tool.c line 76 :Variable player_country not declared !
+wizards/siki/help_tool.c line 55 :syntax error
+wizards/siki/help_tool.c line 57 :syntax error
+wizards/siki/help_tool.c line 65 :syntax error
+wizards/siki/help_tool.c line 72 :syntax error
+wizards/siki/help_tool.c line 74 :Too few arguments to clone_object
+wizards/siki/help_tool.c line 74 :Illegal LHS
+wizards/siki/help_tool.c line 55 :syntax error
+wizards/siki/help_tool.c line 57 :syntax error
+wizards/siki/help_tool.c line 65 :syntax error
+wizards/siki/help_tool.c line 72 :syntax error
+wizards/siki/help_tool.c line 74 :Too few arguments to clone_object
+wizards/siki/help_tool.c line 74 :Illegal LHS
+wizards/siki/help_tool.c line 55 :syntax error
+wizards/siki/help_tool.c line 57 :syntax error
+wizards/siki/help_tool.c line 65 :syntax error
+wizards/siki/help_tool.c line 72 :syntax error
+wizards/siki/help_tool.c line 74 :Too few arguments to clone_object
+wizards/siki/help_tool.c line 74 :Illegal LHS
+wizards/siki/help_tool.c line 55 :syntax error
+wizards/siki/help_tool.c line 57 :syntax error
+wizards/siki/help_tool.c line 65 :syntax error
+wizards/siki/help_tool.c line 72 :syntax error
+wizards/siki/help_tool.c line 74 :Too few arguments to clone_object
+wizards/siki/help_tool.c line 74 :Illegal LHS
+wizards/siki/help_tool.c line 55 :syntax error
+wizards/siki/help_tool.c line 57 :syntax error
+wizards/siki/help_tool.c line 65 :syntax error
+wizards/siki/help_tool.c line 72 :syntax error
+wizards/siki/help_tool.c line 74 :Too few arguments to clone_object
+wizards/siki/help_tool.c line 74 :Illegal LHS
+wizards/siki/help_tool.c line 55 :syntax error
+wizards/siki/help_tool.c line 57 :syntax error
+wizards/siki/help_tool.c line 65 :syntax error
+wizards/siki/help_tool.c line 72 :syntax error
+wizards/siki/help_tool.c line 74 :Too few arguments to clone_object
+wizards/siki/help_tool.c line 74 :Illegal LHS
+wizards/siki/help_tool.c line 55 :syntax error
+wizards/siki/help_tool.c line 57 :syntax error
+wizards/siki/help_tool.c line 65 :syntax error
+wizards/siki/help_tool.c line 72 :syntax error
+wizards/siki/help_tool.c line 74 :Too few arguments to clone_object
+wizards/siki/help_tool.c line 74 :Illegal LHS
+wizards/siki/help_tool.c line 55 :syntax error
+wizards/siki/help_tool.c line 57 :syntax error
+wizards/siki/help_tool.c line 65 :syntax error
+wizards/siki/help_tool.c line 72 :syntax error
+wizards/siki/help_tool.c line 74 :Too few arguments to clone_object
+wizards/siki/help_tool.c line 74 :Illegal LHS
+wizards/siki/help_tool.c line 55 :syntax error
+wizards/siki/help_tool.c line 57 :syntax error
+wizards/siki/help_tool.c line 65 :syntax error
+wizards/siki/help_tool.c line 72 :syntax error
+wizards/siki/help_tool.c line 74 :Too few arguments to clone_object
+wizards/siki/help_tool.c line 74 :Illegal LHS
+wizards/siki/help_tool.c line 55 :syntax error
+wizards/siki/help_tool.c line 57 :syntax error
+wizards/siki/help_tool.c line 65 :syntax error
+wizards/siki/help_tool.c line 72 :syntax error
+wizards/siki/help_tool.c line 74 :Too few arguments to clone_object
+wizards/siki/help_tool.c line 74 :Illegal LHS
+wizards/siki/help_tool.c line 55 :syntax error
+wizards/siki/help_tool.c line 57 :syntax error
+wizards/siki/help_tool.c line 64 :syntax error
+wizards/siki/help_tool.c line 70 :syntax error
+wizards/siki/help_tool.c line 72 :Too few arguments to clone_object
+wizards/siki/help_tool.c line 72 :Illegal LHS
+wizards/siki/help_tool.c line 55 :syntax error
+wizards/siki/help_tool.c line 57 :syntax error
+wizards/siki/help_tool.c line 64 :syntax error
+wizards/siki/help_tool.c line 70 :syntax error
+wizards/siki/help_tool.c line 72 :Too few arguments to clone_object
+wizards/siki/help_tool.c line 72 :Illegal LHS
+wizards/siki/help_tool.c line 55 :syntax error
+wizards/siki/help_tool.c line 57 :syntax error
+wizards/siki/help_tool.c line 64 :syntax error
+wizards/siki/help_tool.c line 70 :syntax error
+wizards/siki/help_tool.c line 72 :Too few arguments to clone_object
+wizards/siki/help_tool.c line 72 :Illegal LHS
+wizards/siki/help_tool.c line 55 :syntax error
+wizards/siki/help_tool.c line 57 :syntax error
+wizards/siki/help_tool.c line 64 :syntax error
+wizards/siki/help_tool.c line 70 :syntax error
+wizards/siki/help_tool.c line 72 :Too few arguments to clone_object
+wizards/siki/help_tool.c line 72 :Illegal LHS
+wizards/siki/help_tool.c line 55 :syntax error
+wizards/siki/help_tool.c line 57 :syntax error
+wizards/siki/help_tool.c line 64 :syntax error
+wizards/siki/help_tool.c line 70 :syntax error
+wizards/siki/help_tool.c line 72 :Too few arguments to clone_object
+wizards/siki/help_tool.c line 72 :Illegal LHS
+wizards/siki/help_tool.c line 55 :syntax error
+wizards/siki/help_tool.c line 57 :syntax error
+wizards/siki/help_tool.c line 64 :syntax error
+wizards/siki/help_tool.c line 70 :syntax error
+wizards/siki/help_tool.c line 72 :Too few arguments to clone_object
+wizards/siki/help_tool.c line 72 :Illegal LHS
+wizards/siki/help_tool.c line 55 :syntax error
+wizards/siki/help_tool.c line 57 :syntax error
+wizards/siki/help_tool.c line 64 :syntax error
+wizards/siki/help_tool.c line 70 :syntax error
+wizards/siki/help_tool.c line 72 :Too few arguments to clone_object
+wizards/siki/help_tool.c line 72 :Illegal LHS
+wizards/siki/help_tool.c line 55 :syntax error
+wizards/siki/help_tool.c line 57 :syntax error
+wizards/siki/help_tool.c line 64 :syntax error
+wizards/siki/help_tool.c line 70 :syntax error
+wizards/siki/help_tool.c line 72 :Too few arguments to clone_object
+wizards/siki/help_tool.c line 72 :Illegal LHS
+wizards/siki/help_tool.c line 55 :syntax error
+wizards/siki/help_tool.c line 57 :syntax error
+wizards/siki/help_tool.c line 64 :syntax error
+wizards/siki/help_tool.c line 70 :syntax error
+wizards/siki/help_tool.c line 72 :Too few arguments to clone_object
+wizards/siki/help_tool.c line 72 :Illegal LHS
+wizards/siki/help_tool.c line 55 :syntax error
+wizards/siki/help_tool.c line 57 :syntax error
+wizards/siki/help_tool.c line 64 :syntax error
+wizards/siki/help_tool.c line 70 :syntax error
+wizards/siki/help_tool.c line 72 :Too few arguments to clone_object
+wizards/siki/help_tool.c line 72 :Illegal LHS
+wizards/siki/help_tool.c line 68 :Illegal initialization
+wizards/siki/help_tool.c line 68 :Type mismatch ( unknown vs string ) when initializing str
+wizards/siki/help_tool.c line 68 :Missing type
+wizards/siki/help_tool.c line 69 :Variable files not declared !
+wizards/siki/help_tool.c line 69 :Illegal initialization
+wizards/siki/help_tool.c line 69 :Type mismatch ( unknown vs string ) when initializing str
+wizards/siki/help_tool.c line 68 :Illegal initialization
+wizards/siki/help_tool.c line 68 :Type mismatch ( unknown vs string ) when initializing str
+wizards/siki/help_tool.c line 68 :Missing type
+wizards/siki/help_tool.c line 69 :Variable files not declared !
+wizards/siki/help_tool.c line 69 :Illegal initialization
+wizards/siki/help_tool.c line 69 :Type mismatch ( unknown vs string ) when initializing str
+wizards/siki/help_tool.c line 68 :Illegal initialization
+wizards/siki/help_tool.c line 68 :Type mismatch ( unknown vs string ) when initializing str
+wizards/siki/help_tool.c line 68 :Missing type
+wizards/siki/help_tool.c line 69 :Variable files not declared !
+wizards/siki/help_tool.c line 69 :Illegal initialization
+wizards/siki/help_tool.c line 69 :Type mismatch ( unknown vs string ) when initializing str
+wizards/siki/help_tool.c line 68 :Illegal initialization
+wizards/siki/help_tool.c line 68 :Type mismatch ( unknown vs string ) when initializing str
+wizards/siki/help_tool.c line 68 :Missing type
+wizards/siki/help_tool.c line 69 :Variable files not declared !
+wizards/siki/help_tool.c line 69 :Illegal initialization
+wizards/siki/help_tool.c line 69 :Type mismatch ( unknown vs string ) when initializing str
+wizards/siki/help_tool.c line 68 :Illegal initialization
+wizards/siki/help_tool.c line 68 :Type mismatch ( unknown vs string ) when initializing str
+wizards/siki/help_tool.c line 68 :Missing type
+wizards/siki/help_tool.c line 69 :Variable files not declared !
+wizards/siki/help_tool.c line 69 :Illegal initialization
+wizards/siki/help_tool.c line 69 :Type mismatch ( unknown vs string ) when initializing str
+wizards/siki/help_tool.c line 68 :Illegal initialization
+wizards/siki/help_tool.c line 68 :Type mismatch ( unknown vs string ) when initializing str
+wizards/siki/help_tool.c line 68 :Missing type
+wizards/siki/help_tool.c line 69 :Variable files not declared !
+wizards/siki/help_tool.c line 69 :Illegal initialization
+wizards/siki/help_tool.c line 69 :Type mismatch ( unknown vs string ) when initializing str
+wizards/siki/help_tool.c line 68 :Illegal initialization
+wizards/siki/help_tool.c line 68 :Type mismatch ( unknown vs string ) when initializing str
+wizards/siki/help_tool.c line 68 :Missing type
+wizards/siki/help_tool.c line 69 :Variable files not declared !
+wizards/siki/help_tool.c line 69 :Illegal initialization
+wizards/siki/help_tool.c line 69 :Type mismatch ( unknown vs string ) when initializing str
+wizards/siki/help_tool.c line 68 :Illegal initialization
+wizards/siki/help_tool.c line 68 :Type mismatch ( unknown vs string ) when initializing str
+wizards/siki/help_tool.c line 68 :Missing type
+wizards/siki/help_tool.c line 69 :Variable files not declared !
+wizards/siki/help_tool.c line 69 :Illegal initialization
+wizards/siki/help_tool.c line 69 :Type mismatch ( unknown vs string ) when initializing str
+wizards/siki/help_tool.c line 68 :Illegal initialization
+wizards/siki/help_tool.c line 68 :Type mismatch ( unknown vs string ) when initializing str
+wizards/siki/help_tool.c line 68 :Missing type
+wizards/siki/help_tool.c line 69 :Variable files not declared !
+wizards/siki/help_tool.c line 69 :Illegal initialization
+wizards/siki/help_tool.c line 69 :Type mismatch ( unknown vs string ) when initializing str
+wizards/siki/help_tool.c line 68 :Illegal initialization
+wizards/siki/help_tool.c line 68 :Type mismatch ( unknown vs string ) when initializing str
+wizards/siki/help_tool.c line 68 :Missing type
+wizards/siki/help_tool.c line 69 :Variable files not declared !
+wizards/siki/help_tool.c line 69 :Illegal initialization
+wizards/siki/help_tool.c line 69 :Type mismatch ( unknown vs string ) when initializing str
+wizards/siki/help_tool.c line 68 :Illegal initialization
+wizards/siki/help_tool.c line 68 :Type mismatch ( unknown vs string ) when initializing str
+wizards/siki/help_tool.c line 68 :Missing type
+wizards/siki/help_tool.c line 69 :Variable files not declared !
+wizards/siki/help_tool.c line 69 :Illegal initialization
+wizards/siki/help_tool.c line 69 :Type mismatch ( unknown vs string ) when initializing str
+wizards/siki/help_tool.c line 68 :Illegal initialization
+wizards/siki/help_tool.c line 68 :Type mismatch ( unknown vs string ) when initializing str
+wizards/siki/help_tool.c line 68 :Missing type
+wizards/siki/help_tool.c line 69 :Variable files not declared !
+wizards/siki/help_tool.c line 69 :Illegal initialization
+wizards/siki/help_tool.c line 69 :Type mismatch ( unknown vs string ) when initializing str
+wizards/siki/help_tool.c line 68 :syntax error
+wizards/siki/help_tool.c line 68 :syntax error
+wizards/siki/help_tool.c line 68 :syntax error
+wizards/siki/help_tool.c line 68 :syntax error
+wizards/siki/help_tool.c line 68 :syntax error
+wizards/siki/help_tool.c line 68 :syntax error
+wizards/siki/help_tool.c line 68 :syntax error
+wizards/siki/help_tool.c line 68 :syntax error
+wizards/siki/help_tool.c line 69 :Illegal initialization
+wizards/siki/help_tool.c line 69 :Type mismatch ( unknown vs string ) when initializing str
+wizards/siki/help_tool.c line 69 :Missing type
+wizards/siki/help_tool.c line 70 :Variable files not declared !
+wizards/siki/help_tool.c line 70 :Illegal initialization
+wizards/siki/help_tool.c line 70 :Type mismatch ( unknown vs string ) when initializing str
+wizards/siki/help_tool.c line 69 :Illegal initialization
+wizards/siki/help_tool.c line 69 :Type mismatch ( unknown vs string ) when initializing str
+wizards/siki/help_tool.c line 69 :Missing type
+wizards/siki/help_tool.c line 70 :Variable files not declared !
+wizards/siki/help_tool.c line 70 :Illegal initialization
+wizards/siki/help_tool.c line 70 :Type mismatch ( unknown vs string ) when initializing str
+wizards/siki/help_tool.c line 69 :Illegal initialization
+wizards/siki/help_tool.c line 69 :Type mismatch ( unknown vs string ) when initializing str
+wizards/siki/help_tool.c line 69 :Missing type
+wizards/siki/help_tool.c line 70 :Variable files not declared !
+wizards/siki/help_tool.c line 70 :Illegal initialization
+wizards/siki/help_tool.c line 70 :Type mismatch ( unknown vs string ) when initializing str
+wizards/siki/help_tool.c line 69 :Illegal initialization
+wizards/siki/help_tool.c line 69 :Type mismatch ( unknown vs string ) when initializing str
+wizards/siki/help_tool.c line 69 :Missing type
+wizards/siki/help_tool.c line 70 :Variable files not declared !
+wizards/siki/help_tool.c line 70 :Illegal initialization
+wizards/siki/help_tool.c line 70 :Type mismatch ( unknown vs string ) when initializing str
+wizards/siki/help_tool.c line 69 :Illegal initialization
+wizards/siki/help_tool.c line 69 :Type mismatch ( unknown vs string ) when initializing str
+wizards/siki/help_tool.c line 69 :Missing type
+wizards/siki/help_tool.c line 70 :Variable files not declared !
+wizards/siki/help_tool.c line 70 :Illegal initialization
+wizards/siki/help_tool.c line 70 :Type mismatch ( unknown vs string ) when initializing str
+wizards/siki/help_tool.c line 69 :Illegal initialization
+wizards/siki/help_tool.c line 69 :Type mismatch ( unknown vs string ) when initializing str
+wizards/siki/help_tool.c line 69 :Missing type
+wizards/siki/help_tool.c line 70 :Variable files not declared !
+wizards/siki/help_tool.c line 70 :Illegal initialization
+wizards/siki/help_tool.c line 70 :Type mismatch ( unknown vs string ) when initializing str
+wizards/siki/help_tool.c line 68 :syntax error
+wizards/siki/help_tool.c line 68 :syntax error
+wizards/siki/help_tool.c line 68 :syntax error
+wizards/siki/help_tool.c line 68 :syntax error
+wizards/siki/help_tool.c line 68 :syntax error
+wizards/siki/help_tool.c line 68 :syntax error
+wizards/siki/help_tool.c line 68 :Illegal initialization
+wizards/siki/help_tool.c line 68 :Type mismatch ( unknown vs string ) when initializing str
+wizards/siki/help_tool.c line 68 :Missing type
+wizards/siki/help_tool.c line 69 :Variable files not declared !
+wizards/siki/help_tool.c line 69 :Illegal initialization
+wizards/siki/help_tool.c line 69 :Type mismatch ( unknown vs string ) when initializing str
+wizards/siki/help_tool.c line 68 :Illegal initialization
+wizards/siki/help_tool.c line 68 :Type mismatch ( unknown vs string ) when initializing str
+wizards/siki/help_tool.c line 68 :Missing type
+wizards/siki/help_tool.c line 69 :Variable files not declared !
+wizards/siki/help_tool.c line 69 :Illegal initialization
+wizards/siki/help_tool.c line 69 :Type mismatch ( unknown vs string ) when initializing str
+wizards/siki/help_tool.c line 68 :Illegal initialization
+wizards/siki/help_tool.c line 68 :Type mismatch ( unknown vs string ) when initializing str
+wizards/siki/help_tool.c line 68 :Missing type
+wizards/siki/help_tool.c line 69 :Variable files not declared !
+wizards/siki/help_tool.c line 69 :Illegal initialization
+wizards/siki/help_tool.c line 69 :Type mismatch ( unknown vs string ) when initializing str
+wizards/siki/help_tool.c line 68 :Illegal initialization
+wizards/siki/help_tool.c line 68 :Type mismatch ( unknown vs string ) when initializing str
+wizards/siki/help_tool.c line 68 :Missing type
+wizards/siki/help_tool.c line 69 :Variable files not declared !
+wizards/siki/help_tool.c line 69 :Illegal initialization
+wizards/siki/help_tool.c line 69 :Type mismatch ( unknown vs string ) when initializing str
+wizards/siki/help_tool.c line 68 :Illegal initialization
+wizards/siki/help_tool.c line 68 :Type mismatch ( unknown vs string ) when initializing str
+wizards/siki/help_tool.c line 68 :Missing type
+wizards/siki/help_tool.c line 69 :Variable files not declared !
+wizards/siki/help_tool.c line 69 :Illegal initialization
+wizards/siki/help_tool.c line 69 :Type mismatch ( unknown vs string ) when initializing str
+wizards/siki/help_tool.c line 68 :Illegal initialization
+wizards/siki/help_tool.c line 68 :Type mismatch ( unknown vs string ) when initializing str
+wizards/siki/help_tool.c line 68 :Missing type
+wizards/siki/help_tool.c line 69 :Variable files not declared !
+wizards/siki/help_tool.c line 69 :Illegal initialization
+wizards/siki/help_tool.c line 69 :Type mismatch ( unknown vs string ) when initializing str
+wizards/siki/backstab.c line 39 :syntax error
+wizards/siki/thunder/start.c line 21 :Variable healer not declared !
+wizards/siki/thunder/start.c line 21 :Variable healer not declared !
+wizards/siki/help_tool.c line 35 :Unrecognized inheritance modifier qualifier
+wizards/siki/help_tool.c line 35 :Unrecognized inheritance modifier qualifier
+wizards/siki/help_tool.c line 35 :syntax error
+wizards/siki/help_tool.c line 61 :syntax error
+wizards/siki/help_tool.c line 61 :Illegal LHS
+wizards/siki/help_tool.c line 18 :Variable a not declared !
+wizards/siki/help_tool.c line 18 :Variable b not declared !
+wizards/siki/help_tool.c line 20 :Variable a not declared !
+wizards/siki/help_tool.c line 20 :Variable b not declared !
+wizards/siki/help_tool.c line 18 :Variable a not declared !
+wizards/siki/help_tool.c line 18 :Variable b not declared !
+wizards/siki/help_tool.c line 20 :Variable a not declared !
+wizards/siki/help_tool.c line 20 :Variable b not declared !
+wizards/siki/help_tool.c line 18 :Bad type of index: "float "
+wizards/siki/help_tool.c line 18 :Bad type of index: "float "
+wizards/siki/help_tool.c line 18 :Bad type of index: "float "
+wizards/siki/help_tool.c line 18 :Bad type of index: "float "
+wizards/siki/help_tool.c line 44 :syntax error
+wizards/siki/help_tool.c line 44 :syntax error
+wizards/siki/help_tool.c line 44 :syntax error
+wizards/siki/help_tool.c line 44 :syntax error
+wizards/siki/help_tool.c line 59 :Variable char not declared !
+wizards/siki/help_tool.c line 59 :syntax error
+wizards/siki/help_tool.c line 61 :Illegal LHS
+wizards/siki/help_tool.c line 61 :syntax error
+wizards/siki/help_tool.c line 63 :Illegal LHS
+wizards/siki/help_tool.c line 63 :syntax error
+wizards/siki/help_tool.c line 59 :Variable char not declared !
+wizards/siki/help_tool.c line 59 :syntax error
+wizards/siki/help_tool.c line 61 :Illegal LHS
+wizards/siki/help_tool.c line 61 :syntax error
+wizards/siki/help_tool.c line 63 :Illegal LHS
+wizards/siki/help_tool.c line 63 :syntax error
+wizards/siki/help_tool.c line 59 :Variable char not declared !
+wizards/siki/help_tool.c line 59 :syntax error
+wizards/siki/help_tool.c line 61 :Illegal LHS
+wizards/siki/help_tool.c line 61 :syntax error
+wizards/siki/help_tool.c line 63 :Illegal LHS
+wizards/siki/help_tool.c line 63 :syntax error
+wizards/siki/help_tool.c line 59 :Variable char not declared !
+wizards/siki/help_tool.c line 59 :syntax error
+wizards/siki/help_tool.c line 61 :Illegal LHS
+wizards/siki/help_tool.c line 61 :syntax error
+wizards/siki/help_tool.c line 63 :Illegal LHS
+wizards/siki/help_tool.c line 63 :syntax error
+wizards/siki/help_tool.c line 60 :syntax error
+wizards/siki/help_tool.c line 62 :Illegal LHS
+wizards/siki/help_tool.c line 62 :Bad argument number 1 to '*': "string "
+wizards/siki/help_tool.c line 62 :syntax error
+wizards/siki/help_tool.c line 63 :Illegal LHS
+wizards/siki/help_tool.c line 64 :Illegal LHS
+wizards/siki/help_tool.c line 60 :syntax error
+wizards/siki/help_tool.c line 62 :Illegal LHS
+wizards/siki/help_tool.c line 62 :Bad argument number 1 to '*': "string "
+wizards/siki/help_tool.c line 62 :syntax error
+wizards/siki/help_tool.c line 63 :Illegal LHS
+wizards/siki/help_tool.c line 64 :Illegal LHS
+wizards/siki/help_tool.c line 60 :syntax error
+wizards/siki/help_tool.c line 62 :Illegal LHS
+wizards/siki/help_tool.c line 62 :Bad argument number 1 to '*': "string "
+wizards/siki/help_tool.c line 62 :syntax error
+wizards/siki/help_tool.c line 63 :Illegal LHS
+wizards/siki/help_tool.c line 64 :Illegal LHS
+wizards/siki/help_tool.c line 60 :syntax error
+wizards/siki/help_tool.c line 62 :Illegal LHS
+wizards/siki/help_tool.c line 62 :Bad argument number 1 to '*': "string "
+wizards/siki/help_tool.c line 62 :syntax error
+wizards/siki/help_tool.c line 63 :Illegal LHS
+wizards/siki/help_tool.c line 64 :Illegal LHS
+wizards/siki/help_tool.c line 64 :Bad argument 1 type to efun sort_array()
+wizards/siki/help_tool.c line 64 :Bad argument 1 type to efun sort_array()
+wizards/siki/help_tool.c line 64 :Bad argument 1 type to efun sort_array()
+wizards/siki/help_tool.c line 64 :Bad argument 1 type to efun sort_array()
+wizards/siki/help_tool.c line 68 :Bad argument 1 type to efun sort_array()
+wizards/siki/help_tool.c line 68 :Bad argument 1 type to efun sort_array()
+wizards/siki/help_tool.c line 68 :Bad argument 1 type to efun sort_array()
+wizards/siki/help_tool.c line 68 :Bad argument 1 type to efun sort_array()
+wizards/siki/help_tool.c line 68 :Bad argument 1 type to efun sort_array()
+wizards/siki/help_tool.c line 68 :Bad argument 1 type to efun sort_array()
+wizards/siki/help_tool.c line 68 :Bad argument 1 type to efun sort_array()
+wizards/siki/help_tool.c line 68 :Bad argument 1 type to efun sort_array()
+wizards/siki/test_ob.c line 5 :Variable disguise_target not declared !
+wizards/siki/help_tool.c line 28 :Newline in string
+wizards/siki/help_tool.c line 29 :syntax error
+wizards/siki/help_tool.c line 28 :Newline in string
+wizards/siki/help_tool.c line 29 :syntax error
+wizards/siki/help_tool.c line 36 :syntax error
+wizards/siki/help_tool.c line 68 :syntax error
+wizards/siki/help_tool.c line 68 :Illegal LHS
+wizards/siki/help_tool.c line 68 :syntax error
+wizards/siki/help_tool.c line 69 :syntax error
+wizards/siki/help_tool.c line 85 :Variable arg not declared !
+wizards/siki/help_tool.c line 36 :syntax error
+wizards/siki/help_tool.c line 68 :syntax error
+wizards/siki/help_tool.c line 68 :Illegal LHS
+wizards/siki/help_tool.c line 68 :syntax error
+wizards/siki/help_tool.c line 69 :syntax error
+wizards/siki/help_tool.c line 85 :Variable arg not declared !
+wizards/siki/help_tool.c line 36 :syntax error
+wizards/siki/help_tool.c line 68 :syntax error
+wizards/siki/help_tool.c line 68 :Illegal LHS
+wizards/siki/help_tool.c line 68 :syntax error
+wizards/siki/help_tool.c line 69 :syntax error
+wizards/siki/help_tool.c line 85 :Variable arg not declared !
+wizards/siki/help_tool.c line 36 :syntax error
+wizards/siki/help_tool.c line 68 :syntax error
+wizards/siki/help_tool.c line 68 :Illegal LHS
+wizards/siki/help_tool.c line 68 :syntax error
+wizards/siki/help_tool.c line 69 :syntax error
+wizards/siki/help_tool.c line 85 :Variable arg not declared !
+wizards/siki/help_tool.c line 68 :syntax error
+wizards/siki/help_tool.c line 68 :Illegal LHS
+wizards/siki/help_tool.c line 68 :syntax error
+wizards/siki/help_tool.c line 69 :syntax error
+wizards/siki/help_tool.c line 85 :Variable arg not declared !
+wizards/siki/help_tool.c line 85 :Illegal LHS
+wizards/siki/help_tool.c line 68 :syntax error
+wizards/siki/help_tool.c line 68 :Illegal LHS
+wizards/siki/help_tool.c line 68 :syntax error
+wizards/siki/help_tool.c line 69 :syntax error
+wizards/siki/help_tool.c line 85 :Variable arg not declared !
+wizards/siki/help_tool.c line 85 :Illegal LHS
+wizards/siki/help_tool.c line 68 :syntax error
+wizards/siki/help_tool.c line 68 :Illegal LHS
+wizards/siki/help_tool.c line 68 :syntax error
+wizards/siki/help_tool.c line 69 :syntax error
+wizards/siki/help_tool.c line 85 :Variable arg not declared !
+wizards/siki/help_tool.c line 85 :Illegal LHS
+wizards/siki/help_tool.c line 68 :syntax error
+wizards/siki/help_tool.c line 68 :Illegal LHS
+wizards/siki/help_tool.c line 68 :syntax error
+wizards/siki/help_tool.c line 69 :syntax error
+wizards/siki/help_tool.c line 85 :Variable arg not declared !
+wizards/siki/help_tool.c line 85 :Illegal LHS
+wizards/siki/help_tool.c line 68 :syntax error
+wizards/siki/help_tool.c line 68 :Illegal LHS
+wizards/siki/help_tool.c line 68 :syntax error
+wizards/siki/help_tool.c line 69 :syntax error
+wizards/siki/help_tool.c line 85 :Variable arg not declared !
+wizards/siki/help_tool.c line 85 :Illegal LHS
+wizards/siki/help_tool.c line 68 :syntax error
+wizards/siki/help_tool.c line 68 :Illegal LHS
+wizards/siki/help_tool.c line 68 :syntax error
+wizards/siki/help_tool.c line 69 :syntax error
+wizards/siki/help_tool.c line 85 :Variable arg not declared !
+wizards/siki/help_tool.c line 85 :Illegal LHS
+wizards/siki/help_tool.c line 69 :syntax error
+wizards/siki/help_tool.c line 70 :Illegal LHS
+wizards/siki/help_tool.c line 70 :syntax error
+wizards/siki/help_tool.c line 71 :Illegal LHS
+wizards/siki/help_tool.c line 71 :syntax error
+wizards/siki/help_tool.c line 88 :Variable arg not declared !
+wizards/siki/help_tool.c line 69 :syntax error
+wizards/siki/help_tool.c line 70 :Illegal LHS
+wizards/siki/help_tool.c line 70 :syntax error
+wizards/siki/help_tool.c line 71 :Illegal LHS
+wizards/siki/help_tool.c line 71 :syntax error
+wizards/siki/help_tool.c line 88 :Variable arg not declared !
+wizards/siki/help_tool.c line 69 :syntax error
+wizards/siki/help_tool.c line 70 :Illegal LHS
+wizards/siki/help_tool.c line 70 :syntax error
+wizards/siki/help_tool.c line 71 :Illegal LHS
+wizards/siki/help_tool.c line 71 :syntax error
+wizards/siki/help_tool.c line 88 :Variable arg not declared !
+wizards/siki/help_tool.c line 69 :syntax error
+wizards/siki/help_tool.c line 70 :Illegal LHS
+wizards/siki/help_tool.c line 70 :syntax error
+wizards/siki/help_tool.c line 71 :Illegal LHS
+wizards/siki/help_tool.c line 71 :syntax error
+wizards/siki/help_tool.c line 88 :Variable arg not declared !
+wizards/siki/help_tool.c line 69 :syntax error
+wizards/siki/help_tool.c line 70 :Illegal LHS
+wizards/siki/help_tool.c line 70 :syntax error
+wizards/siki/help_tool.c line 71 :Illegal LHS
+wizards/siki/help_tool.c line 71 :syntax error
+wizards/siki/help_tool.c line 88 :Variable arg not declared !
+wizards/siki/help_tool.c line 69 :syntax error
+wizards/siki/help_tool.c line 70 :Illegal LHS
+wizards/siki/help_tool.c line 70 :syntax error
+wizards/siki/help_tool.c line 71 :Illegal LHS
+wizards/siki/help_tool.c line 71 :syntax error
+wizards/siki/help_tool.c line 88 :Variable arg not declared !
+wizards/siki/help_tool.c line 69 :syntax error
+wizards/siki/help_tool.c line 70 :Illegal LHS
+wizards/siki/help_tool.c line 70 :syntax error
+wizards/siki/help_tool.c line 71 :Illegal LHS
+wizards/siki/help_tool.c line 71 :syntax error
+wizards/siki/help_tool.c line 88 :Variable arg not declared !
+wizards/siki/help_tool.c line 69 :syntax error
+wizards/siki/help_tool.c line 70 :Illegal LHS
+wizards/siki/help_tool.c line 70 :syntax error
+wizards/siki/help_tool.c line 71 :Illegal LHS
+wizards/siki/help_tool.c line 71 :syntax error
+wizards/siki/help_tool.c line 88 :Variable arg not declared !
+wizards/siki/help_tool.c line 69 :syntax error
+wizards/siki/help_tool.c line 70 :Illegal LHS
+wizards/siki/help_tool.c line 70 :syntax error
+wizards/siki/help_tool.c line 71 :Illegal LHS
+wizards/siki/help_tool.c line 71 :syntax error
+wizards/siki/help_tool.c line 88 :Variable arg not declared !
+wizards/siki/help_tool.c line 69 :syntax error
+wizards/siki/help_tool.c line 70 :Illegal LHS
+wizards/siki/help_tool.c line 70 :syntax error
+wizards/siki/help_tool.c line 71 :Illegal LHS
+wizards/siki/help_tool.c line 71 :syntax error
+wizards/siki/help_tool.c line 88 :Variable arg not declared !
+wizards/siki/help_tool.c line 69 :syntax error
+wizards/siki/help_tool.c line 69 :syntax error
+wizards/siki/help_tool.c line 69 :syntax error
+wizards/siki/help_tool.c line 69 :syntax error
+wizards/siki/help_tool.c line 69 :syntax error
+wizards/siki/help_tool.c line 69 :syntax error
+wizards/siki/help_tool.c line 69 :syntax error
+wizards/siki/help_tool.c line 69 :syntax error
+wizards/siki/help_tool.c line 69 :syntax error
+wizards/siki/help_tool.c line 69 :syntax error
+wizards/siki/help_tool.c line 100 :syntax error
+wizards/siki/help_tool.c line 100 :Illegal LHS
+wizards/siki/help_tool.c line 101 :Variable member_status not declared !
+wizards/siki/help_tool.c line 101 :Illegal LHS
+wizards/siki/help_tool.c line 101 :syntax error
+wizards/siki/help_tool.c line 104 :Illegal LHS
+wizards/siki/help_tool.c line 100 :syntax error
+wizards/siki/help_tool.c line 100 :Illegal LHS
+wizards/siki/help_tool.c line 101 :Variable member_status not declared !
+wizards/siki/help_tool.c line 101 :Illegal LHS
+wizards/siki/help_tool.c line 101 :syntax error
+wizards/siki/help_tool.c line 104 :Illegal LHS
+wizards/siki/help_tool.c line 100 :syntax error
+wizards/siki/help_tool.c line 100 :Illegal LHS
+wizards/siki/help_tool.c line 101 :Variable member_status not declared !
+wizards/siki/help_tool.c line 101 :Illegal LHS
+wizards/siki/help_tool.c line 101 :syntax error
+wizards/siki/help_tool.c line 104 :Illegal LHS
+wizards/siki/help_tool.c line 100 :syntax error
+wizards/siki/help_tool.c line 100 :Illegal LHS
+wizards/siki/help_tool.c line 101 :Variable member_status not declared !
+wizards/siki/help_tool.c line 101 :Illegal LHS
+wizards/siki/help_tool.c line 101 :syntax error
+wizards/siki/help_tool.c line 104 :Illegal LHS
+wizards/siki/help_tool.c line 100 :syntax error
+wizards/siki/help_tool.c line 100 :Illegal LHS
+wizards/siki/help_tool.c line 101 :Variable member_status not declared !
+wizards/siki/help_tool.c line 101 :Illegal LHS
+wizards/siki/help_tool.c line 101 :syntax error
+wizards/siki/help_tool.c line 104 :Illegal LHS
+wizards/siki/help_tool.c line 100 :syntax error
+wizards/siki/help_tool.c line 100 :Illegal LHS
+wizards/siki/help_tool.c line 101 :Variable member_status not declared !
+wizards/siki/help_tool.c line 101 :Illegal LHS
+wizards/siki/help_tool.c line 101 :syntax error
+wizards/siki/help_tool.c line 104 :Illegal LHS
+wizards/siki/help_tool.c line 100 :syntax error
+wizards/siki/help_tool.c line 100 :Illegal LHS
+wizards/siki/help_tool.c line 101 :Variable member_status not declared !
+wizards/siki/help_tool.c line 101 :Illegal LHS
+wizards/siki/help_tool.c line 101 :syntax error
+wizards/siki/help_tool.c line 104 :Illegal LHS
+wizards/siki/help_tool.c line 100 :syntax error
+wizards/siki/help_tool.c line 100 :Illegal LHS
+wizards/siki/help_tool.c line 101 :Variable member_status not declared !
+wizards/siki/help_tool.c line 101 :Illegal LHS
+wizards/siki/help_tool.c line 101 :syntax error
+wizards/siki/help_tool.c line 104 :Illegal LHS
+wizards/siki/help_tool.c line 100 :syntax error
+wizards/siki/help_tool.c line 100 :Illegal LHS
+wizards/siki/help_tool.c line 101 :Variable member_status not declared !
+wizards/siki/help_tool.c line 101 :Illegal LHS
+wizards/siki/help_tool.c line 101 :syntax error
+wizards/siki/help_tool.c line 104 :Illegal LHS
+wizards/siki/help_tool.c line 100 :syntax error
+wizards/siki/help_tool.c line 100 :Illegal LHS
+wizards/siki/help_tool.c line 101 :Variable member_status not declared !
+wizards/siki/help_tool.c line 101 :Illegal LHS
+wizards/siki/help_tool.c line 101 :syntax error
+wizards/siki/help_tool.c line 104 :Illegal LHS
+wizards/siki/help_tool.c line 100 :syntax error
+wizards/siki/help_tool.c line 100 :Illegal LHS
+wizards/siki/help_tool.c line 101 :Variable member_status not declared !
+wizards/siki/help_tool.c line 101 :Illegal LHS
+wizards/siki/help_tool.c line 101 :syntax error
+wizards/siki/help_tool.c line 104 :Illegal LHS
+wizards/siki/help_tool.c line 100 :syntax error
+wizards/siki/help_tool.c line 100 :Illegal LHS
+wizards/siki/help_tool.c line 101 :Variable member_status not declared !
+wizards/siki/help_tool.c line 101 :Illegal LHS
+wizards/siki/help_tool.c line 101 :syntax error
+wizards/siki/help_tool.c line 104 :Illegal LHS
+wizards/siki/help_tool.c line 101 :syntax error
+wizards/siki/help_tool.c line 101 :Illegal LHS
+wizards/siki/help_tool.c line 102 :Illegal LHS
+wizards/siki/help_tool.c line 102 :syntax error
+wizards/siki/help_tool.c line 103 :Illegal LHS
+wizards/siki/help_tool.c line 103 :syntax error
+wizards/siki/help_tool.c line 101 :syntax error
+wizards/siki/help_tool.c line 101 :Illegal LHS
+wizards/siki/help_tool.c line 102 :Illegal LHS
+wizards/siki/help_tool.c line 102 :syntax error
+wizards/siki/help_tool.c line 103 :Illegal LHS
+wizards/siki/help_tool.c line 103 :syntax error
+wizards/siki/help_tool.c line 101 :syntax error
+wizards/siki/help_tool.c line 101 :Illegal LHS
+wizards/siki/help_tool.c line 102 :Illegal LHS
+wizards/siki/help_tool.c line 102 :syntax error
+wizards/siki/help_tool.c line 103 :Illegal LHS
+wizards/siki/help_tool.c line 103 :syntax error
+wizards/siki/help_tool.c line 101 :syntax error
+wizards/siki/help_tool.c line 101 :Illegal LHS
+wizards/siki/help_tool.c line 102 :Illegal LHS
+wizards/siki/help_tool.c line 102 :syntax error
+wizards/siki/help_tool.c line 103 :Illegal LHS
+wizards/siki/help_tool.c line 103 :syntax error
+wizards/siki/help_tool.c line 101 :syntax error
+wizards/siki/help_tool.c line 101 :Illegal LHS
+wizards/siki/help_tool.c line 102 :Illegal LHS
+wizards/siki/help_tool.c line 102 :syntax error
+wizards/siki/help_tool.c line 103 :Illegal LHS
+wizards/siki/help_tool.c line 103 :syntax error
+wizards/siki/help_tool.c line 101 :syntax error
+wizards/siki/help_tool.c line 101 :Illegal LHS
+wizards/siki/help_tool.c line 102 :Illegal LHS
+wizards/siki/help_tool.c line 102 :syntax error
+wizards/siki/help_tool.c line 103 :Illegal LHS
+wizards/siki/help_tool.c line 103 :syntax error
+wizards/siki/help_tool.c line 101 :syntax error
+wizards/siki/help_tool.c line 101 :Illegal LHS
+wizards/siki/help_tool.c line 102 :Illegal LHS
+wizards/siki/help_tool.c line 102 :syntax error
+wizards/siki/help_tool.c line 103 :Illegal LHS
+wizards/siki/help_tool.c line 103 :syntax error
+wizards/siki/help_tool.c line 101 :syntax error
+wizards/siki/help_tool.c line 101 :Illegal LHS
+wizards/siki/help_tool.c line 102 :Illegal LHS
+wizards/siki/help_tool.c line 102 :syntax error
+wizards/siki/help_tool.c line 103 :Illegal LHS
+wizards/siki/help_tool.c line 103 :syntax error
+wizards/siki/help_tool.c line 101 :syntax error
+wizards/siki/help_tool.c line 101 :Illegal LHS
+wizards/siki/help_tool.c line 102 :Illegal LHS
+wizards/siki/help_tool.c line 102 :syntax error
+wizards/siki/help_tool.c line 103 :Illegal LHS
+wizards/siki/help_tool.c line 103 :syntax error
+wizards/siki/help_tool.c line 101 :syntax error
+wizards/siki/help_tool.c line 101 :Illegal LHS
+wizards/siki/help_tool.c line 102 :Illegal LHS
+wizards/siki/help_tool.c line 102 :syntax error
+wizards/siki/help_tool.c line 103 :Illegal LHS
+wizards/siki/help_tool.c line 103 :syntax error
+wizards/siki/help_tool.c line 101 :syntax error
+wizards/siki/help_tool.c line 101 :Illegal LHS
+wizards/siki/help_tool.c line 102 :Illegal LHS
+wizards/siki/help_tool.c line 102 :syntax error
+wizards/siki/help_tool.c line 103 :Illegal LHS
+wizards/siki/help_tool.c line 103 :syntax error
+wizards/siki/help_tool.c line 101 :syntax error
+wizards/siki/help_tool.c line 101 :Illegal LHS
+wizards/siki/help_tool.c line 102 :Illegal LHS
+wizards/siki/help_tool.c line 102 :syntax error
+wizards/siki/help_tool.c line 103 :Illegal LHS
+wizards/siki/help_tool.c line 103 :syntax error
+wizards/siki/help_tool.c line 101 :syntax error
+wizards/siki/help_tool.c line 101 :Illegal LHS
+wizards/siki/help_tool.c line 102 :Illegal LHS
+wizards/siki/help_tool.c line 102 :syntax error
+wizards/siki/help_tool.c line 103 :Illegal LHS
+wizards/siki/help_tool.c line 103 :syntax error
+wizards/siki/help_tool.c line 101 :syntax error
+wizards/siki/help_tool.c line 101 :Illegal LHS
+wizards/siki/help_tool.c line 102 :Illegal LHS
+wizards/siki/help_tool.c line 102 :syntax error
+wizards/siki/help_tool.c line 103 :Illegal LHS
+wizards/siki/help_tool.c line 103 :syntax error
+wizards/siki/help_tool.c line 101 :syntax error
+wizards/siki/help_tool.c line 101 :Illegal LHS
+wizards/siki/help_tool.c line 102 :Illegal LHS
+wizards/siki/help_tool.c line 102 :syntax error
+wizards/siki/help_tool.c line 103 :Illegal LHS
+wizards/siki/help_tool.c line 103 :syntax error
+wizards/siki/help_tool.c line 101 :syntax error
+wizards/siki/help_tool.c line 101 :Illegal LHS
+wizards/siki/help_tool.c line 102 :Illegal LHS
+wizards/siki/help_tool.c line 102 :syntax error
+wizards/siki/help_tool.c line 103 :Illegal LHS
+wizards/siki/help_tool.c line 103 :syntax error
+wizards/siki/help_tool.c line 101 :syntax error
+wizards/siki/help_tool.c line 101 :Illegal LHS
+wizards/siki/help_tool.c line 102 :Illegal LHS
+wizards/siki/help_tool.c line 102 :syntax error
+wizards/siki/help_tool.c line 103 :Illegal LHS
+wizards/siki/help_tool.c line 103 :syntax error
+wizards/siki/help_tool.c line 101 :syntax error
+wizards/siki/help_tool.c line 101 :Illegal LHS
+wizards/siki/help_tool.c line 102 :Illegal LHS
+wizards/siki/help_tool.c line 102 :syntax error
+wizards/siki/help_tool.c line 103 :Illegal LHS
+wizards/siki/help_tool.c line 103 :syntax error
+wizards/siki/help_tool.c line 101 :syntax error
+wizards/siki/help_tool.c line 101 :Illegal LHS
+wizards/siki/help_tool.c line 102 :Illegal LHS
+wizards/siki/help_tool.c line 102 :syntax error
+wizards/siki/help_tool.c line 103 :Illegal LHS
+wizards/siki/help_tool.c line 103 :syntax error
+wizards/siki/help_tool.c line 101 :syntax error
+wizards/siki/help_tool.c line 101 :Illegal LHS
+wizards/siki/help_tool.c line 102 :Illegal LHS
+wizards/siki/help_tool.c line 102 :syntax error
+wizards/siki/help_tool.c line 103 :Illegal LHS
+wizards/siki/help_tool.c line 103 :syntax error
+wizards/siki/help_tool.c line 101 :Variable member not declared !
+wizards/siki/help_tool.c line 101 :Variable member not declared !
+wizards/siki/help_tool.c line 101 :Variable member not declared !
+wizards/siki/help_tool.c line 101 :Variable member not declared !
+wizards/siki/help_tool.c line 101 :Variable member not declared !
+wizards/siki/help_tool.c line 101 :Variable member not declared !
+wizards/siki/help_tool.c line 101 :Variable member not declared !
+wizards/siki/help_tool.c line 101 :Variable member not declared !
+wizards/siki/help_tool.c line 101 :Variable member not declared !
+wizards/siki/help_tool.c line 101 :Variable member not declared !
+wizards/siki/help_tool.c line 102 :Variable b_guild not declared !
+wizards/siki/help_tool.c line 102 :Variable b_guild not declared !
+wizards/siki/help_tool.c line 102 :Variable b_guild not declared !
+wizards/siki/help_tool.c line 102 :Variable b_guild not declared !
+wizards/siki/help_tool.c line 102 :Variable b_guild not declared !
+wizards/siki/help_tool.c line 102 :Variable b_guild not declared !
+wizards/siki/help_tool.c line 39 :syntax error
+wizards/siki/help_tool.c line 80 :syntax error
+wizards/siki/help_tool.c line 93 :Illegal LHS
+wizards/siki/help_tool.c line 93 :syntax error
+wizards/siki/help_tool.c line 98 :Variable t not declared !
+wizards/siki/help_tool.c line 98 :Illegal LHS
+wizards/siki/help_tool.c line 39 :syntax error
+wizards/siki/help_tool.c line 80 :syntax error
+wizards/siki/help_tool.c line 93 :Illegal LHS
+wizards/siki/help_tool.c line 93 :syntax error
+wizards/siki/help_tool.c line 98 :Variable t not declared !
+wizards/siki/help_tool.c line 98 :Illegal LHS
+wizards/siki/help_tool.c line 39 :syntax error
+wizards/siki/help_tool.c line 80 :syntax error
+wizards/siki/help_tool.c line 93 :Illegal LHS
+wizards/siki/help_tool.c line 93 :syntax error
+wizards/siki/help_tool.c line 98 :Variable t not declared !
+wizards/siki/help_tool.c line 98 :Illegal LHS
+wizards/siki/help_tool.c line 39 :syntax error
+wizards/siki/help_tool.c line 80 :syntax error
+wizards/siki/help_tool.c line 93 :Illegal LHS
+wizards/siki/help_tool.c line 93 :syntax error
+wizards/siki/help_tool.c line 98 :Variable t not declared !
+wizards/siki/help_tool.c line 98 :Illegal LHS
+wizards/siki/help_tool.c line 39 :syntax error
+wizards/siki/help_tool.c line 80 :syntax error
+wizards/siki/help_tool.c line 93 :Illegal LHS
+wizards/siki/help_tool.c line 93 :syntax error
+wizards/siki/help_tool.c line 98 :Variable t not declared !
+wizards/siki/help_tool.c line 98 :Illegal LHS
+wizards/siki/help_tool.c line 39 :syntax error
+wizards/siki/help_tool.c line 80 :syntax error
+wizards/siki/help_tool.c line 93 :Illegal LHS
+wizards/siki/help_tool.c line 93 :syntax error
+wizards/siki/help_tool.c line 98 :Variable t not declared !
+wizards/siki/help_tool.c line 98 :Illegal LHS
+wizards/siki/help_tool.c line 39 :syntax error
+wizards/siki/help_tool.c line 80 :syntax error
+wizards/siki/help_tool.c line 93 :Illegal LHS
+wizards/siki/help_tool.c line 93 :syntax error
+wizards/siki/help_tool.c line 98 :Variable t not declared !
+wizards/siki/help_tool.c line 98 :Illegal LHS
+wizards/siki/help_tool.c line 39 :syntax error
+wizards/siki/help_tool.c line 80 :syntax error
+wizards/siki/help_tool.c line 93 :Illegal LHS
+wizards/siki/help_tool.c line 93 :syntax error
+wizards/siki/help_tool.c line 98 :Variable t not declared !
+wizards/siki/help_tool.c line 98 :Illegal LHS
+wizards/siki/help_tool.c line 39 :syntax error
+wizards/siki/help_tool.c line 80 :syntax error
+wizards/siki/help_tool.c line 93 :Illegal LHS
+wizards/siki/help_tool.c line 93 :syntax error
+wizards/siki/help_tool.c line 98 :Variable t not declared !
+wizards/siki/help_tool.c line 98 :Illegal LHS
+wizards/siki/help_tool.c line 39 :syntax error
+wizards/siki/help_tool.c line 80 :syntax error
+wizards/siki/help_tool.c line 93 :Illegal LHS
+wizards/siki/help_tool.c line 93 :syntax error
+wizards/siki/help_tool.c line 98 :Variable t not declared !
+wizards/siki/help_tool.c line 98 :Illegal LHS
+wizards/siki/help_tool.c line 80 :syntax error
+wizards/siki/help_tool.c line 93 :Illegal LHS
+wizards/siki/help_tool.c line 93 :syntax error
+wizards/siki/help_tool.c line 98 :Variable t not declared !
+wizards/siki/help_tool.c line 98 :Illegal LHS
+wizards/siki/help_tool.c line 98 :syntax error
+wizards/siki/help_tool.c line 80 :syntax error
+wizards/siki/help_tool.c line 93 :Illegal LHS
+wizards/siki/help_tool.c line 93 :syntax error
+wizards/siki/help_tool.c line 98 :Variable t not declared !
+wizards/siki/help_tool.c line 98 :Illegal LHS
+wizards/siki/help_tool.c line 98 :syntax error
+wizards/siki/help_tool.c line 80 :syntax error
+wizards/siki/help_tool.c line 93 :Illegal LHS
+wizards/siki/help_tool.c line 93 :syntax error
+wizards/siki/help_tool.c line 98 :Variable t not declared !
+wizards/siki/help_tool.c line 98 :Illegal LHS
+wizards/siki/help_tool.c line 98 :syntax error
+wizards/siki/help_tool.c line 80 :syntax error
+wizards/siki/help_tool.c line 93 :Illegal LHS
+wizards/siki/help_tool.c line 93 :syntax error
+wizards/siki/help_tool.c line 98 :Variable t not declared !
+wizards/siki/help_tool.c line 98 :Illegal LHS
+wizards/siki/help_tool.c line 98 :syntax error
+wizards/siki/help_tool.c line 80 :syntax error
+wizards/siki/help_tool.c line 93 :Illegal LHS
+wizards/siki/help_tool.c line 93 :syntax error
+wizards/siki/help_tool.c line 98 :Variable t not declared !
+wizards/siki/help_tool.c line 98 :Illegal LHS
+wizards/siki/help_tool.c line 98 :syntax error
+wizards/siki/help_tool.c line 80 :syntax error
+wizards/siki/help_tool.c line 93 :Illegal LHS
+wizards/siki/help_tool.c line 93 :syntax error
+wizards/siki/help_tool.c line 98 :Variable t not declared !
+wizards/siki/help_tool.c line 98 :Illegal LHS
+wizards/siki/help_tool.c line 98 :syntax error
+wizards/siki/help_tool.c line 80 :syntax error
+wizards/siki/help_tool.c line 93 :Illegal LHS
+wizards/siki/help_tool.c line 93 :syntax error
+wizards/siki/help_tool.c line 98 :Variable t not declared !
+wizards/siki/help_tool.c line 98 :Illegal LHS
+wizards/siki/help_tool.c line 98 :syntax error
+wizards/siki/help_tool.c line 80 :syntax error
+wizards/siki/help_tool.c line 93 :Illegal LHS
+wizards/siki/help_tool.c line 93 :syntax error
+wizards/siki/help_tool.c line 98 :Variable t not declared !
+wizards/siki/help_tool.c line 98 :Illegal LHS
+wizards/siki/help_tool.c line 98 :syntax error
+wizards/siki/help_tool.c line 80 :syntax error
+wizards/siki/help_tool.c line 93 :Illegal LHS
+wizards/siki/help_tool.c line 93 :syntax error
+wizards/siki/help_tool.c line 98 :Variable t not declared !
+wizards/siki/help_tool.c line 98 :Illegal LHS
+wizards/siki/help_tool.c line 98 :syntax error
+wizards/siki/help_tool.c line 80 :syntax error
+wizards/siki/help_tool.c line 93 :Illegal LHS
+wizards/siki/help_tool.c line 93 :syntax error
+wizards/siki/help_tool.c line 98 :Variable t not declared !
+wizards/siki/help_tool.c line 98 :Illegal LHS
+wizards/siki/help_tool.c line 98 :syntax error
+wizards/siki/help_tool.c line 80 :syntax error
+wizards/siki/help_tool.c line 93 :Illegal LHS
+wizards/siki/help_tool.c line 93 :syntax error
+wizards/siki/help_tool.c line 98 :Variable t not declared !
+wizards/siki/help_tool.c line 98 :Illegal LHS
+wizards/siki/help_tool.c line 98 :syntax error
+wizards/siki/help_tool.c line 80 :syntax error
+wizards/siki/help_tool.c line 93 :Illegal LHS
+wizards/siki/help_tool.c line 93 :syntax error
+wizards/siki/help_tool.c line 98 :Variable t not declared !
+wizards/siki/help_tool.c line 98 :Illegal LHS
+wizards/siki/help_tool.c line 98 :syntax error
+wizards/siki/help_tool.c line 80 :syntax error
+wizards/siki/help_tool.c line 93 :Illegal LHS
+wizards/siki/help_tool.c line 93 :syntax error
+wizards/siki/help_tool.c line 98 :Variable t not declared !
+wizards/siki/help_tool.c line 98 :Illegal LHS
+wizards/siki/help_tool.c line 98 :syntax error
+wizards/siki/help_tool.c line 80 :syntax error
+wizards/siki/help_tool.c line 93 :Illegal LHS
+wizards/siki/help_tool.c line 93 :syntax error
+wizards/siki/help_tool.c line 98 :Variable t not declared !
+wizards/siki/help_tool.c line 98 :Illegal LHS
+wizards/siki/help_tool.c line 98 :syntax error
+wizards/siki/help_tool.c line 80 :syntax error
+wizards/siki/help_tool.c line 93 :Illegal LHS
+wizards/siki/help_tool.c line 93 :syntax error
+wizards/siki/help_tool.c line 98 :Variable t not declared !
+wizards/siki/help_tool.c line 98 :Illegal LHS
+wizards/siki/help_tool.c line 98 :syntax error
+wizards/siki/help_tool.c line 80 :syntax error
+wizards/siki/help_tool.c line 93 :Illegal LHS
+wizards/siki/help_tool.c line 93 :syntax error
+wizards/siki/help_tool.c line 98 :Variable t not declared !
+wizards/siki/help_tool.c line 98 :Illegal LHS
+wizards/siki/help_tool.c line 98 :syntax error
+wizards/siki/help_tool.c line 80 :syntax error
+wizards/siki/help_tool.c line 93 :Illegal LHS
+wizards/siki/help_tool.c line 93 :syntax error
+wizards/siki/help_tool.c line 98 :Variable t not declared !
+wizards/siki/help_tool.c line 98 :Illegal LHS
+wizards/siki/help_tool.c line 98 :syntax error
+wizards/siki/help_tool.c line 80 :syntax error
+wizards/siki/help_tool.c line 93 :Illegal LHS
+wizards/siki/help_tool.c line 93 :syntax error
+wizards/siki/help_tool.c line 98 :Variable t not declared !
+wizards/siki/help_tool.c line 98 :Illegal LHS
+wizards/siki/help_tool.c line 98 :syntax error
+wizards/siki/help_tool.c line 80 :syntax error
+wizards/siki/help_tool.c line 93 :Illegal LHS
+wizards/siki/help_tool.c line 93 :syntax error
+wizards/siki/help_tool.c line 98 :Variable t not declared !
+wizards/siki/help_tool.c line 98 :Illegal LHS
+wizards/siki/help_tool.c line 98 :syntax error
+wizards/siki/help_tool.c line 80 :syntax error
+wizards/siki/help_tool.c line 93 :Illegal LHS
+wizards/siki/help_tool.c line 93 :syntax error
+wizards/siki/help_tool.c line 98 :Variable t not declared !
+wizards/siki/help_tool.c line 98 :Illegal LHS
+wizards/siki/help_tool.c line 98 :syntax error
+wizards/siki/help_tool.c line 74 :syntax error
+wizards/siki/help_tool.c line 95 :Illegal LHS
+wizards/siki/help_tool.c line 95 :syntax error
+wizards/siki/help_tool.c line 100 :Variable t not declared !
+wizards/siki/help_tool.c line 100 :Illegal LHS
+wizards/siki/help_tool.c line 100 :syntax error
+wizards/siki/help_tool.c line 74 :syntax error
+wizards/siki/help_tool.c line 95 :Illegal LHS
+wizards/siki/help_tool.c line 95 :syntax error
+wizards/siki/help_tool.c line 100 :Variable t not declared !
+wizards/siki/help_tool.c line 100 :Illegal LHS
+wizards/siki/help_tool.c line 100 :syntax error
+wizards/siki/_throw.c line 26 :syntax error
+wizards/siki/throw_object.c line 18 :syntax error
+wizards/siki/throw_object.c line 21 :Illegal LHS
+wizards/siki/throw_object.c line 21 :syntax error
+wizards/siki/throw_object.c line 32 :Illegal LHS
+wizards/siki/throw_object.c line 46 :Illegal LHS
+wizards/siki/throw_object.c line 46 :syntax error
+wizards/siki/throw_object.c line 27 :syntax error
+wizards/siki/_throw.c line 26 :syntax error
+wizards/siki/_throw.c line 26 :syntax error
+wizards/siki/_throw.c line 26 :syntax error
+wizards/siki/_throw.c line 26 :syntax error
+wizards/siki/_throw.c line 46 :Variable throw_object not declared !
+wizards/siki/_throw.c line 47 :Variable throw_object not declared !
+wizards/siki/_throw.c line 48 :Variable throw_object not declared !
+wizards/siki/_throw.c line 47 :Variable throw_object not declared !
+wizards/siki/_throw.c line 47 :Variable throw_object not declared !
+wizards/siki/psicombat.c line 152 :Variable attacker_ob not declared !
+wizards/siki/psicombat.c line 155 :syntax error
+wizards/siki/psicombat.c line 179 :Variable temp not declared !
+wizards/siki/psicombat.c line 181 :Variable temp not declared !
+wizards/siki/psicombat.c line 185 :Variable temp not declared !
+wizards/siki/psicombat.c line 187 :Variable dam not declared !
+wizards/siki/psicombat.c line 154 :Variable b not declared !
+wizards/siki/artistcombat.c line 153 :Variable b not declared !
+wizards/siki/qplist.c line 39 :Variable exps not declared !
+wizards/siki/qplaque.c line 51 :Variable QUEST_LIST not declared !
+wizards/siki/qplaque.c line 53 :Variable QUEST_LIST not declared !
+wizards/siki/qplaque.c line 53 :Variable QUEST_LIST not declared !
+wizards/siki/qplaque.c line 53 :Variable QUEST_LIST not declared !
+wizards/siki/qplaque.c line 45 :syntax error
+wizards/siki/qplaque.c line 49 :Variable More not declared !
+wizards/siki/qplaque.c line 49 :syntax error
+wizards/siki/qplaque.c line 50 :Illegal LHS
+wizards/siki/qplaque.c line 51 :Type mismatch ( unknown vs string ) when initializing st
+wizards/siki/qplaque.c line 51 :Missing type
+wizards/siki/qplaque.c line 52 :Illegal initialization
+wizards/siki/qplaque.c line 49 :Variable More not declared !
+wizards/siki/qplaque.c line 49 :syntax error
+wizards/siki/qplaque.c line 50 :Illegal LHS
+wizards/siki/qplaque.c line 51 :Type mismatch ( unknown vs string ) when initializing st
+wizards/siki/qplaque.c line 51 :Missing type
+wizards/siki/qplaque.c line 52 :Illegal initialization
+wizards/siki/qplaque.c line 101 :Newline in string
+wizards/siki/qplaque.c line 102 :Newline in string
+wizards/siki/qplaque.c line 103 :syntax error
+wizards/siki/qplaque.c line 103 :syntax error
+wizards/siki/qplaque.c line 105 :Illegal LHS
+wizards/siki/qplaque.c line 105 :Illegal LHS
+wizards/siki/qplaque.c line 113 :Newline in string
+wizards/siki/qplaque.c line 114 :syntax error
+wizards/siki/qplaque.c line 114 :Illegal character constant
+wizards/siki/qplaque.c line 50 :syntax error
+wizards/siki/qplaque.c line 51 :Variable sprintf not declared !
+wizards/siki/qplaque.c line 51 :Illegal LHS
+wizards/siki/qplaque.c line 52 :Variable sprintf not declared !
+wizards/siki/qplaque.c line 52 :syntax error
+wizards/siki/qplaque.c line 53 :syntax error
+wizards/siki/qplaque.c line 50 :syntax error
+wizards/siki/qplaque.c line 51 :Variable sprintf not declared !
+wizards/siki/qplaque.c line 51 :Illegal LHS
+wizards/siki/qplaque.c line 52 :Variable sprintf not declared !
+wizards/siki/qplaque.c line 52 :syntax error
+wizards/siki/qplaque.c line 53 :syntax error
+wizards/siki/qplaque.c line 66 :syntax error
+wizards/siki/qplaque.c line 66 :syntax error
+wizards/siki/ranger_ob.c line 49 :Variable TIME not declared !
+wizards/siki/ranger_ob.c line 68 :Variable tp not declared !
+wizards/siki/ranger_ob.c line 81 :syntax error
+wizards/siki/ranger_ob.c line 68 :Variable tp not declared !
+wizards/siki/ranger_ob.c line 81 :syntax error
+wizards/siki/ranger_ob.c line 80 :syntax error
+wizards/siki/arrow.c line 27 :syntax error
+wizards/siki/arrow.c line 28 :Illegal LHS
+wizards/siki/arrow.c line 37 :Variable quality not declared !
+wizards/siki/arrow.c line 37 :Variable quality not declared !
+wizards/siki/shoot_object.c line 70 :syntax error
+wizards/siki/shoot_object.c line 73 :syntax error
+wizards/siki/_reload.c line 5 :syntax error
+wizards/siki/_reload.c line 10 :syntax error
+wizards/siki/_reload.c line 13 :Illegal LHS
+wizards/siki/_reload.c line 14 :Too few arguments to write
+wizards/siki/_reload.c line 15 :Too few arguments to write
+wizards/siki/_reload.c line 16 :syntax error
+wizards/siki/_reload.c line 10 :syntax error
+wizards/siki/_reload.c line 13 :Illegal LHS
+wizards/siki/_reload.c line 14 :Too few arguments to write
+wizards/siki/_reload.c line 15 :Too few arguments to write
+wizards/siki/_reload.c line 16 :syntax error
+wizards/siki/_reload.c line 10 :syntax error
+wizards/siki/_reload.c line 13 :Illegal LHS
+wizards/siki/_reload.c line 14 :Too few arguments to write
+wizards/siki/_reload.c line 15 :Too few arguments to write
+wizards/siki/_reload.c line 16 :syntax error
+wizards/siki/wolf.c line 18 :Newline in string
+wizards/siki/wolf.c line 19 :syntax error
+wizards/siki/forest/monsters/rabbit.c line 31 :Unrecognized inheritance modifier qualifier
+wizards/siki/forest/monsters/rabbit.c line 31 :Unrecognized inheritance modifier qualifier
+wizards/siki/forest/monsters/rabbit.c line 31 :Unrecognized inheritance modifier qualifier
+wizards/siki/forest/monsters/rabbit.c line 31 :syntax error
+wizards/siki/forest/room1.c line 6 :Variable guard not declared !
+wizards/siki/forest/room8.c line 42 :syntax error
+wizards/siki/forest/room8.c line 42 :Illegal LHS
+wizards/siki/forest/room8.c line 42 :syntax error
+wizards/siki/forest/room8.c line 45 :Illegal LHS
+wizards/siki/forest/room8.c line 8 :Variable mobsters not declared !
+wizards/siki/forest/room11.c line 16 :Illegal character (hex ffffffb4) '´'
+wizards/siki/forest/room11.c line 16 :syntax error
+wizards/siki/forest/room17.c line 21 :syntax error
+wizards/siki/forest/room17.c line 21 :syntax error
+wizards/siki/forest/room14.c line 23 :syntax error
+wizards/siki/bow.c line 14 :syntax error
+wizards/siki/bow.c line 14 :Unrecognized inheritance modifier qualifier
+wizards/siki/bow.c line 14 :Unrecognized inheritance modifier qualifier
+wizards/siki/bow.c line 14 :syntax error
+wizards/siki/bow_d.c line 34 :syntax error
+wizards/siki/bow_d.c line 44 :syntax error
+wizards/siki/bow_d.c line 63 :Variable str not declared !
+wizards/siki/bow_d.c line 63 :Illegal LHS
+wizards/siki/bow_d.c line 63 :Illegal LHS
+wizards/siki/bow_d.c line 63 :syntax error
+wizards/siki/bow_d.c line 88 :Case outside switch
+wizards/siki/bow_d.c line 91 :Case outside switch
+wizards/siki/bow_d.c line 93 :Case outside switch
+wizards/siki/bow_d.c line 95 :Case outside switch
+wizards/siki/bow_d.c line 97 :Case outside switch
+wizards/siki/bow_d.c line 99 :Case outside switch
+wizards/siki/bow_d.c line 90 :switch without case not supported
+wizards/siki/bow.c line 99 :Redeclaration of function query_quality.
+wizards/siki/bow.c line 99 :Redeclaration of function query_quality.
+wizards/siki/_reload.c line 16 :syntax error
+wizards/siki/shoot_object.c line 38 :Variable shoot_time not declared !
+wizards/siki/bow_d.c line 90 :syntax error
+wizards/siki/bow_d.c line 91 :Illegal LHS
+wizards/siki/bow_d.c line 91 :syntax error
+wizards/siki/bow_d.c line 112 :Illegal LHS
+wizards/siki/bow_d.c line 112 :syntax error
+wizards/siki/bow_d.c line 113 :Illegal LHS
+wizards/siki/bow_d.c line 150 :syntax error
+wizards/siki/bow_d.c line 157 :syntax error
+wizards/siki/bow_d.c line 142 :Variable arrow not declared !
+wizards/siki/bow_d.c line 143 :Variable arrow not declared !
+wizards/siki/bow_d.c line 168 :switch without case not supported
+wizards/siki/bow_d.c line 143 :Variable arrow not declared !
+wizards/siki/bow_d.c line 168 :syntax error
+wizards/siki/shoot_object.c line 207 :syntax error
+wizards/siki/shoot_object.c line 224 :syntax error
+wizards/siki/shoot_object.c line 236 :Illegal LHS
+wizards/siki/shoot_object.c line 115 :syntax error
+wizards/siki/shoot_object.c line 125 :syntax error
+wizards/siki/shoot_object.c line 213 :Illegal LHS
+wizards/siki/shoot_object.c line 213 :syntax error
+wizards/siki/shoot_object.c line 225 :Illegal LHS
+wizards/siki/shoot_object.c line 241 :Illegal LHS
+wizards/siki/shoot_object.c line 115 :syntax error
+wizards/siki/shoot_object.c line 125 :syntax error
+wizards/siki/shoot_object.c line 213 :Illegal LHS
+wizards/siki/shoot_object.c line 213 :syntax error
+wizards/siki/shoot_object.c line 225 :Illegal LHS
+wizards/siki/shoot_object.c line 241 :Illegal LHS
+wizards/siki/shoot_object.c line 116 :Variable base_shoot_time not declared !
+wizards/siki/bow_d.c line 81 :syntax error
+wizards/siki/bow_d.c line 95 :Illegal LHS
+wizards/siki/bow_d.c line 95 :syntax error
+wizards/siki/bow_d.c line 96 :Illegal LHS
+wizards/siki/bow_d.c line 96 :syntax error
+wizards/siki/bow_d.c line 109 :Variable str not declared !
+wizards/siki/bow_d.c line 81 :syntax error
+wizards/siki/bow_d.c line 95 :Illegal LHS
+wizards/siki/bow_d.c line 95 :syntax error
+wizards/siki/bow_d.c line 96 :Illegal LHS
+wizards/siki/bow_d.c line 96 :syntax error
+wizards/siki/bow_d.c line 109 :Variable str not declared !
+wizards/siki/bow.c line 85 :Variable arrow_quality not declared !
+wizards/siki/bow.c line 95 :Variable arrow_quality not declared !
+wizards/siki/bow.c line 155 :Redeclaration of function query_type.
+wizards/siki/bow.c line 155 :Redeclaration of function query_type.
+wizards/siki/bow_d.c line 53 :Variable BOW_TIME not declared !
+wizards/siki/bow.c line 78 :Variable arrow_damage not declared !
+wizards/siki/bow.c line 79 :Variable crit_chance not declared !
+wizards/siki/bow.c line 93 :Variable damage not declared !
+wizards/siki/bow.c line 94 :Variable bow_quality not declared !
+wizards/siki/bow.c line 94 :Variable damage not declared !
+wizards/siki/bow.c line 95 :Variable bow_quality not declared !
+wizards/siki/bow.c line 97 :Variable bow_quality not declared !
+wizards/siki/arrow.c line 45 :Variable crafted not declared !
+wizards/siki/arrow.c line 56 :Variable crafted not declared !
+wizards/siki/arrow.c line 59 :Variable crafted not declared !
+wizards/siki/arrow.c line 62 :Variable crafted not declared !
+wizards/siki/arrow.c line 65 :Variable crafted not declared !
+wizards/siki/arrow.c line 68 :Variable crafted not declared !
+wizards/siki/quiver.c line 62 :syntax error
+wizards/siki/quiver.c line 64 :Variable ob not declared !
+wizards/siki/quiver.c line 66 :Variable ob not declared !
+wizards/siki/quiver.c line 67 :Variable ob not declared !
+wizards/siki/quiver.c line 68 :Variable ob not declared !
+wizards/siki/quiver.c line 68 :Variable ob not declared !
+wizards/siki/quiver.c line 67 :Variable i not declared !
+wizards/siki/_nwield.c line 3 :Variable weight not declared !
+wizards/siki/_nwield.c line 4 :Variable weight not declared !
+wizards/siki/_nwield.c line 90 :syntax error
+wizards/siki/_nwield.c line 83 :syntax error
+wizards/siki/bow.c line 26 :Variable type not declared !
+wizards/siki/_nwield.c line 79 :syntax error
+wizards/siki/_reload.c line 4 :syntax error
+wizards/siki/_reload.c line 10 :Variable wha not declared !
+wizards/siki/_reload.c line 10 :Illegal LHS
+wizards/siki/_reload.c line 10 :syntax error
+wizards/siki/_reload.c line 15 :Variable fro not declared !
+wizards/siki/_reload.c line 15 :Illegal LHS
+wizards/siki/auctioneer.c line 50 :syntax error
+wizards/siki/auctioneer.c line 52 :Variable auctions not declared !
+wizards/siki/auctioneer.c line 53 :Variable auctions not declared !
+wizards/siki/auctioneer.c line 54 :Variable auctions not declared !
+wizards/siki/auctioneer.c line 54 :Variable auctions not declared !
+wizards/siki/auctioneer.c line 54 :Variable auctions not declared !
+wizards/siki/auctioneer.c line 89 :syntax error
+wizards/siki/auctioneer.c line 89 :syntax error
+wizards/siki/auctioneer.c line 90 :Illegal LHS
+wizards/siki/auctioneer.c line 90 :syntax error
+wizards/siki/auctioneer.c line 80 :syntax error
+wizards/siki/auctioneer.c line 81 :Illegal LHS
+wizards/siki/auctioneer.c line 81 :syntax error
+wizards/siki/auctioneer.c line 84 :Variable AUCTION_PRICE not declared !
+wizards/siki/auctioneer.c line 87 :Variable AUCTION_PRICE not declared !
+wizards/siki/auctioneer.c line 84 :Variable AUCTION_PRI not declared !
+wizards/siki/auctioneer.c line 84 :Variable E not declared !
+wizards/siki/auctioneer.c line 52 :Variable auctions not declared !
+wizards/siki/auctioneer.c line 52 :Variable auctions not declared !
+wizards/siki/auctioneer.c line 52 :Variable auctions not declared !
+wizards/siki/auctioneer.c line 63 :Variable auctions not declared !
+wizards/siki/auctioneer.c line 63 :Variable auctions not declared !
+wizards/siki/auctioneer.c line 63 :Variable itemdesc not declared !
+wizards/siki/auctioneer.c line 62 :Variable MAX_ITEMS not declared !
+wizards/siki/auctioneer.c line 62 :Variable MAX_ITEMS not declared !
+wizards/siki/auctioneer.c line 28 :Variable time_left not declared !
+wizards/siki/auctioneer.c line 28 :Variable time_left not declared !
+wizards/siki/auctioneer.c line 67 :Variable need_bed not declared !
+wizards/siki/eval_file.c line 2 :syntax error
+wizards/siki/eval_file.c line 2 :Illegal character (hex 5c) '\'
+wizards/siki/eval_file.c line 2 :Newline in string
+wizards/siki/auctioneer.c line 124 :syntax error
+wizards/siki/auctioneer.c line 124 :syntax error
+wizards/siki/auctioneer.c line 67 :syntax error
+wizards/siki/auctioneer.c line 68 :Illegal LHS
+wizards/siki/auctioneer.c line 68 :syntax error
+wizards/siki/auctioneer.c line 69 :Illegal LHS
+wizards/siki/auctioneer.c line 69 :syntax error
+wizards/siki/auctioneer.c line 74 :Illegal LHS
+wizards/siki/auctioneer.c line 67 :syntax error
+wizards/siki/auctioneer.c line 68 :Illegal LHS
+wizards/siki/auctioneer.c line 68 :syntax error
+wizards/siki/auctioneer.c line 69 :Illegal LHS
+wizards/siki/auctioneer.c line 69 :syntax error
+wizards/siki/auctioneer.c line 74 :Illegal LHS
+wizards/siki/eval_file.c line 2 :Bad argument 1 type to efun sizeof()
+wizards/siki/eval_file.c line 2 :syntax error
+wizards/siki/auctioneer.c line 97 :syntax error
+wizards/siki/auctioneer.c line 104 :Variable num not declared !
+wizards/siki/auctioneer.c line 105 :Variable num not declared !
+wizards/siki/auctioneer.c line 106 :Variable need_bid not declared !
+wizards/siki/auctioneer.c line 106 :Variable num not declared !
+wizards/siki/auctioneer.c line 107 :Variable a not declared !
+wizards/siki/auctioneer.c line 97 :syntax error
+wizards/siki/auctioneer.c line 104 :Variable num not declared !
+wizards/siki/auctioneer.c line 105 :Variable num not declared !
+wizards/siki/auctioneer.c line 106 :Variable need_bid not declared !
+wizards/siki/auctioneer.c line 106 :Variable num not declared !
+wizards/siki/auctioneer.c line 107 :Variable a not declared !
+wizards/siki/auctioneer.c line 53 :syntax error
+wizards/siki/auctioneer.c line 53 :syntax error
+wizards/siki/auctioneer.c line 122 :Variable lista not declared !
+wizards/siki/auctioneer.c line 124 :Variable who_bidder not declared !
+wizards/siki/auctioneer.c line 122 :Variable lista not declared !
+wizards/siki/auctioneer.c line 124 :Variable who_bidder not declared !
+wizards/siki/auctioneer.c line 188 :syntax error
+wizards/siki/auctioneer.c line 192 :Variable piu not declared !
+wizards/siki/auctioneer.c line 193 :Variable i not declared !
+wizards/siki/auctioneer.c line 193 :Variable p not declared !
+wizards/siki/auctioneer.c line 194 :Variable i not declared !
+wizards/siki/auctioneer.c line 195 :Variable piu not declared !
+wizards/siki/auctioneer.c line 188 :syntax error
+wizards/siki/auctioneer.c line 192 :Variable piu not declared !
+wizards/siki/auctioneer.c line 193 :Variable i not declared !
+wizards/siki/auctioneer.c line 193 :Variable p not declared !
+wizards/siki/auctioneer.c line 194 :Variable i not declared !
+wizards/siki/auctioneer.c line 195 :Variable piu not declared !
+wizards/siki/auctioneer.c line 275 :syntax error
+wizards/siki/auctioneer.c line 275 :Unrecognized inheritance modifier qualifier
+wizards/siki/auctioneer.c line 275 :Unrecognized inheritance modifier qualifier
+wizards/siki/auctioneer.c line 275 :Unrecognized inheritance modifier qualifier
+wizards/siki/auctioneer.c line 275 :Unrecognized inheritance modifier qualifier
+wizards/siki/auctioneer.c line 275 :syntax error
+wizards/siki/auctioneer.c line 275 :syntax error
+wizards/siki/auctioneer.c line 275 :Unrecognized inheritance modifier qualifier
+wizards/siki/auctioneer.c line 275 :Unrecognized inheritance modifier qualifier
+wizards/siki/auctioneer.c line 275 :Unrecognized inheritance modifier qualifier
+wizards/siki/auctioneer.c line 275 :Unrecognized inheritance modifier qualifier
+wizards/siki/auctioneer.c line 275 :syntax error
+wizards/siki/auctioneer.c line 275 :syntax error
+wizards/siki/auctioneer.c line 275 :Unrecognized inheritance modifier qualifier
+wizards/siki/auctioneer.c line 275 :Unrecognized inheritance modifier qualifier
+wizards/siki/auctioneer.c line 275 :Unrecognized inheritance modifier qualifier
+wizards/siki/auctioneer.c line 275 :Unrecognized inheritance modifier qualifier
+wizards/siki/auctioneer.c line 275 :syntax error
+wizards/siki/_countries.c line 4 :Variable unk not declared !
+wizards/siki/_countries.c line 52 :syntax error
+wizards/siki/_countries.c line 53 :Illegal LHS
+wizards/siki/_countries.c line 53 :syntax error
+wizards/siki/_countries.c line 55 :syntax error
+wizards/siki/_countries.c line 58 :Illegal LHS
+wizards/siki/_countries.c line 58 :Illegal LHS
+wizards/siki/_nwield.c line 36 :syntax error
+wizards/siki/_nwield.c line 44 :Variable what not declared !
+wizards/siki/_nwield.c line 44 :Illegal LHS
+wizards/siki/_nwield.c line 44 :syntax error
+wizards/siki/_nwield.c line 45 :Variable tmp1 not declared !
+wizards/siki/_nwield.c line 45 :syntax error
+wizards/siki/auctioneer.c line 115 :syntax error
+wizards/siki/auctioneer.c line 115 :Illegal LHS
+wizards/siki/auctioneer.c line 127 :Illegal LHS
+wizards/siki/auctioneer.c line 127 :syntax error
+wizards/siki/auctioneer.c line 131 :Variable mika not declared !
+wizards/siki/auctioneer.c line 131 :Illegal LHS
+wizards/siki/auctioneer.c line 115 :syntax error
+wizards/siki/auctioneer.c line 115 :Illegal LHS
+wizards/siki/auctioneer.c line 127 :Illegal LHS
+wizards/siki/auctioneer.c line 127 :syntax error
+wizards/siki/auctioneer.c line 131 :Variable mika not declared !
+wizards/siki/auctioneer.c line 131 :Illegal LHS
+wizards/siki/auctioneer.c line 115 :syntax error
+wizards/siki/auctioneer.c line 115 :Illegal LHS
+wizards/siki/auctioneer.c line 127 :Illegal LHS
+wizards/siki/auctioneer.c line 127 :syntax error
+wizards/siki/auctioneer.c line 131 :Variable mika not declared !
+wizards/siki/auctioneer.c line 131 :Illegal LHS
+wizards/siki/auctioneer.c line 173 :Variable mika not declared !
+wizards/siki/auctioneer.c line 174 :Variable mika not declared !
+wizards/siki/auctioneer.c line 175 :Variable mika not declared !
+wizards/siki/auctioneer.c line 176 :Variable mika not declared !
+wizards/siki/auctioneer.c line 177 :Variable mika not declared !
+wizards/siki/auctioneer.c line 178 :Variable mika not declared !
+wizards/siki/auctioneer.c line 173 :Variable mika not declared !
+wizards/siki/auctioneer.c line 174 :Variable mika not declared !
+wizards/siki/auctioneer.c line 175 :Variable mika not declared !
+wizards/siki/auctioneer.c line 176 :Variable mika not declared !
+wizards/siki/auctioneer.c line 177 :Variable mika not declared !
+wizards/siki/auctioneer.c line 178 :Variable mika not declared !
+Mon Oct 28 21:17:04 2002 Thuf the lunatic young lady(strong) (/wizards/siki/forest/monsters/thuf#7235, 43) killed by Devil (170) 
+wizards/siki/_punwield.c line 17 :syntax error
+wizards/siki/void_pocket.c line 25 :Variable local_weight not declared !
+wizards/siki/void_pocket.c line 33 :Variable local_weight not declared !
+wizards/siki/void_pocket.c line 35 :syntax error
+wizards/siki/void_pocket.c line 35 :Illegal LHS
+wizards/siki/void_pocket.c line 36 :Variable local_weight not declared !
+wizards/siki/void_pocket.c line 39 :Variable local_weight not declared !
+wizards/siki/void_pocket.c line 35 :syntax error
+wizards/siki/void_pocket.c line 35 :Illegal LHS
+wizards/siki/void_pocket.c line 54 :Variable _long not declared !
+wizards/siki/money_purse.c line 25 :Variable local_weight not declared !
+wizards/siki/container.c line 22 :Variable size not declared !
+wizards/siki/container.c line 29 :Variable max_weight not declared !
+wizards/siki/container.c line 41 :Variable max_weight not declared !
+wizards/siki/container.c line 43 :Variable max_weight not declared !
+wizards/siki/container.c line 29 :Variable _local_weight not declared !
+wizards/siki/container.c line 41 :Variable _local_weight not declared !
+wizards/siki/container.c line 42 :Variable _local_weight not declared !
+wizards/siki/container.c line 43 :Variable _local_weight not declared !
+wizards/siki/floating_disc.c line 23 :Variable local_weight not declared !
+wizards/siki/floating_disc.c line 31 :Variable _size not declared !
+wizards/siki/floating_disc.c line 31 :Variable local_weight not declared !
+wizards/siki/floating_disc.c line 31 :Variable _max_weight not declared !
+wizards/siki/floating_disc.c line 32 :Variable local_weight not declared !
+wizards/siki/_game_info.c line 9 :Bad argument 1 type to efun tell_object()
+wizards/siki/_game_info.c line 5 :Bad assignment. Rhs: "object * "
+wizards/siki/_game_info.c line 12 :Bad argument 1 type to efun sizeof()
+wizards/siki/_game_info.c line 13 :Bad type to indexed value: "object "
+wizards/siki/eval_file.c line 2 :Undefined function lited
+wizards/siki/shop_d.c line 79 :syntax error
+wizards/siki/_pscore.c line 36 :syntax error
+wizards/siki/_pscore.c line 36 :Illegal LHS
+wizards/siki/_pscore.c line 75 :syntax error
+wizards/siki/_pscore.c line 77 :Variable sprintf not declared !
+wizards/siki/_pscore.c line 77 :Illegal LHS
+wizards/siki/_pscore.c line 80 :Variable sprintf not declared !
+wizards/siki/_pscore.c line 86 :syntax error
+wizards/siki/_pscore.c line 86 :syntax error
+wizards/siki/base_object.c line 2 :Illegal character (hex 2e) '.'
+wizards/siki/base_object.c line 2 :syntax error
+wizards/siki/base_object.c line 97 :Variable present_insert_message not declared !
+wizards/siki/base_object.c line 99 :Variable drop not declared !
+wizards/siki/base_object.c line 99 :Variable get not declared !
+wizards/siki/base_object.c line 99 :Variable save not declared !
+wizards/siki/base_object.c line 99 :Variable drop not declared !
+wizards/siki/base_object.c line 99 :Variable get not declared !
+wizards/siki/base_object.c line 99 :Variable save not declared !
+wizards/siki/test_object.c line 19 :Illegal character constant
+wizards/siki/test_object.c line 20 :syntax error
+Sun Nov  3 20:53:19 2002 The shaman of the village, Kar'hheni (surrounded by purple mist)(strong) (/wizards/siki/lizard/monsters/shaman#2463, 60) killed by Devil (170) 
+Sun Nov  3 21:52:31 2002 A terrible beast with long horns(strong) (/wizards/siki/lizard/monsters/beast#4607, 67) killed by Devil (170) 
+Sun Nov  3 22:53:44 2002 A terrible beast with long horns(strong) (/wizards/siki/lizard/monsters/beast#5068, 62) killed by Devil (170) 
+wizards/siki/_itest.c line 40 :syntax error
+wizards/siki/_scan.c line 15 :syntax error
+wizards/siki/_scan.c line 72 :Incorrect number of arguments.
+wizards/siki/_scan.c line 135 :Incorrect number of arguments.
+wizards/siki/_scan.c line 72 :Incorrect number of arguments.
+wizards/siki/_scan.c line 135 :Incorrect number of arguments.
+wizards/siki/_scan.c line 72 :Incorrect number of arguments.
+wizards/siki/_scan.c line 118 :Incorrect number of arguments.
+wizards/siki/_scan.c line 6 :Illegal character (hex 2e) '.'
+wizards/siki/_scan.c line 6 :syntax error
+wizards/siki/base_drink.c line 73 :Variable full not declared !
+wizards/siki/base_drink.c line 74 :Variable full not declared !
+wizards/siki/base_drink.c line 74 :Variable max_full not declared !
+wizards/siki/base_drink.c line 76 :Variable full not declared !
+wizards/siki/base_drink.c line 76 :Variable max_full not declared !
+wizards/siki/_drink.c line 15 :syntax error
+wizards/siki/base_drink.c line 114 :syntax error
+wizards/siki/monster.c line 27 :Cannot #include living.h
+wizards/siki/monster.c line 93 :Variable is_npc not declared !
+wizards/siki/monster.c line 98 :Variable combat_tactic not declared !
+wizards/siki/monster.c line 167 :Variable name not declared !
+wizards/siki/monster.c line 181 :Variable name not declared !
+wizards/siki/monster.c line 186 :Variable name not declared !
+wizards/siki/monster.c line 27 :Cannot #include living.h
+wizards/siki/monster.c line 93 :Variable is_npc not declared !
+wizards/siki/monster.c line 98 :Variable combat_tactic not declared !
+wizards/siki/monster.c line 167 :Variable name not declared !
+wizards/siki/monster.c line 181 :Variable name not declared !
+wizards/siki/monster.c line 186 :Variable name not declared !
+wizards/siki/monster.c line 27 :Cannot #include living.h
+wizards/siki/monster.c line 93 :Variable is_npc not declared !
+wizards/siki/monster.c line 98 :Variable combat_tactic not declared !
+wizards/siki/monster.c line 167 :Variable name not declared !
+wizards/siki/monster.c line 181 :Variable name not declared !
+wizards/siki/monster.c line 186 :Variable name not declared !
+wizards/siki/monster.c line 27 :Cannot #include living.h
+wizards/siki/monster.c line 93 :Variable is_npc not declared !
+wizards/siki/monster.c line 98 :Variable combat_tactic not declared !
+wizards/siki/monster.c line 167 :Variable name not declared !
+wizards/siki/monster.c line 181 :Variable name not declared !
+wizards/siki/monster.c line 186 :Variable name not declared !
+wizards/siki/combat.c line 16 :syntax error
+wizards/siki/combat.c line 19 :Illegal LHS
+wizards/siki/combat.c line 19 :syntax error
+wizards/siki/combat.c line 21 :Illegal LHS
+wizards/siki/combat.c line 26 :Illegal LHS
+wizards/siki/combat.c line 26 :syntax error
+wizards/siki/eval_file.c line 2 :Too few arguments to write_file
+wizards/siki/eval_file.c line 2 :Too few arguments to write_file
+wizards/siki/assault.c line 37 :syntax error
+wizards/siki/assault.c line 62 :Illegal LHS
+wizards/siki/assault.c line 62 :syntax error
+wizards/siki/assault.c line 71 :Illegal LHS
+wizards/siki/assault.c line 71 :syntax error
+wizards/siki/castle_guard_figurine.c line 37 :Variable short not declared !
+wizards/siki/castle_guard_figurine.c line 42 :Variable short_desc_ not declared !
+wizards/siki/eval_file.c line 2 :Variable PXb6eJuhRnEsQ not declared !
+wizards/siki/m_messages.c line 2 :syntax error
+wizards/siki/warlock_d.c line 5 :function not defined by inheritance as specified
+wizards/siki/warlock_d.c line 7 :syntax error
+wizards/siki/warlock_d.c line 14 :Variable i not declared !
+wizards/siki/warlock_d.c line 14 :Illegal LHS
+wizards/siki/warlock_d.c line 15 :Too few arguments to save_object
+wizards/siki/warlock_d.c line 20 :Too few arguments to save_object
+wizards/siki/warlock_d.c line 6 :syntax error
+wizards/siki/warlock_d.c line 13 :Variable i not declared !
+wizards/siki/warlock_d.c line 13 :Illegal LHS
+wizards/siki/warlock_d.c line 14 :Too few arguments to save_object
+wizards/siki/warlock_d.c line 19 :Too few arguments to save_object
+wizards/siki/demon.c line 108 :syntax error
+wizards/siki/demon.c line 190 :Function do_say undefined
+wizards/siki/demon.c line 280 :Function do_say undefined
+wizards/siki/demon.c line 289 :Newline in string
+wizards/siki/demon.c line 290 :Illegal character constant
+wizards/siki/demon.c line 290 :syntax error
+wizards/siki/demon.c line 290 :Illegal character constant
+wizards/siki/demon.c line 190 :Function do_say undefined
+wizards/siki/demon.c line 280 :Function do_say undefined
+wizards/siki/demon.c line 289 :Newline in string
+wizards/siki/demon.c line 290 :Illegal character constant
+wizards/siki/demon.c line 290 :syntax error
+wizards/siki/demon.c line 290 :Illegal character constant
+wizards/siki/demon.c line 190 :Function do_say undefined
+wizards/siki/demon.c line 280 :Function do_say undefined
+wizards/siki/demon.c line 289 :Newline in string
+wizards/siki/demon.c line 290 :Illegal character constant
+wizards/siki/demon.c line 290 :syntax error
+wizards/siki/demon.c line 290 :Illegal character constant
+wizards/siki/demon.c line 105 :Variable tmp not declared !
+wizards/siki/demon.c line 190 :Function do_say undefined
+wizards/siki/demon.c line 280 :Function do_say undefined
+wizards/siki/demon.c line 289 :Newline in string
+wizards/siki/demon.c line 290 :Illegal character constant
+wizards/siki/demon.c line 290 :syntax error
+wizards/siki/demon.c line 190 :Function do_say undefined
+wizards/siki/demon.c line 280 :Function do_say undefined
+wizards/siki/demon.c line 289 :Newline in string
+wizards/siki/demon.c line 290 :Illegal character constant
+wizards/siki/demon.c line 290 :syntax error
+wizards/siki/demon.c line 290 :Illegal character constant
+wizards/siki/demon.c line 41 :Newline in string
+wizards/siki/demon.c line 42 :Illegal character constant
+wizards/siki/demon.c line 42 :syntax error
+wizards/siki/demon.c line 42 :Illegal character constant
+wizards/siki/demon.c line 42 :Newline in string
+wizards/siki/demon.c line 51 :Illegal LHS
+wizards/siki/demon.c line 40 :Undefined function rem_say
+wizards/siki/demon.c line 45 :Variable this_object not declared !
+wizards/siki/demon.c line 302 :syntax error
+wizards/siki/demon.c line 302 :syntax error
+wizards/siki/_demon.c line 25 :syntax error
+wizards/siki/_demon.c line 35 :Too few arguments to write
+wizards/siki/_demon.c line 37 :syntax error
+wizards/siki/_demon.c line 25 :syntax error
+wizards/siki/_demon.c line 35 :Too few arguments to write
+wizards/siki/_demon.c line 37 :syntax error
+wizards/siki/demon.c line 311 :syntax error
+wizards/siki/demon.c line 311 :Illegal LHS
+wizards/siki/demon.c line 311 :syntax error
+wizards/siki/demon.c line 315 :Illegal LHS
+wizards/siki/demon.c line 315 :syntax error
+wizards/siki/demon.c line 323 :Illegal LHS
+wizards/siki/warlock_d.c line 50 :Variable attacker_ob not declared !
+wizards/siki/warlock_d.c line 54 :Illegal character (hex 2e) '.'
+wizards/siki/warlock_d.c line 54 :syntax error
+wizards/siki/warlock_d.c line 74 :Illegal LHS
+wizards/siki/warlock_d.c line 81 :Variable container not declared !
+wizards/siki/warlock_d.c line 81 :Variable pl not declared !
+wizards/siki/warlock_d.c line 50 :syntax error
+wizards/siki/warlock_d.c line 74 :Illegal LHS
+wizards/siki/warlock_d.c line 81 :Variable container not declared !
+wizards/siki/warlock_d.c line 81 :Variable pl not declared !
+wizards/siki/warlock_d.c line 81 :Illegal LHS
+wizards/siki/warlock_d.c line 81 :syntax error
+wizards/siki/warlock_d.c line 60 :syntax error
+wizards/siki/warlock_d.c line 74 :Illegal LHS
+wizards/siki/warlock_d.c line 81 :Variable container not declared !
+wizards/siki/warlock_d.c line 81 :Variable pl not declared !
+wizards/siki/warlock_d.c line 81 :Illegal LHS
+wizards/siki/warlock_d.c line 81 :syntax error
+wizards/siki/warlock_d.c line 168 :Variable arg not declared !
+wizards/siki/warlock_d.c line 172 :Variable arg not declared !
+wizards/siki/warlock_d.c line 175 :Variable arg not declared !
+wizards/siki/warlock_d.c line 176 :Variable arg not declared !
+wizards/siki/warlock_d.c line 295 :syntax error
+wizards/siki/warlock_d.c line 337 :End of file in a comment
+wizards/siki/warlock_d.c line 337 :End of file in a comment
+wizards/siki/slct_gui.c line 12 :syntax error
+wizards/siki/slct_gui.c line 35 :Illegal LHS
+wizards/siki/slct_gui.c line 95 :Illegal LHS
+wizards/siki/slct_gui.c line 95 :syntax error
+wizards/siki/slct_gui.c line 97 :Illegal LHS
+wizards/siki/slct_gui.c line 104 :Variable str not declared !
+wizards/siki/slct_gui.c line 123 :syntax error
+wizards/siki/slct_gui.c line 125 :Bad argument 1 type to efun lower_case()
+wizards/siki/slct_gui.c line 125 :Type mismatch ( unknown vs string ) when initializing str
+wizards/siki/slct_gui.c line 125 :Missing type
+wizards/siki/slct_gui.c line 126 :syntax error
+wizards/siki/slct_gui.c line 139 :syntax error
+wizards/siki/slct_gui.c line 21 :syntax error
+wizards/siki/slct_gui.c line 136 :syntax error
+wizards/siki/slct_gui.c line 140 :syntax error
+wizards/siki/eval_file.c line 2 :syntax error
+wizards/siki/slct_gui.c line 133 :syntax error
+wizards/siki/slct_gui.c line 133 :Bad argument 1 type to efun to_int()
+wizards/siki/warlock2.c line 9 :syntax error
+wizards/siki/warlock2.c line 10 :Illegal LHS
+wizards/siki/warlock2.c line 11 :syntax error
+wizards/siki/warlock2.c line 39 :Illegal LHS
+wizards/siki/warlock2.c line 39 :Illegal LHS
+wizards/siki/warlock2.c line 39 :Illegal LHS
+Wed Nov 13 23:51:21 2002 The shaman of the village, Kar'hheni (surrounded by purple mist)(strong) (/wizards/siki/lizard/monsters/shaman#22428, 55) killed by Devil (184) 
+wizards/siki/warlock_d.c line 352 :Discontinued case label list range, line 350 by line 351
+wizards/siki/warlock_d.c line 352 :Duplicate case in line 351 and 0
+wizards/siki/warlock_d.c line 370 :Discontinued case label list range, line 367 by line 368
+wizards/siki/warlock_d.c line 370 :Duplicate case in line 368 and 0
+wizards/siki/_demon.c line 4 :Variable objects not declared !
+wizards/siki/_demon.c line 4 :Variable obs not declared !
+wizards/siki/_demon.c line 5 :syntax error
+wizards/siki/_demon.c line 12 :Variable obs not declared !
+wizards/siki/_demon.c line 13 :Variable i not declared !
+wizards/siki/_demon.c line 13 :Variable i not declared !
+Fri Nov 15 13:27:50 2002 Thuf the lunatic young lady(strong) (/wizards/siki/forest/monsters/thuf#2588, 46) killed by Devil (184) 
+wizards/siki/warlock_d.c line 347 :Variable WARLOCK_D not declared !
+Fri Nov 15 21:15:11 2002 A terrible beast with long horns(strong) (/wizards/siki/lizard/monsters/beast#19373, 65) killed by Devil (184) 
+wizards/siki/demonxplist.c line 85 :Variable quests not declared !
+wizards/siki/combat.c line 267 :syntax error
+wizards/siki/combat.c line 267 :syntax error
+wizards/siki/warlock_d.c line 91 :Variable More not declared !
+wizards/siki/warlock_d.c line 91 :syntax error
+wizards/siki/warlock_d.c line 97 :syntax error
+wizards/siki/warlock.c line 87 :syntax error
+wizards/siki/warlock.c line 87 :Illegal LHS
+wizards/siki/eval_file.c line 2 :Variable call_out_info not declared !
+wizards/siki/warlock_d.c line 620 :Variable type not declared !
+wizards/siki/channel/_chl_num_mar.c line 4 :syntax error
+wizards/siki/channel/_chl_num_mar.c line 4 :Illegal LHS
+wizards/siki/channel/_chl_num_mar.c line 4 :syntax error
+wizards/siki/channel/_chl_num_mar.c line 4 :Illegal LHS
+wizards/siki/channel/_chl_num_mar.c line 4 :syntax error
+wizards/siki/channel/_chl_num_mar.c line 4 :Illegal LHS
+wizards/siki/channel/_chl_num_mar.c line 4 :syntax error
+wizards/siki/channel/_chl_num_mar.c line 4 :Illegal LHS
+wizards/siki/map.c line 5 :syntax error
+wizards/siki/map.c line 51 :syntax error
+wizards/siki/map.c line 54 :Illegal LHS
+wizards/siki/map.c line 53 :Variable s not declared !
+wizards/siki/map.c line 58 :Variable s not declared !
+wizards/siki/map.c line 62 :Variable s not declared !
+wizards/siki/help_tool.c line 183 :syntax error
+wizards/siki/help_tool.c line 183 :Variable objects not declared !
+wizards/siki/help_tool.c line 183 :Variable obs not declared !
+wizards/siki/help_tool.c line 184 :Variable obs not declared !
+wizards/siki/help_tool.c line 185 :Variable obs not declared !
+wizards/siki/help_tool.c line 186 :Variable obs not declared !
+wizards/siki/help_tool.c line 187 :Variable obs not declared !
+wizards/siki/help_tool.c line 194 :syntax error
+wizards/siki/corpse.c line 167 :syntax error
+wizards/siki/corpse.c line 179 :syntax error
+Fri Jan 24 23:49:14 2003 A huge sea monster(strong) (/wizards/siki/lizard/monsters/monster#36228, 61) killed by Demon (40) 
+Sat Jan 25 00:19:45 2003 The lizardqueen Amerl'da(strong) (/wizards/siki/lizard/monsters/queen#35034, 102) killed by Demon (40) 
+Sat Jan 25 00:27:05 2003 The lizardking Seb'stunus(strong) (/wizards/siki/lizard/monsters/king#35028, 67) killed by Demon (40) 
+Mon Jan 27 00:21:20 2003 The lizardking Seb'stunus(strong) (/wizards/siki/lizard/monsters/king#17766, 67) killed by Demon (44) 
+Mon Jan 27 00:22:00 2003 The lizardqueen Amerl'da(strong) (/wizards/siki/lizard/monsters/queen#17771, 77) killed by Demon (44) 
+Mon Jan 27 00:36:18 2003 Thuf the lunatic young lady(strong) (/wizards/siki/forest/monsters/thuf#18177, 42) killed by Demon (44) 
+Mon Jul 14 14:36:09 2003 A huge sea monster(strong) (/wizards/siki/lizard/monsters/monster#4155, 60) killed by Drakhor (216) 
+Wed Jul 16 18:03:56 2003 A huge sea monster(strong) (/wizards/siki/lizard/monsters/monster#3245, 62) killed by Drakhor (217) 
+Sun Feb 29 16:24:39 2004 A huge sea monster(strong) (/wizards/siki/lizard/monsters/monster#15200, 62) killed by Jenny (162) 
+Fri Mar  5 02:57:22 2004 The shaman of the village, Kar'hheni (surrounded by purple mist)(strong) (/wizards/siki/lizard/monsters/shaman#1933, 60) killed by Jenny (185) 
+Wed Mar 17 23:47:39 2004 A terrible beast with long horns(strong) (/wizards/siki/lizard/monsters/beast#49029, 61) killed by Jenny (221) 
+Thu Mar 18 00:12:39 2004 A terrible beast with long horns(strong) (/wizards/siki/lizard/monsters/beast#50164, 60) killed by Jenny (221) 
+Fri May 21 00:08:45 2004 Thuf the lunatic young lady(strong) (/wizards/siki/forest/monsters/thuf#43180, 61) killed by Reaper (205) 
+Fri May 21 01:00:42 2004 Dexlom the black druid(strong) (/wizards/siki/forest/monsters/dexlom#44184, 69) killed by Reaper (205) 
+Sat May 22 21:16:13 2004 Dexlom the black druid(strong) (/wizards/siki/forest/monsters/dexlom#34933, 66) killed by Reaper (206) 
+wizards/siki/forest/room21.c line 17 :Illegal character (hex 5c) '\'
+wizards/siki/forest/room21.c line 17 :syntax error
+wizards/siki/forest/room21.c line 17 :Newline in string
+Sun May 30 16:02:37 2004 The shaman of the village, Kar'hheni (surrounded by purple mist)(strong) (/wizards/siki/lizard/monsters/shaman#27196, 50) killed by Reaper (253) 
+Sun May 30 16:20:39 2004 A terrible beast with long horns(strong) (/wizards/siki/lizard/monsters/beast#28975, 61) killed by Reaper (253) 
+Mon May 31 18:02:17 2004 The lizardqueen Amerl'da(strong) (/wizards/siki/lizard/monsters/queen#27715, 72) killed by Reaper (255) 
+Mon May 31 18:19:25 2004 The lizardking Seb'stunus(strong) (/wizards/siki/lizard/monsters/king#27709, 67) killed by Reaper (255) 
+Mon May 31 18:26:23 2004 A huge sea monster(strong) (/wizards/siki/lizard/monsters/monster#28108, 60) killed by Reaper (255) 
+Sun Jul 25 00:56:44 2004 The lizardqueen Amerl'da(strong) (/wizards/siki/lizard/monsters/queen#27088, 77) killed by Reaper (349) 
+Sun Jul 25 01:04:32 2004 The lizardking Seb'stunus(strong) (/wizards/siki/lizard/monsters/king#27081, 64) killed by Reaper (349) 
+Tue Sep 07 14:29:46 2004 Dexlom the black druid(strong) (/wizards/siki/forest/monsters/dexlom#4845, 74) killed by Reaper (355) 
+Fri Sep 10 21:10:50 2004 The lizardqueen Amerl'da(strong) (/wizards/siki/lizard/monsters/queen#21518, 82) killed by Reaper (355) 
+Sat Sep 18 19:35:34 2004 The shaman of the village, Kar'hheni (surrounded by purple mist)(strong) (/wizards/siki/lizard/monsters/shaman#26068, 60) killed by Bloodstorm (286) 
+Sat Sep 18 19:42:04 2004 A huge sea monster(strong) (/wizards/siki/lizard/monsters/monster#26627, 64) killed by Reaper (358) 
+Sun Oct 03 10:51:01 2004 A huge sea monster(strong) (/wizards/siki/lizard/monsters/monster#10738, 62) killed by Kaappi (159) 
+Tue Nov 30 19:39:05 2004 A huge sea monster(strong) (/wizards/siki/lizard/monsters/monster#33548, 62) killed by Celes (216) 
+Tue Nov 30 20:06:26 2004 The shaman of the village, Kar'hheni (surrounded by purple mist)(strong) (/wizards/siki/lizard/monsters/shaman#34549, 55) killed by Celes (216) 
+Wed Feb 09 09:40:55 2005 A huge sea monster(strong) (/wizards/siki/lizard/monsters/monster#4290, 61) killed by Kaappi (247) 
+Thu Feb 10 09:36:59 2005 A huge sea monster(strong) (/wizards/siki/lizard/monsters/monster#3737, 62) killed by Kaappi (249) 
+Sun Feb 13 20:01:23 2005 The shaman of the village, Kar'hheni (surrounded by purple mist)(strong) (/wizards/siki/lizard/monsters/shaman#15488, 55) killed by Kaappi (265) 
+Tue Feb 15 15:15:28 2005 A terrible beast with long horns(strong) (/wizards/siki/lizard/monsters/beast#13076, 61) killed by Ntg (111) 
+Tue Mar 01 14:58:42 2005 Thuf the lunatic young lady(strong) (/wizards/siki/forest/monsters/thuf#13917, 48) killed by Kaappi (280) 
+Wed Mar 02 10:24:36 2005 Thuf the lunatic young lady(strong) (/wizards/siki/forest/monsters/thuf#5646, 48) killed by Kaappi (280) 
+Wed Mar 02 11:00:41 2005 Dexlom the black druid(strong) (/wizards/siki/forest/monsters/dexlom#5775, 74) killed by Madk (147) 
+Mon Jul 11 00:27:15 2005 The shaman of the village, Kar'hheni (surrounded by purple mist)(strong) (/wizards/siki/lizard/monsters/shaman#2247, 55) killed by Atw (161) 
+Mon Jul 11 00:48:10 2005 A terrible beast with long horns(strong) (/wizards/siki/lizard/monsters/beast#2956, 68) killed by Ntg (197) 
+Thu Aug 11 18:48:02 2005 A huge sea monster(strong) (/wizards/siki/lizard/monsters/monster#14673, 61) killed by Kodomachi (155) 
+Mon Oct 10 16:28:52 2005 A terrible beast with long horns(strong) (/wizards/siki/lizard/monsters/beast#13272, 63) killed by Ntg (229) 
+Sat Oct 22 17:13:12 2005 The shaman of the village, Kar'hheni (surrounded by purple mist)(strong) (/wizards/siki/lizard/monsters/shaman#6950, 55) killed by Moonshdw (174) 
+Sun Oct 30 13:38:13 2005 The shaman of the village, Kar'hheni (surrounded by purple mist)(strong) (/wizards/siki/lizard/monsters/shaman#9050, 50) killed by Atw (72) 
+Sun Oct 30 13:45:19 2005 A huge sea monster(strong) (/wizards/siki/lizard/monsters/monster#9318, 60) killed by Ntg (229) 
+Tue Nov 01 00:02:40 2005 A huge sea monster(strong) (/wizards/siki/lizard/monsters/monster#35927, 61) killed by Elric (209) 
+wizards/siki/demon.c line 5: Illegal to redefine inherited variable 'alias'
+wizards/siki/demon.c line 8: Illegal to redefine inherited variable 'skill_chance'
+wizards/siki/demon.c line 5: Illegal to redefine inherited variable 'alias'
+wizards/siki/demon.c line 8: Illegal to redefine inherited variable 'skill_chance'
+wizards/siki/demon.c line 5: Illegal to redefine inherited variable 'alias'
+wizards/siki/demon.c line 8: Illegal to redefine inherited variable 'skill_chance'
+wizards/siki/demon.c line 5: Illegal to redefine inherited variable 'alias'
+wizards/siki/demon.c line 8: Illegal to redefine inherited variable 'skill_chance'
+Sat Nov 05 20:43:42 2005 The shaman of the village, Kar'hheni (surrounded by purple mist)(strong) (/wizards/siki/lizard/monsters/shaman#19952, 55) killed by Bloodstorm (156) 
+Sat Nov 05 21:27:26 2005 Thuf the lunatic young lady(strong) (/wizards/siki/forest/monsters/thuf#22952, 44) killed by Elric (187) 
+Tue Nov 08 21:49:14 2005 Dexlom the black druid(strong) (/wizards/siki/forest/monsters/dexlom#15105, 74) killed by Elric (191) 
+Sat Nov 12 03:23:18 2005 Thuf the lunatic young lady(strong) (/wizards/siki/forest/monsters/thuf#25937, 43) killed by Ntg (231) 
+Mon Nov 28 15:35:02 2005 The lizardking Seb'stunus(strong) (/wizards/siki/lizard/monsters/king#11973, 67) killed by Golthar (293) 
+Sun Dec 04 17:25:50 2005 A huge sea monster(strong) (/wizards/siki/lizard/monsters/monster#6277, 60) killed by Golthar (293) 
+Tue Dec 27 01:30:14 2005 Thuf the lunatic young lady(strong) (/wizards/siki/forest/monsters/thuf#18114, 40) killed by Ntg (270) 
+Tue Dec 27 13:41:00 2005 Thuf the lunatic young lady(strong) (/wizards/siki/forest/monsters/thuf#4475, 43) killed by Ntg (270) 
+Tue Dec 27 14:16:11 2005 Dexlom the black druid(strong) (/wizards/siki/forest/monsters/dexlom#4643, 70) killed by Ntg (270) 
+Wed Dec 28 13:06:44 2005 Thuf the lunatic young lady(strong) (/wizards/siki/forest/monsters/thuf#12008, 40) killed by Ntg (270) 
+Wed Dec 28 13:29:20 2005 Dexlom the black druid(strong) (/wizards/siki/forest/monsters/dexlom#12104, 65) killed by Ntg (270) 
+Sun Jun 18 00:33:49 2006 The lizardking Seb'stunus(strong) (/wizards/siki/lizard/monsters/king#18591, 70) killed by Ntg (290) 
+Sun Jun 18 00:41:01 2006 The lizardqueen Amerl'da(strong) (/wizards/siki/lizard/monsters/queen#18599, 77) killed by Ntg (290) 
+wizards/siki/bow.c line 11: Illegal to redefine inherited variable 'wielded_by'
+wizards/siki/bow.c line 13: Illegal to redefine inherited variable 'short_desc'
+wizards/siki/bow.c line 13: Illegal to redefine inherited variable 'long_desc'
+wizards/siki/bow.c line 14: Illegal to redefine inherited variable 'slot'
+wizards/siki/bow.c line 16: Illegal to redefine inherited variable 'weight'
+wizards/siki/bow.c line 11: Illegal to redefine inherited variable 'wielded_by'
+wizards/siki/bow.c line 13: Illegal to redefine inherited variable 'short_desc'
+wizards/siki/bow.c line 13: Illegal to redefine inherited variable 'long_desc'
+wizards/siki/bow.c line 14: Illegal to redefine inherited variable 'slot'
+wizards/siki/bow.c line 16: Illegal to redefine inherited variable 'weight'
+wizards/siki/bow.c line 11: Illegal to redefine inherited variable 'wielded_by'
+wizards/siki/bow.c line 13: Illegal to redefine inherited variable 'short_desc'
+wizards/siki/bow.c line 13: Illegal to redefine inherited variable 'long_desc'
+wizards/siki/bow.c line 14: Illegal to redefine inherited variable 'slot'
+wizards/siki/bow.c line 16: Illegal to redefine inherited variable 'weight'
+wizards/siki/archers.c line 41: casting a value to its own type: int 
+wizards/siki/archers.c line 42: casting a value to its own type: int 
+wizards/siki/archers.c line 43: casting a value to its own type: int 
+wizards/siki/archers.c line 44: casting a value to its own type: int 
+wizards/siki/archers.c line 45: casting a value to its own type: int 
+wizards/siki/archers.c line 46: casting a value to its own type: int 
+wizards/siki/archers.c line 47: casting a value to its own type: int 
+wizards/siki/bow.c line 11: Illegal to redefine inherited variable 'wielded_by'
+wizards/siki/bow.c line 13: Illegal to redefine inherited variable 'short_desc'
+wizards/siki/bow.c line 13: Illegal to redefine inherited variable 'long_desc'
+wizards/siki/bow.c line 14: Illegal to redefine inherited variable 'slot'
+wizards/siki/bow.c line 16: Illegal to redefine inherited variable 'weight'
+wizards/siki/bow.c line 11: Illegal to redefine inherited variable 'wielded_by'
+wizards/siki/bow.c line 13: Illegal to redefine inherited variable 'short_desc'
+wizards/siki/bow.c line 13: Illegal to redefine inherited variable 'long_desc'
+wizards/siki/bow.c line 14: Illegal to redefine inherited variable 'slot'
+wizards/siki/bow.c line 16: Illegal to redefine inherited variable 'weight'
+Wed Jul 26 01:24:13 2006 The shaman of the village, Kar'hheni (surrounded by purple mist)(strong) (/wizards/siki/lizard/monsters/shaman#9188, 55) killed by Bloodstorm (243) 
+Sat Jul 29 22:42:14 2006 The shaman of the village, Kar'hheni (surrounded by purple mist)(strong) (/wizards/siki/lizard/monsters/shaman#7981, 50) killed by Reaper (238) 
+Sun Jul 30 23:53:10 2006 The lizardqueen Amerl'da(strong) (/wizards/siki/lizard/monsters/queen#2047, 77) killed by Reaper (238) 
+Mon Jul 31 00:03:12 2006 The lizardking Seb'stunus(strong) (/wizards/siki/lizard/monsters/king#2040, 67) killed by Reaper (238) 
+Mon Jul 31 02:42:47 2006 Dexlom the black druid(strong) (/wizards/siki/forest/monsters/dexlom#5628, 68) killed by Reaper (238) 
+Fri Aug 04 18:45:21 2006 The shaman of the village, Kar'hheni (surrounded by purple mist)(strong) (/wizards/siki/lizard/monsters/shaman#10877, 60) killed by Reaper (239) 
+Fri Aug 04 18:53:59 2006 A terrible beast with long horns(strong) (/wizards/siki/lizard/monsters/beast#13043, 62) killed by Reaper (239) 
+Sat Nov 25 15:04:25 2006 The shaman of the village, Kar'hheni (surrounded by purple mist)(strong) (/wizards/siki/lizard/monsters/shaman#2420, 60) killed by Devil (181) 
+Sat Nov 25 15:12:47 2006 A terrible beast with long horns(strong) (/wizards/siki/lizard/monsters/beast#2477, 62) killed by Devil (181) 
+Sat Jan 06 18:19:29 2007 A huge sea monster(strong) (/wizards/siki/lizard/monsters/monster#13642, 61) killed by Elric (303) 
+Thu Aug 23 16:17:20 2007 The shaman of the village, Kar'hheni (surrounded by purple mist)(strong) (/wizards/siki/lizard/monsters/shaman#5716, 50) killed by Azash (126) 
+Fri Oct 19 13:58:58 2007 Thuf the lunatic young lady(strong) (/wizards/siki/forest/monsters/thuf#2501, 49) killed by Olsma (178) 
+Fri Nov 16 02:36:36 2007 A huge sea monster(strong) (/wizards/siki/lizard/monsters/monster#31539, 60) killed by Bloodstorm (243) 
+Wed Dec 19 01:50:47 2007 Thuf the lunatic young lady(strong) (/wizards/siki/forest/monsters/thuf#37987, 42) killed by Bloodstorm (284) 
+Thu Dec 20 00:58:00 2007 A huge sea monster(strong) (/wizards/siki/lizard/monsters/monster#38020, 63) killed by Bloodstorm (285) 
+Thu Dec 20 01:32:01 2007 The shaman of the village, Kar'hheni (surrounded by purple mist)(strong) (/wizards/siki/lizard/monsters/shaman#38154, 60) killed by Olsma (142) 
+Tue Jan 15 11:57:48 2008 Thuf the lunatic young lady(strong) (/wizards/siki/forest/monsters/thuf#269356, 40) killed by Devil (223) 
+Thu Jan 17 19:54:23 2008 Thuf the lunatic young lady(strong) (/wizards/siki/forest/monsters/thuf#31290, 43) killed by Olsma (181) 
+Sat Jan 19 17:42:06 2008 The lizardqueen Amerl'da(strong) (/wizards/siki/lizard/monsters/queen#27177, 77) killed by Devil (223) 
+Sun Jan 20 11:19:46 2008 Thuf the lunatic young lady(strong) (/wizards/siki/forest/monsters/thuf#1553, 45) killed by Devil (223) 
+Sun Jan 20 11:44:59 2008 Dexlom the black druid(strong) (/wizards/siki/forest/monsters/dexlom#1652, 66) killed by Devil (223) 
+Thu Jan 24 22:57:42 2008 Thuf the lunatic young lady(strong) (/wizards/siki/forest/monsters/thuf#17668, 41) killed by Olsma (181) 
+wizards/siki/bow.c line 11: Illegal to redefine inherited variable 'wielded_by'
+wizards/siki/bow.c line 13: Illegal to redefine inherited variable 'short_desc'
+wizards/siki/bow.c line 13: Illegal to redefine inherited variable 'long_desc'
+wizards/siki/bow.c line 14: Illegal to redefine inherited variable 'slot'
+wizards/siki/bow.c line 16: Illegal to redefine inherited variable 'weight'
+Sat Jan 26 22:34:43 2008 A huge sea monster(strong) (/wizards/siki/lizard/monsters/monster#34180, 64) killed by Alardolath (243) 
+Sat Jan 26 23:24:10 2008 Thuf the lunatic young lady(strong) (/wizards/siki/forest/monsters/thuf#35798, 42) killed by Alardolath (243) 
+Sat Jan 26 23:35:28 2008 Dexlom the black druid(strong) (/wizards/siki/forest/monsters/dexlom#35905, 71) killed by Alardolath (243) 
+Mon Feb 11 00:24:13 2008 Thuf the lunatic young lady(strong) (/wizards/siki/forest/monsters/thuf#41571, 46) killed by Olsma (219) 
+Mon Feb 11 16:40:58 2008 A huge sea monster(strong) (/wizards/siki/lizard/monsters/monster#18966, 60) killed by Olsma (219) 
+Wed Feb 13 20:27:59 2008 Thuf the lunatic young lady(strong) (/wizards/siki/forest/monsters/thuf#49509, 48) killed by Alardolath (183) 
+Wed Feb 13 20:54:28 2008 Dexlom the black druid(strong) (/wizards/siki/forest/monsters/dexlom#50080, 71) killed by Alardolath (183) 
+Thu Feb 14 12:23:38 2008 The shaman of the village, Kar'hheni (surrounded by purple mist)(strong) (/wizards/siki/lizard/monsters/shaman#8366, 50) killed by Olsma (229) 
+Thu Feb 14 12:34:32 2008 A terrible beast with long horns(strong) (/wizards/siki/lizard/monsters/beast#10443, 60) killed by Olsma (229) 
+Thu Feb 21 14:15:53 2008 Dexlom the black druid(strong) (/wizards/siki/forest/monsters/dexlom#4185, 74) killed by Olsma (229) 
+Sat Feb 23 16:15:20 2008 A huge sea monster(strong) (/wizards/siki/lizard/monsters/monster#30963, 61) killed by Ntg (243) 
+Sat Feb 23 16:23:54 2008 Thuf the lunatic young lady(strong) (/wizards/siki/forest/monsters/thuf#31396, 40) killed by Ntg (243) 
+Sun Feb 24 20:36:48 2008 A huge sea monster(strong) (/wizards/siki/lizard/monsters/monster#44568, 60) killed by Ntg (243) 
+Sun Feb 24 21:40:22 2008 Thuf the lunatic young lady(strong) (/wizards/siki/forest/monsters/thuf#49280, 48) killed by Ntg (243) 
+Sun Feb 24 21:55:38 2008 Dexlom the black druid(strong) (/wizards/siki/forest/monsters/dexlom#49875, 68) killed by Ntg (243) 
+Mon Feb 25 13:10:18 2008 The shaman of the village, Kar'hheni (surrounded by purple mist)(strong) (/wizards/siki/lizard/monsters/shaman#14571, 50) killed by Olsma (229) 
+Mon Feb 25 13:47:05 2008 A terrible beast with long horns(strong) (/wizards/siki/lizard/monsters/beast#16236, 64) killed by Olsma (229) 
+Mon Feb 25 13:59:04 2008 A terrible beast with long horns(strong) (/wizards/siki/lizard/monsters/beast#14633, 80) killed by Olsma (229) 
+Tue Feb 26 14:59:39 2008 A huge sea monster(strong) (/wizards/siki/lizard/monsters/monster#16804, 60) killed by Ntg (243) 
+Thu Mar 06 12:08:31 2008 A huge sea monster(strong) (/wizards/siki/lizard/monsters/monster#32244, 63) killed by Alardolath (249) 
+Fri Mar 07 19:16:05 2008 The lizardking Seb'stunus(strong) (/wizards/siki/lizard/monsters/king#37273, 64) killed by Alardolath (250) 
+Fri Mar 07 19:17:39 2008 The lizardqueen Amerl'da(strong) (/wizards/siki/lizard/monsters/queen#37279, 77) killed by Alardolath (250) 
+Sat Mar 08 12:30:47 2008 Thuf the lunatic young lady(strong) (/wizards/siki/forest/monsters/thuf#14273, 49) killed by Alardolath (250) 
+Sat Apr 05 19:35:57 2008 A huge sea monster(strong) (/wizards/siki/lizard/monsters/monster#20794, 62) killed by Ntg (291) 
+Thu May 22 00:13:17 2008 Dexlom the black druid(strong) (/wizards/siki/forest/monsters/dexlom#16787, 70) killed by Olsma (230) 
+Fri May 23 14:47:04 2008 Dexlom the black druid(strong) (/wizards/siki/forest/monsters/dexlom#7786, 69) killed by Olsma (230) 
+Thu Sep 04 22:54:33 2008 The shaman of the village, Kar'hheni (surrounded by purple mist)(strong) (/wizards/siki/lizard/monsters/shaman#21345, 55) killed by Golthar (368) 
+Thu Sep 04 23:02:15 2008 A terrible beast with long horns(strong) (/wizards/siki/lizard/monsters/beast#27023, 66) killed by Golthar (368) 
+Sat Sep 13 11:45:23 2008 A huge sea monster(strong) (/wizards/siki/lizard/monsters/monster#9966, 61) killed by Ntg (387) 
+Sat Sep 13 11:58:56 2008 The lizardking Seb'stunus(strong) (/wizards/siki/lizard/monsters/king#10278, 67) killed by Atw (191) 
+Sat Sep 13 12:03:16 2008 The lizardqueen Amerl'da(strong) (/wizards/siki/lizard/monsters/queen#10286, 72) killed by Ntg (387) 
+Sun Sep 14 12:59:29 2008 Thuf the lunatic young lady(strong) (/wizards/siki/forest/monsters/thuf#23574, 43) killed by Ntg (388) 
+Sun Sep 14 13:08:42 2008 Dexlom the black druid(strong) (/wizards/siki/forest/monsters/dexlom#23829, 71) killed by Ntg (388) 
+Sat Sep 20 13:31:20 2008 Thuf the lunatic young lady(strong) (/wizards/siki/forest/monsters/thuf#8599, 42) killed by Terror (225) 
+Sat Oct 11 18:50:37 2008 Thuf the lunatic young lady(strong) (/wizards/siki/forest/monsters/thuf#51938, 43) killed by Golthar (400) 
+Sun Oct 26 18:51:03 2008 Thuf the lunatic young lady(strong) (/wizards/siki/forest/monsters/thuf#16131, 40) killed by Ntg (400) 
+Sun Oct 26 19:08:33 2008 Dexlom the black druid(strong) (/wizards/siki/forest/monsters/dexlom#16723, 68) killed by Ntg (400) 
+Wed Dec 03 20:18:18 2008 Dexlom the black druid(strong) (/wizards/siki/forest/monsters/dexlom#3904, 67) killed by Ozmala (249) 
+Thu Dec 04 14:00:14 2008 Dexlom the black druid(strong) (/wizards/siki/forest/monsters/dexlom#5760, 68) killed by Olsma (237) 
+Mon Dec 08 23:14:25 2008 The lizardqueen Amerl'da(strong) (/wizards/siki/lizard/monsters/queen#12775, 82) killed by Ozmala (250) 
+Mon Dec 08 23:21:13 2008 The lizardking Seb'stunus(strong) (/wizards/siki/lizard/monsters/king#12767, 67) killed by Ozmala (250) 
+Sun Jan 18 12:52:28 2009 A huge sea monster(strong) (/wizards/siki/lizard/monsters/monster#5801, 62) killed by Terror (236) 
+Mon Jan 19 20:32:41 2009 Thuf the lunatic young lady(strong) (/wizards/siki/forest/monsters/thuf#14749, 49) killed by Alardolath (371) 
+Wed Feb 03 23:58:57 2010 The lizardking Seb'stunus(strong) (/wizards/siki/lizard/monsters/king#9396, 67) killed by Ntg (558) 
+Thu Mar 25 21:43:02 2010 A terrible beast with long horns(strong) (/wizards/siki/lizard/monsters/beast#26217, 64) killed by Ntg (558) 
+Thu Mar 25 21:50:44 2010 The shaman of the village, Kar'hheni (surrounded by purple mist)(strong) (/wizards/siki/lizard/monsters/shaman#26087, 50) killed by Ntg (558) 
+Thu Mar 25 21:57:14 2010 A terrible beast with long horns(strong) (/wizards/siki/lizard/monsters/beast#26205, 69) killed by Ntg (558) 
+Sun Sep 26 19:26:12 2010 A huge sea monster(strong) (/wizards/siki/lizard/monsters/monster#7864, 64) killed by Ntg (558) 
+Mon Jun 06 00:10:03 2011 The shaman of the village, Kar'hheni (surrounded by purple mist)(strong) (/wizards/siki/lizard/monsters/shaman#4788, 50) killed by Koff (558) 

@@ -1,0 +1,122 @@
+wizards/gynter/element/gateway Bug Zapda
+Element exits goes wrong when doing a quest
+wizards/gynter/element/gateway Bug Drude
+when closing the fire in fact the air become closed
+wizards/gynter/darke/city/garden/2e Typo Onarion
+The more inituive of .. i think it should be The most intuitive of the young darkelves..
+wizards/gynter/darke/city/Rcity2 Typo Onarion
+This is the new read that divides the city into new and old parts. Ack.. quite a mess the whole desc :)
+wizards/gynter/element/gateway Bug Piikki
+muah.. you can summon as many spirits as you wish ;)
+wizards/gynter/element/earth/2 Bug Drude
+hmm, suppose i've killed two out of four mobs in the room and am starting on the third one which happens to be the first in line , then when the room/area resets the total number of mobs is set to four and the new ones are put first in line so .. suddenly i'm attacking a new/fresh mob .. is this a bug? and can it be made such that the room doesn't reset when you attack something in it or such that the new mobs appear at the end of line and not as the first in line ??
+wizards/gynter/element/earth/13 Typo Drude
+in the game there is ... You barbalically pound -> barbalically is wrong should be something like barbarically
+wizards/gynter/element/earth/13 Typo Drude
+in the game there is ... You are stunned are unable -> second are should be and
+wizards/gynter/element/earth/13 Bug Drude
+i've got scroll for 'create light' but when i read it it says creates an magical amulet (btw an -> a) which is wrong
+wizards/gynter/element/gateway Bug Drude
+exits pillar leads to flames and swim leads to hole .. so that's not really funy :(
+wizards/gynter/element/earth/4 Idea Trooper
+Tehkaas niin etta rahat mita mosil on. On suhteessa niiden kokoon
+wizards/gynter/element/fire/13 Idea Rag
+hit point regeneration eq!!!
+wizards/gynter/element/earth/16 Bug Drude
+general maybe this could be an idea: one can train strike to do damage and then double strike to do even more damage, but then tremendous blow does more damage again but having trained double strike doesn't help anymore .. so maybe it would be possible to have a not so powerful second strike after a succesful tremendous blow as well (just like it works with normal strike ...)
+wizards/gynter/element/earth/1 Idea Trooper
+Castles, Monks, Abjurers
+wizards/gynter/element/fire/1 Bug Bloodrage
+report
+wizards/gynter/element/fire/1 Bug Bloodrage
+in 10 s 54ne at the elementalists when i typed flames i get you're sensitive mind notices a wrongness in the fabric of space and i can see anything and i can't get out or nothing... if i type look it just gives me sensitive
+wizards/gynter/element/earth/15 Idea Ahma
+search corpse 2 exc..
+wizards/gynter/element/earth/15 Idea Ahma
+ext meaning ect
+wizards/gynter/element/earth/14 Bug Ahma
+my skills list bugs for torch creation
+/wizards/gynter/element/gateway Typo Duncan
+dont use "you" word too much in here
+/wizards/gynter/element/air/1 Typo Duncan
+if this is indoors, set_not_out(1); or use set_light(0-3) to create dark in here
+/wizards/gynter/element/air/7 Typo Duncan
+you are using' the copy&paste technics, try to add some new descs
+/wizards/gynter/element/air/15 Typo Duncan
+The lord of the air realm --> take . off
+/wizards/gynter/element/air/15 Typo Duncan
+lord of the air --> desc reads HE is also..... when gender is IT
+/wizards/gynter/element/air/11 Typo Duncan
+take off those ...
+/wizards/gynter/element/air/11 Typo Duncan
+it says --> It says
+/wizards/gynter/element/air/11 Typo Duncan
+you got 13/15 rooms same desc, you should try to make some new different lines to em or it wont pass the approve
+/wizards/gynter/element/air/2 Typo Duncan
+doorframes ARE made
+/wizards/gynter/element/air/14 Typo Duncan
+. to the end
+/wizards/gynter/element/air/14 Typo Duncan
+a huge guard gender it and reads in desc HE HE HE
+/wizards/gynter/element/air/15 Typo Duncan
+The lord of air --> fails spelling all the time
+/wizards/gynter/element/air/1 Typo Duncan
+A large airial beast --> put some special_move to it so it bites or claws to make some more damage
+/wizards/gynter/element/air/1 Typo Duncan
+gateway.c bugs
+/wizards/gynter/element/air/1 Typo Duncan
+I still want some new descs in here
+/wizards/gynter/element/air/1 Typo Duncan
+airial beast --> try to describe looks of this beast more!
+/wizards/gynter/element/air/6 Typo Duncan
+medium sized guard ends with ... take off those .. and Still i miss those describe of the monster looks, there's always what they do!
+/wizards/gynter/element/air/15 Typo Duncan
+lord of the air --> set race
+/wizards/gynter/element/air/15 Typo Duncan
+the lord of air --> You should me this so when you give the blade to it it gives you the sapphire and the lord vanishes/leaves out of game 'til next boots with this way we can prevent the illusion cheatin'
+/wizards/gynter/element/air/15 Typo Duncan
+sorry about typos me = make and boots = boot
+/wizards/gynter/element/air/10 Typo Duncan
+lead ---> i suppose it's leads
+/wizards/gynter/element/air/10 Typo Duncan
+There only thing telling there is... And that means what ? try to make that sentence reasonable
+/wizards/gynter/element/air/15 Typo Duncan
+lord of the air HE reads on the desc but the gender is IT
+/wizards/gynter/element/air/7 Typo Duncan
+a large guard ..> of the airguards, air guards maybe
+/wizards/gynter/element/air/7 Typo Duncan
+ok the air section is checked try to put some special moves on those exp monsters so they aint so easy to kill, if you haven't put yet!
+/wizards/gynter/element/air/15 Typo Duncan
+oh and the lords are too easy you should make em harder 1.6m monspeople can solo
+/wizards/gynter/element/air/12 Typo Duncan
+a huge guard but what he misses in mind he gains in body --> gender still IT
+/wizards/gynter/element/air/15 Typo Duncan
+STILL THE FUCKIN SAME TYPOS ON LORD
+/wizards/gynter/area2/city1/l Typo Gynter
+fix descs in x,w,v and s
+/wizards/gynter/area2/city1/g Typo Gynter
+General error... Pucko du har använt samma desc hela tiden
+/wizards/gynter/area2/city1/t Bug Gynter
+What ? when breaking bread
+/wizards/gynter/area2/city1/f Typo Gynter
+dist == dust
+/wizards/gynter/area2/city1/a Typo Gynter
+! i descs
+/wizards/gynter/area2/city1/2 Typo Gynter
+kolla över long_descs på eq
+/wizards/gynter/area2/city1/2 Typo Gynter
+General typo igen.. gissa hur många olika descs du använt i slottet pucko
+/wizards/gynter/area2/city1/3 Typo Gynter
+kolla in varför man tar 0 från rangers
+/wizards/gynter/darke/virtual/city_road#19425 Idea Ultramar
+train all skills to max
+/wizards/gynter/darke/city/Rcity7 Typo Bloodstorm
+This is not a beutiful street.
+/wizards/gynter/element/fire/14 Idea Trooper
+tuon että ruumiiden sisällöt tippuu maahan vois pistää myös taikoihin, mitkä tuhoaa ruumiit
+/wizards/gynter/darke/virtual/narrow_tunnel#5336 Typo Reaper
+elfs are missing /n from end
+/wizards/gynter/darke/virtual/traingr#18229 Idea Trooper
+rebirth infon vois korjata? jos tuota kolmatte eio/eikä tuu
+/wizards/gynter/darke/virtual/traingr#18229 Idea Trooper
+siis rebirth helpfilen

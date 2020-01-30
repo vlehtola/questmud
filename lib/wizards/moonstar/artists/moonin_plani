@@ -1,0 +1,123 @@
+Martial Artists
+By Moonstar
+Wepat tulis guildista rankin mukaan: Spiked mithril combat knuckles {eri gloweil riippuen rankista}
+Pahoittelen wordin autokorjausta jonka kans meni hermot niin elkää välittäkö tekstin hankaluudesta välillä J
+
+Max leveä ois 80-100 joten kaikki saa maksaa sitten ihan tarpeeksi. Kovimmat offu skillit on sitten kalliita. Sellanen balance että jokaiselle worthille ois jotakin. Skillit vois olla kovemmat kuin käsillä iskettävä dama ja niin että oikeesti on hyötyä nostaa jotain sky strikeä joka maksaa hardina/very hardina paljon.
+
+Martial artisti		(Base guild 35-40lvl?)
+
+Attack
+Ambidexterous attack		(useampi meleehit rundissa kuin 2?) 
+Martial techniques		(meleedamaan ja skillsseihin vaikuttava?)
+Adv. Martial techniques		(-..-)
+Inner strength	
+Stun
+Whirlwind			(tätä tarvittaisi noihin kahteen ekaan, dragon Blow ja claw storm)
+Conjure light			(parempi ku create torch? ei pakollinen tämä)
+Torch creation		
+Double knuckles		(kummassaki kädes knucklesit niin vois tätä käyttää two handed combattina)
+evaluate
+Critical
+Doublehit
+Dragon Blow		(eka offuskill)
+Shadow Blow		(Battlecry tapanen alotus)
+Claw storm		(toka attack skill. 75% vaikka ekasta guildista tätä)
+Dodge
+Parry
+Focus shadow Blow	(Katso alempaa näihin)
+Focus Sky Strike 	
+Focus element
+Power of fire
+Power of ice
+Power of thunder
+
+Focusers			(20-25 lvl?)		(alempaa selitykset)
+
+Claw storm
+Whirlwind
+Focus element
+Power of fire
+Power of ice
+Power of thunder
+Focused Shadow Blow
+Focused Sky strike
+
+Meditators		(10-15lvl?)
+
+Meditation			(campingin tapanen. antaa sptäki)
+Mastery of meditaation		(vaikuttaa epregeniin meditaatiossa  hpregen)
+Seal wounds			(sulkee muutamat haavat. vie sptä)
+Conjure light			(vie sptä. summonaa valo pallon)
+Parry				
+Dodge
+Counter attack 			(dodge & hyökkää heti uusiks)
+
+
+Masters of martial arts		(15 lvl?)
+
+
+Adv. martial techniques
+Power of fire
+Power of ice
+Power of thunder
+Sky strike
+Mastery of Sky strike
+Shadow Blow
+Focused Sky strike
+Focused Shadow Blow
+Counter attack
+
+
+Kolme offensive skilliä
+Dragon Blow
+(Halpa ja neepoille tarkoitettu.)
+Claw storm
+(Käsillä tehtävä attack. Keskivälin damage.)
+Sky strike
+(Main attack skill. Mastery vaikuttaa tähän ja useat eri skillit
+esim. yllä olevat ja mastery of sky strike ja focused.
+
+Battlecryn tapanen shadow Blow
+(tarkoitus alottaa battle tällä. Stunniin vetää monsterin. Voi myös olla ihan tehokas jos skillit on kunnossa. vaikuttavat skillit on focused ja tämä silli. vois viedä eptä ja sptä koska pitäis keskittyä kovasti tohon.)
+
+Focus (skill) toimivat daman nostajana
+
+Focus_elements 
+Ja eri power of fire (str), power of ice (con), ja power of thunder (dex) toimivat samalla periaatteella kuin bersu? ei välttämättä tarvi olla yhtä voimakas mutta DEX olisi kaikista tärkein stat noihin skillsseihin. Focus_elementsillä pistettäs päälle ja noi muut vaikuttais paljonko nostaa.
+
+
+Pysyvä mastery systeemi
+
+Mastery of Sky strike	(damaa lisää)
+Mastery of Melee		(Damaa lisää speccuilla + Normaali dama?)
+Mastery of Elements	(Vaikuttais siihen kuin hyvin antaisi bonarii/aikaan)
+Mastery of Mind		(healingit ja myös tohon elementtiin)
+
+Myös mahdolliset eri offu,defence stancet. En oo näitä viel miettinyt:
+Enkä oo varma onko tarpeellisia mutta jos innostaapa?
+
+Golthar tells you 'elikkä vaikka noista subeista
+ sais jokaiseen stanceen tarvittavat skillit joita käytettäessä sitte muunmuassa
+ parry ja dodge factorit nousee/laskee, ja tuo mukaan jotain erikoishittejä, mm.
+ counter attack yms (noita mä voin ideoida lisää jos vaan tarviit/haluat) sitte jollain advanced off stancella vois kenties tulla joku special hitti combattiin mukaan joka tuntuis joka rundissa, vähän niinku darvo axen spessu mut ei läheskään sitä luokkaa, ja masteryt tietenkin vaikuttaa tuohon special hitin tehoon'
+
+
+Tämä vois esim. olla defend stance:
+stance skill name: way of weirding
+affecting skills:
+        Dodge
+        Parry
+        Riposte: as counter attack but less effective
+        Smite: hit opponent with knuckles
+        
+Elikkä parantaisi noita ja totta kai siinä stancessa tulis jotku huonommaksi
+Elikkä tässä ois vähän ideaa. Pitää kattoa viel noita minun tekemiä jos halutaan tämmöinen systeemi kuten golthart ehdotti.
+Kommentoikaa ja antakaa palautetta niin päästäis tekeen joskus.
+
+
+
+
+
+
+Moonstar, Muscular He-Man

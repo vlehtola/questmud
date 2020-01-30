@@ -1,0 +1,2 @@
+wizards/cendor/banish/banish_d.c line 221: casting a value to its own type: int 
+wizards/cendor/banish/banish_d.c line 236: casting a value to its own type: int 

@@ -1,0 +1,21 @@
+[Aug 17] - Nalle: We are testing a new command.
+[Aug 17] - Rag: Tweaked move_player in living.c to fix problems with party_move in party.c (testing command, too :)
+[Aug 17] - Celtron: I did solve the uid issue few days ago, but the prepare_destruct is still to be done. Meanwhile, archs are required to fix the variable type warnings and so from the daemon etc files.
+[Aug 20] - Morgoth: Testi
+[Sep 24] - Nalle: The outworld's rooms-mapping can start overflowing some hours after boot. The temporary way to fix to this is 'update /room/out/outmap and update /room/virtual_map_d' until a real fix is made.
+[Oct 03] - Celtron: Fix the remaining mobs that destruct themselves and drop unwanted eq.
+[Oct 03] - Celtron: Storm spell has now max damage of 30k. This should not be overcomed even with masteries.
+[Oct 06] - Rag: I added a check to attack_object function in living.c to prevent monsters from getting extra hits when combat stats, it might work or it might not work
+[Oct 06] - Rag: It was possible to attack non-living objects with shadow blow and by failing claws storm, fixed that
+[Oct 07] - Rag: I added strength, hitpoints and physsress to set_log monsters as requested. Check if your own eq monsters have their hps or strs set too high
+[Oct 10] - Celtron: removed the blocking ability from hriak's mummy. (to the rebirth room)
+[Oct 19] - Rag: Someone had commented the time = time * 2; line from /guilds/obj/skill.c That caused skill durations to be way too fast which increased the power of martial artists mostly. I removed the comment.
+[Nov 13] - Rag: If reduce_money (in obj/living) was called with a cost of 0, the player lost all his cash. Fixed that.
+[Jan 13] - Rag: I added my command 'guildsum' for all wizards to use. It's just a boring little statistical command with little real use :)
+[Oct 24] - Celtron: Arkeille lisatty ftp oikkia.
+[Oct 25] - Garath: Old ideas are taken under care now... The current 'idea' file is empty! Fill it with _good_ and _explained_ ideas! (Bullsh*t might end up your own loss)
+[Nov 01] - Celtron: updated command clone, so that it catch()es the actual clone_object(). Yey!
+[Nov 03] - Celtron: Backup libista otettu jalleen.
+[Jan 15] - Garath: guilds/obj/guild_leader_eq/psionic_orb.c fixed.
+[Oct 26] - Garath: Fixed _goin.c command for some minor bugs, unusability and disabled chance to goin same leveled wizards. (And players are always under wizards, even low-leveled wizards)
+[Dec 16] - Garath: Added #define TP this_player() to all 'eval' cmd usage to make life easier.

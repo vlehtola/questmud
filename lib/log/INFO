@@ -1,0 +1,291 @@
+[21:09] - Siki: test
+[21:10] - Siki: fixed floating disc
+[21:13] - Siki: test123
+[21:15] - Siki: test321
+[21:16] - Siki: use last game-info to look previous messages!
+[07:07] - Siki: now automatically recalculated the weight of containers after you sell something from them
+[08:49] - Siki: new score command 'score2'
+[13:21] - Siki: inventory shows stuff in keep now separately
+[19:25] - Siki: added masteries to cleric guild
+[19:27] - Siki: also added masteries in necromancer!
+[20:02] - Siki: fixed peer (hopefully)
+[00:51] - Siki: scan shows now the status of target, stuns etc
+[13:19] - Siki: something evil has happened to the animals!
+[17:09] - Siki: now fighters have also masteries
+[17:18] - Siki: ep% from maxep affects now damage also
+[17:24] - Siki: regeneration spell nolonger works in battle
+[18:00] - Siki: fixed long desc of spellscrolls
+[07:57] - Siki: horde nolonger drops money and it cannot be anymore used to tank eq
+[13:19] - Nalle: mudboards back in betatest at adv_hall
+[15:01] - Siki: added help files for masteries
+[16:20] - Siki: yleison pyynnosta drain health on useless
+[18:15] - Siki: animals nolonger give money!
+[19:28] - Siki: you can nolonger defend yourself while in battle and you are casting something
+[14:58] - Siki: max boost is somewhat tuned.
+[01:48] - Nalle: Ansi colours should work with 'look' (in addition to 'map') in areas' virtual maps after reboot.
+[19:42] - Nalle: 'who'-command retouched
+[14:54] - Nalle: The 'lite'-command is in betatest. Report features to Nalle
+[22:55] - Siki: You can now select your alignment when reincin!
+[17:21] - Siki: You have also another guild available when reincing if you have invition :)
+[13:19] - Siki: You now see estimated chance to succesfully use skills
+[22:39] - Siki: new section in library
+[01:39] - Siki: scrolls are fixed
+[20:04] - Siki: made couple of modifications to berserk, report any bugs!
+[15:24] - Siki: The pirate city informer told me that they have finished building the temple
+[18:46] - Siki: stunresist spell no longer give 100% resistance against stuns
+[23:59] - Siki: couple of skills got their names changed
+[22:06] - Nalle: Warlock invites accessible to all wizards now. Previously only Siki had access to inviting.
+[22:17] - Nalle: Siki was removed
+[10:48] - Nalle: Guild leading has been moved to guild rooms. Effective after next boot. Will contain most bugs that were present earlier, report features.
+[22:27] - Nalle: Darol was removed
+[01:53] - Nalle: A primitive 'emote'-command has been added
+[19:47] - Nalle: Changes in hordes' behaviour in regards to ambushes. Report behaviour.
+[22:32] - Nalle: Gynter was promoted to lower Arch
+[14:01] - Nalle: Shadowman, Forath, Hemies and Devil were give bans for Warlock abuse. Have a nice day
+[Feb 18] - Nalle: Game infos should now show date-stamp on 'last'.
+[Mar  3] - Nalle: Outworld colors disabled for a short while for performance testing.
+[Mar  3] - Nalle: 'High amount' dropped to 20. In use after quit/re-entry.
+[Mar  5] - Nalle: Mudmail Nalle if you have concerns about a lost levelwish, that has disappeared in special circumstances.
+[Mar  5] - Nalle: Outworld colors re-enabled.
+[Mar  9] - Nalle: Rag is now a wizard.
+[Mar 10] - Nalle: Changes made to generic room code, report bugs to Nalle.
+[Mar 14] - Nalle: Grizzt is now an apprentice wizard.
+[Mar 16] - Nalle: Some health drain/xfer spells fixed by Gynter
+[Mar 16] - Nalle: Fixes to spellbooks by Gynter. In game at quit/re-entry or reboot.
+[Mar 16] - Gynter: Added some expgain to Major Ress
+[Apr  3] - Nalle: Playercode has been altered a bit, and monsters' alignment aggroing too. In effect latest at boot.
+[Apr  3] - Nalle: 'score2' now replaced 'score' and vice versa
+[Apr  3] - Nalle: A primitive explore-system is now in testing.
+[Apr  5] - Rag: Onehanded robber-machine gives now correct winnings and the colours work right
+[Apr  5] - Walla: test
+[Apr 16] - Nalle: Walla is now an archwizard.
+[Apr 21] - Nalle: Channelers now have a 'cast alignment' skill.
+[Apr 21] - Nalle: eiku perkele high clerics
+[May  2] - Celtron: Beware!
+[May  8] - Walla: Devil is now a Wizard
+[May 20] - Walla: 19:31 Celtron <fiz>: uppasin vähän highlevelmonsujen damogei
+[May 22] - Nalle: Khaland's reinc cost is now more progressive
+[May 24] - Nalle: Grotlik is now known as Sraz.
+[May 25] - Nalle: A new command has been added. 'status <argument>', using it without an argument is a completely different older command.
+[May 25] - Walla: works after quit-reenter
+[May 26] - Nalle: Plans now have a trailing '>' mark.
+[May 29] - Nalle: Ols is now known as Olsma.
+[May 29] - Nalle: Rag is now an Archwizard.
+[May 29] - Nalle: Drakhor and Bloodstorm were awarded some taskpoints for their excellent QuestMUD-related website.
+[May 30] - Rag: 'scan all' now shows if monster is stunned
+[Jun  1] - Rag: You now get the right amount of exp from major ress
+[Jun 11] - Nalle: Devil was reduced to a mortal state.
+[Jun 12] - Rag: Added shortcuts to walk-command, see 'help walk'
+[Jun 12] - Rag: 13:42 Celtron <fiz>: eqmob hit dmg / 2
+[Jun 13] - Nalle: Scoprion is now known as Maria.
+[Jun 19] - Nalle: To celebrate Midsummer, I give you the 'desc' command!
+[Jun 27] - Nalle: "Fixed" the "last" problem with the new invisibility code.
+[Jun 27] - Nalle: Shops' lists might look funny until boot, fixed a small bug.
+[Jul  5] - Rag: Added something to the 'count' command, see help count
+[Jul  7] - Jenny: It is still illeagal to abuse quest eqs with multichars
+[Aug 12] - Walla: Puuha just fixed Necro guild, praise him
+[Aug 12] - Jenny: Puuha is now promoted to "Walla's love"
+[Aug 14] - Jenny: Nalle is a Puusilma, he has coded undeads painhelvettia it seems
+[Aug 23] - Rag: Fixed the bug concerning questpoints. Quit and re-enter to get the right amount of QPs
+[Aug 23] - Rag: Oh right, it only affects your maximum questpoints
+[Sep 22] - Rag: You can now take leaderships for a race if the leader has not logged in for 20 days.
+[Sep 26] - Nalle: Golthar was reduced to a mortal state, as an insufficient amount of code was produced.
+[Sep 27] - Nalle: Moonstar is now a wizard
+[Sep 27] - Nalle: James was reduced to a mortal state.
+[Sep 29] - Walla: Language policy has now been put into place, help language_policy for more details... If you do not understand what this means, then this clearly is the wrong place for you to be
+[Oct 23] - Walla: Fighter skills Strike & Kick have been tuned. The doublestrike skill will also work properly now. Effective of about 10 mins ago or fully after boot. Thank moonstar for this
+[Oct 24] - Walla: because of tweaking done with necro guild, it is from now on considered closed... if you feel like idling for the time of the tweaking, please feel free to do so. Free reincs out of necros are also available...
+[Oct 24] - Moonstar: Fighter skill Kick have been uptuned.
+[Oct 27] - Moonstar: Guild Necromancer is open again for players.
+[Oct 27] - Rag: Monster shouldn't now heal in battle. Effective after boot.
+[Oct 30] - Nalle: Morgatai has been reduced to a mortal state, as he failed to produce sufficient code during his apprenticeship.
+[Nov  1] - Nalle: Channels now save their 'last' messages over boots.
+[Nov  5] - Rag: You can now take leaderships if the leader hasn't been online for 90 days.
+[Nov  7] - Rag: Resistances of the same type from armours now stack correctly.
+[Nov  9] - Nalle: Lan has been renamed to Takke.
+[Nov 10] - Rag: The arena has been opened again. Enter at your own risk, it might bug. Report all bugs to Rag!
+[Nov 15] - Jenny: Donations are opened again, temporarily atleast
+[Nov 15] - Jenny: I downtuned necromancer horde bit, works when you build your next horde, Have a nice day
+[Nov 17] - Jenny: Rebirthers should check their rebirthinfo, have a nice day
+[Nov 29] - Rag: You now have party dice command, effective on your next 'party create'
+[Dec  8] - Jenny: Fixed bugs from drain health spell
+[Dec  9] - Jenny: There are now lights in city again :}
+[Dec 10] - Rag: You now have a battle round flag, see help battle, effective on quit&re-enter
+[Dec 10] - Nalle: Retouched the 'countries'-command a bit
+[Dec 13] - Jenny: You can now see text (in jail) behind the persons name if the person is in jail, hooray! ( fully effective after boot )
+[Dec 14] - Moonstar: Updated skill meditation. You can now use it while there are other players in the same room.
+[Dec 15] - Moonstar: Martial artist skill focus elements has been tuned and don't worry it was only a minor tune :)
+[Dec 15] - Walla: and it was ME that tuned it!
+[Dec 15] - Moonstar: Updated skill sky strike. Check the help file.
+[Dec 15] - Rag: Cityguards should now give you a warning before throwing you into jail.
+[Dec 15] - Jenny: fixed typoes from celuwien's advices, go ask him about advices if u noobie psi or so
+[Dec 16] - Walla: Anyone caught in Jericho or in Castle Northface will be punished severly. Due to tweaking of those places!
+[Dec 16] - Moonstar: Tuned skills sky strike and claws storm. Yes this was downtune but also uptune for newbies.
+[Dec 17] - Jenny: There has been a rumour that Hriak has been exploring the world with his mummy and they also say that he has found many new magical items that he added to his collection. Maybe some strong explorers from Duranghom could go and check if this rumour is true or not.
+[Dec 18] - Jenny: you now get money when you toss something to trashcan whee
+[Dec 20] - Moonstar: Ranger lord Drazil has been tuned a bit. His brother teached him how to use arcane powers. Report typos,bugs
+[Jan  4] - Moonstar: Martial artist skill Sky strike was down tuned. This will affect more on highbies so newbies don't worry about this.
+[Jan  8] - Nalle: Finger now only shows the highest ranks of guilds, but also creation dates (post 2004).
+[Jan 10] - Nalle: Kuaffel is now known as Balrog.
+[Jan 11] - Jenny: Warlock guild is closed, don't whine invites
+[Jan 12] - Rag: You should now be able to train in some guilds when your background is over
+[Jan 12] - Rag: Weapons with special hits should now work if wielded in left hand. Fully effective on boot.
+[Jan 13] - Nalle: Ffok was removed for robotting. Have a nice day.
+[Jan 13] - Moonstar: You cannot force boxes with knuckles anymore. Also I added new command in knuckles. Works after getting new knuckles from Rhee. Report bugs/typos
+[Jan 15] - Astarel: updatet guilds-command. Report all bugs/typos to me.
+[Jan 17] - Celtron: Checked damage on martial artist skills. Final result negotiable.
+[Jan 17] - Astarel: Downtuned Psionicists a bit.
+[Jan 17] - Celtron: Added level limit to wearable equipment. Level 60 characters are able to wear any eq in the game.
+[Aug  1] - Celtron: Mud clock went a bit nuts. Should be fixed after boot.
+[Jan 25] - Celtron: Added call angel skill to paladin guild. Not entirely finished though.
+[Jan 25] - Celtron: updated angel. it flees now more quickly. berserk is not meant to be used with it though.
+[Jan 26] - Celtron: fixed guild selection room's info-command.
+[Jan 30] - Nalle: Added 'party report', functional upon the creation of a new party.
+[Jan 31] - Nalle: Increased the 'last' size of channels to 40, it is now also possible to issue the last command with an argument, ie 'last 4' to see the last 4 messages. Have not tested this extensively so let me know via mail if it bugs.
+[Feb  1] - Rag: Monsters shouldn't be able to break their weapons now. Fully effective on boot.
+[Feb  1] - Rag: Added colored hp/sp/ep to prompt. See help prompt, effective on quit and re-enter if you see this info live
+[Feb  3] - Astarel: Poor Khaland wants more money and increased cost of his services.
+[Feb  3] - Rag: Added a skill to necromancers which will probably allow some partying for them. Report bugs to me!
+[Feb  4] - Walla: veron was banned 14d for botting, have a nice day
+[Feb  4] - Jenny: You now need to be full level fighter to join the acrobat guild
+[Feb  4] - Jenny: I tuned clerics a bit, everyone who has some cleric levels should ask me for free reinc, if i see u are not asking ill force reinc with 10% cost, thanks
+[Feb  4] - Jenny: ill also reimburse your masteries if i can see what those are _before_ you reinc
+[Feb  4] - Jenny: Added three (3) new spells to adept clerics, report bugs etc to me
+[Feb  4] - Jenny: bleeding does now lot more damage than before
+[Feb  5] - Astarel: uptuned psionicists, martial artists and necromancers. Direct all whine to me if something bugs.
+[Feb 15] - Celtron: Reincarnation is now totally FREE of Xp cost.
+[Feb 19] - Nalle: Jenny is now mortal.
+[Feb 23] - Celtron: Removed the multiguild join restrictions. See help multiguilds, last lines.
+[Feb 25] - Rag: Removed the skill rounds from showing
+[Feb 27] - Moonstar: Fixed guild requirements on mage elemental guilds. You can now join with 5 _abjurer_ levels :)
+[Mar  1] - Celtron: Disabled multiguild system. You now get just a msg for non-recommanded guilds. (no game effect)
+[Mar  1] - Celtron: Modified the spell exs zzt rha.
+[Mar  7] - Moonstar: _Down_tuned spell magic bane.
+[Mar  8] - Walla: it is now considered illegal to forcefield area entrances
+[Mar  8] - Walla: EQ reimbursement policy has changed. help reimbursement for further info.
+[Mar  8] - Rag: All party members should now start fleeing when the leader starts to flee. Also added force follow to parties. Effective on quit & re-enter.
+[Mar  8] - Rag: I forgot, also fixed party report.
+[Mar  9] - Nalle: Muadib was removed. Have a nice QuestMud evening!
+[Mar  9] - Moonstar: Martial artists took some tune.
+[Mar 16] - Nalle: Golthar was banished for abusing necromancers.
+[Mar 18] - Moonstar: Mages mastery system and skill literacy where tuned.
+[Mar 18] - Nalle: 'room_long' and 'room_short' are valid entities for 'environment' after reboot.
+[Mar 23] - Celtron: Selling large amounts of items in shops is now more profitable. (effective after boot)
+[Mar 24] - Moonstar: Iwe was banished for abusing necromancers.
+[Mar 29] - Rag: Tanks in a party should now get hits more evenly.
+[Mar 31] - Celtron: A general tune has been made. (effective after boot)
+[Apr  1] - Celtron: April fool's. (balance will be restored after boot)
+[Apr  4] - Celtron: Modified monster properties by doubling hit points and the experience gained from a kill.
+[Apr  4] - Celtron: Modified spell exs zzt ils. Now it is possible to cast it only on players.
+[Apr  5] - Astarel: all castles were destroyed. I'll reimburse the money for the castle owners when the new castles are open for beta-test.
+[Apr  9] - Celtron: Downtuned spell exs zzt rha.
+[Apr 13] - Astarel: recoded bug-command, read help bug for information. Report all bug-command bugs to me.
+[Apr 14] - Moonstar: You can now see by typing 'map' where you are at the city. You are the * mark
+[Apr 15] - Astarel: Outworld might bug from now on..
+[Apr 15] - Astarel: alert over.. hopefully
+[Apr 16] - Moonstar: Recoded city map.
+[Apr 19] - Nalle: Gave some of the standard commands a facelift.
+[Apr 21] - Nalle: The walk command was changed slightly. If you have problems, quit/re-enter will fix them.
+[Apr 21] - Nalle: Made optimizations to the outworld map systems, please let me know if the colours seem wrong or other irregularities occur.
+[Apr 21] - Rag: It's now possible to count items in containers with the 'count' command
+[Apr 21] - Celtron: Removed the 350 statcap. Also removed the +allstats bonus from levels above 100.
+[Apr 28] - Nalle: Jenny was renamed Reaper.
+[Apr 28] - Celtron: Parrying with knuckles is not possible. Skill focus elements is disabled atm, stay tuned. (do not whine)
+[Apr 29] - Moonstar: Artists guild is closed. tell me if you are artist so I give you free reinc.
+[Apr 29] - Celtron: Lichs' unnormal casting abilities were fixed to normal.
+[May  3] - Astarel: removed jenny and celtest from the plaque
+[May  3] - Moonstar: Martial artists are opened again. Recoded somethings.
+[May  3] - Nalle: Floating discs now act differently when the player is in hell or linkdead.
+[May  7] - Celtron: Reborn characters will get a normal regen uptune on 9th or 10th day.
+[May  8] - Celtron: rebirthinfo has been rewritten. natural regen has been increased for reborn players.
+[May 14] - Moonstar: Fighters got some uptune. Skill strike,tremendous blow and camping where tuned
+[May 14] - Nalle: Nightscale was renamed to Jin, Maximus was renamed to Elric as a result of the opportunity of namechanges presented last week. No more namechanges will be made in the near future.
+[May 14] - Nalle: You can no longer send mudmail from the post office, just read your old messages.
+[May 14] - Nalle: Use the 'mail' command for mudmail henceforth. Report bugs to Nalle.
+[May 17] - Moonstar: Tuned some monsters. Don't whine.
+[May 24] - Celtron: Modified abjurer guild's joining requirements.
+[May 28] - Celtron: It is no longer possible to cheat masteries by chaining the heal all spell. Nothing else has been changed.
+[May 28] - Celtron: Partymembers do not disturb happy campers anymore. (skill camping)
+[May 31] - Rag: Mirror images are less effective if the target is in battle.
+[Jun  4] - Celtron: Updated world map is on the Questmud website. Behold!
+[Jun  7] - Moonstar: The skill Iron will was removed from the psionic guild. You can get freereinc from me.
+[Jun  8] - Rag: Masteries and quests are new cleared at rebirth.
+[Jun 17] - Celtron: We had a crash due a power failure. No need to worry.
+[Jun 30] - Celtron: PvP damage has been reduced. Pkilling should be a bit more challenging after boot.
+[Jul  1] - Rag: The skill 'compare' has been added to the Warriors guild
+[Jul  3] - Rag: The regen of monsters has been uptuned, affecting mainly big monsters
+[Jul  9] - Nalle: Per was renamed to Razor.
+[Jul 15] - Rag: You can now clear your wishes at the wish room for a price.
+[Jul 22] - Moonstar: Fixed an old bug which did not allowed to drink a new potion if the player dies.
+[Jul 25] - Rag: New ranks were added for extraordinary skills within a guild.
+[Aug  3] - Nalle: Dolan (level 100 wizard) was removed for prolonged inactivity. Have a  nice QuestMUD day!
+[Aug  3] - Rag: The creator of a party can now change the leader of the party whenever he wants to (effective on new parties)
+[Aug 16] - Celtron: Mud is open again. One day of no-save mode is taken.
+[Sep 02] - Celtron: Mud has been opened (more succesfully:). A 30% bonus to exp is given until the 6th September.
+[Sep 03] - Celtron: New hostname:  questmud.game-host.org
+[Sep 18] - Moonstar: Updated skill sky strike and made some new formulas. Your weapon and masteries will affect now more on damage. Also the player who has the last rank in the guild now gets new weapons! (Your masteries _will_ affect on this too). And made one new potion for sale to potion shop located at city Asgroth. Tell me if you think that something should be different.
+[Sep 19] - Moonstar: Tuned skill duration on sky strike. Thanks to someone for rising skill speed.
+[Sep 19] - Moonstar: Elf valley has been closed for repairs.
+[Sep 23] - Celtron: Reaper and Bloodstorm wished to start the game from very beginning. Wish them luck!
+[Sep 25] - Rag: Parties should no longer bug if you do a lot of exp (effective on you next party)
+[Sep 27] - Moonstar: Elf valley opened again. Made some chances to virtual map.
+[Oct 03] - Moonstar: The dark elf city guards got the blessing of Moonstar and they now fight even harder to protect their city.
+[Oct 04] - Moonstar: Added new message in sky strike (Only when deal real damage) and fixed some nice feature in skill claws strike. report typos :P
+[Oct 05] - Moonstar: Exp needed for rebirth were uptuned. Type help rebirth for more information.
+[Oct 06] - Rag: 'Seal wounds' -skill was downtuned. Have a nice day!
+[Oct 06] - Nalle: Merak was reduced to a mortal state due to inactivity.
+[Oct 07] - Rag: Strong monsters were uptuned. If some monsters seem too tough after this tune, mail their creators or me.
+[Oct 07] - Rag: I downtuned eq monsters' hpregen, uptuned elemental mastery gaining with abjuration spells and modified mage masteries so that you can't gain them if your offensive boost is too low. (Blame Reaper for the inform flood!)
+[Oct 07] - Celtron: Skill hiking has been tuned.
+[Oct 08] - Moonstar: Guild lead items got some nice uptune!
+[Oct 09] - Moonstar: You cannot no longer cast force summon with staff of teleportation.
+[Oct 11] - Moonstar: And again guess what was tuned! (Seal wounds is the correct answer)
+[Oct 13] - Astarel: expplaque not working..
+[Oct 13] - Astarel: plaqueroom is a dangerous place..
+[Oct 13] - Astarel: exp-plaque is working again and the plaqueroom is again a safe place to idle.
+[Oct 14] - Rag: Abilities are in the game! Go check the ability room in the city. More help will follow (I'm busy atm). Hug Rag for coding, Reaper for ideas
+[Oct 14] - Rag: Ok, abilities are no long available for training, something bugs and I have to go
+[Oct 15] - Rag: Abilities work again
+[Oct 15] - Rag: You receive a 20% bonus to exprates for the weekend because ability training had a bug that caused loss of exp
+[Oct 19] - Rag: Skills were too fast. I fixed their durations. (Consider yourself downtuned!)
+[Nov 02] - Rag: You can't attack players with tamed animals anymore.
+[Dec 19] - Celtron: Jin & Elric are aiming for rebirth 3.
+[Jan 06] - Astarel: Banned Koff for two weeks, Reason: Cheating for personal benefit (botting)
+[Jan 13] - Rag: Potions of amazing health no longer stack with each other.
+[Feb 09] - Moonstar: Sky strike and claws storm were downtuned
+[May 02] - Moonstar: Due the fact that there are no players I have decided to remove my areas from game. It was fun to be a part of this mud but now its time to move forward. Yours, Moonstar.
+[Jun 04] - Nalle: Moonstar was removed. Have a nice life.
+[Oct 16] - Rag: You now get the right knuckles from Rhee. A bug caused it to give only white knuckles.
+[Oct 22] - Celtron: Tremendous blow now uses less ep to use.
+[Oct 24] - Garath: You don't need to use 'at tgt' on offensive skills anymore.
+[Oct 24] - Celtron: Sky strikes ep cost is random. Do not worry. The average is the same than before.
+[Oct 27] - Celtron: Charge rush skill has been upgraded. Feel free to try!
+[Oct 29] - Celtron: magic bane is dispelladble by remove prots spell.
+[Oct 29] - Celtron: Remove prots spell is now called purge and it removes all magical effects from the target.
+[Oct 30] - Celtron: Spell 'purge' now works on anticounter, antireflect and manashield.
+[Nov 01] - Celtron: Skill horde defence cannot anymore be trained in guild.
+[Nov 02] - Celtron: Updated rebirth bonuses. Check rebirthinfo for details. Change should bring more balance to races by making rarely played races more attractive.
+[Dec 10] - Celtron: Use <skill> no longer produces an error message in combat if you make a typo with the skillname.
+[Mar 01] - Celtron: Additional boot for maintenance.
+[May 04] - Celtron: Due to HD failure, had to restore 3 week old backups.
+[Jun 13] - Celtron: Doubled the experience gain from aging.
+[Jun 28] - Celtron: Hungry ghost bug fixed.
+[Jan 04] - Celtron: Kaappi renamed as Alardolath.
+[Jan 04] - Celtron: You no longer can vuln yourself.
+[Feb 22] - Walla: Send me a list of lost eq either via tell,mudmail or e-mail and I'll see what I can do about the thing.
+[May 06] - Walla: torspo banned 30d for repeated botting, have a nice day
+[May 07] - Walla: Hellsing banned 24h for botting, have a nice day
+[Feb 20] - Yodin: parrying hit consumes mirror image. thank you.
+[Feb 20] - Yodin: tuned sky strike ep cost. Have a nice day
+[Oct 09] - Kaappi: Tweaked previously tuned hp- and spmax readings.
+[Feb 02] - Kaappi: "clear wishes"-command fixed.
+[Feb 09] - Garath: Terror has been jailed for unknown time. Reason: Cheating
+[Oct 14] - Garath: Ntg and Atw has been caught in botting, shame on them. -.-
+[Dec 16] - Garath: Reduced the spam amount of Paladin Angel. Nothing else was tuned at this time. Only the elusive spellcasting was turned on :)
+[Dec 19] - Garath: To wish you a merry christmas, the mobs will have double experience until the 25th of spawndate. Effective from resets/reboots.
+[Dec 30] - Garath: Valter has been banished for two (2) days for continuing botting after several warnings.
+[Jan 03] - Garath: Torspo has been banned once again for botting without even covering it. For good old times, only 15 days given this time. Next one will be much more harsh. (Oh, and also all exps gained cleared and items donated to arma :) )
+[Jan 13] - Garath: There has been evil rumors about 'Agility' skill being broken. After re-evaluation this isn't the case. 'Agility' skill is working as intended.
+[Jan 28] - Garath: Laeh has been banished for pkilling intentionally innocent players (multiple charges)
+[Mar 14] - Garath: Devil has been found on minor botting and got his exp gained resetted.
+[Mar 17] - Garath: Devil has been banished because of 'Repeative botting'. Shame on you...

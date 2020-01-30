@@ -1,0 +1,292 @@
+wizards/kuaffel/workroom.c line 1 :syntax error
+wizards/kuaffel/eval_file.c line 2 :Illegal character (hex 2e) '.'
+wizards/kuaffel/eval_file.c line 2 :syntax error
+wizards/kuaffel/eval_file.c line 2 :syntax error
+wizards/kuaffel/eval_file.c line 2 :Illegal character (hex 2e) '.'
+wizards/kuaffel/eval_file.c line 2 :syntax error
+wizards/kuaffel/eval_file.c line 2 :syntax error
+wizards/kuaffel/eval_file.c line 2 :Illegal character (hex 2e) '.'
+wizards/kuaffel/test.c line 1 :syntax error
+wizards/kuaffel/test.c line 1 :syntax error
+wizards/kuaffel/test.c line 1 :syntax error
+wizards/kuaffel/workroom.c line 22 :syntax error
+wizards/kuaffel/workroom.c line 22 :syntax error
+wizards/kuaffel/workroom.c line 22 :syntax error
+wizards/kuaffel/workroom.c line 22 :syntax error
+wizards/kuaffel/workroom.c line 22 :syntax error
+wizards/kuaffel/workroom.c line 22 :syntax error
+wizards/kuaffel/workroom.c line 22 :syntax error
+wizards/kuaffel/workroom.c line 22 :syntax error
+wizards/kuaffel/workroom.c line 23 :syntax error
+wizards/kuaffel/workroom.c line 23 :syntax error
+wizards/kuaffel/workroom.c line 23 :syntax error
+wizards/kuaffel/testroom.c line 23 :syntax error
+wizards/kuaffel/testroom.c line 15 :syntax error
+wizards/kuaffel/testroom.c line 23 :syntax error
+wizards/kuaffel/test/cmd_where.c line 8 :Bad argument 1 type to efun destruct()
+wizards/kuaffel/testroom.c line 22 :Variable i not declared !
+wizards/kuaffel/testroom.c line 22 :Variable i not declared !
+wizards/kuaffel/testroom.c line 22 :Variable i not declared !
+wizards/kuaffel/testroom.c line 23 :Variable i not declared !
+wizards/kuaffel/testroom.c line 23 :Variable i not declared !
+wizards/kuaffel/testroom.c line 22 :Variable i not declared !
+wizards/kuaffel/testroom.c line 22 :Variable i not declared !
+wizards/kuaffel/testroom.c line 22 :Variable i not declared !
+wizards/kuaffel/testroom.c line 23 :Variable i not declared !
+wizards/kuaffel/testroom.c line 23 :Variable i not declared !
+wizards/kuaffel/testroom.c line 22 :Variable i not declared !
+wizards/kuaffel/testroom.c line 22 :Variable i not declared !
+wizards/kuaffel/testroom.c line 22 :Variable i not declared !
+wizards/kuaffel/testroom.c line 23 :Variable i not declared !
+wizards/kuaffel/testroom.c line 23 :Variable i not declared !
+wizards/kuaffel/testroom.c line 22 :Variable i not declared !
+wizards/kuaffel/testroom.c line 22 :Variable i not declared !
+wizards/kuaffel/testroom.c line 22 :Variable i not declared !
+wizards/kuaffel/testroom.c line 23 :Variable i not declared !
+wizards/kuaffel/testroom.c line 23 :Variable i not declared !
+wizards/kuaffel/testroom.c line 22 :Variable i not declared !
+wizards/kuaffel/testroom.c line 22 :Variable i not declared !
+wizards/kuaffel/testroom.c line 22 :Variable i not declared !
+wizards/kuaffel/testroom.c line 23 :Variable i not declared !
+wizards/kuaffel/testroom.c line 23 :Variable i not declared !
+wizards/kuaffel/testroom.c line 22 :Variable i not declared !
+wizards/kuaffel/testroom.c line 22 :Variable i not declared !
+wizards/kuaffel/testroom.c line 22 :Variable i not declared !
+wizards/kuaffel/testroom.c line 23 :Variable i not declared !
+wizards/kuaffel/testroom.c line 23 :Variable i not declared !
+wizards/kuaffel/testroom.c line 22 :Variable i not declared !
+wizards/kuaffel/testroom.c line 22 :Variable i not declared !
+wizards/kuaffel/testroom.c line 22 :Variable i not declared !
+wizards/kuaffel/testroom.c line 23 :Variable i not declared !
+wizards/kuaffel/testroom.c line 23 :Variable i not declared !
+wizards/kuaffel/testroom.c line 22 :Variable i not declared !
+wizards/kuaffel/testroom.c line 22 :Variable i not declared !
+wizards/kuaffel/testroom.c line 22 :Variable i not declared !
+wizards/kuaffel/testroom.c line 23 :Variable i not declared !
+wizards/kuaffel/testroom.c line 23 :Variable i not declared !
+wizards/kuaffel/test.c line 8 :Bad argument 1 type to efun destruct()
+wizards/kuaffel/test2.c line 8 :Bad argument 1 type to efun destruct()
+wizards/kuaffel/test2.c line 1 :syntax error
+wizards/kuaffel/test2.c line 1 :syntax error
+wizards/kuaffel/test2.c line 1 :syntax error
+wizards/kuaffel/test2.c line 1 :syntax error
+wizards/kuaffel/eval_file.c line 2 :Bad argument 1 type to efun destruct()
+wizards/kuaffel/test2.c line 1 :syntax error
+wizards/kuaffel/test2.c line 1 :syntax error
+wizards/kuaffel/testroom.c line 22 :Variable i not declared !
+wizards/kuaffel/testroom.c line 22 :Variable i not declared !
+wizards/kuaffel/testroom.c line 22 :Variable i not declared !
+wizards/kuaffel/testroom.c line 23 :Variable i not declared !
+wizards/kuaffel/testroom.c line 23 :Variable i not declared !
+wizards/kuaffel/testroom.c line 22 :Variable i not declared !
+wizards/kuaffel/testroom.c line 22 :Variable i not declared !
+wizards/kuaffel/testroom.c line 22 :Variable i not declared !
+wizards/kuaffel/testroom.c line 23 :Variable i not declared !
+wizards/kuaffel/testroom.c line 23 :Variable i not declared !
+wizards/kuaffel/testroom.c line 22 :Variable i not declared !
+wizards/kuaffel/testroom.c line 22 :Variable i not declared !
+wizards/kuaffel/testroom.c line 22 :Variable i not declared !
+wizards/kuaffel/testroom.c line 23 :Variable i not declared !
+wizards/kuaffel/testroom.c line 23 :Variable i not declared !
+wizards/kuaffel/eval_file.c line 2 :syntax error
+wizards/kuaffel/eval_file.c line 2 :Bad assignment. Rhs: "string "
+wizards/kuaffel/eval_file.c line 2 :Variable errlog not declared !
+wizards/kuaffel/testroom.c line 21 :syntax error
+wizards/kuaffel/testroom.c line 22 :Variable all not declared !
+wizards/kuaffel/testroom.c line 24 :Variable all not declared !
+wizards/kuaffel/testroom.c line 25 :Variable all not declared !
+wizards/kuaffel/testroom.c line 25 :Variable all not declared !
+wizards/kuaffel/testroom.c line 21 :syntax error
+wizards/kuaffel/testroom.c line 22 :Variable all not declared !
+wizards/kuaffel/testroom.c line 24 :Variable all not declared !
+wizards/kuaffel/testroom.c line 25 :Variable all not declared !
+wizards/kuaffel/testroom.c line 25 :Variable all not declared !
+wizards/kuaffel/test/cmd_where.c line 8 :Bad argument 1 type to efun destruct()
+wizards/kuaffel/test/cmd_where.c line 8 :Bad argument 1 type to efun destruct()
+wizards/kuaffel/test/cmd_where.c line 8 :Bad argument 1 type to efun destruct()
+wizards/kuaffel/test/cmd_where.c line 8 :Bad argument 1 type to efun destruct()
+wizards/kuaffel/test/cmd_where.c line 8 :Bad argument 1 type to efun destruct()
+wizards/kuaffel/testroom.c line 21 :syntax error
+wizards/kuaffel/testroom.c line 22 :Variable all not declared !
+wizards/kuaffel/testroom.c line 24 :Variable all not declared !
+wizards/kuaffel/testroom.c line 25 :Variable all not declared !
+wizards/kuaffel/testroom.c line 25 :Variable all not declared !
+wizards/kuaffel/testroom.c line 26 :syntax error
+wizards/kuaffel/testroom.c line 27 :Variable all not declared !
+wizards/kuaffel/testroom.c line 31 :Variable all not declared !
+wizards/kuaffel/testroom.c line 33 :Variable all not declared !
+wizards/kuaffel/testroom.c line 33 :Variable all not declared !
+wizards/kuaffel/testroom.c line 26 :syntax error
+wizards/kuaffel/testroom.c line 27 :Variable all not declared !
+wizards/kuaffel/testroom.c line 31 :Variable all not declared !
+wizards/kuaffel/testroom.c line 33 :Variable all not declared !
+wizards/kuaffel/testroom.c line 33 :Variable all not declared !
+wizards/kuaffel/testroom.c line 26 :syntax error
+wizards/kuaffel/testroom.c line 28 :Variable all not declared !
+wizards/kuaffel/testroom.c line 32 :Variable all not declared !
+wizards/kuaffel/testroom.c line 34 :Variable all not declared !
+wizards/kuaffel/testroom.c line 34 :Variable all not declared !
+wizards/kuaffel/testroom.c line 26 :syntax error
+wizards/kuaffel/testroom.c line 28 :Variable all not declared !
+wizards/kuaffel/testroom.c line 32 :Variable all not declared !
+wizards/kuaffel/testroom.c line 34 :Variable all not declared !
+wizards/kuaffel/testroom.c line 34 :Variable all not declared !
+wizards/kuaffel/testroom.c line 26 :syntax error
+wizards/kuaffel/testroom.c line 28 :Variable all not declared !
+wizards/kuaffel/testroom.c line 32 :Variable all not declared !
+wizards/kuaffel/testroom.c line 34 :Variable all not declared !
+wizards/kuaffel/testroom.c line 34 :Variable all not declared !
+wizards/kuaffel/testroom.c line 26 :syntax error
+wizards/kuaffel/testroom.c line 28 :Variable all_users not declared !
+wizards/kuaffel/testroom.c line 32 :Variable all_users not declared !
+wizards/kuaffel/testroom.c line 34 :Variable all_users not declared !
+wizards/kuaffel/testroom.c line 34 :Variable all_users not declared !
+wizards/kuaffel/eval_file.c line 2 :Variable BOLD not declared !
+wizards/kuaffel/eval_file.c line 2 :Variable OFF not declared !
+wizards/kuaffel/eval_file.c line 2 :Missing leading " in #include
+wizards/kuaffel/test/cmd_where2.c line 7 :Variable BOLD not declared !
+wizards/kuaffel/test/cmd_where2.c line 7 :Variable BLUE not declared !
+wizards/kuaffel/test/cmd_where2.c line 7 :Variable RED not declared !
+wizards/kuaffel/test/cmd_where2.c line 7 :Variable OFF not declared !
+wizards/kuaffel/test/cmd_where2.c line 8 :Variable BLUE not declared !
+wizards/kuaffel/test/cmd_where2.c line 8 :Variable RED not declared !
+wizards/kuaffel/test/cmd_where2.c line 8 :Variable BOLD not declared !
+wizards/kuaffel/test/cmd_where2.c line 8 :Variable BLUE not declared !
+wizards/kuaffel/test/cmd_where2.c line 8 :Variable RED not declared !
+wizards/kuaffel/test/cmd_where2.c line 8 :Variable OFF not declared !
+wizards/kuaffel/test/cmd_where2.c line 8 :Variable BOLD not declared !
+wizards/kuaffel/test/cmd_where2.c line 8 :Variable BLUE not declared !
+wizards/kuaffel/test/cmd_where2.c line 8 :Variable RED not declared !
+wizards/kuaffel/test/cmd_where2.c line 8 :Variable OFF not declared !
+wizards/kuaffel/eval_file.c line 2 :Variable all not declared !
+wizards/kuaffel/eval_file.c line 2 :Variable i not declared !
+wizards/kuaffel/eval_file.c line 2 :Variable all not declared !
+wizards/kuaffel/eval_file.c line 2 :Variable i not declared !
+wizards/kuaffel/eval_file.c line 2 :Variable i not declared !
+wizards/kuaffel/eval_file.c line 2 :Variable i not declared !
+wizards/kuaffel/testroom.c line 36 :Variable BLUE not declared !
+wizards/kuaffel/testroom.c line 36 :Variable RED not declared !
+wizards/kuaffel/eval_file.c line 2 :Variable BOLD not declared !
+wizards/kuaffel/eval_file.c line 2 :Variable BLUE_F not declared !
+wizards/kuaffel/eval_file.c line 2 :Variable OFF not declared !
+wizards/kuaffel/eval_file.c line 2 :Variable BLUE_F not declared !
+wizards/kuaffel/eval_file.c line 2 :Variable OFF not declared !
+wizards/kuaffel/eval_file.c line 2 :Undefined function get_wiz_short
+wizards/kuaffel/test/cmd_where3.c line 15 :Variable tmp not declared !
+wizards/kuaffel/test/cmd_where3.c line 17 :syntax error
+wizards/kuaffel/test/cmd_where3.c line 21 :Illegal LHS
+wizards/kuaffel/test/cmd_where3.c line 21 :syntax error
+wizards/kuaffel/test/cmd_where3.c line 18 :syntax error
+wizards/kuaffel/test/cmd_where3.c line 22 :Illegal LHS
+wizards/kuaffel/test/cmd_where3.c line 22 :syntax error
+wizards/kuaffel/test/cmd_where3.c line 21 :syntax error
+wizards/kuaffel/test/cmd_where3.c line 22 :Illegal LHS
+wizards/kuaffel/test/cmd_where3.c line 22 :syntax error
+wizards/kuaffel/test/cmd_where3.c line 21 :syntax error
+wizards/kuaffel/test/cmd_where3.c line 21 :syntax error
+wizards/kuaffel/eval_file.c line 2 :syntax error
+wizards/kuaffel/test/cmd_where3.c line 8 :Variable Players not declared !
+wizards/kuaffel/test/cmd_where3.c line 8 :Variable Location not declared !
+wizards/kuaffel/test/cmd_where3.c line 5 :syntax error
+wizards/kuaffel/test/cmd_where3.c line 5 :syntax error
+wizards/kuaffel/eval_file.c line 2 :Illegal character (hex 2e) '.'
+wizards/kuaffel/eval_file.c line 2 :syntax error
+wizards/kuaffel/eval_file.c line 2 :Undefined function clones
+wizards/kuaffel/test/cmd_where5.c line 18 :Bad argument 3 type to efun sort_array()
+wizards/kuaffel/test/cmd_where5.c line 21 :Variable BOLD not declared !
+wizards/kuaffel/test/cmd_where5.c line 21 :Variable BLUE_F not declared !
+wizards/kuaffel/test/cmd_where5.c line 21 :Variable CYAN_F not declared !
+wizards/kuaffel/test/cmd_where5.c line 21 :Variable OFF not declared !
+wizards/kuaffel/test/cmd_where5.c line 19 :Bad argument 3 type to efun sort_array()
+wizards/kuaffel/eval_file.c line 2 :syntax error
+wizards/kuaffel/test/cmd_where5.c line 16 :Bad assignment. Rhs: "string "
+wizards/kuaffel/test/cmd_where5.c line 17 :Bad assignment. Rhs: "string "
+wizards/kuaffel/test/cmd_where5.c line 20 :Bad argument 3 type to efun sort_array()
+wizards/kuaffel/test/cmd_where5.c line 12 :Bad assignment. Rhs: "string "
+wizards/kuaffel/test/cmd_where5.c line 13 :Bad assignment. Rhs: "string "
+wizards/kuaffel/test/cmd_where5.c line 4 :syntax error
+wizards/kuaffel/eval_file.c line 2 :syntax error
+wizards/kuaffel/eval_file.c line 2 :syntax error
+wizards/kuaffel/eval_file.c line 2 :syntax error
+wizards/kuaffel/eval_file.c line 2 :syntax error
+wizards/kuaffel/eval_file.c line 2 :syntax error
+wizards/kuaffel/test/test.c line 16 :Variable x not declared !
+wizards/kuaffel/test/test.c line 16 :Variable x not declared !
+wizards/kuaffel/test/test.c line 16 :Variable x not declared !
+wizards/kuaffel/test/test.c line 17 :Variable x not declared !
+wizards/kuaffel/test/test.c line 17 :Variable x not declared !
+wizards/kuaffel/test/test.c line 18 :Variable x not declared !
+wizards/kuaffel/test/test.c line 18 :Bad assignment. Rhs: "int "
+wizards/kuaffel/test/test.c line 20 :Bad assignment. Rhs: "string "
+wizards/kuaffel/test/test2.c line 18 :Bad assignment. Rhs: "int "
+wizards/kuaffel/test/test2.c line 20 :Bad assignment. Rhs: "string "
+wizards/kuaffel/test/test3.c line 20 :Bad assignment. Rhs: "string "
+wizards/kuaffel/test/test3.c line 21 :Bad assignment. Rhs: "string "
+wizards/kuaffel/test/test.c line 20 :Bad assignment. Rhs: "string "
+wizards/kuaffel/test/test.c line 21 :Bad assignment. Rhs: "string "
+wizards/kuaffel/test/test5.c line 9 :syntax error
+wizards/kuaffel/test/test5.c line 13 :Illegal LHS
+wizards/kuaffel/test/test5.c line 13 :syntax error
+wizards/kuaffel/test/test5.c line 14 :Illegal LHS
+wizards/kuaffel/test/test5.c line 16 :syntax error
+wizards/kuaffel/test/cmd_where_sort_attempt3.c line 10 :syntax error
+wizards/kuaffel/test/cmd_where_sort_attempt3.c line 12 :Illegal LHS
+wizards/kuaffel/test/cmd_where_sort_attempt3.c line 15 :Illegal LHS
+wizards/kuaffel/test/cmd_where_sort_attempt3.c line 15 :syntax error
+wizards/kuaffel/test/cmd_where_sort_attempt3.c line 17 :syntax error
+wizards/kuaffel/test/cmd_where_sort_attempt3.c line 20 :Illegal LHS
+wizards/kuaffel/test/cmd_where_sort_attempt3.c line 17 :syntax error
+wizards/kuaffel/test/cmd_where_sort_attempt3.c line 20 :Illegal LHS
+wizards/kuaffel/test/cmd_where_sort_attempt3.c line 22 :syntax error
+wizards/kuaffel/test/cmd_where_sort_attempt3.c line 22 :Illegal LHS
+wizards/kuaffel/test/cmd_where_sort_attempt3.c line 22 :Bad argument 1 type to efun sizeof()
+wizards/kuaffel/test/cmd_where_sort_attempt3.c line 22 :syntax error
+wizards/kuaffel/test/cmd_where_sort_attempt3.c line 17 :syntax error
+wizards/kuaffel/test/cmd_where_sort_attempt3.c line 20 :Illegal LHS
+wizards/kuaffel/test/cmd_where_sort_attempt3.c line 22 :syntax error
+wizards/kuaffel/test/cmd_where_sort_attempt3.c line 22 :Illegal LHS
+wizards/kuaffel/test/cmd_where_sort_attempt3.c line 22 :Bad argument 1 type to efun sizeof()
+wizards/kuaffel/test/cmd_where_sort_attempt3.c line 22 :syntax error
+wizards/kuaffel/test/cmd_where_sort_attempt3.c line 18 :syntax error
+wizards/kuaffel/test/cmd_where_sort_attempt3.c line 21 :Illegal LHS
+wizards/kuaffel/test/cmd_where_sort_attempt3.c line 23 :syntax error
+wizards/kuaffel/test/cmd_where_sort_attempt3.c line 23 :Illegal LHS
+wizards/kuaffel/test/cmd_where_sort_attempt3.c line 23 :syntax error
+wizards/kuaffel/test/cmd_where_sort_attempt3.c line 18 :syntax error
+wizards/kuaffel/test/cmd_where_sort_attempt3.c line 21 :Illegal LHS
+wizards/kuaffel/test/cmd_where_sort_attempt3.c line 23 :syntax error
+wizards/kuaffel/test/cmd_where_sort_attempt3.c line 23 :Illegal LHS
+wizards/kuaffel/test/cmd_where_sort_attempt3.c line 23 :syntax error
+wizards/kuaffel/test/cmd_where_sort_attempt3.c line 18 :syntax error
+wizards/kuaffel/test/cmd_where_sort_attempt3.c line 21 :Illegal LHS
+wizards/kuaffel/test/cmd_where_sort_attempt3.c line 23 :syntax error
+wizards/kuaffel/test/cmd_where_sort_attempt3.c line 23 :Illegal LHS
+wizards/kuaffel/test/cmd_where_sort_attempt3.c line 23 :syntax error
+wizards/kuaffel/test/cmd_where_sort_attempt3.c line 18 :syntax error
+wizards/kuaffel/test/cmd_where_sort_attempt3.c line 21 :Illegal LHS
+wizards/kuaffel/test/cmd_where_sort_attempt3.c line 23 :syntax error
+wizards/kuaffel/test/cmd_where_sort_attempt3.c line 23 :Illegal LHS
+wizards/kuaffel/test/cmd_where_sort_attempt3.c line 23 :syntax error
+wizards/kuaffel/test/grep2.c line 10 :Variable exit not declared !
+wizards/kuaffel/test/grep2.c line 11 :Variable exit not declared !
+wizards/kuaffel/test/grep2.c line 18 :syntax error
+wizards/kuaffel/test/grep2.c line 21 :Illegal LHS
+wizards/kuaffel/test/grep2.c line 21 :syntax error
+wizards/kuaffel/test/grep2.c line 22 :Illegal LHS
+wizards/kuaffel/test/grep2.c line 18 :syntax error
+wizards/kuaffel/test/grep2.c line 21 :Illegal LHS
+wizards/kuaffel/test/grep2.c line 21 :syntax error
+wizards/kuaffel/test/grep2.c line 22 :Illegal LHS
+wizards/kuaffel/test/grep2.c line 22 :syntax error
+wizards/kuaffel/test/grep2.c line 25 :syntax error
+wizards/kuaffel/test/grep2.c line 18 :syntax error
+wizards/kuaffel/test/grep2.c line 21 :Illegal LHS
+wizards/kuaffel/test/grep2.c line 21 :syntax error
+wizards/kuaffel/test/grep2.c line 22 :Illegal LHS
+wizards/kuaffel/test/grep2.c line 22 :syntax error
+wizards/kuaffel/test/grep2.c line 25 :syntax error
+wizards/kuaffel/test/grep3.c line 21 :Variable strs not declared !
+wizards/kuaffel/eval_file.c line 2 :syntax error
+wizards/kuaffel/eval_file.c line 2 :syntax error
+wizards/kuaffel/test/grepd.c line 16 :Variable args not declared !
+wizards/kuaffel/test/grepd.c line 24 :Variable search not declared !

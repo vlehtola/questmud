@@ -1,0 +1,23 @@
+2010.06.17 13:06:51 Seeding PRNG from /dev/urandom.
+2010.06.17 13:06:51 LDMud 3.3.719 (Build 2618) (stable)
+2010.06.17 13:06:51 Attempting to start erq '/home/quest/mud/bin/erq'.
+2010.06.17 13:06:51 Failed to start erq.
+2010.06.17 13:06:51 Hostname 'questmud.no-ip.org' address '127.0.0.1'
+Loading init file /obj/init_file
+Preloading: obj/living 0.00
+Preloading: obj/monster 0.00
+Preloading: obj/weapon 0.00
+Preloading: obj/armour 0.00
+Preloading: obj/timer 0.00
+Preloading: obj/wizlist 0.00
+Preloading: guilds/obj/skillfun 0.00
+Preloading: room/banish_d2010.06.17 13:06:51 Error in master_ob->preload()
+Preloading: room/house_shop_d 0.00
+Preloading: daemons/explist2010.06.17 13:06:51 Error in master_ob->preload()
+Preloading: daemons/channel_d2010.06.17 13:06:51 Error in master_ob->preload()
+Preloading: std/user_meter 0.11
+Preloading: daemons/lotto2010.06.17 13:06:51 Error in master_ob->preload()
+Preloading: room/out/outmap2010.06.17 13:06:51 Error in master_ob->preload()
+Preloading: daemons/mastery_d2010.06.17 13:06:51 Error in master_ob->preload()
+Preloading: daemons/questlist 0.01
+Preloading: wizards/moonstar/muut/map 0.00

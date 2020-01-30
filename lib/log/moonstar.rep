@@ -1,0 +1,344 @@
+/wizards/moonstar/areas/wasteland/room41 Typo Nalle
+skeletoni
+/wizards/moonstar/areas/wasteland/room41 Typo Nalle
+skeletoni Fire burn inside the empty chest -> A fire burns inside the chest.
+/wizards/moonstar/areas/wasteland/room40 Typo Walla
+no capital letter as first letter in short desc in many rooms
+/wizards/moonstar/areas/wasteland/room12 Typo Rag
+The land is dust --> The land is dusty ?
+/wizards/moonstar/areas/wasteland/room62 Typo Walla
+undead knight -> Another hand helds a rusty... holds?
+/wizards/moonstar/areas/wasteland/cave8 Typo Walla
+bonedragon Massive bones are stick together... stuck? You fell its magic... You feel?
+/wizards/moonstar/areas/wasteland/room16 Typo Rag
+the snake's desc
+/wizards/moonstar/areas/forest/town/town2 Typo Rag
+and the town seems almost abandoned. lights. The road, smells burned. There are no.
+/wizards/moonstar/areas/forest/town/town4 Typo Rag
+nearbye, nearby
+/wizards/moonstar/areas/forest/f_room7 Typo Rag
+as drop an occasional
+/wizards/moonstar/areas/wasteland/torni/room2 Typo Nalle
+is huge blue carpet > is a huge blue carpet
+/wizards/moonstar/areas/wasteland/fortress/gate Typo Jenny
+Madkpulls the lever and the gate opens.
+/wizards/moonstar/areas/forest/f_room2 Typo Oaycrin
+The block out almost all sunlight from above
+/wizards/moonstar/areas/forest/entrance Bug Jenny
+look at fox --> He is an animal. ( gender to IT! )
+/wizards/moonstar/areas/forest/f_room9 Bug Jenny
+same thing on big fox
+/wizards/moonstar/areas/forest/f_room16 Bug Jenny
+and bear
+/wizards/moonstar/areas/forest/town/house2 Bug Jenny
+citizen of town Giadi --> put set_race before set_level so race will affect the stats of the mob
+/wizards/moonstar/areas/forest/town/town1 Typo Jenny
+You see black road ahead. -> you see A black road ahead.
+/wizards/moonstar/areas/forest/town/mayorhouse Bug Jenny
+set_race before set_level to mayor
+/wizards/moonstar/areas/sewers/s12 Typo Jenny
+Marx long desc Hi is -> He is, with long -> with a long, someking of -> somekind of
+/wizards/moonstar/areas/sewers/s12 Typo Jenny
+marx -> eyeglasses ei eyeclasses voi jumalauta =D
+/wizards/moonstar/areas/sewers/s12 Typo Jenny
+marxin platemail, 2 pistetta lopussa niinku melkein jokases sewerin equs, marxin vaimon nimi oli Eve eika Martha voi huoh
+/wizards/moonstar/areas/sewers/s12 Typo Jenny
+ei jeesus leggineiden ja bootsie descit o taysi samat paitti et leggings ja boots sana vaihettu
+/wizards/moonstar/areas/sewers/s12 Typo Jenny
+marxin ringi vois olla wedding ring eika weding ring
+/wizards/moonstar/areas/sewers/s12 Typo Jenny
+joka vitun huoneessa runing -> running
+/wizards/moonstar/areas/sewers/s12 Typo Jenny
+ja joka vitu huonees afwul -> awful :D
+/wizards/moonstar/areas/sewers/s16 Typo Jenny
+naa su rottas long desci vois alkaa sanalla A small eika Small
+/wizards/moonstar/areas/sewers/s16 Typo Jenny
+ja siihe rota long descii toka kerraku viittaat rat sanaa ni laitappa The rat
+/wizards/moonstar/areas/sewers/s16 Typo Jenny
+rottas vois olla it gendereit ei he
+/wizards/moonstar/areas/sewers/s18 Typo Jenny
+There is also a small sign -> lisaa loppuu vaik here sana ja piste peraa plz
+/wizards/moonstar/areas/sewers/s18 Typo Jenny
+There are small ladders ladders leading upwards. toine ladders sana pois
+/wizards/moonstar/areas/sewers/entrance Typo Jenny
+la campfire -> small -> A small
+/wizards/moonstar/areas/sewers/s12 Typo Jenny
+A former prison guard is standing here pitas ol
+/wizards/moonstar/areas/sewers/entrance Typo Jenny
+OLD MAN JOKA O NAINE =D=D=D=D
+/wizards/moonstar/areas/wasteland/torni/room22 Typo Jenny
+is goming out from the pool.
+/wizards/moonstar/areas/forest/tow3 Typo Jenny
+Strong man with huge great axe on his right hand. -> a huge great...
+/wizards/moonstar/areas/forest/tow3 Typo Jenny
+He is wearing normal ranger suit and a bright belt. -> a normal
+/wizards/moonstar/areas/forest/tow3 Typo Jenny
+He has deep red eyes and he has long red hair. -> He has deep red eyes and a long red hair.
+/wizards/moonstar/areas/forest/tow3 Typo Jenny
+There are stairs to down. -> stairs leading downwards
+/wizards/moonstar/areas/forest/tow2 Typo Jenny
+odd voices can be heard -> Odd voices can be heard
+/wizards/moonstar/areas/forest/tow3 Typo Jenny
+Two smaller corridors are to the west and east. -> are leading to the west and east
+/wizards/moonstar/areas/mosnotar/forest/west/for13 Typo Jenny
+at the moment but -> moment, but
+/wizards/moonstar/areas/mosnotar/forest/entrance Typo Jenny
+sizzling ringis 2 pistetta lopus
+/wizards/moonstar/areas/mosnotar/forest/hut Typo Jenny
+floweris 1 piste iha omalla rivillaa lopus
+/wizards/moonstar/areas/mosnotar/forest/west2 Idea Jenny
+strm could stun also
+/wizards/moonstar/areas/mosnotar/forest/up2 Typo Jenny
+ikirassa toi piste ei oo kohdillaa longis
+/wizards/moonstar/areas/mosnotar/forest/up2 Typo Jenny
+disturped -> disturbed ikiran longis
+/wizards/moonstar/areas/mosnotar/forest/up2 Bug Jenny
+party report bugaa aina booti jalkee jos kukaa ei kirjota normaalii reporttii eka
+/wizards/moonstar/areas/forest/town/town9 Bug Nightscale
+help mastery Dangerous Earth --> No such mastery.
+/wizards/moonstar/areas/valley/great_forest#11763 Idea Jenny
+vois olla kiva jos vois countata discin sisastaki kamaa
+/wizards/moonstar/areas/valley/great_forest#5648 Idea Jenny
+enhanced peer skill
+/wizards/moonstar/areas/valley/great_forest#6699 Idea Reaper
+replenish sp spell for abjurers
+/wizards/moonstar/areas/valley/great_forest#6699 Idea Reaper
+catfolk race should get recoded check its dex and stuff, just a thought
+/wizards/moonstar/areas/valley/great_forest#1776 Typo Granny
+old forest full on ancient trees should be full of ancient trees.
+/wizards/moonstar/areas/asgroth/temple/t Typo Duncan
+in the top of = on the top of
+/wizards/moonstar/areas/asgroth/temple/t Typo Duncan
+made from = of
+/wizards/moonstar/areas/asgroth/temple/t Typo Duncan
+can be seen over you = above you
+/wizards/moonstar/areas/asgroth/rooms/park#42415 Typo Ahma
+*A* beautiful ... Asgroth *spend* their.. [There is also some small decorating the park.] <- Mitäh?
+/wizards/moonstar/areas/asgroth/mobs/cat#43860 Typo Ahma
+A small cat *that has* grey.. These cats are very common in in <- Toine bois.
+/wizards/moonstar/areas/asgroth/mobs/citizens#46093 Typo Ahma
+[..continues **his** doings... **He** has.. She is a member of the human race.]  Muutenki taa desci aika weirdo.
+/wizards/moonstar/areas/asgroth/bazaar/21 Typo Ahma
+exitti 'southwest' ei oo kunnos.
+/wizards/moonstar/areas/asgroth/bazaar/21 Typo Ahma
+Unohda toi exitti - Many *salesmen* are .. desceist kuitenki.
+/wizards/moonstar/areas/asgroth/rooms/tie#42980 Typo Ahma
+Liia pitkät rivit.
+/wizards/moonstar/areas/asgroth/rooms/tie#42674 Typo Ahma
+Eiks se ois hieno jos täs mapil ois joku pieni tekstinpätkä aina et mikä paikka o missäki jos pääsee johonki taloon sisäl. Mikä toi Gy-merkkiki tos o.
+/wizards/moonstar/areas/asgroth/other/blackjack Typo Ahma
+..*Gambling* room..
+/wizards/moonstar/areas/asgroth/temple/entrance Typo Ahma
+..made *of* some.. and *there* are..
+/wizards/moonstar/areas/asgroth/temple/t Typo Ahma
+Piste puuttuu descist.
+/wizards/moonstar/areas/asgroth/eq/nunring#38599 Typo Ahma
+..Asgroth *have* always.. -- Pist vaiks rivinvaihto eka lauseen jälkee ja ota toi toinen piste pois lopusta.
+/wizards/moonstar/areas/asgroth/city/bar Typo Ahma
+Liia pitkät rivit ja ostaminen ei skulaa. Descis: ..comfortable here*,* mostly..
+/wizards/moonstar/areas/asgroth/other/inn Typo Ahma
+*Every adventurer has visited here at least once.* .. stories *are* told..
+/wizards/moonstar/areas/asgroth/mobs/priest#42856 Typo Ahma
+Actioni vaiks pois. Ei se kumartele ku sitä hakataa miekal päähä.
+/wizards/moonstar/areas/asgroth/mobs/salesman#43785 Typo Ahma
+*He has *a* long beard.. badge of *a* salesman.. [his cart which he is carrying with him.] <- Eikai se kanna kärryjä mukanaa? Hullu mies.
+/wizards/moonstar/areas/asgroth/bazaar/E Typo Ahma
+Toi basaari symboli vois kai olla 'Ba' eikä 'BA', ku kaikki muutki o tollee eka kirjain isolla toine pienel.
+/wizards/moonstar/areas/asgroth/rooms/cs#38597 Typo Ahma
+Liia pitkät rivit.
+/wizards/moonstar/areas/asgroth/rooms/cs#38597 Typo Ahma
+*The streets are made of white marble and they are in really good condition* - *The* citizens.. streets *for* hundreds..
+/wizards/moonstar/areas/asgroth/rooms/nbridge Typo Ahma
+*some kinds of animals* *The drawbridge looks really sturdy and it seems to be brand new.* .. *guard posts* *end of the drawbridge* [Inside the guardposts many guards are guarding the citygates.] <- Noni noni.
+/wizards/moonstar/areas/asgroth/rooms/wbridge Typo Ahma
+Ja täs on noit samoi ku edellises.
+/wizards/moonstar/areas/asgroth/city/ghe Typo Ahma
+guardshouse->guardhouse , *are here to train to become a cityguard.* *Also,* some.. *from the prison*, *The walls are made of wood and the floor is of shining white marble.*
+/wizards/moonstar/areas/asgroth/city/ghe Typo Ahma
+Korjataa vähä tota äskest: The hall is full of people who are here to train to become cityguards.
+/wizards/moonstar/areas/asgroth/other/bakery Typo Ahma
+*in a grocery.* *adventurers can buy some* [The room is full of bread and some cakes.] <- Mainitte vaiks et niit o jossai hyllyl tms. [Otherkind of candies can be seen but they aren't for sale.] <- Jaa. Jää vaa vitutus tollasest lauseest. Pistetää jotai muuta jooko?
+/wizards/moonstar/areas/asgroth/mobs/baker#36138 Typo Ahma
+*intrested*
+/wizards/moonstar/areas/asgroth/other/bakery Typo Torspo
+gets -> get
+/wizards/moonstar/areas/asgroth/other/bakery Typo Torspo
+jjaaha, pistas bakerille ihan oikee desci ku ohan se monsteri niinku. toi 'list' hassakka vois siirtaa roomin desciin eli joku lappu seinalle josta nakee sit commandit
+/wizards/moonstar/areas/asgroth/shops/armour_shop Typo Ahma
+Ota vaiks toi You-setti pois ja *different kinds of equipment* ja jotai. *The room* .. Ja tota lauset voi muuttaa. Ja siinä se! Hiukan pidempi desci viel.
+/wizards/moonstar/areas/asgroth/shops/magic_shop Typo Ahma
+*A* small and.. *A small counter has only few items left.* .. *smoke is rising from..*
+/wizards/moonstar/areas/asgroth/rooms/playground#43302 Typo Ahma
+*A* small.. *children* .. *free time* .. *parents can sit and*
+/wizards/moonstar/areas/asgroth/rooms/playground#43302 Typo Ahma
+*the parents* jopa.
+/wizards/moonstar/areas/sewers/entrance Typo Ahma
+Ei mitää 'You have entered'-systeemei. Se voi pistää paremminki. *Small ladders lead down to another floor.* *Many footprints can be seen in the dark mud..* .. *restlessly* .. *in the southeastern corner of the room. A small bench is next to the campfire.*
+/wizards/moonstar/areas/sewers/monsut/rat#38366 Typo Ahma
+*small and tiny* Jompi kumpih.
+/wizards/moonstar/areas/sewers/s11 Typo Ahma
+Liia pitkä rivi, ja toi ääni pitäis vissii kuuluu eastista.
+/wizards/moonstar/areas/sewers/s12 Typo Ahma
+Kaikist lookkiobjuist puuttuu pisteet.
+/wizards/moonstar/areas/sewers/eq/sboots#49324 Typo Ahma
+*made of* .. Toinen piste pois lopusta.
+/wizards/moonstar/areas/sewers/eq/cap#49326 Typo Ahma
+Kaks pistet täälläki.
+/wizards/moonstar/areas/sewers/eq/necklace#49325 Typo Ahma
+Arvaa mitä tääl o?
+/wizards/moonstar/areas/asgroth/rooms/park#32300 Typo Nalle
+moonstar citizens of Asgroth sped their -> spend
+/wizards/moonstar/areas/asgroth/other/blackjack Typo Nalle
+This is the cambling room -> gambling
+/wizards/moonstar/areas/asgroth/sewers/entrance Typo Nalle
+täs huoneessa menee rivit vähä jänskästi viel
+/wizards/moonstar/areas/asgroth/mobs/azyltas#9842 Typo Ahma
+Azyltas says: 'Oh I losted my ring at the bazaar.. Could you get it for me?' --- losted -> lost
+/wizards/moonstar/areas/asgroth/temple/2 Typo Reaper
+Priest says: Thank you for finding my things. Take this letter to a friend of my.' (my mikä? :D)
+/wizards/moonstar/areas/asgroth/temple/2 Typo Reaper
+jaa vittu lukihäiriö iski hmpf pääkii
+/wizards/moonstar/areas/asgroth/city/ghc Typo Reaper
+Right hand: The red runenlade of Ancients 'Razor'.
+/wizards/moonstar/areas/asgroth/city/gh15 Idea Reaper
+laittakaa nyt jumalauta joku message tohon ku toi vitun resurrection recovery lahtee vittuu
+/wizards/moonstar/areas/asgroth/eq/razor#8374 Typo Ahma
+Shortis typo, tää on miekka ja descis lukee axe, descirivit liia pitkii, *probably*, in to -> on, builded->built, many years->centuries [muistaakseni jossai luki että toi kaupunki o satoja vuosia vanha]
+/wizards/moonstar/areas/asgroth/eq/shield#8375 Typo Ahma
+from->of, is many->are many, kind->kinds, on it->to it, [en tiä kannattaaks pitää noi selvästi et kenelle tää eku kuuluu ku se voi kuitenki olla pelaajienki hallus jne..]
+/wizards/moonstar/areas/asgroth/eq/elderboots#8377 Typo Ahma
+En tiä tost sanast 'fireboots', voisko sen muuttaa? Mikä on Nazgul? Pitäiskö pelaajan tietää mitä se tarkottaa? Noi *-merkit vois ottaa shortist pois. Toinen piste descin lopusta pois, kiitos.
+/wizards/moonstar/areas/asgroth/eq/helm#8376 Typo Ahma
+Liia pitkät rivit descis, ancient-ancients, king Azal who->King Azal, who .. [tohon vois tietty puuttuu et 'created', mul tulee sellane olo et se loi sen ite vaiks sehä rakennettii hiel ja verel], weared->wore, armour and people->armour, and the people .. knows->know, carry->carries, of city->of the city, pray elders->pray to the elders, weared->wore, toinen piste vielä pois lopusta. [IMO paska desci ku siin kerrotaa tollasii ihme asioi. Ja jos ton helmetin wearaaja o kuningas ni Asgrothi citizeneil o vaikeet jos siel menee kaks pelaajaa kenel o toi jne jne. Iha sama.]
+/wizards/moonstar/areas/asgroth/sewers/entrance Typo Ahma
+*A* small .. with *a* small [tosin toisen vois muuttaa joksku muuks ku 'small'iks], .. and few humanoid corpses can be.. sewers *have* been .. spiders *which* are .. [piste loppuun]
+/wizards/moonstar/areas/asgroth/sewers/room1 Typo Ahma
+Torches on the walls are illuminating the sewers.. [muutetaa tota vähä->] breath here because *of* the sewer fumes that fill the air. .. The walls are made of rock and seem to be in very bad condition. [now days (nowadays) o turha, otetaa se pois]
+/wizards/moonstar/areas/asgroth/sewers/room32 Typo Ahma
+desc: ash is *in* the corner. somehow->eerily , [kaikista lookkiobjuista puuttuu pisteet]: ground:: full of->covered with, its under it->lies under it, wall:: weakrace->weak race hear->here, webs:: protecting *the* eggs from *the* animals, ash:: *A* huge pile.. see anything-> see if there is anything
+/wizards/moonstar/areas/asgroth/mobs/aspider#34132 Typo Ahma
+his->its
+/wizards/moonstar/areas/asgroth/eq/sewcloak#34134 Typo Ahma
+It gives out a weak blue glow.. ripped->torn, rivinvaihto liikaa lopussa, [vähä  outo taas et viittaa kattomal niinko selvii et toi on peräsin jostain viemäristä... Plääh, pitäis keksii jotai muuta]
+/wizards/moonstar/areas/asgroth/eq/gloves#34135 Typo Ahma
+They seems->They seem
+/wizards/moonstar/areas/asgroth/mobs/spiders#13065 Typo Ahma
+*A* red spider.. *a* common sight.. comes down the->come down to the
+/wizards/moonstar/areas/asgroth/sewers/room21 Typo Ahma
+the the floor->the floor, has lived->has been living, surrounds->surround, loosened->loose [Eiks tuota rinkulaa vois siirtää suoraan playerille kun on searchinu? Nyt se ilmestyy tohon lattialle]
+/wizards/moonstar/areas/gnomes/rooms/l1tree1 Typo Ahma
+leads->lead
+/wizards/moonstar/areas/gnomes/rooms/l1map2 Typo Ahma
+Ei tää nyt kyl oikee toimi. Koit keksii vähä erilaisii descei tänne ku melkee jokapaikas lukee "multiple paths start from here..." ja ei tääl oo ku 1 pathi suurimmas osas huoneist.
+/wizards/moonstar/areas/gnomes/rooms//l1hut Typo Ahma
+*A* house.. *The* walls.. a fireplace->A fireplace, at northern->at the northern, *The* fire, glow for this->glow into this, playing fireplace->playing by the fireplace
+/wizards/moonstar/areas/gnomes/rooms/l2map2 Typo Ahma
+Tääl o joka roomis sama desci, keksi ny ees muutama eri setti eri alueil ni ei eksy nii helposti jne.
+/wizards/moonstar/areas/gnomes/monsters/gnomechild#4250 Typo Ahma
+with other->with the other, Child->The child, His face..->He has few scars on his face.
+/wizards/moonstar/areas/gnomes/monsters/gnomechild#4250 Typo Ahma
+Ja piste pois short descist.
+/wizards/moonstar/areas/gnomes/monsters/gnomeguard2#5082 Typo Ahma
+Eka rivin loppuu piste. silgnomely->silently, effects->effect, of years->of the years, piste descin loppuun.
+/wizards/moonstar/areas/gnomes/monsters/gnomeelite#5385 Typo Ahma
+A Hairy long->A hairy, long .. [First you miss id the gnomes to be a big trees,] <- Noni Mooni, pois toi ja keksi jotai mikä tarkottaa jotai... gnomes below->the common gnomes
+/wizards/moonstar/areas/gnomes/monsters/gnomesoldier#5659 Typo Ahma
+A tree is searching .. ?? has->had, gnomes below->the common gnomes
+/wizards/moonstar/areas/gnomes/monsters/gnomehealer#7558 Typo Ahma
+short:: A gnome healer saattais ehkä olla perinteisempi ja mukavampi, long:: wearing strange->wearing a strange, *She is preparing medicine out of herbs for the child gnomes*
+/wizards/moonstar/areas/gnomes/eq/healer_helm#7561 Typo Ahma
+short:: Hood *of* Spirits, weaved->woven, for Master->for the Master, lifes->lives, [toi eka lause on liian pitkä, katkase se ton ekan rivin jälkeen sillee hienosti], Hood is weaved of wool->The hood is made of wool.
+/wizards/moonstar/areas/gnomes/monsters/gnomeguard#8118 Typo Ahma
+samat ku gnomeguard2.c
+/wizards/moonstar/areas/gnomes/monsters/gnomeleader#8135 Typo Ahma
+silgnomely->silently
+/wizards/moonstar/areas/valley/narrow_valley#33730 Typo Ahma
+Liia pitkä toi toinen descirivi täs narrow_valleys
+/wizards/moonstar/areas/wasteland/torni/room22 Typo Ahma
+Liia pitkät rivit.
+/wizards/moonstar/areas/wasteland/fortress/wall2 Typo Ahma
+Näis wall'eis on kans liia pitkät rivit.
+/wizards/moonstar/areas/forest/town/mayorhouse Typo Ahma
+No täs ku on tehny questin ni tä äijä laukoo vieläki et ne yhet heebot pitäis tappaa.
+/wizards/moonstar/areas/forest/town/town9 Typo Ahma
+Kaikki "burned" sanat tästä citystä "burnt"iks.
+/wizards/moonstar/areas/mosnotar/forest/west/for13 Typo Ahma
+Tässä huoneessa ei toiminu toi 'dig' action, muutin sen silleen että se toimii. Nyt pääsee porukat hakkamaan Nagidi Tokiroakin!
+/wizards/moonstar/areas/mosnotar/forest/hut Typo Ahma
+Tuolle Rangerillekko antaa noi rinkulat ni pitäiskö pistää joku teksti tulemaan että se antaa sulle kukkasen.
+/wizards/moonstar/areas/mosnotar/forest/hut Typo Ahma
+Ja tässon tää sama 'Tapa noi horot' jutustelu vaiks tapoin ne jo.
+/wizards/moonstar/areas/mosnotar/forest/for13 Typo Ahma
+Ärrrhh.. Ei keskel mettää voi pistää 'There is a small hut in the center of the ROOM.'
+/wizards/moonstar/areas/brownie/rooms/l1tree1 Typo Ahma
+ladders leads->ladders lead .. Kaikista toi.
+/wizards/moonstar/areas/brownie/rooms/l3tree1 Typo Ahma
+there is branches->there are branches, somekind->some kind, in the room->[ei voi olla room ku seisoskellaan puun oksalla], The eliteguards are keeping..->[pist tohon vaikka et tää on sellanen paikka, ku jos tos lukee et tääl on guardei ja ne on tappanu ni sit o taas epäloogist]
+/wizards/moonstar/areas/brownie/rooms/l2map4 Typo Ahma
+Näist o vissii kaikis toi somekind. Eriksee se.
+/wizards/moonstar/areas/brownie/rooms/l2map1 Typo Ahma
+keeping patroll and->patrolling around and
+/wizards/moonstar/areas/brownie/rooms/l2map5 Typo Ahma
+leading west and->leading east
+/wizards/moonstar/areas/brownie/rooms/l2map7 Typo Ahma
+patrolling->patrolling around
+/wizards/moonstar/areas/brownie/rooms/l3map2 Typo Ahma
+kind->kinds, shield->shields
+/wizards/moonstar/areas/brownie/rooms/l3map3 Typo Ahma
+are taking->are being taken, because all->because of all, baddages->bandages
+/wizards/moonstar/areas/brownie/rooms/l1hut Typo Ahma
+Fire->The fire, playing fireplace->playing by the fireplace
+/wizards/moonstar/areas/brownie/rooms/l1hut Typo Ahma
+A house built from wood.->A house built inside a huge trunk.(?) Eks ois hieno.
+/wizards/moonstar/areas/brownie/rooms/l1tree3 Typo Ahma
+east, southwest and east->northwest, southwest and east, Brownie tree->brownie tree. Katkase toi toisiks vimppa lause jostai se o iha sikapitkä.
+/wizards/moonstar/areas/brownie/rooms/l1map2 Typo Ahma
+Brownie trees centersquare->The central square of the brownie tree - ja sit noi samat ku aiemmin.
+/wizards/moonstar/areas/brownie/rooms/l1cs Typo Ahma
+central square - brownie tree, brownies gets->brownies get
+/wizards/moonstar/areas/brownie/monsters/brownieleader#17023 Typo Ahma
+short:: Leader->leader
+/wizards/moonstar/areas/brownie/eq/eqdag#18749 Typo Ahma
+Ei ei ei. Ei me tarvita nyyppäareal tosiaankaan mitää wepaa mikä vetää spesiaalii. Iha turha. Pois.
+/wizards/moonstar/areas/asgroth/bazaar/E Typo Ahma
+Bazari entrance vmapil 'Ba' ei 'BA'.
+/wizards/moonstar/areas/asgroth/city/gh15 Typo Reaper
+Right hand: The red runenlade of Ancients 'Razor'.
+/wizards/moonstar/areas/asgroth/city/gh11 Idea Reaper
+voisiks tehdä sillee et vaik look piip in disc toimis
+/wizards/moonstar/areas/asgroth/city/ghc Typo Duncan
+Kaix resettaa!!!
+/wizards/moonstar/areas/valley/narrow_valley#18334 Typo Ahma
+Liia pitkä desci.
+/wizards/moonstar/areas/brownie/eq/arms Typo Duncan
+rivinvaihto pois
+/wizards/moonstar/areas/brownie/eq/arms Typo Duncan
+strengh = strength
+/wizards/moonstar/areas/brownie/eq/healer_helm Typo Duncan
+gnome society = brownie society, ja rivinvaihto ja piste pois vikasta rivistä
+/wizards/moonstar/areas/brownie/eq/healer_helm Typo Duncan
+weaved = woven
+/wizards/moonstar/areas/brownie/monsters/browniechild Typo Duncan
+His = He
+/wizards/moonstar/areas/brownie/monsters/browniesoldier Typo Duncan
+medium sized = medium-sized
+/wizards/moonstar/areas/brownie/rooms/l3tree1 Typo Ahma
+a steady walkways->steady walkways .. Kaikista toi misä o.
+/wizards/moonstar/areas/brownie/rooms/l3map1 Typo Ahma
+Vimppa lause->This is a place for eliteguards to keep watch for intruders.
+/wizards/moonstar/areas/brownie/rooms/l3tree2 Typo Ahma
+there is brances->there are branches .. Kaikista toi kans.
+/wizards/moonstar/areas/brownie/rooms/l3tree2 Typo Ahma
+Tääl o kans toi eliteguards-juttu.
+/wizards/moonstar/areas/brownie/rooms/l3tree3 Typo Ahma
+Ja näis kaikis 'treetop' desceis pitäis vissii olla there are *no* branches .. Tääl on mut nois 2 aikasemmas (tms) ei ollu. Kato ne läpi.
+/wizards/moonstar/areas//brownie/monsters/browniechild#34631 Typo Ahma
+Kaikista shorteista pisteet pois. Koit kattoo et toi rivityski menee tulevaisuudes jotenkin kauniisti. Tuneen noi ny kuntoo ku tykkään siit nii pal mut koit muistaa.
+/wizards/moonstar/areas/valley/desert#22146 Idea Trooper
+tääl monostaran areal nämä skorppionit... eikös ois realistisempaa jos ne pistäis.... eikä puraisis, sit ne vois laittaa samalla pistämään niitä diseaseja ja poisoineita
+/wizards/moonstar/areas/valley/desert#11586 Idea Trooper
+entiä mutta..... vois olla että ton battletickin vois pistää takas figuille... (ei siis oo kokemusta, mutta luulisin :P) maageille oli hyvä vaa ku lähti se pois ni voi joutua ees joskus regeen... mut figuilla .. rebirth figuilla pitäs kylä pystyä tikkaa nbatleski... ne o muutenki nii ala tuens... ei jotai bloodstormia voi laskea tämmöseen figu laskeskeluun kerta se o jo niin iso...
+/wizards/moonstar/areas/wasteland/cave3 Typo Torspo
+draonin shortti: and its teeht looks -> look
+/wizards/moonstar/areas/forest/town/town17 Typo Hemies
+Meditate skill gives 'You dont want to SLEEP...'. When you copy old skill to a new one, make sure you fix all the strings :)

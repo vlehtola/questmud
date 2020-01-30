@@ -1,0 +1,31 @@
+From: Drude
+Subj: cleric spells
+
+Cc: drude
+Date: Jul 26
+
+   /echo cast chl x y at z %; \
+   /echo x,y = hea min  gives Healing %; \
+   /echo x,y = hea les  gives Distant Healing %; \
+   /echo x,y = hea mar  gives True Healing %; \
+   /echo x,y = bls min  gives Regeneration %; \
+   /echo x,y = bls les  gives Durability %; \
+   /echo x,y = bls mar  gives More Mana %; \
+   /echo x,y = num min  gives %; \
+   /echo x,y = num les  gives Remove Poison %; \
+   /echo x,y = num mar  gives Remove Scar %; \
+   /echo x,y = eth min  gives Resurrection %; \
+   /echo x,y = eth les  gives Reincarnation %; \
+   /echo x,y = eth mar  gives Resurrection %; \
+   /echo x,y = xfr min  gives Drain Health (140 hp) %; \
+   /echo x,y = xfr les  gives Transfer Health %; \
+   /echo x,y = xfr mar  gives Harm (140 hp)
+
+Well so i don't know what 'chl num min' does and also i don't know the
+difference between 'chl eth min' and 'chl eth mar' furthermore I haven't
+found out how much damage harm does .. 'chl xfr mar' seems to do as much
+damage as 'chl xfr min' but that might depend on your mastery of medicine
+skill.
+
+Well, this should help ... Drude
+

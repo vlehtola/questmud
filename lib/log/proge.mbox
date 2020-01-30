@@ -1,0 +1,66 @@
+From: Drude
+Subj: questmud pages
+
+Date: May 13
+
+Hi,
+
+I'm not completely happy at all with the way you've put the info I gave to you
+on your web-page so I hope a lot of reformatting will be done. Maybe others
+can give you help with that...
+I also noticed that I've given you too much information, namely:
+the 'elves' area doesn't exist in the game at the moment so you should remove
+that info.
+the 'elements' area gives away quest-info so you should remove those strange
+words as well as the comment that there's no return from the area since that
+has been fixed.
+the 'spiders' area doesn't have necromancers guild anymore ...
+the 'circle' area has been removed as well so it shouldn't be in the list.
+the 'gremlins' area doesn't exits anymore either.
+
+Like the format of the list is at the moment I don't find it an honor to find
+my name at the bottom of it. So you can remove that as well until it is
+nicely formatted.
+
+Cheers, Drude
+
+From: Celtron
+Subj: re:whine
+
+Date: Feb  5
+
+khalandihan rokkaa, ilman sitä vois olla aika nihkeetä.
+
+//Celtron
+
+From: Drude
+Subj: neck-eq
+
+Date: May  8
+
+A wooden medallion <blue glow>
+Slot: neck
+Quality: [*.....................]
+Str: 4% Dex: 4% Con: 4% Int: 0% Wis: 0%
+Spregen: 0
+
+A golden necklace with jewels embedded in it <blue glow>
+Slot: neck
+Quality: [*.....................]
+Str: 2% Dex: 8% Con: 5% Int: 0% Wis: 0%
+Spregen: 0
+
+Collar of night <bright orange glow>
+Slot: neck
+Quality: [*.....................]
+Str: 0% Dex: 0% Con: 0% Int: 6% Wis: 6%
+Spregen: 20
+
+From: Moonstar
+Subj: forest2.c
+
+Date: Jan 21
+
+Tarkistappa mistä kansioista noi sun mosat tulee ku ne on tuolla /suunnitelmat/ ja muissa ilmeisesti tulee suoraan tuolta area kansiosta.
+Ei toimi forest2.c ainakaan ku mosat kusee.
+

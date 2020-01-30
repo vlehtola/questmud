@@ -1,0 +1,13 @@
+From: Bulut
+ Re:   Timer
+Date: Aug 21
+
+terve.. eli homma menis abaut nain:
+
+call_out("tapahtuma", 60);  /* 60 heartbeattii eli 1minuutti 20 sec */
+
+tapahtuma() { write("odotit 1min 20sec kiltisti, nyt naet taman! ;)\n") }
+
+seois siina.. siis tama odotus.. laitat vaan ton writen tilalle move_object(this_plyaer(),"/wizards/golther/Huoneen.nimi");
+
+

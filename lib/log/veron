@@ -1,0 +1,832 @@
+wizards/veron/areat/golem/room1.c line 14 :Type mismatch ( unknown vs mixed * ) when initializing items
+wizards/veron/areat/golem/room1.c line 14 :Missing type
+wizards/veron/areat/golem/room1.c line 15 :syntax error
+wizards/veron/areat/golem/room1.c line 14 :Type mismatch ( unknown vs mixed * ) when initializing items
+wizards/veron/areat/golem/room1.c line 14 :Missing type
+wizards/veron/areat/golem/room1.c line 15 :syntax error
+wizards/veron/areat/golem/room1.c line 14 :Type mismatch ( unknown vs mixed * ) when initializing items
+wizards/veron/areat/golem/room1.c line 14 :Missing type
+wizards/veron/areat/golem/room1.c line 15 :syntax error
+wizards/veron/areat/golem/room1.c line 13 :syntax error
+wizards/veron/areat/golem/room1.c line 17 :syntax error
+wizards/veron/areat/golem/room2.c line 5 :syntax error
+wizards/veron/areat/golem/room2.c line 7 :syntax error
+wizards/veron/areat/golem/room2.c line 9 :Illegal LHS
+wizards/veron/areat/golem/room2.c line 10 :Variable monster not declared !
+wizards/veron/areat/golem/room2.c line 13 :syntax error
+wizards/veron/areat/golem/room2.c line 5 :syntax error
+wizards/veron/areat/golem/room2.c line 7 :syntax error
+wizards/veron/areat/golem/room2.c line 9 :Illegal LHS
+wizards/veron/areat/golem/room2.c line 10 :Variable monster not declared !
+wizards/veron/areat/golem/mobs/servant.c line 12 :syntax error
+wizards/veron/areat/golem/mobs/servant.c line 19 :Illegal LHS
+wizards/veron/areat/golem/mobs/servant.c line 19 :syntax error
+wizards/veron/areat/golem/mobs/servant.c line 12 :syntax error
+wizards/veron/areat/golem/mobs/servant.c line 19 :Illegal LHS
+wizards/veron/areat/golem/mobs/servant.c line 19 :syntax error
+wizards/veron/areat/golem/mobs/servant.c line 12 :syntax error
+wizards/veron/areat/golem/mobs/servant.c line 19 :Illegal LHS
+wizards/veron/areat/golem/mobs/servant.c line 19 :syntax error
+wizards/veron/areat/golem/mobs/servant.c line 12 :syntax error
+wizards/veron/areat/golem/mobs/servant.c line 19 :Illegal LHS
+wizards/veron/areat/golem/mobs/servant.c line 19 :syntax error
+wizards/veron/areat/golem/mobs/servant.c line 12 :syntax error
+wizards/veron/areat/golem/mobs/servant.c line 19 :Illegal LHS
+wizards/veron/areat/golem/mobs/servant.c line 19 :syntax error
+wizards/veron/areat/golem/mobs/servant.c line 12 :syntax error
+wizards/veron/areat/golem/mobs/summoner.c line 12 :syntax error
+wizards/veron/areat/golem/items/coat.c line 9 :syntax error
+wizards/veron/areat/golem/items/coat.c line 9 :syntax error
+wizards/veron/areat/golem/items/coat.c line 9 :syntax error
+wizards/veron/areat/golem/items/coat.c line 8 :syntax error
+wizards/veron/areat/golem/items/coat.c line 8 :syntax error
+wizards/veron/areat/golem/items/coat.c line 8 :syntax error
+wizards/veron/areat/golem/items/coat.c line 8 :syntax error
+wizards/veron/areat/golem/items/coat.c line 8 :syntax error
+wizards/veron/areat/golem/mobs/servant.c line 17 :Variable armour not declared !
+wizards/veron/areat/golem/mobs/servant.c line 18 :Variable armour not declared !
+wizards/veron/areat/golem/items/robe.c line 8 :syntax error
+wizards/veron/areat/golem/items/robe.c line 8 :syntax error
+wizards/veron/areat/golem/items/robe.c line 8 :syntax error
+wizards/veron/areat/golem/items/robe.c line 8 :syntax error
+wizards/veron/areat/golem/items/robe.c line 8 :syntax error
+wizards/veron/areat/golem/room2.c line 34 :syntax error
+wizards/veron/areat/golem/room2.c line 36 :syntax error
+wizards/veron/areat/golem/room2.c line 43 :Variable panel_open not declared !
+wizards/veron/areat/golem/room2.c line 44 :Too few arguments to write
+wizards/veron/areat/golem/room2.c line 45 :syntax error
+wizards/veron/areat/golem/room2.c line 45 :Illegal character (hex 5c) '\'
+wizards/veron/areat/golem/room2.c line 34 :syntax error
+wizards/veron/areat/golem/room2.c line 36 :syntax error
+wizards/veron/areat/golem/room2.c line 43 :Variable door_open not declared !
+wizards/veron/areat/golem/room2.c line 44 :Too few arguments to write
+wizards/veron/areat/golem/room2.c line 45 :syntax error
+wizards/veron/areat/golem/room2.c line 45 :Illegal character (hex 5c) '\'
+wizards/veron/areat/golem/room2.c line 34 :syntax error
+wizards/veron/areat/golem/room2.c line 36 :syntax error
+wizards/veron/areat/golem/room2.c line 43 :Variable door_open not declared !
+wizards/veron/areat/golem/room2.c line 44 :Too few arguments to write
+wizards/veron/areat/golem/room2.c line 45 :syntax error
+wizards/veron/areat/golem/room2.c line 45 :Illegal character (hex 5c) '\'
+wizards/veron/areat/golem/room2.c line 34 :syntax error
+wizards/veron/areat/golem/room2.c line 36 :syntax error
+wizards/veron/areat/golem/room2.c line 43 :Variable door_open not declared !
+wizards/veron/areat/golem/room2.c line 44 :Too few arguments to write
+wizards/veron/areat/golem/room2.c line 45 :syntax error
+wizards/veron/areat/golem/room2.c line 45 :Illegal character (hex 5c) '\'
+wizards/veron/areat/golem/room2.c line 34 :syntax error
+wizards/veron/areat/golem/room2.c line 36 :syntax error
+wizards/veron/areat/golem/room2.c line 43 :Variable door_open not declared !
+wizards/veron/areat/golem/room2.c line 44 :Too few arguments to write
+wizards/veron/areat/golem/room2.c line 45 :syntax error
+wizards/veron/areat/golem/room2.c line 45 :Illegal character (hex 5c) '\'
+wizards/veron/areat/golem/room2.c line 34 :syntax error
+wizards/veron/areat/golem/room2.c line 36 :syntax error
+wizards/veron/areat/golem/room2.c line 43 :Variable door_open not declared !
+wizards/veron/areat/golem/room2.c line 44 :Too few arguments to write
+wizards/veron/areat/golem/room2.c line 45 :syntax error
+wizards/veron/areat/golem/room2.c line 45 :Illegal character (hex 5c) '\'
+wizards/veron/areat/golem/room2.c line 16 :syntax error
+wizards/veron/areat/golem/room2.c line 16 :Illegal character (hex 5c) '\'
+wizards/veron/areat/golem/room2.c line 16 :Newline in string
+wizards/veron/areat/golem/room2.c line 17 :Illegal LHS
+wizards/veron/areat/golem/room2.c line 16 :syntax error
+wizards/veron/areat/golem/room2.c line 16 :Illegal character (hex 5c) '\'
+wizards/veron/areat/golem/room2.c line 16 :Newline in string
+wizards/veron/areat/golem/room2.c line 17 :Illegal LHS
+wizards/veron/areat/golem/room2.c line 16 :syntax error
+wizards/veron/areat/golem/room2.c line 16 :Illegal character (hex 5c) '\'
+wizards/veron/areat/golem/room2.c line 16 :Newline in string
+wizards/veron/areat/golem/room2.c line 17 :Illegal LHS
+wizards/veron/areat/golem/room2.c line 16 :syntax error
+wizards/veron/areat/golem/room2.c line 16 :Illegal character (hex 5c) '\'
+wizards/veron/areat/golem/room2.c line 16 :Newline in string
+wizards/veron/areat/golem/room2.c line 17 :Illegal LHS
+wizards/veron/areat/golem/room12.c line 9 :syntax error
+wizards/veron/areat/golem/room12.c line 11 :Illegal LHS
+wizards/veron/areat/golem/room12.c line 28 :Illegal character (hex 5c) '\'
+wizards/veron/areat/golem/room12.c line 28 :syntax error
+wizards/veron/areat/golem/room12.c line 28 :Newline in string
+wizards/veron/areat/golem/room12.c line 30 :Illegal LHS
+wizards/veron/areat/golem/room12.c line 9 :syntax error
+wizards/veron/areat/golem/room12.c line 11 :Illegal LHS
+wizards/veron/areat/golem/room12.c line 16 :syntax error
+wizards/veron/areat/golem/room12.c line 9 :syntax error
+wizards/veron/areat/golem/room12.c line 11 :Illegal LHS
+wizards/veron/areat/golem/room12.c line 28 :Illegal character (hex 5c) '\'
+wizards/veron/areat/golem/room12.c line 28 :syntax error
+wizards/veron/areat/golem/room12.c line 28 :Newline in string
+wizards/veron/areat/golem/room12.c line 30 :Illegal LHS
+wizards/veron/areat/golem/room12.c line 23 :Illegal character (hex 5c) '\'
+wizards/veron/areat/golem/room12.c line 23 :syntax error
+wizards/veron/areat/golem/room12.c line 23 :Newline in string
+wizards/veron/areat/golem/room12.c line 25 :Illegal LHS
+wizards/veron/areat/golem/room12.c line 26 :syntax error
+wizards/veron/areat/golem/room12.c line 23 :Illegal character (hex 5c) '\'
+wizards/veron/areat/golem/room12.c line 23 :syntax error
+wizards/veron/areat/golem/room12.c line 23 :Newline in string
+wizards/veron/areat/golem/room12.c line 25 :Illegal LHS
+wizards/veron/areat/golem/room12.c line 26 :syntax error
+wizards/veron/areat/golem/room12.c line 23 :Illegal character (hex 5c) '\'
+wizards/veron/areat/golem/room12.c line 23 :syntax error
+wizards/veron/areat/golem/room12.c line 23 :Newline in string
+wizards/veron/areat/golem/room12.c line 25 :Illegal LHS
+wizards/veron/areat/golem/room12.c line 26 :syntax error
+wizards/veron/areat/golem/room12.c line 23 :Illegal character (hex 5c) '\'
+wizards/veron/areat/golem/room12.c line 23 :syntax error
+wizards/veron/areat/golem/room12.c line 23 :Newline in string
+wizards/veron/areat/golem/room12.c line 25 :Illegal LHS
+wizards/veron/areat/golem/room12.c line 26 :syntax error
+wizards/veron/areat/golem/items/pin.c line 8 :syntax error
+wizards/veron/areat/golem/items/apron.c line 8 :syntax error
+wizards/veron/areat/golem/items/pin.c line 8 :syntax error
+wizards/veron/areat/golem/items/apron.c line 8 :syntax error
+wizards/veron/areat/golem/items/pin.c line 6 :syntax error
+wizards/veron/areat/golem/items/apron.c line 8 :syntax error
+wizards/veron/areat/golem/room14.c line 7 :syntax error
+wizards/veron/areat/golem/mobs/servant.c line 28 :Illegal character (hex 5c) '\'
+wizards/veron/areat/golem/mobs/servant.c line 28 :syntax error
+wizards/veron/areat/golem/mobs/servant.c line 28 :Newline in string
+wizards/veron/areat/golem/mobs/servant.c line 28 :Illegal character (hex 5c) '\'
+wizards/veron/areat/golem/mobs/servant.c line 28 :syntax error
+wizards/veron/areat/golem/mobs/servant.c line 28 :Newline in string
+wizards/veron/areat/golem/mobs/imp.c line 17 :syntax error
+wizards/veron/areat/golem/mobs/imp.c line 17 :syntax error
+wizards/veron/areat/golem/kellari2.c line 25 :Newline in string
+wizards/veron/areat/golem/kellari2.c line 27 :syntax error
+wizards/veron/areat/golem/kellari2.c line 27 :Illegal LHS
+wizards/veron/areat/golem/kellari2.c line 28 :syntax error
+wizards/veron/areat/golem/kellari2.c line 26 :Newline in string
+wizards/veron/areat/golem/kellari2.c line 28 :syntax error
+wizards/veron/areat/golem/kellari2.c line 28 :Illegal LHS
+wizards/veron/areat/golem/kellari2.c line 29 :syntax error
+wizards/veron/areat/golem/kellari4.c line 14 :syntax error
+wizards/veron/areat/golem/kellari4.c line 14 :syntax error
+wizards/veron/areat/golem/kellari4.c line 14 :syntax error
+wizards/veron/areat/golem/mobs/desen.c line 25 :Variable armour not declared !
+wizards/veron/areat/golem/mobs/desen.c line 25 :Variable armour not declared !
+wizards/veron/areat/golem/mobs/desen.c line 25 :Variable armour not declared !
+wizards/veron/areat/golem/torni2.c line 15 :Newline in string
+wizards/veron/areat/golem/torni2.c line 20 :syntax error
+wizards/veron/areat/golem/torni2.c line 25 :Illegal LHS
+wizards/veron/areat/golem/torni2.c line 25 :Illegal LHS
+wizards/veron/areat/golem/torni2.c line 25 :Illegal LHS
+wizards/veron/areat/golem/torni2.c line 25 :syntax error
+wizards/veron/areat/golem/torni3.c line 14 :Newline in string
+wizards/veron/areat/golem/torni3.c line 19 :syntax error
+wizards/veron/areat/golem/torni3.c line 24 :Illegal LHS
+wizards/veron/areat/golem/torni3.c line 24 :Illegal LHS
+wizards/veron/areat/golem/torni3.c line 24 :Illegal LHS
+wizards/veron/areat/golem/torni3.c line 24 :syntax error
+wizards/veron/areat/golem/torni2.c line 15 :Newline in string
+wizards/veron/areat/golem/torni2.c line 20 :syntax error
+wizards/veron/areat/golem/torni2.c line 25 :Illegal LHS
+wizards/veron/areat/golem/torni2.c line 25 :Illegal LHS
+wizards/veron/areat/golem/torni2.c line 25 :Illegal LHS
+wizards/veron/areat/golem/torni2.c line 25 :syntax error
+wizards/veron/areat/golem/torni2.c line 15 :Newline in string
+wizards/veron/areat/golem/torni2.c line 20 :syntax error
+wizards/veron/areat/golem/torni2.c line 25 :Illegal LHS
+wizards/veron/areat/golem/torni2.c line 25 :Illegal LHS
+wizards/veron/areat/golem/torni2.c line 25 :Illegal LHS
+wizards/veron/areat/golem/torni2.c line 25 :syntax error
+wizards/veron/areat/golem/torni2.c line 15 :Newline in string
+wizards/veron/areat/golem/torni2.c line 20 :syntax error
+wizards/veron/areat/golem/torni2.c line 25 :Illegal LHS
+wizards/veron/areat/golem/torni2.c line 25 :Illegal LHS
+wizards/veron/areat/golem/torni2.c line 25 :Illegal LHS
+wizards/veron/areat/golem/torni2.c line 25 :syntax error
+wizards/veron/areat/golem/parveke.c line 10 :syntax error
+wizards/veron/areat/golem/parveke.c line 12 :Illegal LHS
+wizards/veron/areat/golem/parveke.c line 18 :syntax error
+wizards/veron/areat/golem/parveke.c line 10 :syntax error
+wizards/veron/areat/golem/parveke.c line 12 :Illegal LHS
+wizards/veron/areat/golem/parveke.c line 18 :syntax error
+wizards/veron/areat/golem/parveke.c line 10 :syntax error
+wizards/veron/areat/golem/parveke.c line 12 :Illegal LHS
+wizards/veron/areat/golem/parveke.c line 18 :syntax error
+wizards/veron/areat/golem/parveke.c line 10 :syntax error
+wizards/veron/areat/golem/parveke.c line 12 :Illegal LHS
+wizards/veron/areat/golem/parveke.c line 18 :syntax error
+wizards/veron/areat/golem/parveke.c line 10 :syntax error
+wizards/veron/areat/golem/parveke.c line 12 :Illegal LHS
+wizards/veron/areat/golem/parveke.c line 18 :syntax error
+wizards/veron/areat/golem/parveke.c line 10 :syntax error
+wizards/veron/areat/golem/parveke.c line 12 :Illegal LHS
+wizards/veron/areat/golem/parveke.c line 18 :syntax error
+wizards/veron/areat/golem/parveke.c line 10 :syntax error
+wizards/veron/areat/golem/parveke.c line 12 :Illegal LHS
+wizards/veron/areat/golem/parveke.c line 18 :syntax error
+wizards/veron/areat/golem/parveke.c line 10 :syntax error
+wizards/veron/areat/golem/parveke.c line 12 :Illegal LHS
+wizards/veron/areat/golem/parveke.c line 18 :syntax error
+wizards/veron/areat/golem/parveke.c line 10 :syntax error
+wizards/veron/areat/golem/parveke.c line 12 :Illegal LHS
+wizards/veron/areat/golem/parveke.c line 18 :syntax error
+wizards/veron/areat/golem/parveke.c line 10 :syntax error
+wizards/veron/areat/golem/parveke.c line 12 :Illegal LHS
+wizards/veron/areat/golem/parveke.c line 18 :syntax error
+wizards/veron/areat/golem/parveke.c line 10 :syntax error
+wizards/veron/areat/golem/parveke.c line 12 :Illegal LHS
+wizards/veron/areat/golem/parveke.c line 18 :syntax error
+wizards/veron/areat/golem/parveke.c line 10 :syntax error
+wizards/veron/areat/golem/parveke.c line 12 :Illegal LHS
+wizards/veron/areat/golem/parveke.c line 18 :syntax error
+wizards/veron/areat/golem/parveke.c line 10 :syntax error
+wizards/veron/areat/golem/parveke.c line 12 :Illegal LHS
+wizards/veron/areat/golem/parveke.c line 18 :syntax error
+wizards/veron/areat/golem/mobs/fgolem.c line 20 :syntax error
+wizards/veron/areat/golem/mobs/fgolem.c line 22 :Variable ob not declared !
+wizards/veron/areat/golem/mobs/fgolem.c line 24 :Variable ob not declared !
+wizards/veron/areat/golem/mobs/fgolem.c line 24 :Variable ob not declared !
+wizards/veron/areat/golem/mobs/fgolem.c line 25 :Variable ob not declared !
+wizards/veron/areat/golem/items/galstaff.c line 11 :syntax error
+wizards/veron/areat/golem/room12.c line 21 :Newline in string
+wizards/veron/areat/golem/room12.c line 23 :syntax error
+wizards/veron/areat/golem/room12.c line 23 :Illegal LHS
+wizards/veron/areat/golem/room12.c line 24 :syntax error
+wizards/veron/areat/golem/room15.c line 7 :syntax error
+wizards/veron/areat/golem/room15.c line 6 :syntax error
+wizards/veron/areat/golem/kellari.c line 20 :Newline in string
+wizards/veron/areat/golem/kellari.c line 22 :syntax error
+wizards/veron/areat/golem/kellari.c line 22 :Illegal LHS
+wizards/veron/areat/golem/kellari.c line 23 :syntax error
+wizards/veron/areat/golem/kellari4.c line 30 :syntax error
+wizards/veron/areat/golem/kellari4.c line 38 :syntax error
+wizards/veron/areat/golem/kellari4.c line 38 :Illegal character (hex 2e) '.'
+wizards/veron/areat/golem/kellari4.c line 38 :Illegal character (hex 5c) '\'
+wizards/veron/areat/golem/kellari4.c line 38 :Newline in string
+wizards/veron/areat/golem/mobs/fgolem.c line 30 :syntax error
+wizards/veron/areat/golem/kellari4b.c line 30 :Variable ampari not declared !
+wizards/veron/areat/golem/kellari4b.c line 33 :syntax error
+wizards/veron/areat/golem/kellari4b.c line 40 :Variable ampari not declared !
+wizards/veron/areat/golem/kellari4b.c line 44 :Variable picked not declared !
+wizards/veron/areat/golem/kellari4b.c line 57 :syntax error
+wizards/veron/areat/golem/kellari4b.c line 30 :Variable ampari not declared !
+wizards/veron/areat/golem/kellari4b.c line 33 :syntax error
+wizards/veron/areat/golem/kellari4b.c line 40 :Variable ampari not declared !
+wizards/veron/areat/golem/kellari4b.c line 44 :Variable ampari not declared !
+wizards/veron/areat/golem/kellari4b.c line 57 :syntax error
+wizards/veron/areat/golem/kellari4b.c line 30 :syntax error
+wizards/veron/areat/golem/kellari4b.c line 40 :Variable taken not declared !
+wizards/veron/areat/golem/kellari4b.c line 43 :syntax error
+wizards/veron/areat/golem/kellari4b.c line 44 :Variable taken not declared !
+wizards/veron/areat/golem/kellari4b.c line 56 :syntax error
+wizards/veron/areat/golem/kellari4b.c line 30 :syntax error
+wizards/veron/areat/golem/kellari4b.c line 40 :Variable taken not declared !
+wizards/veron/areat/golem/kellari4b.c line 43 :syntax error
+wizards/veron/areat/golem/kellari4b.c line 44 :Variable taken not declared !
+wizards/veron/areat/golem/kellari4b.c line 59 :syntax error
+wizards/veron/areat/golem/kellari4b.c line 30 :syntax error
+wizards/veron/areat/golem/kellari4b.c line 40 :Variable taken not declared !
+wizards/veron/areat/golem/kellari4b.c line 43 :syntax error
+wizards/veron/areat/golem/kellari4b.c line 44 :Variable taken not declared !
+wizards/veron/areat/golem/kellari4b.c line 59 :syntax error
+wizards/veron/areat/golem/kellari4b.c line 30 :syntax error
+wizards/veron/areat/golem/kellari4b.c line 40 :Variable taken not declared !
+wizards/veron/areat/golem/kellari4b.c line 43 :syntax error
+wizards/veron/areat/golem/kellari4b.c line 44 :Variable taken not declared !
+wizards/veron/areat/golem/kellari4b.c line 60 :syntax error
+wizards/veron/areat/golem/kellari4b.c line 31 :syntax error
+wizards/veron/areat/golem/kellari4b.c line 44 :syntax error
+wizards/veron/areat/golem/kellari4b.c line 61 :syntax error
+wizards/veron/areat/golem/kellari4b.c line 30 :Variable taken not declared !
+wizards/veron/areat/golem/kellari4b.c line 32 :syntax error
+wizards/veron/areat/golem/kellari4b.c line 42 :Variable taken not declared !
+wizards/veron/areat/golem/kellari4b.c line 45 :syntax error
+wizards/veron/areat/golem/kellari4b.c line 46 :Variable taken not declared !
+wizards/veron/areat/golem/kellari4b.c line 62 :syntax error
+wizards/veron/areat/golem/kellari4b.c line 30 :Variable taken not declared !
+wizards/veron/areat/golem/kellari4b.c line 32 :syntax error
+wizards/veron/areat/golem/kellari4b.c line 42 :Variable taken not declared !
+wizards/veron/areat/golem/kellari4b.c line 45 :syntax error
+wizards/veron/areat/golem/kellari4b.c line 46 :Variable taken not declared !
+wizards/veron/areat/golem/kellari4b.c line 61 :syntax error
+wizards/veron/areat/golem/kellari4b.c line 30 :Variable taken not declared !
+wizards/veron/areat/golem/kellari4b.c line 32 :syntax error
+wizards/veron/areat/golem/kellari4b.c line 40 :Variable taken not declared !
+wizards/veron/areat/golem/kellari4b.c line 43 :syntax error
+wizards/veron/areat/golem/kellari4b.c line 44 :Variable taken not declared !
+wizards/veron/areat/golem/kellari4b.c line 55 :syntax error
+wizards/veron/areat/golem/kellari4b.c line 33 :syntax error
+wizards/veron/areat/golem/kellari4b.c line 44 :syntax error
+wizards/veron/areat/golem/kellari4b.c line 56 :syntax error
+wizards/veron/areat/golem//kellari4b.c line 33 :syntax error
+wizards/veron/areat/golem//kellari4b.c line 44 :syntax error
+wizards/veron/areat/golem//kellari4b.c line 56 :syntax error
+wizards/veron/areat/golem/kellari4b.c line 33 :syntax error
+wizards/veron/areat/golem/kellari4b.c line 44 :syntax error
+wizards/veron/areat/golem/kellari4b.c line 56 :syntax error
+wizards/veron/areat/golem/kellari4b.c line 33 :syntax error
+wizards/veron/areat/golem/kellari4b.c line 44 :syntax error
+wizards/veron/areat/golem/kellari4b.c line 44 :syntax error
+wizards/veron/areat/golem/kellari4b.c line 44 :syntax error
+wizards/veron/areat/golem/items/bucket.c line 19 :syntax error
+wizards/veron/areat/golem/items/bucket.c line 27 :syntax error
+wizards/veron/areat/golem/items/bucket.c line 27 :syntax error
+wizards/veron/areat/golem/items/bucket.c line 27 :syntax error
+wizards/veron/areat/golem/items/bucket.c line 27 :syntax error
+wizards/veron/areat/golem/items/bucket.c line 27 :syntax error
+wizards/veron/areat/golem/items/bucket.c line 27 :syntax error
+wizards/veron/areat/golem/items/bucket.c line 27 :syntax error
+wizards/veron/areat/golem/items/bucket.c line 27 :syntax error
+wizards/veron/areat/golem/items/bucket.c line 27 :syntax error
+wizards/veron/areat/golem/items/bucket.c line 28 :syntax error
+wizards/veron/suksi.c line 8 :syntax error
+wizards/veron/areat/golem/room16.c line 41 :Variable sammu not declared !
+wizards/veron/areat/golem/room16.c line 48 :syntax error
+wizards/veron/areat/golem/room16.c line 52 :Newline in string
+wizards/veron/areat/golem/room16.c line 53 :syntax error
+wizards/veron/areat/golem/room16.c line 41 :Variable sammu not declared !
+wizards/veron/areat/golem/room16.c line 48 :syntax error
+wizards/veron/areat/golem/room16.c line 52 :Newline in string
+wizards/veron/areat/golem/room16.c line 53 :syntax error
+wizards/veron/areat/golem/room16.c line 62 :Illegal LHS
+wizards/veron/areat/golem/room16.c line 62 :Illegal LHS
+wizards/veron/areat/golem/room16.c line 41 :Variable sammu not declared !
+wizards/veron/areat/golem/room16.c line 48 :syntax error
+wizards/veron/areat/golem/room16.c line 52 :Newline in string
+wizards/veron/areat/golem/room16.c line 53 :syntax error
+wizards/veron/areat/golem/room16.c line 62 :Illegal LHS
+wizards/veron/areat/golem/room16.c line 62 :Illegal LHS
+wizards/veron/areat/golem/room16.c line 41 :Variable sammu not declared !
+wizards/veron/areat/golem/room16.c line 48 :syntax error
+wizards/veron/areat/golem/room16.c line 52 :Newline in string
+wizards/veron/areat/golem/room16.c line 53 :syntax error
+wizards/veron/areat/golem/room16.c line 62 :Illegal LHS
+wizards/veron/areat/golem/room16.c line 62 :Illegal LHS
+wizards/veron/areat/golem/room16.c line 41 :Variable sammu not declared !
+wizards/veron/areat/golem/room16.c line 48 :syntax error
+wizards/veron/areat/golem/room16.c line 49 :syntax error
+wizards/veron/areat/golem/room16.c line 52 :Newline in string
+wizards/veron/areat/golem/room16.c line 56 :Illegal LHS
+wizards/veron/areat/golem/room16.c line 49 :syntax error
+wizards/veron/areat/golem/room16.c line 50 :syntax error
+wizards/veron/areat/golem/room16.c line 53 :Newline in string
+wizards/veron/areat/golem/room16.c line 57 :Illegal LHS
+wizards/veron/areat/golem/room16.c line 49 :syntax error
+wizards/veron/areat/golem/room16.c line 50 :syntax error
+wizards/veron/areat/golem/room16.c line 53 :Newline in string
+wizards/veron/areat/golem/room16.c line 57 :Illegal LHS
+wizards/veron/areat/golem/room16.c line 49 :syntax error
+wizards/veron/areat/golem/room16.c line 50 :syntax error
+wizards/veron/areat/golem/room16.c line 53 :Newline in string
+wizards/veron/areat/golem/room16.c line 57 :Illegal LHS
+wizards/veron/areat/golem/room16.c line 48 :syntax error
+wizards/veron/areat/golem/room16.c line 48 :syntax error
+wizards/veron/areat/golem/room16.c line 48 :syntax error
+wizards/veron/areat/golem/room16.c line 48 :syntax error
+wizards/veron/areat/golem/room16.c line 49 :syntax error
+wizards/veron/areat/golem/room16.c line 50 :syntax error
+wizards/veron/areat/golem/room16.c line 53 :Newline in string
+wizards/veron/areat/golem/room16.c line 57 :Illegal LHS
+wizards/veron/areat/golem/room16.c line 49 :syntax error
+wizards/veron/areat/golem/room16.c line 53 :Newline in string
+wizards/veron/areat/golem/room16.c line 54 :syntax error
+wizards/veron/areat/golem/room16.c line 57 :Illegal LHS
+wizards/veron/areat/golem/room16.c line 49 :syntax error
+wizards/veron/areat/golem/room16.c line 50 :syntax error
+wizards/veron/areat/golem/room16.c line 57 :Illegal LHS
+wizards/veron/areat/golem/room16.c line 49 :syntax error
+wizards/veron/areat/golem/room16.c line 53 :syntax error
+wizards/veron/areat/golem/room16.c line 57 :Illegal LHS
+wizards/veron/areat/golem/room16.c line 49 :syntax error
+wizards/veron/areat/golem/room16.c line 53 :syntax error
+wizards/veron/areat/golem/room16.c line 57 :Illegal LHS
+wizards/veron/areat/golem/room16.c line 49 :syntax error
+wizards/veron/areat/golem/room16.c line 50 :syntax error
+wizards/veron/areat/golem/room16.c line 57 :Illegal LHS
+wizards/veron/areat/golem/room16.c line 50 :syntax error
+wizards/veron/areat/golem/room16.c line 52 :syntax error
+wizards/veron/areat/golem/room16.c line 59 :Illegal LHS
+wizards/veron/areat/golem/room16.c line 50 :syntax error
+wizards/veron/areat/golem/room16.c line 59 :Illegal LHS
+wizards/veron/areat/golem/room16.c line 50 :syntax error
+wizards/veron/areat/golem/room16.c line 59 :Illegal LHS
+wizards/veron/areat/golem/room16.c line 50 :syntax error
+wizards/veron/areat/golem/room16.c line 68 :Illegal LHS
+wizards/veron/areat/golem/room16.c line 68 :Illegal LHS
+wizards/veron/areat/golem/room16.c line 68 :Illegal LHS
+wizards/veron/areat/golem/room16.c line 68 :Illegal LHS
+wizards/veron/areat/golem/room16.c line 50 :syntax error
+wizards/veron/areat/golem/room16.c line 68 :Illegal LHS
+wizards/veron/areat/golem/room16.c line 68 :Illegal LHS
+wizards/veron/areat/golem/room16.c line 68 :Illegal LHS
+wizards/veron/areat/golem/room16.c line 68 :Illegal LHS
+wizards/veron/areat/golem/room16.c line 50 :syntax error
+wizards/veron/areat/golem/room16.c line 50 :syntax error
+wizards/veron/areat/golem/room16.c line 50 :syntax error
+wizards/veron/areat/golem/room16.c line 50 :syntax error
+wizards/veron/areat/golem/room16.c line 50 :syntax error
+wizards/veron/areat/golem/room16.c line 50 :syntax error
+wizards/veron/areat/golem/room16.c line 50 :syntax error
+wizards/veron/areat/golem/room16.c line 52 :syntax error
+wizards/veron/areat/golem/room16.c line 50 :syntax error
+wizards/veron/areat/golem/room16.c line 50 :Illegal LHS
+wizards/veron/areat/golem/room16.c line 50 :syntax error
+wizards/veron/areat/golem/room16.c line 50 :Illegal LHS
+wizards/veron/areat/golem/room16.c line 50 :syntax error
+wizards/veron/areat/golem/room16.c line 50 :Illegal LHS
+wizards/veron/areat/golem/room16.c line 50 :syntax error
+wizards/veron/areat/golem/room16.c line 55 :syntax error
+wizards/veron/areat/golem/room16.c line 72 :syntax error
+wizards/veron/areat/golem/room16.c line 79 :syntax error
+wizards/veron/areat/golem/room16.c line 72 :syntax error
+wizards/veron/areat/golem/room16.c line 79 :syntax error
+wizards/veron/areat/golem/mobs/raphael.c line 17 :syntax error
+wizards/veron/areat/golem/mobs/raphael.c line 27 :Too few arguments to clone_object
+wizards/veron/areat/golem/mobs/raphael.c line 27 :Illegal LHS
+wizards/veron/areat/golem/mobs/raphael.c line 27 :syntax error
+wizards/veron/areat/golem/mobs/raphael.c line 30 :Too few arguments to clone_object
+wizards/veron/areat/golem/mobs/raphael.c line 30 :Illegal LHS
+wizards/veron/areat/golem/mobs/raphael.c line 17 :syntax error
+wizards/veron/areat/golem/mobs/raphael.c line 27 :Too few arguments to clone_object
+wizards/veron/areat/golem/mobs/raphael.c line 27 :Illegal LHS
+wizards/veron/areat/golem/mobs/raphael.c line 27 :syntax error
+wizards/veron/areat/golem/mobs/raphael.c line 30 :Too few arguments to clone_object
+wizards/veron/areat/golem/mobs/raphael.c line 30 :Illegal LHS
+wizards/veron/areat/golem/mobs/raphael.c line 17 :syntax error
+wizards/veron/areat/golem/mobs/raphael.c line 27 :Too few arguments to clone_object
+wizards/veron/areat/golem/mobs/raphael.c line 27 :Illegal LHS
+wizards/veron/areat/golem/mobs/raphael.c line 27 :syntax error
+wizards/veron/areat/golem/mobs/raphael.c line 30 :Too few arguments to clone_object
+wizards/veron/areat/golem/mobs/raphael.c line 30 :Illegal LHS
+wizards/veron/areat/golem/mobs/raphael.c line 31 :syntax error
+wizards/veron/areat/golem/mobs/raphael.c line 31 :Illegal LHS
+wizards/veron/areat/golem/mobs/raphael.c line 8 :Variable i not declared !
+wizards/veron/areat/golem/mobs/raphael.c line 8 :Variable i not declared !
+wizards/veron/areat/golem/items/mokka.c line 13 :syntax error
+wizards/veron/areat/golem/mobs/seagull.c line 17 :Variable chat_str not declared !
+wizards/veron/areat/golem/mobs/seagull.c line 18 :Variable chat_str not declared !
+wizards/veron/areat/golem/mobs/seagull.c line 19 :Variable chat_str not declared !
+wizards/veron/areat/golem/mobs/seagull.c line 20 :Variable chat_str not declared !
+wizards/veron/areat/golem/mobs/seagull.c line 23 :Variable chat_str not declared !
+wizards/veron/areat/golem/mobs/seagull.c line 17 :Variable chat_str not declared !
+wizards/veron/areat/golem/mobs/seagull.c line 18 :Variable chat_str not declared !
+wizards/veron/areat/golem/mobs/seagull.c line 19 :Variable chat_str not declared !
+wizards/veron/areat/golem/mobs/seagull.c line 20 :Variable chat_str not declared !
+wizards/veron/areat/golem/mobs/seagull.c line 23 :Variable chat_str not declared !
+wizards/veron/areat/golem/mobs/seagull.c line 17 :Variable chat_str not declared !
+wizards/veron/areat/golem/mobs/seagull.c line 18 :Variable chat_str not declared !
+wizards/veron/areat/golem/mobs/seagull.c line 19 :Variable chat_str not declared !
+wizards/veron/areat/golem/mobs/seagull.c line 20 :Variable chat_str not declared !
+wizards/veron/areat/golem/mobs/seagull.c line 23 :Variable chat_str not declared !
+wizards/veron/areat/golem/mobs/raphael.c line 5 :syntax error
+wizards/veron/areat/golem/mobs/raphael.c line 5 :syntax error
+wizards/veron/areat/golem/mobs/raphael.c line 40 :syntax error
+wizards/veron/areat/golem/mobs/raphael.c line 41 :syntax error
+wizards/veron/areat/golem/mobs/raphael.c line 47 :Too few arguments to clone_object
+wizards/veron/areat/golem/mobs/raphael.c line 47 :Illegal LHS
+wizards/veron/areat/golem/mobs/raphael.c line 47 :syntax error
+wizards/veron/areat/golem/mobs/raphael.c line 50 :Too few arguments to clone_object
+wizards/veron/areat/golem/mobs/raphael.c line 40 :syntax error
+wizards/veron/areat/golem/mobs/raphael.c line 41 :syntax error
+wizards/veron/areat/golem/mobs/raphael.c line 47 :Too few arguments to clone_object
+wizards/veron/areat/golem/mobs/raphael.c line 47 :Illegal LHS
+wizards/veron/areat/golem/mobs/raphael.c line 47 :syntax error
+wizards/veron/areat/golem/mobs/raphael.c line 50 :Too few arguments to clone_object
+wizards/veron/areat/golem/mobs/raphael.c line 40 :syntax error
+wizards/veron/areat/golem/mobs/raphael.c line 41 :syntax error
+wizards/veron/areat/golem/mobs/raphael.c line 47 :Too few arguments to clone_object
+wizards/veron/areat/golem/mobs/raphael.c line 47 :Illegal LHS
+wizards/veron/areat/golem/mobs/raphael.c line 47 :syntax error
+wizards/veron/areat/golem/mobs/raphael.c line 50 :Too few arguments to clone_object
+wizards/veron/areat/golem/mobs/raphael.c line 40 :syntax error
+wizards/veron/areat/golem/mobs/raphael.c line 41 :syntax error
+wizards/veron/areat/golem/mobs/raphael.c line 47 :Too few arguments to clone_object
+wizards/veron/areat/golem/mobs/raphael.c line 47 :Illegal LHS
+wizards/veron/areat/golem/mobs/raphael.c line 47 :syntax error
+wizards/veron/areat/golem/mobs/raphael.c line 50 :Too few arguments to clone_object
+wizards/veron/areat/golem/room2.c line 2 :syntax error
+wizards/veron/areat/golem/room3.c line 2 :syntax error
+wizards/veron/areat/golem/kellari.c line 2 :syntax error
+wizards/veron/areat/golem/kellari2.c line 2 :syntax error
+wizards/veron/areat/golem//room16.c line 75 :syntax error
+wizards/veron/areat/golem//room16.c line 78 :Illegal LHS
+wizards/veron/areat/golem//room16.c line 75 :syntax error
+wizards/veron/areat/golem//room16.c line 78 :Illegal LHS
+wizards/veron/areat/golem//room16.c line 75 :syntax error
+wizards/veron/areat/golem//room16.c line 78 :Illegal LHS
+wizards/veron/areat/golem//room16.c line 75 :syntax error
+wizards/veron/areat/golem//room16.c line 78 :Illegal LHS
+Sun Nov 11 23:47:57 2001 Desencantar, the iron golem (/wizards/veron/areat/golem/mobs/desen#28075, 70) killed by Terror (170) (Terror, Piikki, Tekari)
+wizards/veron/areat/cotd/street1.c line 21 :syntax error
+wizards/veron/areat/cotd/street1.c line 21 :syntax error
+wizards/veron/workroom.c line 6 :Illegal character (hex 5c) '\'
+wizards/veron/workroom.c line 6 :syntax error
+wizards/veron/workroom.c line 6 :Illegal character (hex 5c) '\'
+wizards/veron/workroom.c line 6 :syntax error
+wizards/veron/areat/cotd/bs1.c line 5 :syntax error
+wizards/veron/areat/cotd/bs1.c line 7 :syntax error
+wizards/veron/areat/cotd/bs1.c line 9 :Illegal LHS
+wizards/veron/areat/cotd/bs1.c line 10 :Variable monster not declared !
+wizards/veron/areat/cotd/bs1.c line 13 :syntax error
+wizards/veron/areat/cotd/mobs/bsmith.c line 9 :Variable i not declared !
+Wed Nov 14 01:21:18 2001 Raphael, the exorcist (/wizards/veron/areat/golem/mobs/raphael#23500, 70) killed by Terror (173) (Terror, Piikki, Tekari)
+Wed Nov 14 23:25:07 2001 Raphael, the exorcist (/wizards/veron/areat/golem/mobs/raphael#1895, 71) killed by Terror (175) (Terror, Piikki, Tekari, )
+Sat Nov 17 22:31:03 2001 Raphael, the exorcist (/wizards/veron/areat/golem/mobs/raphael#23098, 71) killed by Terror (175) (Terror, Piikki, Tekari, Gorth)
+wizards/veron/areat/cotd/inn1.c line 25 :Newline in string
+wizards/veron/areat/cotd/inn1.c line 25 :Newline in string
+wizards/veron/areat/cotd/inn1.c line 25 :Newline in string
+wizards/veron/areat/cotd/inn1.c line 20 :syntax error
+wizards/veron/areat/cotd/inn1.c line 31 :syntax error
+wizards/veron/areat/cotd/inn1.c line 51 :syntax error
+wizards/veron/areat/cotd/inn1.c line 21 :syntax error
+wizards/veron/areat/cotd/inn1.c line 32 :syntax error
+wizards/veron/areat/cotd/inn1.c line 21 :syntax error
+wizards/veron/areat/cotd/inn1.c line 32 :syntax error
+wizards/veron/areat/cotd/inn1.c line 51 :syntax error
+wizards/veron/areat/cotd/inn1.c line 21 :syntax error
+wizards/veron/areat/cotd/inn1.c line 32 :syntax error
+wizards/veron/areat/cotd/inn1.c line 21 :syntax error
+wizards/veron/areat/cotd/inn1.c line 38 :syntax error
+wizards/veron/areat/cotd/inn1.c line 56 :syntax error
+wizards/veron/areat/cotd/inn1.c line 63 :syntax error
+wizards/veron/areat/cotd/inn1.c line 57 :syntax error
+wizards/veron/areat/cotd/inn1.c line 62 :syntax error
+wizards/veron/areat/cotd/inn1.c line 57 :syntax error
+wizards/veron/areat/cotd/inn1.c line 68 :syntax error
+wizards/veron/areat/cotd/inn1.c line 57 :syntax error
+wizards/veron/areat/cotd/inn1.c line 62 :syntax error
+wizards/veron/areat/cotd/inn1.c line 57 :syntax error
+wizards/veron/areat/cotd/inn1.c line 62 :syntax error
+wizards/veron/areat/cotd/inn1.c line 57 :syntax error
+wizards/veron/areat/cotd/inn1.c line 63 :syntax error
+wizards/veron/areat/cotd/inn1.c line 57 :syntax error
+wizards/veron/areat/cotd/inn1.c line 57 :syntax error
+wizards/veron/areat/cotd/inn1.c line 62 :syntax error
+wizards/veron/areat/cotd/inn1.c line 63 :syntax error
+wizards/veron/areat/cotd/inn1.c line 63 :syntax error
+wizards/veron/areat/cotd/inn1.c line 62 :syntax error
+wizards/veron/areat/cotd/inn1.c line 62 :syntax error
+wizards/veron/areat/cotd/inn1.c line 62 :syntax error
+wizards/veron/areat/cotd/inn1.c line 62 :syntax error
+Fri Dec 21 21:13:22 2001 Raphael, the exorcist (/wizards/veron/areat/golem/mobs/raphael#10547, 71) killed by Trooper (171) (Trooper, ghost of bloodstorm, Jenny)
+Sun Jan 13 00:41:25 2002 Desencantar, the iron golem (/wizards/veron/areat/golem/mobs/desen#10199, 67) killed by Trooper (196) (ghost of jenny, Trooper, Bloodstorm)
+Sun Jan 27 22:35:47 2002 Raphael, the exorcist (/wizards/veron/areat/golem/mobs/raphael#4321, 73) killed by Jenny (184) (Jenny, Terror, ghost of piikki)
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 69 :syntax error
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 71 :Illegal LHS
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 72 :Variable i not declared !
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 81 :syntax error
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 70 :syntax error
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 72 :Illegal LHS
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 82 :syntax error
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 70 :syntax error
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 72 :Illegal LHS
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 82 :syntax error
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 70 :syntax error
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 72 :Illegal LHS
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 82 :syntax error
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 70 :syntax error
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 72 :Illegal LHS
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 70 :syntax error
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 72 :Illegal LHS
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 70 :syntax error
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 72 :Illegal LHS
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 70 :syntax error
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 72 :Illegal LHS
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 81 :syntax error
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 70 :syntax error
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 72 :Illegal LHS
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 81 :syntax error
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 70 :syntax error
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 72 :Illegal LHS
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 81 :syntax error
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 70 :syntax error
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 72 :Illegal LHS
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 82 :syntax error
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 70 :syntax error
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 72 :Illegal LHS
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 82 :syntax error
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 70 :syntax error
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 72 :Illegal LHS
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 81 :syntax error
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 70 :syntax error
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 72 :Illegal LHS
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 81 :syntax error
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 71 :syntax error
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 73 :Illegal LHS
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 82 :syntax error
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 71 :syntax error
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 73 :Illegal LHS
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 82 :syntax error
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 71 :syntax error
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 73 :Illegal LHS
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 82 :syntax error
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 71 :syntax error
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 79 :syntax error
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 71 :syntax error
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 79 :syntax error
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 71 :syntax error
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 79 :syntax error
+wizards/veron/areat/golem/mobs/lastimada/lastimada.c line 72 :syntax error
+wizards/veron/areat/cotd/cs.c line 27 :syntax error
+wizards/veron/areat/cotd/cs.c line 27 :syntax error
+wizards/veron/areat/cotd/cs.c line 27 :syntax error
+wizards/veron/areat/cotd/cs.c line 27 :syntax error
+wizards/veron/areat//golem/mobs/lastimada/lastimada.c line 27 :syntax error
+wizards/veron/areat/cotd/bakery.c line 11 :Newline in string
+wizards/veron/areat/cotd/bakery.c line 12 :Newline in string
+wizards/veron/areat/cotd/bakery.c line 13 :Newline in string
+wizards/veron/areat/cotd/bakery.c line 14 :Newline in string
+wizards/veron/areat/cotd/bakery.c line 15 :Newline in string
+wizards/veron/areat/cotd/bakery.c line 17 :syntax error
+wizards/veron/areat/cotd/bakery.c line 15 :syntax error
+wizards/veron/areat/golem/mobs/lastimada/feature.c line 13 :syntax error
+wizards/veron/areat/golem//mobs/lastimada/lasti.c line 73 :syntax error
+wizards/veron/areat/golem//mobs/lastimada/lasti.c line 86 :Variable More not declared !
+wizards/veron/areat/golem//mobs/lastimada/lasti.c line 86 :syntax error
+wizards/veron/areat/golem//mobs/lastimada/lasti.c line 86 :Illegal character (hex ffffffe4) 'ä'
+wizards/veron/areat/golem//mobs/lastimada/lasti.c line 86 :Illegal character (hex ffffffe4) 'ä'
+wizards/veron/areat/golem//mobs/lastimada/lasti.c line 86 :Illegal character (hex 2e) '.'
+wizards/veron/areat/golem/mobs/lastimada/lasti.c line 70 :syntax error
+wizards/veron/areat/golem/mobs/lastimada/lasti.c line 99 :syntax error
+wizards/veron/areat/golem/mobs/lastimada/lasti.c line 70 :syntax error
+wizards/veron/areat/golem/mobs/lastimada/lasti.c line 99 :syntax error
+wizards/veron/areat/golem/mobs/lastimada/lasti.c line 70 :syntax error
+wizards/veron/areat/golem/mobs/lastimada/lasti.c line 69 :syntax error
+wizards/veron/areat/golem/mobs/lastimada/lasti.c line 49 :syntax error
+wizards/veron/areat/golem/mobs/lastimada/lasti.c line 83 :syntax error
+Sun Mar 10 17:39:28 2002 Raphael, the exorcist (/wizards/veron/areat/golem/mobs/raphael#1221, 70) killed by Jenny (178) (Devil, Jenny, Ozmolokki)
+Sun May 26 15:04:55 2002 Lastimada the ancient griffin(strong) (/wizards/veron/areat/golem/mobs/lastimada/lastimada#4996, 73) killed by Jenny (203) (Jenny, Celes, Golthar)
+wizards/veron/areat/cotd/mobs/carcass.c line 14 :syntax error
+wizards/veron/areat/cotd/mobs/carcass.c line 25 :Too few arguments to clone_object
+wizards/veron/areat/cotd/mobs/carcass.c line 25 :Illegal LHS
+wizards/veron/areat/cotd/mobs/carcass.c line 25 :syntax error
+wizards/veron/areat/cotd/mobs/carcass.c line 14 :syntax error
+wizards/veron/areat/cotd/mobs/carcass.c line 25 :Too few arguments to clone_object
+wizards/veron/areat/cotd/mobs/carcass.c line 25 :Illegal LHS
+wizards/veron/areat/cotd/mobs/carcass.c line 25 :syntax error
+wizards/veron/areat/cotd/inn5.c line 61 :syntax error
+wizards/veron/areat/cotd/inn5.c line 65 :syntax error
+wizards/veron/areat/cotd/inn5.c line 67 :Illegal LHS
+wizards/veron/areat/cotd/inn5.c line 61 :syntax error
+wizards/veron/areat/cotd/inn5.c line 65 :syntax error
+wizards/veron/areat/cotd/inn5.c line 67 :Illegal LHS
+wizards/veron/areat/cotd/inn5.c line 1 :Unrecognized inheritance modifier qualifier
+wizards/veron/areat/cotd/inn5.c line 1 :Unrecognized inheritance modifier qualifier
+wizards/veron/areat/cotd/inn5.c line 1 :Unrecognized inheritance modifier qualifier
+wizards/veron/areat/cotd/inn5.c line 1 :Newline in string
+wizards/veron/areat/cotd/inn5.c line 1 :syntax error
+wizards/veron/areat/cotd/office.c line 9 :Newline in string
+wizards/veron/areat/cotd/office.c line 10 :syntax error
+wizards/veron/areat/cotd/mobs/duck.c line 18 :syntax error
+wizards/veron/areat/cotd/mobs/mayor.c line 39 :Variable wepa not declared !
+wizards/veron/areat/cotd/mobs/mayor.c line 40 :Variable wepa not declared !
+wizards/veron/areat/cotd/mobs/duck.c line 18 :syntax error
+wizards/veron/areat/cotd/mobs/mayor.c line 39 :Variable wepa not declared !
+wizards/veron/areat/cotd/mobs/mayor.c line 40 :Variable wepa not declared !
+wizards/veron/areat/cotd/ceme1.c line 3 :Type mismatch ( unknown vs mixed ) when initializing sammu
+wizards/veron/areat/cotd/ceme1.c line 3 :Missing type
+wizards/veron/areat/cotd/ceme1.c line 31 :syntax error
+wizards/veron/areat/cotd/ceme1.c line 3 :Type mismatch ( unknown vs mixed ) when initializing sammu
+wizards/veron/areat/cotd/ceme1.c line 3 :Missing type
+wizards/veron/areat/cotd/ceme1.c line 31 :syntax error
+wizards/veron/areat/cotd/ceme1.c line 31 :syntax error
+wizards/veron/areat/cotd/ceme1.c line 31 :syntax error
+wizards/veron/areat/cotd/ceme1.c line 72 :syntax error
+wizards/veron/areat/cotd/ceme1.c line 31 :syntax error
+wizards/veron/areat/cotd/ceme1.c line 72 :syntax error
+wizards/veron/areat/cotd/ceme1.c line 31 :syntax error
+wizards/veron/areat/cotd/ceme1.c line 72 :syntax error
+wizards/veron/areat/cotd/ceme1.c line 31 :syntax error
+wizards/veron/areat/cotd/ceme1.c line 72 :syntax error
+wizards/veron/areat/cotd/ceme1.c line 31 :syntax error
+wizards/veron/areat/cotd/ceme1.c line 72 :syntax error
+wizards/veron/areat/cotd/ceme1.c line 31 :syntax error
+wizards/veron/areat/cotd/ceme1.c line 72 :syntax error
+wizards/veron/areat/cotd/ceme1.c line 31 :syntax error
+wizards/veron/areat/cotd/ceme1.c line 72 :syntax error
+wizards/veron/areat/cotd/ceme1.c line 31 :syntax error
+wizards/veron/areat/cotd/ceme1.c line 31 :syntax error
+wizards/veron/areat/cotd/ceme1.c line 30 :syntax error
+wizards/veron/areat/cotd/ceme1.c line 16 :Variable sammu not declared !
+wizards/veron/areat/cotd/ceme1.c line 29 :syntax error
+wizards/veron/areat/cotd/ceme1.c line 47 :Variable sammu not declared !
+wizards/veron/areat/cotd/ceme1.c line 16 :Variable sammu not declared !
+wizards/veron/areat/cotd/ceme1.c line 29 :syntax error
+wizards/veron/areat/cotd/ceme1.c line 28 :syntax error
+wizards/veron/areat/cotd/ceme1.c line 9 :Type mismatch ( unknown vs string ) when initializing short_desc
+wizards/veron/areat/cotd/ceme1.c line 9 :Missing type
+wizards/veron/areat/cotd/ceme1.c line 14 :Type mismatch ( unknown vs mixed ) when initializing long_desc
+wizards/veron/areat/cotd/ceme1.c line 14 :Missing type
+wizards/veron/areat/cotd/ceme1.c line 16 :Type mismatch ( unknown vs mixed * ) when initializing items
+wizards/veron/areat/cotd/ceme1.c line 16 :Missing type
+wizards/veron/areat/cotd/ceme1.c line 28 :syntax error
+wizards/veron/areat/cotd/mobs/mayor.c line 39 :Variable wepa not declared !
+wizards/veron/areat/cotd/mobs/mayor.c line 40 :Variable wepa not declared !
+wizards/veron/areat/cotd/mobs/mayor.c line 68 :syntax error
+wizards/veron/areat/cotd/mobs/mayor.c line 70 :Variable target_name not declared !
+wizards/veron/areat/cotd/mobs/mayor.c line 77 :Variable target_name not declared !
+wizards/veron/areat/cotd/mobs/mayor.c line 82 :syntax error
+wizards/veron/areat/cotd/mobs/mayor.c line 68 :syntax error
+wizards/veron/areat/cotd/mobs/mayor.c line 70 :Variable target_name not declared !
+wizards/veron/areat/cotd/mobs/mayor.c line 77 :Variable target_name not declared !
+wizards/veron/areat/cotd/mobs/mayor.c line 69 :syntax error
+wizards/veron/areat/cotd/mobs/mayor.c line 71 :Illegal LHS
+wizards/veron/areat/cotd/mobs/mayor.c line 69 :syntax error
+wizards/veron/areat/cotd/mobs/mayor.c line 71 :Illegal LHS
+wizards/veron/areat/cotd/mobs/mayor.c line 83 :syntax error
+wizards/veron/areat/cotd/mobs/mayor.c line 69 :syntax error
+wizards/veron/areat/cotd/mobs/mayor.c line 71 :Illegal LHS
+wizards/veron/areat/cotd/mobs/mayor.c line 83 :syntax error
+wizards/veron/areat/cotd/mobs/mayor.c line 69 :syntax error
+wizards/veron/areat/cotd/mobs/mayor.c line 68 :syntax error
+wizards/veron/areat/cotd/mobs/mayor.c line 68 :syntax error
+wizards/veron/areat/cotd/mobs/mayor.c line 68 :syntax error
+wizards/veron/areat/cotd/mobs/mayor.c line 68 :syntax error
+wizards/veron/areat/cotd/mobs/mayor.c line 68 :syntax error
+wizards/veron/areat/cotd/mayor2.c line 10 :syntax error
+wizards/veron/areat/cotd/mayor2.c line 10 :syntax error
+Tue Jun 25 07:32:24 2002 Justin, the mayor of Remick(strong) (/wizards/veron/areat/cotd/mobs/mayor#6756, 66) killed by Horde (115) 
+Sun Jul  7 04:20:05 2002 Desencantar, the iron golem(strong) (/wizards/veron/areat/golem/mobs/desen#3439, 70) killed by Trooper (217) 
+Fri Nov 15 19:36:00 2002 Desencantar, the iron golem(strong) (/wizards/veron/areat/golem/mobs/desen#1851, 68) killed by Trooper (238) 
+Fri Jan 24 19:00:39 2003 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#18161, 72) killed by Demon (38) 
+Sat Jan 25 14:01:26 2003 Desencantar, the iron golem(strong) (/wizards/veron/areat/golem/mobs/desen#2333, 69) killed by Demon (37) 
+Sun Jan 26 05:58:32 2003 Lastimada the ancient griffin(strong) (/wizards/veron/areat/golem/mobs/lastimada/lastimada#43498, 66) killed by Demon (24) 
+Sun Jan 26 21:44:06 2003 Desencantar, the iron golem(strong) (/wizards/veron/areat/golem/mobs/desen#8268, 69) killed by Demon (36) 
+Sun Jan 26 22:26:16 2003 Lastimada the ancient griffin(strong) (/wizards/veron/areat/golem/mobs/lastimada/lastimada#8400, 69) killed by Demon (36) 
+Mon Jan 27 18:12:51 2003 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#3600, 72) killed by Demon (45) 
+Sun Jun 15 19:25:56 2003 Justin, the mayor of Remick(strong) (/wizards/veron/areat/cotd/mobs/mayor#2598, 69) killed by Drakhor (209) 
+Wed Aug 20 19:05:09 2003 Justin, the mayor of Remick(strong) (/wizards/veron/areat/cotd/mobs/mayor#4733, 67) killed by Drakhor (238) 
+Sat Mar 13 02:28:15 2004 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#2085, 70) killed by Bloodstorm (200) 
+Wed Mar 17 03:46:10 2004 Justin, the mayor of Remick(strong) (/wizards/veron/areat/cotd/mobs/mayor#1838, 65) killed by Trooper (214) 
+Tue Mar 23 15:30:17 2004 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#26571, 71) killed by Jenny (222) 
+Sun Apr  4 01:18:37 2004 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#3133, 70) killed by Bloodstorm (243) 
+Tue Jun  1 16:30:28 2004 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#11933, 74) killed by Reaper (259) 
+Thu Sep 23 13:06:35 2004 Lastimada the ancient griffin(strong) (/wizards/veron/areat/golem/mobs/lastimada/lastimada#16006, 67) killed by Reaper (361) 
+Fri Dec 03 17:24:04 2004 Desencantar, the iron golem(strong) (/wizards/veron/areat/golem/mobs/desen#19729, 69) killed by Golthar (239) 
+Fri Dec 10 18:57:30 2004 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#44985, 73) killed by Celes (216) 
+Sun Dec 19 13:38:00 2004 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#5367, 73) killed by Trooper (234) 
+Tue Dec 21 12:43:11 2004 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#11180, 71) killed by Golthar (246) 
+Fri Jan 21 20:35:59 2005 Desencantar, the iron golem(strong) (/wizards/veron/areat/golem/mobs/desen#25120, 70) killed by Madk (180) 
+Fri Feb 11 18:24:12 2005 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#13691, 71) killed by Kaappi (265) 
+Sat Feb 12 12:39:11 2005 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#1404, 71) killed by Kaappi (265) 
+Sun Feb 13 08:30:21 2005 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#439, 72) killed by Kaappi (265) 
+Tue Feb 15 15:05:09 2005 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#12078, 74) killed by Kaappi (265) 
+Tue Feb 15 16:53:54 2005 Desencantar, the iron golem(strong) (/wizards/veron/areat/golem/mobs/desen#16259, 70) killed by Kaappi (265) 
+Tue Mar 01 18:53:18 2005 Justin, the mayor of Remick(strong) (/wizards/veron/areat/cotd/mobs/mayor#19245, 65) killed by Kaappi (280) 
+Thu Mar 03 12:15:30 2005 Justin, the mayor of Remick(strong) (/wizards/veron/areat/cotd/mobs/mayor#4373, 66) killed by Kaappi (280) 
+Mon Jul 04 02:16:55 2005 Desencantar, the iron golem(strong) (/wizards/veron/areat/golem/mobs/desen#13142, 69) killed by Atw (134) 
+Sun Oct 30 00:24:43 2005 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#55580, 73) killed by Ntg (229) 
+Sun Oct 30 00:39:41 2005 Desencantar, the iron golem(strong) (/wizards/veron/areat/golem/mobs/desen#57510, 68) killed by Ntg (229) 
+Tue Nov 01 00:32:39 2005 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#36824, 74) killed by Elric (209) 
+Thu Nov 03 18:57:27 2005 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#25316, 71) killed by Elric (184) 
+Mon Nov 28 23:17:40 2005 Desencantar, the iron golem(strong) (/wizards/veron/areat/golem/mobs/desen#26632, 69) killed by Golthar (293) 
+Tue Nov 29 12:22:32 2005 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#2768, 72) killed by Ntg (242) 
+Sun Dec 04 17:07:44 2005 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#5976, 74) killed by Golthar (293) 
+Tue Dec 27 02:11:41 2005 Justin, the mayor of Remick(strong) (/wizards/veron/areat/cotd/mobs/mayor#18727, 65) killed by Ntg (270) 
+Wed Dec 28 13:36:56 2005 Justin, the mayor of Remick(strong) (/wizards/veron/areat/cotd/mobs/mayor#12901, 65) killed by Ntg (270) 
+Thu Dec 29 14:26:14 2005 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#7201, 74) killed by Kaappi (296) 
+Thu Dec 29 20:09:55 2005 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#10554, 70) killed by Ntg (269) 
+Fri Dec 30 12:02:39 2005 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#2376, 73) killed by Kaappi (296) 
+Sat Jan 07 14:29:29 2006 Desencantar, the iron golem(strong) (/wizards/veron/areat/golem/mobs/desen#7311, 72) killed by Golthar (293) 
+Wed Jun 14 16:13:25 2006 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#3519, 70) killed by Ntg (290) 
+Sat Jun 24 20:52:50 2006 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#10595, 72) killed by Reaper (195) 
+Mon Jul 31 07:27:57 2006 Justin, the mayor of Remick(strong) (/wizards/veron/areat/cotd/mobs/mayor#1982, 66) killed by Devil (180) 
+Mon Nov 13 15:08:36 2006 Justin, the mayor of Remick(strong) (/wizards/veron/areat/cotd/mobs/mayor#1861, 66) killed by Nightwish (161) 
+Mon Nov 13 16:19:06 2006 Justin, the mayor of Remick(strong) (/wizards/veron/areat/cotd/mobs/mayor#2949, 66) killed by Ntg (290) 
+Wed Nov 15 13:36:18 2006 Justin, the mayor of Remick(strong) (/wizards/veron/areat/cotd/mobs/mayor#441, 67) killed by Nightwish (162) 
+Thu Nov 23 23:44:24 2006 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#6017, 71) killed by Ntg (297) 
+Fri Nov 24 00:00:32 2006 Desencantar, the iron golem(strong) (/wizards/veron/areat/golem/mobs/desen#6333, 72) killed by Ntg (297) 
+Sat Jan 06 16:58:27 2007 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#10385, 70) killed by Elric (303) 
+Sat Jan 06 17:25:19 2007 Desencantar, the iron golem(strong) (/wizards/veron/areat/golem/mobs/desen#11197, 72) killed by Elric (303) 
+Fri Jul 20 15:57:39 2007 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#4193, 70) killed by Alardolath (168) 
+Fri Nov 30 17:19:50 2007 Justin, the mayor of Remick(strong) (/wizards/veron/areat/cotd/mobs/mayor#18463, 66) killed by Nightwish (235) 
+Wed Dec 19 02:24:45 2007 Justin, the mayor of Remick(strong) (/wizards/veron/areat/cotd/mobs/mayor#38329, 67) killed by Bloodstorm (285) 
+Sun Dec 30 03:37:35 2007 Desencantar, the iron golem(strong) (/wizards/veron/areat/golem/mobs/desen#23124, 68) killed by Bloodstorm (286) 
+Sun Dec 30 03:50:35 2007 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#22879, 71) killed by Bloodstorm (286) 
+Fri Jan 04 18:06:53 2008 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#18997, 70) killed by Bloodstorm (286) 
+Mon Jan 07 03:22:21 2008 Desencantar, the iron golem(strong) (/wizards/veron/areat/golem/mobs/desen#181495, 70) killed by Bloodstorm (286) 
+Sun Jan 13 19:09:15 2008 Desencantar, the iron golem(strong) (/wizards/veron/areat/golem/mobs/desen#313119, 68) killed by Devil (223) 
+Tue Jan 15 23:09:35 2008 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#269328, 71) killed by Devil (223) 
+Sat Jan 19 22:43:37 2008 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#27898, 70) killed by Alardolath (242) 
+Sun Jan 20 12:37:42 2008 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#2285, 74) killed by Devil (223) 
+Sat Jan 26 10:24:23 2008 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#886, 72) killed by Alardolath (243) 
+Mon Feb 18 12:52:17 2008 Justin, the mayor of Remick(strong) (/wizards/veron/areat/cotd/mobs/mayor#10774, 67) killed by Olsma (229) 
+Thu Feb 21 15:25:24 2008 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#18463, 74) killed by Olsma (229) 
+Sun Feb 24 17:05:46 2008 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#26645, 71) killed by Ntg (243) 
+Tue Feb 26 18:22:04 2008 Justin, the mayor of Remick(strong) (/wizards/veron/areat/cotd/mobs/mayor#24642, 69) killed by Elric (400) 
+Fri Mar 07 11:54:53 2008 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#1484, 74) killed by Alardolath (249) 
+Sat Mar 08 10:19:51 2008 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#6485, 73) killed by Alardolath (250) 
+Sat Apr 05 13:57:42 2008 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#11672, 70) killed by Ntg (291) 
+Fri Apr 25 13:33:05 2008 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#3099, 74) killed by Olsma (230) 
+Thu May 22 23:20:12 2008 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#22506, 70) killed by Olsma (230) 
+Fri May 23 15:20:00 2008 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#8873, 74) killed by Olsma (230) 
+Thu Aug 14 22:25:48 2008 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#18096, 74) killed by Alardolath (267) 
+Sat Sep 13 11:14:53 2008 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#7972, 73) killed by Ntg (387) 
+Sun Oct 05 23:28:52 2008 Lastimada the ancient griffin(strong) (/wizards/veron/areat/golem/mobs/lastimada/lastimada#24558, 68) killed by Ntg (400) 
+Tue Oct 14 11:11:14 2008 Lastimada the ancient griffin(strong) (/wizards/veron/areat/golem/mobs/lastimada/lastimada#3673, 73) killed by Golthar (400) 
+Tue Oct 21 10:59:55 2008 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#1142, 94) killed by Golthar (400) 
+Wed Oct 22 19:20:07 2008 Desencantar, the iron golem(strong) (/wizards/veron/areat/golem/mobs/desen#8128, 72) killed by Ntg (400) 
+Thu Nov 13 22:42:02 2008 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#14245, 71) killed by Ntg (400) 
+Thu Dec 04 13:46:34 2008 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#5256, 72) killed by Ozmala (249) 
+Tue Dec 30 13:49:53 2008 Justin, the mayor of Remick(strong) (/wizards/veron/areat/cotd/mobs/mayor#8822, 69) killed by Laeh (241) 
+Sat Feb 14 11:51:16 2009 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#3715, 74) killed by Alardolath (446) 
+Sat Apr 04 10:19:26 2009 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#1178, 70) killed by Golthar (558) 
+Mon Jun 15 18:44:29 2009 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#209, 74) killed by Terror (408) 
+Tue Apr 20 10:03:32 2010 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#1652, 71) killed by Ozmala (246) 
+Sun Sep 05 15:02:11 2010 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#420, 70) killed by Ntg (558) 
+Mon Jun 06 16:00:50 2011 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#646, 74) killed by Koff (558) 
+Wed Sep 21 08:42:52 2011 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#210, 72) killed by Terror (558) 
+Mon Jan 09 19:05:50 2012 Raphael, the exorcist(strong) (/wizards/veron/areat/golem/mobs/raphael#10052, 73) killed by Ntg (558) 

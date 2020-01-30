@@ -1,0 +1,34 @@
+wizards/james/workroom.c line 5 :Variable this_object not declared !
+wizards/james/workroom.c line 5 :Too many arguments to clone_object
+wizards/james/monastery/room_10_10.c line 10 :Newline in string
+wizards/james/monastery/room_10_10.c line 11 :syntax error
+wizards/james/monastery/room_9_4.c line 10 :Newline in string
+wizards/james/monastery/room_9_4.c line 11 :syntax error
+wizards/james/monastery/room_9_6.c line 10 :Newline in string
+wizards/james/monastery/room_9_6.c line 11 :syntax error
+wizards/james/monastery/room_9_6.c line 10 :Newline in string
+wizards/james/monastery/room_9_6.c line 11 :syntax error
+wizards/james/monastery/room_9_6.c line 10 :Newline in string
+wizards/james/monastery/room_9_6.c line 11 :syntax error
+wizards/james/monastery/karbo.c line 45 :syntax error
+wizards/james/monastery/karbo.c line 45 :syntax error
+wizards/james/monastery/karboroom.c line 48 :syntax error
+wizards/james/monastery/karboroom.c line 52 :Illegal LHS
+wizards/james/monastery/karboroom.c line 52 :syntax error
+wizards/james/monastery/room_11_11.c line 6 :Variable dir not declared !
+wizards/james/monastery/room_11_11.c line 7 :Variable dir not declared !
+wizards/james/monastery/room_11_11.c line 19 :syntax error
+wizards/james/monastery/room_11_11.c line 6 :Variable dir not declared !
+wizards/james/monastery/room_11_11.c line 7 :Variable dir not declared !
+wizards/james/eval_file.c line 2 :Undefined function add_banish_name
+wizards/james/eval_file.c line 2 :Variable jenny not declared !
+wizards/james/eval_file.c line 2 :Variable joo not declared !
+wizards/james/eval_file.c line 2 :syntax error
+wizards/james/eval_file.c line 2 :syntax error
+wizards/james/eval_file.c line 2 :Undefined function add_sp
+wizards/james/eval_file.c line 2 :Bad argument number 1 to '-': "object "
+wizards/james/eval_file.c line 2 :syntax error
+wizards/james/eval_file.c line 2 :syntax error
+wizards/james/eval_file.c line 2 :Variable pepe not declared !
+wizards/james/eval_file.c line 2 :Variable hahaha not declared !
+wizards/james/workroom.c line 44 :syntax error

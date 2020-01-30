@@ -1,0 +1,1824 @@
+wizards/moonstar/workroom.c line 33 :Variable More not declared !
+wizards/moonstar/workroom.c line 33 :syntax error
+wizards/moonstar/workroom.c line 34 :Illegal LHS
+wizards/moonstar/workroom.c line 33 :Variable More not declared !
+wizards/moonstar/workroom.c line 33 :syntax error
+wizards/moonstar/workroom.c line 34 :Illegal LHS
+wizards/moonstar/workroom.c line 13 :syntax error
+wizards/moonstar/workroom.c line 13 :syntax error
+wizards/moonstar/workroom.c line 13 :syntax error
+wizards/moonstar/workroom.c line 13 :syntax error
+wizards/moonstar/areas/forest/monsut/sfox.c line 8 :syntax error
+wizards/moonstar/areas/forest/monsut/sfox.c line 9 :syntax error
+wizards/moonstar/areas/wasteland/eq/bboots.c line 8 :syntax error
+wizards/moonstar/areas/wasteland/eq/bboots.c line 8 :syntax error
+wizards/moonstar/test/wizu.c line 9 :syntax error
+wizards/moonstar/test/wizu.c line 11 :syntax error
+wizards/moonstar/test/wizu.c line 54 :Too few arguments to clone_object
+wizards/moonstar/test/wizu.c line 54 :Illegal LHS
+wizards/moonstar/test/wizu.c line 54 :Illegal LHS
+wizards/moonstar/test/wizu.c line 58 :Too few arguments to clone_object
+wizards/moonstar/test/wizu.c line 9 :syntax error
+wizards/moonstar/test/wizu.c line 11 :syntax error
+wizards/moonstar/test/wizu.c line 54 :Too few arguments to clone_object
+wizards/moonstar/test/wizu.c line 54 :Illegal LHS
+wizards/moonstar/test/wizu.c line 54 :Illegal LHS
+wizards/moonstar/test/wizu.c line 58 :Too few arguments to clone_object
+wizards/moonstar/areas/wasteland/monsut/watere.c line 6 :syntax error
+wizards/moonstar/areas/wasteland/monsut/bluewizard.c line 10 :Variable number_of_beasts not declared !
+wizards/moonstar/areas/wasteland/torni/room1.c line 3 :syntax error
+wizards/moonstar/areas/wasteland/torni/room5.c line 3 :syntax error
+wizards/moonstar/areas/wasteland/torni/room5.c line 3 :syntax error
+wizards/moonstar/areas/wasteland/torni/room5.c line 3 :syntax error
+wizards/moonstar/test/towershield.c line 6 :syntax error
+wizards/moonstar/test/towershield.c line 8 :syntax error
+wizards/moonstar/areas/wasteland/eq/lord_sword.c line 9 :syntax error
+wizards/moonstar/areas/wasteland/monsut/waterlord.c line 19 :Newline in string
+wizards/moonstar/areas/wasteland/monsut/waterlord.c line 21 :syntax error
+wizards/moonstar/areas/wasteland/monsut/waterlord.c line 35 :Too few arguments to clone_object
+wizards/moonstar/areas/wasteland/monsut/waterlord.c line 35 :Illegal LHS
+wizards/moonstar/areas/wasteland/monsut/waterlord.c line 35 :syntax error
+wizards/moonstar/areas/wasteland/monsut/waterlord.c line 38 :Too few arguments to clone_object
+wizards/moonstar/areas/wasteland/monsut/waterlord.c line 19 :Newline in string
+wizards/moonstar/areas/wasteland/monsut/waterlord.c line 21 :syntax error
+wizards/moonstar/areas/wasteland/monsut/waterlord.c line 35 :Too few arguments to clone_object
+wizards/moonstar/areas/wasteland/monsut/waterlord.c line 35 :Illegal LHS
+wizards/moonstar/areas/wasteland/monsut/waterlord.c line 35 :syntax error
+wizards/moonstar/areas/wasteland/monsut/waterlord.c line 38 :Too few arguments to clone_object
+wizards/moonstar/areas/wasteland/monsut/waterlord.c line 19 :Newline in string
+wizards/moonstar/areas/wasteland/monsut/waterlord.c line 21 :syntax error
+wizards/moonstar/areas/wasteland/monsut/waterlord.c line 35 :Too few arguments to clone_object
+wizards/moonstar/areas/wasteland/monsut/waterlord.c line 35 :Illegal LHS
+wizards/moonstar/areas/wasteland/monsut/waterlord.c line 35 :syntax error
+wizards/moonstar/areas/wasteland/monsut/waterlord.c line 38 :Too few arguments to clone_object
+wizards/moonstar/areas/wasteland/monsut/waterlord.c line 19 :Newline in string
+wizards/moonstar/areas/wasteland/monsut/waterlord.c line 21 :syntax error
+wizards/moonstar/areas/wasteland/monsut/waterlord.c line 35 :Too few arguments to clone_object
+wizards/moonstar/areas/wasteland/monsut/waterlord.c line 35 :Illegal LHS
+wizards/moonstar/areas/wasteland/monsut/waterlord.c line 35 :syntax error
+wizards/moonstar/areas/wasteland/monsut/waterlord.c line 38 :Too few arguments to clone_object
+wizards/moonstar/areas/wasteland/monsut/waterlord.c line 18 :Newline in string
+wizards/moonstar/areas/wasteland/monsut/waterlord.c line 20 :syntax error
+wizards/moonstar/areas/wasteland/monsut/waterlord.c line 34 :Too few arguments to clone_object
+wizards/moonstar/areas/wasteland/monsut/waterlord.c line 34 :Illegal LHS
+wizards/moonstar/areas/wasteland/monsut/waterlord.c line 34 :syntax error
+wizards/moonstar/areas/wasteland/monsut/waterlord.c line 37 :Too few arguments to clone_object
+wizards/moonstar/areas/wasteland/monsut/waterlord.c line 19 :Newline in string
+wizards/moonstar/areas/wasteland/monsut/waterlord.c line 21 :syntax error
+wizards/moonstar/areas/wasteland/monsut/waterlord.c line 35 :Too few arguments to clone_object
+wizards/moonstar/areas/wasteland/monsut/waterlord.c line 35 :Illegal LHS
+wizards/moonstar/areas/wasteland/monsut/waterlord.c line 35 :syntax error
+wizards/moonstar/areas/wasteland/monsut/waterlord.c line 38 :Too few arguments to clone_object
+wizards/moonstar/areas/wasteland/monsut/waterlord.c line 19 :Newline in string
+wizards/moonstar/areas/wasteland/monsut/waterlord.c line 21 :syntax error
+wizards/moonstar/areas/wasteland/monsut/waterlord.c line 35 :Too few arguments to clone_object
+wizards/moonstar/areas/wasteland/monsut/waterlord.c line 35 :Illegal LHS
+wizards/moonstar/areas/wasteland/monsut/waterlord.c line 35 :syntax error
+wizards/moonstar/areas/wasteland/monsut/waterlord.c line 38 :Too few arguments to clone_object
+wizards/moonstar/areas/wasteland/monsut/wlord.c line 5 :function not defined by inheritance as specified
+wizards/moonstar/test/wlord.c line 2 :syntax error
+wizards/moonstar/areas/wasteland/torni/room19.c line 15 :Newline in string
+wizards/moonstar/areas/wasteland/torni/room19.c line 9 :syntax error
+wizards/moonstar/areas/wasteland/torni/room19.c line 10 :syntax error
+wizards/moonstar/areas/wasteland/torni/room19.c line 14 :Newline in string
+wizards/moonstar/areas/wasteland/torni/room19.c line 25 :Illegal LHS
+wizards/moonstar/areas/wasteland/torni/room19.c line 25 :Illegal LHS
+wizards/moonstar/areas/wasteland/torni/room19.c line 25 :Illegal LHS
+wizards/moonstar/areas/wasteland/torni/room19.c line 9 :syntax error
+wizards/moonstar/areas/wasteland/torni/room19.c line 10 :syntax error
+wizards/moonstar/areas/wasteland/torni/room19.c line 25 :Illegal LHS
+wizards/moonstar/areas/wasteland/torni/room19.c line 25 :Illegal LHS
+wizards/moonstar/areas/wasteland/torni/room19.c line 25 :Illegal LHS
+wizards/moonstar/areas/wasteland/torni/room19.c line 25 :syntax error
+wizards/moonstar/areas/wasteland/torni/room19.c line 9 :syntax error
+wizards/moonstar/areas/wasteland/torni/room19.c line 10 :syntax error
+wizards/moonstar/areas/wasteland/torni/room19.c line 25 :Illegal LHS
+wizards/moonstar/areas/wasteland/torni/room19.c line 25 :Illegal LHS
+wizards/moonstar/areas/wasteland/torni/room19.c line 25 :Illegal LHS
+wizards/moonstar/areas/wasteland/torni/room19.c line 25 :syntax error
+wizards/moonstar/areas/wasteland/torni/room22.c line 20 :syntax error
+wizards/moonstar/areas/wasteland/torni/room22.c line 20 :Illegal character (hex 2e) '.'
+wizards/moonstar/areas/wasteland/torni/room22.c line 20 :Illegal character (hex 2e) '.'
+wizards/moonstar/areas/wasteland/torni/room22.c line 20 :Illegal character (hex 5c) '\'
+wizards/moonstar/areas/wasteland/torni/room22.c line 20 :Newline in string
+wizards/moonstar/areas/wasteland/torni/room22.c line 24 :Illegal LHS
+wizards/moonstar/test/wizu.c line 94 :syntax error
+wizards/moonstar/test/wizu.c line 102 :Variable beast not declared !
+wizards/moonstar/test/wizu.c line 103 :Variable beast not declared !
+wizards/moonstar/test/wizu.c line 94 :syntax error
+wizards/moonstar/test/wizu.c line 102 :Variable beast not declared !
+wizards/moonstar/test/wizu.c line 103 :Variable beast not declared !
+wizards/moonstar/test/wizu.c line 95 :syntax error
+wizards/moonstar/test/wizu.c line 103 :Variable beast not declared !
+wizards/moonstar/test/wizu.c line 104 :Variable beast not declared !
+wizards/moonstar/areas/wasteland/cave1.c line 12 :syntax error
+wizards/moonstar/areas/wasteland/cave1.c line 12 :Illegal character (hex 2e) '.'
+wizards/moonstar/areas/wasteland/cave1.c line 12 :Newline in string
+wizards/moonstar/areas/wasteland/monsut/bonedragon.c line 17 :syntax error
+wizards/moonstar/areas/wasteland/monsut/bonedragon.c line 7 :syntax error
+wizards/moonstar/areas/wasteland/monsut/bonedragon.c line 8 :syntax error
+wizards/moonstar/areas/wasteland/cave2.c line 18 :syntax error
+wizards/moonstar/areas/wasteland/cave2.c line 18 :syntax error
+wizards/moonstar/areas/wasteland/cave2.c line 18 :syntax error
+wizards/moonstar/areas/wasteland/cave7.c line 28 :syntax error
+wizards/moonstar/eval_file.c line 2 :Too many arguments to this_player
+wizards/moonstar/eval_file.c line 2 :Too many arguments to this_player
+wizards/moonstar/areas/wasteland/monsut/captain.c line 12 :syntax error
+wizards/moonstar/areas/wasteland/monsut/captain.c line 17 :Too few arguments to clone_object
+wizards/moonstar/areas/wasteland/monsut/captain.c line 17 :Illegal LHS
+wizards/moonstar/areas/wasteland/monsut/captain.c line 17 :syntax error
+wizards/moonstar/areas/wasteland/monsut/captain.c line 22 :Illegal LHS
+wizards/moonstar/areas/wasteland/monsut/captain.c line 22 :syntax error
+wizards/moonstar/areas/wasteland/monsut/captain.c line 12 :syntax error
+wizards/moonstar/areas/wasteland/monsut/captain.c line 17 :Too few arguments to clone_object
+wizards/moonstar/areas/wasteland/monsut/captain.c line 17 :Illegal LHS
+wizards/moonstar/areas/wasteland/monsut/captain.c line 17 :syntax error
+wizards/moonstar/areas/wasteland/monsut/captain.c line 22 :Illegal LHS
+wizards/moonstar/areas/wasteland/monsut/captain.c line 22 :syntax error
+wizards/moonstar/areas/wasteland/monsut/testcap.c line 12 :syntax error
+wizards/moonstar/areas/wasteland/monsut/testcap.c line 17 :Too few arguments to clone_object
+wizards/moonstar/areas/wasteland/monsut/testcap.c line 17 :Illegal LHS
+wizards/moonstar/areas/wasteland/monsut/testcap.c line 17 :syntax error
+wizards/moonstar/areas/wasteland/monsut/testcap.c line 22 :Illegal LHS
+wizards/moonstar/areas/wasteland/monsut/testcap.c line 22 :syntax error
+wizards/moonstar/areas/wasteland/monsut/captain.c line 51 :syntax error
+wizards/moonstar/areas/wasteland/monsut/captain.c line 51 :syntax error
+wizards/moonstar/areas/wasteland/monsut/captain.c line 51 :syntax error
+wizards/moonstar/areas/wasteland/monsut/captain.c line 55 :syntax error
+wizards/moonstar/areas/wasteland/monsut/captain.c line 55 :syntax error
+wizards/moonstar/areas/wasteland/monsut/captain.c line 55 :syntax error
+wizards/moonstar/areas/wasteland/monsut/captain.c line 57 :syntax error
+wizards/moonstar/areas/wasteland/monsut/captain.c line 56 :syntax error
+wizards/moonstar/areas/wasteland/monsut/captain.c line 56 :syntax error
+wizards/moonstar/areas/wasteland/monsut/captain.c line 57 :syntax error
+wizards/moonstar/areas/forest/town/town1.c line 14 :syntax error
+wizards/moonstar/areas/forest/town/town1.c line 14 :syntax error
+wizards/moonstar/test/room.c line 14 :Newline in string
+wizards/moonstar/test/room.c line 15 :syntax error
+wizards/moonstar/test/room.c line 16 :Newline in string
+wizards/moonstar/test/room.c line 17 :syntax error
+wizards/moonstar/test/room.c line 25 :Too few arguments to clone_object
+wizards/moonstar/test/room.c line 25 :Illegal LHS
+wizards/moonstar/test/tr.c line 20 :Variable i not declared !
+wizards/moonstar/test/tr.c line 27 :Variable i not declared !
+wizards/moonstar/test/tr.c line 30 :Variable i not declared !
+wizards/moonstar/test/tr.c line 6 :Variable i not declared !
+wizards/moonstar/test/tr.c line 23 :Variable i not declared !
+wizards/moonstar/test/tr.c line 30 :Variable i not declared !
+wizards/moonstar/test/tr.c line 33 :Variable i not declared !
+wizards/moonstar/areas/wasteland/monsut/bard.c line 33 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 9 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 10 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 10 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 14 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 19 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 19 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 9 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 10 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 10 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 14 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 19 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 19 :syntax error
+wizards/moonstar/areas/wasteland/room26.c line 20 :Redeclaration of function reset.
+wizards/moonstar/areas/wasteland/room26.c line 34 :Redeclaration of function reset.
+wizards/moonstar/areas/wasteland/room26.c line 20 :Redeclaration of function reset.
+wizards/moonstar/areas/wasteland/room26.c line 34 :Redeclaration of function reset.
+wizards/moonstar/areas/wasteland/room26.c line 20 :Redeclaration of function reset.
+wizards/moonstar/areas/wasteland/room26.c line 34 :Redeclaration of function reset.
+wizards/moonstar/areas/wasteland/room26.c line 20 :Redeclaration of function reset.
+wizards/moonstar/areas/wasteland/room26.c line 34 :Redeclaration of function reset.
+wizards/moonstar/areas/wasteland/room17.c line 9 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 10 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 10 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 14 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 19 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 19 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 9 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 10 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 10 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 14 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 19 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 19 :syntax error
+wizards/moonstar/areas/wasteland/room28.c line 3 :syntax error
+wizards/moonstar/areas/wasteland/room28.c line 3 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 9 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 10 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 10 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 14 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 19 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 19 :syntax error
+wizards/moonstar/areas/wasteland/room26.c line 20 :Redeclaration of function reset.
+wizards/moonstar/areas/wasteland/room26.c line 34 :Redeclaration of function reset.
+wizards/moonstar/areas/wasteland/room26.c line 20 :Redeclaration of function reset.
+wizards/moonstar/areas/wasteland/room26.c line 34 :Redeclaration of function reset.
+wizards/moonstar/areas/wasteland/room17.c line 9 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 10 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 10 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 14 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 19 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 19 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 9 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 10 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 10 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 14 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 19 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 19 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 9 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 10 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 10 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 14 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 19 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 19 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 9 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 10 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 10 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 14 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 19 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 19 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 9 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 10 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 10 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 14 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 19 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 19 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 9 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 10 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 10 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 14 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 19 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 19 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 9 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 10 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 10 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 14 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 19 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 19 :syntax error
+wizards/moonstar/areas/wasteland/room26.c line 20 :Redeclaration of function reset.
+wizards/moonstar/areas/wasteland/room26.c line 34 :Redeclaration of function reset.
+wizards/moonstar/areas/wasteland/room26.c line 20 :Redeclaration of function reset.
+wizards/moonstar/areas/wasteland/room26.c line 34 :Redeclaration of function reset.
+wizards/moonstar/areas/wasteland/room26.c line 20 :Redeclaration of function reset.
+wizards/moonstar/areas/wasteland/room26.c line 34 :Redeclaration of function reset.
+wizards/moonstar/areas/wasteland/room26.c line 20 :Redeclaration of function reset.
+wizards/moonstar/areas/wasteland/room26.c line 34 :Redeclaration of function reset.
+wizards/moonstar/areas/wasteland/room17.c line 9 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 10 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 10 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 14 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 19 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 19 :syntax error
+wizards/moonstar/areas/wasteland/room26.c line 20 :Redeclaration of function reset.
+wizards/moonstar/areas/wasteland/room26.c line 34 :Redeclaration of function reset.
+wizards/moonstar/areas/wasteland/room26.c line 20 :Redeclaration of function reset.
+wizards/moonstar/areas/wasteland/room26.c line 34 :Redeclaration of function reset.
+wizards/moonstar/areas/wasteland/room17.c line 9 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 10 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 10 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 14 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 19 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 19 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 9 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 10 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 10 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 14 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 19 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 19 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 9 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 10 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 10 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 14 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 19 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 19 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 9 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 10 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 10 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 14 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 19 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 19 :syntax error
+wizards/moonstar/test/room17.c line 12 :syntax error
+wizards/moonstar/areas/wasteland/room26.c line 20 :Redeclaration of function reset.
+wizards/moonstar/areas/wasteland/room26.c line 34 :Redeclaration of function reset.
+wizards/moonstar/areas/wasteland/room26.c line 20 :Redeclaration of function reset.
+wizards/moonstar/areas/wasteland/room26.c line 34 :Redeclaration of function reset.
+wizards/moonstar/areas/wasteland/room28.c line 3 :syntax error
+wizards/moonstar/areas/wasteland/room28.c line 3 :syntax error
+wizards/moonstar/areas/wasteland/room28.c line 3 :syntax error
+wizards/moonstar/areas/wasteland/eq/bboots.c line 15 :syntax error
+wizards/moonstar/test/bboots.c line 6 :Variable BOLD not declared !
+wizards/moonstar/test/bboots.c line 6 :Variable OFF not declared !
+wizards/moonstar/test/tr.c line 6 :Variable i not declared !
+wizards/moonstar/test/tr.c line 23 :Variable i not declared !
+wizards/moonstar/test/tr.c line 30 :Variable i not declared !
+wizards/moonstar/test/tr.c line 33 :Variable i not declared !
+wizards/moonstar/test/tr.c line 5 :Variable i not declared !
+wizards/moonstar/test/tr.c line 22 :Variable i not declared !
+wizards/moonstar/test/tr.c line 29 :Variable i not declared !
+wizards/moonstar/test/tr.c line 32 :Variable i not declared !
+wizards/moonstar/test/tr.c line 5 :Variable i not declared !
+wizards/moonstar/test/tr.c line 21 :Type mismatch ( unknown vs mixed ) when initializing i
+wizards/moonstar/test/tr.c line 21 :Missing type
+wizards/moonstar/test/tr.c line 5 :syntax error
+wizards/moonstar/test/tr.c line 21 :Type mismatch ( unknown vs mixed ) when initializing i
+wizards/moonstar/test/tr.c line 21 :Missing type
+wizards/moonstar/test/tr.c line 5 :syntax error
+wizards/moonstar/test/tr.c line 21 :Type mismatch ( unknown vs mixed ) when initializing i
+wizards/moonstar/test/tr.c line 21 :Missing type
+wizards/moonstar/test/tr.c line 22 :Type mismatch ( unknown vs mixed ) when initializing i
+wizards/moonstar/test/tr.c line 22 :Missing type
+wizards/moonstar/test/tr.c line 22 :Type mismatch ( unknown vs mixed ) when initializing i
+wizards/moonstar/test/tr.c line 22 :Missing type
+wizards/moonstar/areas/wasteland/room46b.c line 66 :syntax error
+wizards/moonstar/areas/wasteland/room46b.c line 64 :syntax error
+wizards/moonstar/areas/wasteland/room46b.c line 64 :syntax error
+wizards/moonstar/areas/wasteland/room46b.c line 64 :syntax error
+wizards/moonstar/areas/wasteland/room46b.c line 64 :syntax error
+wizards/moonstar/areas/wasteland/monsut/patrollingguard.c line 17 :Variable More not declared !
+wizards/moonstar/areas/wasteland/monsut/patrollingguard.c line 17 :syntax error
+wizards/moonstar/areas/wasteland/monsut/patrollingguard.c line 18 :Illegal LHS
+wizards/moonstar/areas/wasteland/monsut/patrollingguard.c line 17 :Variable More not declared !
+wizards/moonstar/areas/wasteland/monsut/patrollingguard.c line 17 :syntax error
+wizards/moonstar/areas/wasteland/monsut/patrollingguard.c line 18 :Illegal LHS
+wizards/moonstar/areas/wasteland/fortress/yard9.c line 17 :Variable More not declared !
+wizards/moonstar/areas/wasteland/fortress/yard9.c line 17 :syntax error
+wizards/moonstar/areas/wasteland/fortress/plain15.c line 9 :syntax error
+wizards/moonstar/areas/wasteland/fortress/plain15.c line 9 :syntax error
+wizards/moonstar/areas/wasteland/fortress/plain15.c line 5 :syntax error
+wizards/moonstar/areas/wasteland/fortress/plain15.c line 7 :Illegal LHS
+wizards/moonstar/areas/wasteland/fortress/plain15.c line 7 :syntax error
+wizards/moonstar/areas/wasteland/fortress/plain15.c line 11 :Illegal LHS
+wizards/moonstar/areas/wasteland/fortress/plain15.c line 15 :Illegal LHS
+wizards/moonstar/areas/wasteland/fortress/plain15.c line 15 :syntax error
+wizards/moonstar/areas/wasteland/fortress/plain15.c line 5 :syntax error
+wizards/moonstar/areas/wasteland/fortress/plain15.c line 7 :Illegal LHS
+wizards/moonstar/areas/wasteland/fortress/plain15.c line 7 :syntax error
+wizards/moonstar/areas/wasteland/fortress/plain15.c line 11 :Illegal LHS
+wizards/moonstar/areas/wasteland/fortress/plain15.c line 15 :Illegal LHS
+wizards/moonstar/areas/wasteland/fortress/plain15.c line 15 :syntax error
+wizards/moonstar/areas/wasteland/fortress/plain15.c line 5 :syntax error
+wizards/moonstar/areas/wasteland/fortress/plain15.c line 7 :Illegal LHS
+wizards/moonstar/areas/wasteland/fortress/plain15.c line 7 :syntax error
+wizards/moonstar/areas/wasteland/fortress/plain15.c line 11 :Illegal LHS
+wizards/moonstar/areas/wasteland/fortress/plain15.c line 15 :Illegal LHS
+wizards/moonstar/areas/wasteland/fortress/plain15.c line 15 :syntax error
+wizards/moonstar/areas/wasteland/fortress/plain8.c line 5 :syntax error
+wizards/moonstar/areas/wasteland/fortress/plain8.c line 6 :Illegal LHS
+wizards/moonstar/areas/wasteland/fortress/plain8.c line 6 :syntax error
+wizards/moonstar/areas/wasteland/fortress/plain8.c line 10 :Illegal LHS
+wizards/moonstar/areas/wasteland/fortress/plain8.c line 14 :Illegal LHS
+wizards/moonstar/areas/wasteland/fortress/plain8.c line 14 :syntax error
+wizards/moonstar/areas/wasteland/fortress/plain8.c line 5 :syntax error
+wizards/moonstar/areas/wasteland/fortress/plain8.c line 6 :Illegal LHS
+wizards/moonstar/areas/wasteland/fortress/plain8.c line 6 :syntax error
+wizards/moonstar/areas/wasteland/fortress/plain8.c line 10 :Illegal LHS
+wizards/moonstar/areas/wasteland/fortress/plain8.c line 14 :Illegal LHS
+wizards/moonstar/areas/wasteland/fortress/plain8.c line 14 :syntax error
+wizards/moonstar/test/bc.c line 17 :Variable More not declared !
+wizards/moonstar/test/bc.c line 17 :syntax error
+wizards/moonstar/test/bc.c line 24 :Type mismatch ( unknown vs mixed ) when initializing wepa
+wizards/moonstar/test/bc.c line 24 :Missing type
+wizards/moonstar/test/bc.c line 26 :syntax error
+wizards/moonstar/test/bc.c line 27 :syntax error
+wizards/moonstar/areas/wasteland/fortress/wall11.c line 9 :syntax error
+wizards/moonstar/areas/wasteland/canyon.c line 25 :Newline in string
+wizards/moonstar/areas/wasteland/canyon.c line 26 :syntax error
+wizards/moonstar/areas/wasteland/fortress/yard9.c line 17 :Variable More not declared !
+wizards/moonstar/areas/wasteland/fortress/yard9.c line 17 :syntax error
+wizards/moonstar/areas/wasteland/fortress/yard9.c line 17 :Variable More not declared !
+wizards/moonstar/areas/wasteland/fortress/yard9.c line 17 :syntax error
+wizards/moonstar/areas/wasteland/fortress/yard9.c line 17 :Variable More not declared !
+wizards/moonstar/areas/wasteland/fortress/yard9.c line 17 :syntax error
+wizards/moonstar/areas/wasteland/fortress/yard9.c line 9 :syntax error
+wizards/moonstar/areas/wasteland/eq/chelmet.c line 9 :syntax error
+wizards/moonstar/areas/wasteland/eq/chelmet.c line 8 :syntax error
+wizards/moonstar/areas/wasteland/torni/room1.c line 7 :Variable wizards not declared !
+wizards/moonstar/areas/wasteland/torni/room1.c line 7 :Variable moonstar not declared !
+wizards/moonstar/areas/wasteland/torni/room1.c line 7 :Variable areas not declared !
+wizards/moonstar/areas/wasteland/torni/room1.c line 7 :Variable wasteland not declared !
+wizards/moonstar/areas/wasteland/torni/room1.c line 7 :Variable fortress not declared !
+wizards/moonstar/areas/wasteland/torni/room1.c line 7 :Illegal character (hex 2e) '.'
+wizards/moonstar/areas/wasteland/torni/room1.c line 7 :Variable wizards not declared !
+wizards/moonstar/areas/wasteland/torni/room1.c line 7 :Variable moonstar not declared !
+wizards/moonstar/areas/wasteland/torni/room1.c line 7 :Variable areas not declared !
+wizards/moonstar/areas/wasteland/torni/room1.c line 7 :Variable wasteland not declared !
+wizards/moonstar/areas/wasteland/torni/room1.c line 7 :Variable fortress not declared !
+wizards/moonstar/areas/wasteland/torni/room1.c line 7 :Illegal character (hex 2e) '.'
+wizards/moonstar/areas/wasteland/room17.c line 9 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 10 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 10 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 14 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 18 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 18 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 9 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 10 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 10 :syntax error
+wizards/moonstar/areas/wasteland/room17.c line 14 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 18 :Illegal LHS
+wizards/moonstar/areas/wasteland/room17.c line 18 :syntax error
+wizards/moonstar/areas/wasteland/room28.c line 3 :syntax error
+wizards/moonstar/areas/wasteland/room28.c line 3 :syntax error
+wizards/moonstar/areas/wasteland/room28.c line 3 :syntax error
+wizards/moonstar/areas/wasteland/room2.c line 8 :syntax error
+wizards/moonstar/areas/wasteland/room2.c line 8 :Illegal character (hex 2e) '.'
+wizards/moonstar/areas/wasteland/room2.c line 8 :Illegal character (hex 5c) '\'
+wizards/moonstar/areas/wasteland/room2.c line 8 :Newline in string
+wizards/moonstar/areas/wasteland/room3.c line 13 :syntax error
+wizards/moonstar/areas/wasteland/room3.c line 13 :Illegal character (hex 2e) '.'
+wizards/moonstar/areas/wasteland/room3.c line 13 :Illegal character (hex 5c) '\'
+wizards/moonstar/areas/wasteland/room3.c line 13 :Newline in string
+wizards/moonstar/areas/wasteland/room4.c line 13 :syntax error
+wizards/moonstar/areas/wasteland/room4.c line 13 :Illegal character (hex 2e) '.'
+wizards/moonstar/areas/wasteland/room4.c line 13 :Illegal character (hex 5c) '\'
+wizards/moonstar/areas/wasteland/room4.c line 13 :Newline in string
+wizards/moonstar/areas/wasteland/room5.c line 13 :syntax error
+wizards/moonstar/areas/wasteland/room5.c line 13 :Illegal character (hex 2e) '.'
+wizards/moonstar/areas/wasteland/room5.c line 13 :Illegal character (hex 5c) '\'
+wizards/moonstar/areas/wasteland/room5.c line 13 :Newline in string
+wizards/moonstar/areas/wasteland/room6.c line 14 :syntax error
+wizards/moonstar/areas/wasteland/room6.c line 14 :Illegal character (hex 2e) '.'
+wizards/moonstar/areas/wasteland/room6.c line 14 :Illegal character (hex 5c) '\'
+wizards/moonstar/areas/wasteland/room6.c line 14 :Newline in string
+wizards/moonstar/areas/wasteland/room7.c line 13 :syntax error
+wizards/moonstar/areas/wasteland/room7.c line 13 :Illegal character (hex 2e) '.'
+wizards/moonstar/areas/wasteland/room7.c line 13 :Illegal character (hex 5c) '\'
+wizards/moonstar/areas/wasteland/room7.c line 13 :Newline in string
+wizards/moonstar/areas/wasteland/room8.c line 13 :Variable ww not declared !
+wizards/moonstar/areas/wasteland/room8.c line 13 :Illegal character (hex 2e) '.'
+wizards/moonstar/areas/wasteland/room8.c line 13 :syntax error
+wizards/moonstar/areas/wasteland/room8.c line 13 :Illegal character (hex 5c) '\'
+wizards/moonstar/areas/wasteland/room8.c line 13 :Newline in string
+wizards/moonstar/test/stormreaper.c line 18 :Newline in string
+wizards/moonstar/test/garden.c line 13 :Newline in string
+wizards/moonstar/test/garden.c line 14 :syntax error
+wizards/moonstar/areas/wasteland/torni/room20.c line 34 :Variable More not declared !
+wizards/moonstar/areas/wasteland/torni/room20.c line 34 :syntax error
+wizards/moonstar/areas/wasteland/torni/room4.c line 15 :syntax error
+wizards/moonstar/areas/wasteland/torni/room4.c line 15 :syntax error
+wizards/moonstar/areas/wasteland/fortress/garden7.c line 23 :Type mismatch ( unknown vs mixed * ) when initializing items
+wizards/moonstar/areas/wasteland/fortress/garden7.c line 23 :Missing type
+wizards/moonstar/areas/wasteland/fortress/garden7.c line 24 :syntax error
+wizards/moonstar/areas/wasteland/fortress/garden7.c line 23 :Type mismatch ( unknown vs mixed * ) when initializing items
+wizards/moonstar/areas/wasteland/fortress/garden7.c line 23 :Missing type
+wizards/moonstar/areas/wasteland/fortress/garden7.c line 24 :syntax error
+wizards/moonstar/areas/wasteland/fortress/garden7.c line 26 :Variable str not declared !
+wizards/moonstar/areas/wasteland/fortress/garden7.c line 26 :syntax error
+wizards/moonstar/areas/wasteland/fortress/garden7.c line 29 :Too few arguments to write
+wizards/moonstar/areas/wasteland/fortress/garden7.c line 30 :syntax error
+wizards/moonstar/areas/wasteland/fortress/garden7.c line 31 :Too few arguments to clone_object
+wizards/moonstar/areas/wasteland/fortress/garden7.c line 31 :Illegal LHS
+wizards/moonstar/areas/wasteland/fortress/garden7.c line 27 :Variable str not declared !
+wizards/moonstar/areas/wasteland/fortress/garden7.c line 27 :syntax error
+wizards/moonstar/areas/wasteland/fortress/garden7.c line 30 :Too few arguments to write
+wizards/moonstar/areas/wasteland/fortress/garden7.c line 31 :syntax error
+wizards/moonstar/areas/wasteland/fortress/garden7.c line 32 :Too few arguments to clone_object
+wizards/moonstar/areas/wasteland/fortress/garden7.c line 32 :Illegal LHS
+wizards/moonstar/areas/wasteland/fortress/garden7.c line 27 :Variable str not declared !
+wizards/moonstar/areas/wasteland/fortress/garden7.c line 27 :syntax error
+wizards/moonstar/areas/wasteland/fortress/garden7.c line 30 :Too few arguments to write
+wizards/moonstar/areas/wasteland/fortress/garden7.c line 31 :syntax error
+wizards/moonstar/areas/wasteland/fortress/garden7.c line 32 :Too few arguments to clone_object
+wizards/moonstar/areas/wasteland/fortress/garden7.c line 32 :Illegal LHS
+wizards/moonstar/areas/wasteland/fortress/garden7.c line 27 :Variable str not declared !
+wizards/moonstar/areas/wasteland/fortress/garden7.c line 27 :syntax error
+wizards/moonstar/areas/wasteland/fortress/garden7.c line 30 :Too few arguments to write
+wizards/moonstar/areas/wasteland/fortress/garden7.c line 31 :syntax error
+wizards/moonstar/areas/wasteland/fortress/garden7.c line 32 :Too few arguments to clone_object
+wizards/moonstar/areas/wasteland/fortress/garden7.c line 32 :Illegal LHS
+wizards/moonstar/areas/wasteland/fortress/garden7.c line 28 :Newline in string
+wizards/moonstar/areas/wasteland/fortress/garden7.c line 29 :syntax error
+wizards/moonstar/areas/wasteland/fortress/garden7.c line 34 :Too few arguments to clone_object
+wizards/moonstar/areas/wasteland/fortress/garden7.c line 34 :Illegal LHS
+wizards/moonstar/areas/wasteland/fortress/garden7.c line 35 :Variable key not declared !
+wizards/moonstar/areas/wasteland/fortress/garden7.c line 39 :syntax error
+wizards/moonstar/areas/wasteland/fortress/garden7.c line 27 :Newline in string
+wizards/moonstar/areas/wasteland/fortress/garden7.c line 28 :syntax error
+wizards/moonstar/areas/wasteland/fortress/garden7.c line 32 :Too few arguments to write
+wizards/moonstar/areas/wasteland/fortress/garden7.c line 33 :syntax error
+wizards/moonstar/areas/wasteland/fortress/garden7.c line 34 :Too few arguments to clone_object
+wizards/moonstar/areas/wasteland/fortress/garden7.c line 34 :Illegal LHS
+wizards/moonstar/areas/forest/town/house1.c line 18 :syntax error
+wizards/moonstar/areas/forest/town/town5.c line 22 :syntax error
+wizards/moonstar/areas/forest/town/town5.c line 23 :syntax error
+wizards/moonstar/areas/forest/town/house4.c line 17 :Newline in string
+wizards/moonstar/areas/forest/town/house4.c line 21 :syntax error
+wizards/moonstar/areas/forest/f_room1.c line 6 :syntax error
+wizards/moonstar/areas/forest/f_room1.c line 18 :Newline in string
+wizards/moonstar/areas/forest/f_room1.c line 19 :Newline in string
+wizards/moonstar/areas/forest/f_room1.c line 6 :syntax error
+wizards/moonstar/areas/forest/f_room1.c line 7 :syntax error
+wizards/moonstar/areas/forest/f_room1.c line 6 :syntax error
+wizards/moonstar/areas/forest/f_room1.c line 6 :syntax error
+wizards/moonstar/areas/forest/town/town5.c line 12 :syntax error
+wizards/moonstar/areas/forest/town/town5.c line 13 :Illegal LHS
+wizards/moonstar/areas/wasteland/monsut/shadow.c line 9 :syntax error
+wizards/moonstar/areas/forest/f_room14.c line 7 :Variable monster2 not declared !
+wizards/moonstar/areas/forest/f_room14.c line 8 :Variable monster2 not declared !
+wizards/moonstar/areas/forest/f_room14.c line 9 :Variable monster2 not declared !
+wizards/moonstar/areas/forest/f_room14.c line 7 :Variable monster2 not declared !
+wizards/moonstar/areas/forest/f_room14.c line 8 :Variable monster2 not declared !
+wizards/moonstar/areas/forest/f_room14.c line 9 :Variable monster2 not declared !
+wizards/moonstar/areas/wasteland/monsut/knight.c line 12 :syntax error
+wizards/moonstar/areas/wasteland/monsut/knight.c line 12 :Illegal character (hex 2e) '.'
+wizards/moonstar/areas/wasteland/monsut/knight.c line 12 :Illegal character (hex 5c) '\'
+wizards/moonstar/areas/wasteland/monsut/knight.c line 12 :Newline in string
+wizards/moonstar/areas/wasteland/monsut/knight.c line 18 :Too few arguments to clone_object
+wizards/moonstar/areas/wasteland/monsut/knight.c line 18 :Illegal LHS
+wizards/moonstar/areas/wasteland/fortress/plain2.c line 8 :syntax error
+wizards/moonstar/areas/wasteland/fortress/plain15.c line 11 :syntax error
+wizards/moonstar/areas/forest/monsut/sfox.c line 14 :syntax error
+wizards/moonstar/areas/forest/tow1.c line 3 :syntax error
+wizards/moonstar/areas/forest/tow1.c line 2 :syntax error
+wizards/moonstar/areas/forest/tow1.c line 2 :syntax error
+wizards/moonstar/areas/forest/eq/rkey.c line 2 :syntax error
+wizards/moonstar/areas/wasteland/eq/ykey.c line 13 :syntax error
+wizards/moonstar/areas/wasteland/eq/ykey.c line 13 :syntax error
+wizards/moonstar/areas/forest/tow3.c line 2 :syntax error
+wizards/moonstar/test/testmayor.c line 28 :Newline in string
+wizards/moonstar/test/testmayor.c line 29 :syntax error
+wizards/moonstar/test/testmayor.c line 33 :Variable str not declared !
+wizards/moonstar/test/testmayor.c line 33 :syntax error
+wizards/moonstar/test/testmayor.c line 41 :syntax error
+wizards/moonstar/test/testmayor.c line 28 :Newline in string
+wizards/moonstar/test/testmayor.c line 29 :syntax error
+wizards/moonstar/test/testmayor.c line 32 :Variable str not declared !
+wizards/moonstar/test/testmayor.c line 32 :syntax error
+wizards/moonstar/test/testmayor.c line 40 :Variable str not declared !
+wizards/moonstar/test/testmayor.c line 40 :syntax error
+wizards/moonstar/test/testmayor.c line 32 :Variable str not declared !
+wizards/moonstar/test/testmayor.c line 32 :syntax error
+wizards/moonstar/test/testmayor.c line 40 :syntax error
+wizards/moonstar/test/testmayor.c line 32 :Variable str not declared !
+wizards/moonstar/test/testmayor.c line 32 :syntax error
+wizards/moonstar/test/testmayor.c line 40 :syntax error
+wizards/moonstar/test/testmayor.c line 32 :Variable str not declared !
+wizards/moonstar/test/testmayor.c line 32 :syntax error
+wizards/moonstar/test/testmayor.c line 40 :syntax error
+wizards/moonstar/test/testmayor.c line 32 :Variable str not declared !
+wizards/moonstar/test/testmayor.c line 32 :syntax error
+wizards/moonstar/test/testmayor.c line 40 :syntax error
+wizards/moonstar/test/testmayor.c line 32 :Variable str not declared !
+wizards/moonstar/test/testmayor.c line 32 :syntax error
+wizards/moonstar/test/testmayor.c line 40 :syntax error
+wizards/moonstar/areas/wasteland/monsut/bluewizard.c line 95 :syntax error
+wizards/moonstar/areas/wasteland/monsut/bluewizard.c line 94 :syntax error
+wizards/moonstar/areas/wasteland/monsut/bluewizard.c line 94 :syntax error
+wizards/moonstar/areas/wasteland/monsut/bluewizard.c line 95 :syntax error
+wizards/moonstar/areas/forest/monsut/mayor.c line 52 :syntax error
+wizards/moonstar/areas/wasteland/monsut/thief.c line 11 :syntax error
+wizards/moonstar/areas/wasteland/monsut/thief.c line 11 :Illegal character (hex 2e) '.'
+wizards/moonstar/areas/wasteland/monsut/thief.c line 11 :Illegal character (hex 5c) '\'
+wizards/moonstar/areas/wasteland/monsut/thief.c line 11 :Newline in string
+wizards/moonstar/areas/wasteland/monsut/thief.c line 20 :Too few arguments to clone_object
+wizards/moonstar/areas/wasteland/monsut/thief.c line 20 :Illegal LHS
+wizards/moonstar/areas/wasteland/monsut/thief.c line 11 :syntax error
+wizards/moonstar/areas/wasteland/monsut/thief.c line 11 :Illegal character (hex 2e) '.'
+wizards/moonstar/areas/wasteland/monsut/thief.c line 11 :Illegal character (hex 5c) '\'
+wizards/moonstar/areas/wasteland/monsut/thief.c line 11 :Newline in string
+wizards/moonstar/areas/wasteland/monsut/thief.c line 20 :Too few arguments to clone_object
+wizards/moonstar/areas/wasteland/monsut/thief.c line 20 :Illegal LHS
+wizards/moonstar/areas/wasteland/monsut/thief.c line 11 :syntax error
+wizards/moonstar/areas/wasteland/monsut/thief.c line 11 :Illegal character (hex 2e) '.'
+wizards/moonstar/areas/wasteland/monsut/thief.c line 11 :Illegal character (hex 5c) '\'
+wizards/moonstar/areas/wasteland/monsut/thief.c line 11 :Newline in string
+wizards/moonstar/areas/wasteland/monsut/thief.c line 20 :Too few arguments to clone_object
+wizards/moonstar/areas/wasteland/monsut/thief.c line 20 :Illegal LHS
+wizards/moonstar/areas/wasteland/monsut/thief.c line 11 :syntax error
+wizards/moonstar/areas/wasteland/monsut/thief.c line 11 :Illegal character (hex 2e) '.'
+wizards/moonstar/areas/wasteland/monsut/thief.c line 11 :Illegal character (hex 5c) '\'
+wizards/moonstar/areas/wasteland/monsut/thief.c line 11 :Newline in string
+wizards/moonstar/areas/wasteland/monsut/thief.c line 20 :Too few arguments to clone_object
+wizards/moonstar/areas/wasteland/monsut/thief.c line 20 :Illegal LHS
+wizards/moonstar/areas/wasteland/monsut/thief.c line 9 :Variable set_short not declared !
+wizards/moonstar/areas/wasteland/monsut/thief.c line 10 :Variable set_long not declared !
+wizards/moonstar/test/Testk.c line 46 :syntax error
+wizards/moonstar/test/Testk.c line 51 :syntax error
+wizards/moonstar/test/Testk.c line 57 :Illegal LHS
+wizards/moonstar/test/Testk.c line 57 :syntax error
+wizards/moonstar/test/Testk.c line 66 :Variable str not declared !
+wizards/moonstar/test/Testk.c line 66 :Illegal LHS
+wizards/moonstar/test/testkick.c line 46 :syntax error
+wizards/moonstar/test/testkick.c line 50 :syntax error
+wizards/moonstar/test/testkick.c line 56 :Illegal LHS
+wizards/moonstar/test/testkick.c line 56 :syntax error
+wizards/moonstar/test/testkick.c line 65 :Variable str not declared !
+wizards/moonstar/test/testkick.c line 65 :Illegal LHS
+wizards/moonstar/test/slave.c line 26 :Newline in string
+wizards/moonstar/test/slave.c line 27 :syntax error
+wizards/moonstar/test/malys.c line 54 :syntax error
+wizards/moonstar/skills/kick.c line 33 :Variable More not declared !
+wizards/moonstar/skills/kick.c line 33 :syntax error
+wizards/moonstar/skills/kick.c line 43 :Illegal LHS
+wizards/moonstar/skills/kick.c line 51 :syntax error
+wizards/moonstar/skills/kick.c line 57 :Illegal LHS
+wizards/moonstar/skills/kick.c line 57 :syntax error
+wizards/moonstar/skills/kick.c line 49 :syntax error
+wizards/moonstar/skills/kick.c line 45 :syntax error
+wizards/moonstar/skills/kick.c line 50 :syntax error
+wizards/moonstar/skills/kick.c line 57 :Illegal LHS
+wizards/moonstar/skills/kick.c line 57 :syntax error
+wizards/moonstar/skills/kick.c line 66 :Variable str not declared !
+wizards/moonstar/skills/kick.c line 66 :Illegal LHS
+wizards/moonstar/skills/kick.c line 46 :syntax error
+wizards/moonstar/skills/kick.c line 51 :syntax error
+wizards/moonstar/skills/kick.c line 57 :Illegal LHS
+wizards/moonstar/skills/kick.c line 57 :syntax error
+wizards/moonstar/skills/kick.c line 66 :Variable str not declared !
+wizards/moonstar/skills/kick.c line 66 :Illegal LHS
+wizards/moonstar/skills/kick.c line 46 :syntax error
+wizards/moonstar/skills/kick.c line 51 :syntax error
+wizards/moonstar/skills/kick.c line 57 :Illegal LHS
+wizards/moonstar/skills/kick.c line 57 :syntax error
+wizards/moonstar/skills/kick.c line 67 :Variable str not declared !
+wizards/moonstar/skills/kick.c line 67 :Illegal LHS
+wizards/moonstar/skills/kick.c line 2 :syntax error
+wizards/moonstar/skills/kick.c line 46 :syntax error
+wizards/moonstar/skills/kick.c line 51 :syntax error
+wizards/moonstar/skills/kick.c line 57 :Illegal LHS
+wizards/moonstar/skills/kick.c line 57 :syntax error
+wizards/moonstar/skills/kick.c line 66 :Variable str not declared !
+wizards/moonstar/necro/unholy_lords.c line 59 :Unrecognized inheritance modifier qualifier
+wizards/moonstar/necro/unholy_lords.c line 59 :Unrecognized inheritance modifier qualifier
+wizards/moonstar/necro/unholy_lords.c line 59 :syntax error
+wizards/moonstar/necro/unholy_lords.c line 85 :syntax error
+wizards/moonstar/necro/unholy_lords.c line 85 :Illegal LHS
+wizards/moonstar/necro/unholy_lords.c line 85 :syntax error
+wizards/moonstar/necro/unholy_lords.c line 86 :Illegal LHS
+wizards/moonstar/necro/unholy_lords.c line 86 :syntax error
+wizards/moonstar/necro/unholy_lords.c line 89 :Illegal LHS
+wizards/moonstar/necro/unholy_lords.c line 85 :syntax error
+wizards/moonstar/necro/unholy_lords.c line 85 :Illegal LHS
+wizards/moonstar/necro/unholy_lords.c line 85 :syntax error
+wizards/moonstar/necro/unholy_lords.c line 86 :Illegal LHS
+wizards/moonstar/necro/unholy_lords.c line 86 :syntax error
+wizards/moonstar/necro/unholy_lords.c line 89 :Illegal LHS
+wizards/moonstar/necro/unholy_lords.c line 85 :syntax error
+wizards/moonstar/necro/unholy_lords.c line 85 :Illegal LHS
+wizards/moonstar/necro/unholy_lords.c line 85 :syntax error
+wizards/moonstar/necro/unholy_lords.c line 86 :Illegal LHS
+wizards/moonstar/necro/unholy_lords.c line 86 :syntax error
+wizards/moonstar/necro/unholy_lords.c line 89 :Illegal LHS
+wizards/moonstar/test/toweri.c line 1 :Unrecognized inheritance modifier qualifier
+wizards/moonstar/test/toweri.c line 1 :Unrecognized inheritance modifier qualifier
+wizards/moonstar/test/toweri.c line 1 :Unrecognized inheritance modifier qualifier
+wizards/moonstar/test/toweri.c line 1 :Unrecognized inheritance modifier qualifier
+wizards/moonstar/test/toweri.c line 1 :Unrecognized inheritance modifier qualifier
+wizards/moonstar/test/toweri.c line 1 :Unrecognized inheritance modifier qualifier
+wizards/moonstar/necro/unholy_lords.c line 85 :syntax error
+wizards/moonstar/necro/unholy_lords.c line 85 :Illegal LHS
+wizards/moonstar/necro/unholy_lords.c line 85 :syntax error
+wizards/moonstar/necro/unholy_lords.c line 86 :Illegal LHS
+wizards/moonstar/necro/unholy_lords.c line 86 :syntax error
+wizards/moonstar/necro/unholy_lords.c line 89 :Illegal LHS
+wizards/moonstar/necro/unholy_lords.c line 84 :syntax error
+wizards/moonstar/necro/unholy_lords.c line 85 :Illegal LHS
+wizards/moonstar/necro/unholy_lords.c line 85 :syntax error
+wizards/moonstar/necro/unholy_lords.c line 86 :Illegal LHS
+wizards/moonstar/necro/unholy_lords.c line 86 :syntax error
+wizards/moonstar/necro/unholy_lords.c line 89 :Illegal LHS
+wizards/moonstar/test/toweri.c line 1 :Unrecognized inheritance modifier qualifier
+wizards/moonstar/test/toweri.c line 1 :Unrecognized inheritance modifier qualifier
+wizards/moonstar/test/toweri.c line 1 :Unrecognized inheritance modifier qualifier
+wizards/moonstar/test/toweri.c line 1 :Unrecognized inheritance modifier qualifier
+wizards/moonstar/test/toweri.c line 1 :Unrecognized inheritance modifier qualifier
+wizards/moonstar/test/toweri.c line 1 :Unrecognized inheritance modifier qualifier
+wizards/moonstar/necro/unholy_lords.c line 84 :syntax error
+wizards/moonstar/necro/unholy_lords.c line 85 :Illegal LHS
+wizards/moonstar/necro/unholy_lords.c line 85 :syntax error
+wizards/moonstar/necro/unholy_lords.c line 86 :Illegal LHS
+wizards/moonstar/necro/unholy_lords.c line 86 :syntax error
+wizards/moonstar/necro/unholy_lords.c line 89 :Illegal LHS
+wizards/moonstar/necro/uh.c line 89 :syntax error
+wizards/moonstar/necro/uh.c line 90 :Illegal LHS
+wizards/moonstar/necro/uh.c line 90 :syntax error
+wizards/moonstar/necro/uh.c line 91 :Illegal LHS
+wizards/moonstar/necro/uh.c line 91 :syntax error
+wizards/moonstar/necro/uh.c line 96 :Illegal LHS
+wizards/moonstar/necro/unholy_lords.c line 84 :syntax error
+wizards/moonstar/necro/unholy_lords.c line 85 :Illegal LHS
+wizards/moonstar/necro/unholy_lords.c line 85 :syntax error
+wizards/moonstar/necro/unholy_lords.c line 86 :Illegal LHS
+wizards/moonstar/necro/unholy_lords.c line 86 :syntax error
+wizards/moonstar/necro/unholy_lords.c line 89 :Illegal LHS
+wizards/moonstar/necro/animators.c line 48 :Unrecognized inheritance modifier qualifier
+wizards/moonstar/necro/animators.c line 48 :Unrecognized inheritance modifier qualifier
+wizards/moonstar/necro/animators.c line 48 :syntax error
+wizards/moonstar/test/kick.c line 47 :syntax error
+wizards/moonstar/test/kick.c line 53 :syntax error
+wizards/moonstar/test/kick.c line 59 :Illegal LHS
+wizards/moonstar/test/kick.c line 59 :syntax error
+wizards/moonstar/test/kick.c line 68 :Variable str not declared !
+wizards/moonstar/test/kick.c line 68 :Illegal LHS
+wizards/moonstar/areas/wasteland/monsut/deathknight.c line 26 :syntax error
+wizards/moonstar/artists/weapon_sub_types.c line 139 :syntax error
+wizards/moonstar/artists/weapon_sub_types.c line 139 :Illegal LHS
+wizards/moonstar/artists/weapon_sub_types.c line 139 :syntax error
+wizards/moonstar/artists/weapon_sub_types.c line 139 :Illegal LHS
+wizards/moonstar/artists/weapon_sub_types.c line 139 :syntax error
+wizards/moonstar/artists/weapon_sub_types.c line 139 :Illegal LHS
+wizards/moonstar/artists/weapon_sub_types.c line 139 :syntax error
+wizards/moonstar/artists/weapon_sub_types.c line 139 :Illegal LHS
+wizards/moonstar/test/testmayor.c line 32 :Variable str not declared !
+wizards/moonstar/test/testmayor.c line 32 :syntax error
+wizards/moonstar/test/testmayor.c line 40 :syntax error
+wizards/moonstar/artists/atestguild.c line 27 :syntax error
+wizards/moonstar/artists/atestguild.c line 51 :syntax error
+wizards/moonstar/artists/atestguild.c line 60 :syntax error
+wizards/moonstar/artists/skills/claws_storm.c line 23 :syntax error
+wizards/moonstar/artists/skills/claws_storm.c line 26 :Illegal LHS
+wizards/moonstar/artists/skills/claws_storm.c line 26 :syntax error
+wizards/moonstar/artists/skills/claws_storm.c line 28 :Illegal LHS
+wizards/moonstar/artists/skills/claws_storm.c line 28 :syntax error
+wizards/moonstar/artists/skills/claws_storm.c line 30 :Illegal LHS
+wizards/moonstar/skills/sttest.c line 32 :Variable dama_skill not declared !
+wizards/moonstar/skills/sttest.c line 33 :Variable dama2_skill not declared !
+wizards/moonstar/skills/sttest.c line 34 :Variable focus not declared !
+wizards/moonstar/skills/sttest.c line 36 :Variable dama_skill not declared !
+wizards/moonstar/skills/sttest.c line 37 :Variable dama_skill not declared !
+wizards/moonstar/skills/sttest.c line 37 :Variable dama2_skill not declared !
+wizards/moonstar/artists/skills/claws_storm.c line 49 :Variable More not declared !
+wizards/moonstar/artists/skills/claws_storm.c line 49 :syntax error
+wizards/moonstar/artists/skills/claws_storm.c line 54 :Too few arguments to write
+wizards/moonstar/artists/skills/claws_storm.c line 55 :syntax error
+wizards/moonstar/artists/skills/focus_elements_ob.c line 9 :syntax error
+wizards/moonstar/artists/skills/focus_elements_ob.c line 10 :Illegal LHS
+wizards/moonstar/artists/skills/focus_elements_ob.c line 9 :syntax error
+wizards/moonstar/artists/skills/focus_elements_ob.c line 84 :syntax error
+wizards/moonstar/artists/skills/focus_elements_ob.c line 86 :Illegal LHS
+wizards/moonstar/artists/skills/focus_elements_ob.c line 86 :syntax error
+wizards/moonstar/artists/skills/focus_elements_ob.c line 88 :Illegal LHS
+wizards/moonstar/artists/skills/focus_elements_ob.c line 109 :Illegal LHS
+wizards/moonstar/artists/skills/focus_elements_ob.c line 109 :syntax error
+wizards/moonstar/test/testmayor.c line 32 :Variable str not declared !
+wizards/moonstar/test/testmayor.c line 32 :syntax error
+wizards/moonstar/test/testmayor.c line 40 :syntax error
+wizards/moonstar/artists/skills/focus_elements_ob.c line 84 :syntax error
+wizards/moonstar/artists/skills/focus_elements_ob.c line 86 :Illegal LHS
+wizards/moonstar/artists/skills/focus_elements_ob.c line 86 :syntax error
+wizards/moonstar/artists/skills/focus_elements_ob.c line 88 :Illegal LHS
+wizards/moonstar/artists/skills/focus_elements_ob.c line 109 :Illegal LHS
+wizards/moonstar/artists/skills/focus_elements_ob.c line 109 :syntax error
+wizards/moonstar/artists/skills/focus_elements_ob.c line 83 :syntax error
+wizards/moonstar/artists/skills/focus_elements_ob.c line 85 :Illegal LHS
+wizards/moonstar/artists/skills/focus_elements_ob.c line 85 :syntax error
+wizards/moonstar/artists/skills/focus_elements_ob.c line 87 :Illegal LHS
+wizards/moonstar/artists/skills/focus_elements_ob.c line 108 :Illegal LHS
+wizards/moonstar/artists/skills/focus_elements_ob.c line 108 :syntax error
+wizards/moonstar/artists/skills/focus_elements_ob.c line 83 :syntax error
+wizards/moonstar/artists/skills/focus_elements_ob.c line 85 :Illegal LHS
+wizards/moonstar/artists/skills/focus_elements_ob.c line 85 :syntax error
+wizards/moonstar/artists/skills/focus_elements_ob.c line 87 :Illegal LHS
+wizards/moonstar/artists/skills/focus_elements_ob.c line 108 :Illegal LHS
+wizards/moonstar/artists/skills/focus_elements_ob.c line 108 :syntax error
+wizards/moonstar/artists/skills/focus_elements_ob.c line 84 :syntax error
+wizards/moonstar/artists/skills/focus_elements_ob.c line 86 :Illegal LHS
+wizards/moonstar/artists/skills/focus_elements_ob.c line 86 :syntax error
+wizards/moonstar/artists/skills/focus_elements_ob.c line 88 :Illegal LHS
+wizards/moonstar/artists/skills/focus_elements_ob.c line 109 :Illegal LHS
+wizards/moonstar/artists/skills/focus_elements_ob.c line 109 :syntax error
+wizards/moonstar/test/testmayor.c line 32 :Variable str not declared !
+wizards/moonstar/test/testmayor.c line 32 :syntax error
+wizards/moonstar/test/testmayor.c line 40 :syntax error
+wizards/moonstar/artists/skills/focus_elements_ob.c line 84 :syntax error
+wizards/moonstar/artists/skills/focus_elements_ob.c line 86 :Illegal LHS
+wizards/moonstar/artists/skills/focus_elements_ob.c line 86 :syntax error
+wizards/moonstar/artists/skills/focus_elements_ob.c line 88 :Illegal LHS
+wizards/moonstar/artists/skills/focus_elements_ob.c line 109 :Illegal LHS
+wizards/moonstar/artists/skills/focus_elements_ob.c line 109 :syntax error
+wizards/moonstar/artists/focus_obj.c line 72 :syntax error
+wizards/moonstar/artists/focus_obj.c line 72 :syntax error
+wizards/moonstar/artists/focus_obj.c line 72 :syntax error
+wizards/moonstar/artists/skills/focus_elements_ob.c line 72 :syntax error
+wizards/moonstar/artists/skills/focus_elements_ob.c line 72 :syntax error
+wizards/moonstar/artists/skills/sky_strike.c line 31 :Variable tp not declared !
+wizards/moonstar/artists/skills/sky_strike.c line 31 :Variable tp not declared !
+wizards/moonstar/artists/skills/sky_strike.c line 32 :Variable tp not declared !
+wizards/moonstar/artists/skills/sky_strike.c line 32 :Variable tp not declared !
+wizards/moonstar/artists/skills/sky_strike.c line 32 :Variable tp not declared !
+wizards/moonstar/artists/skills/sky_strike.c line 32 :syntax error
+wizards/moonstar/artists/skills/sky_strike.c line 11 :Variable tp not declared !
+wizards/moonstar/artists/skills/sky_strike.c line 12 :syntax error
+wizards/moonstar/artists/skills/sky_strike.c line 32 :Variable tp not declared !
+wizards/moonstar/artists/skills/sky_strike.c line 32 :Variable tp not declared !
+wizards/moonstar/artists/skills/sky_strike.c line 33 :Variable tp not declared !
+wizards/moonstar/artists/skills/sky_strike.c line 33 :Variable tp not declared !
+wizards/moonstar/test/testmayor.c line 32 :Variable str not declared !
+wizards/moonstar/test/testmayor.c line 32 :syntax error
+wizards/moonstar/test/testmayor.c line 40 :syntax error
+wizards/moonstar/artists/skills/sky_strike.c line 11 :Variable tp not declared !
+wizards/moonstar/artists/skills/sky_strike.c line 12 :syntax error
+wizards/moonstar/artists/skills/sky_strike.c line 32 :Variable tp not declared !
+wizards/moonstar/artists/skills/sky_strike.c line 32 :Variable tp not declared !
+wizards/moonstar/artists/skills/sky_strike.c line 33 :Variable tp not declared !
+wizards/moonstar/artists/skills/sky_strike.c line 33 :Variable tp not declared !
+wizards/moonstar/artists/skills/sky_strike.c line 31 :syntax error
+wizards/moonstar/artists/skills/sky_strike.c line 32 :syntax error
+wizards/moonstar/artists/skills/sky_strike.c line 36 :Illegal LHS
+wizards/moonstar/artists/skills/sky_strike.c line 36 :Illegal LHS
+wizards/moonstar/artists/skills/sky_strike.c line 36 :syntax error
+wizards/moonstar/artists/skills/sky_strike.c line 39 :Illegal LHS
+wizards/moonstar/artists/skills/sky_strike.c line 31 :Variable tp not declared !
+wizards/moonstar/artists/skills/sky_strike.c line 32 :Variable tp not declared !
+wizards/moonstar/artists/skills/sky_strike.c line 32 :Variable tp not declared !
+wizards/moonstar/artists/skills/sky_strike.c line 32 :syntax error
+wizards/moonstar/artists/skills/sky_strike.c line 36 :Illegal LHS
+wizards/moonstar/artists/skills/sky_strike.c line 38 :syntax error
+wizards/moonstar/test/testmayor.c line 32 :Variable str not declared !
+wizards/moonstar/test/testmayor.c line 32 :syntax error
+wizards/moonstar/test/testmayor.c line 40 :syntax error
+wizards/moonstar/artists/skills/sky_strike.c line 32 :syntax error
+wizards/moonstar/artists/skills/sky_strike.c line 35 :Illegal LHS
+wizards/moonstar/artists/skills/sky_strike.c line 37 :syntax error
+wizards/moonstar/artists/skills/sky_strike.c line 35 :syntax error
+wizards/moonstar/artists/skills/sky_strike.c line 68 :Newline in string
+wizards/moonstar/artists/skills/sky_strike.c line 69 :syntax error
+wizards/moonstar/artists/skills/sky_strike.c line 70 :Newline in string
+wizards/moonstar/artists/skills/sky_strike.c line 75 :Newline in string
+wizards/moonstar/artists/skills/sky_strike.c line 95 :Illegal LHS
+wizards/moonstar/artists/skills/sky_strike.c line 68 :Newline in string
+wizards/moonstar/artists/skills/sky_strike.c line 69 :syntax error
+wizards/moonstar/artists/skills/sky_strike.c line 70 :Newline in string
+wizards/moonstar/artists/skills/sky_strike.c line 75 :Newline in string
+wizards/moonstar/artists/skills/sky_strike.c line 95 :Illegal LHS
+wizards/moonstar/artists/skills/sky_strike.c line 95 :syntax error
+wizards/moonstar/artists/skills/sky_strike.c line 68 :Newline in string
+wizards/moonstar/artists/skills/sky_strike.c line 69 :syntax error
+wizards/moonstar/artists/skills/sky_strike.c line 70 :Newline in string
+wizards/moonstar/artists/skills/sky_strike.c line 75 :Newline in string
+wizards/moonstar/artists/skills/sky_strike.c line 92 :Illegal LHS
+wizards/moonstar/artists/skills/sky_strike.c line 92 :syntax error
+wizards/moonstar/test/testmayor.c line 32 :Variable str not declared !
+wizards/moonstar/test/testmayor.c line 32 :syntax error
+wizards/moonstar/test/testmayor.c line 40 :syntax error
+wizards/moonstar/artists/skills/sky_strike.c line 68 :Newline in string
+wizards/moonstar/artists/skills/sky_strike.c line 69 :syntax error
+wizards/moonstar/artists/skills/sky_strike.c line 70 :Newline in string
+wizards/moonstar/artists/skills/sky_strike.c line 75 :Newline in string
+wizards/moonstar/artists/skills/sky_strike.c line 92 :Illegal LHS
+wizards/moonstar/artists/skills/sky_strike.c line 92 :syntax error
+wizards/moonstar/artists/skills/sky_strike.c line 59 :Newline in string
+wizards/moonstar/artists/skills/sky_strike.c line 60 :syntax error
+wizards/moonstar/artists/skills/sky_strike.c line 61 :Newline in string
+wizards/moonstar/artists/skills/sky_strike.c line 66 :Newline in string
+wizards/moonstar/artists/skills/sky_strike.c line 88 :Illegal LHS
+wizards/moonstar/artists/skills/sky_strike.c line 88 :syntax error
+wizards/moonstar/artists/skills/sky_strike.c line 61 :syntax error
+wizards/moonstar/artists/skills/sky_strike.c line 88 :Illegal LHS
+wizards/moonstar/artists/skills/sky_strike.c line 88 :syntax error
+wizards/moonstar/artists/skills/sky_strike.c line 93 :Illegal LHS
+wizards/moonstar/artists/skills/sky_strike.c line 93 :syntax error
+wizards/moonstar/artists/skills/sky_strike.c line 61 :syntax error
+wizards/moonstar/artists/skills/sky_strike.c line 89 :Illegal LHS
+wizards/moonstar/artists/skills/sky_strike.c line 89 :syntax error
+wizards/moonstar/artists/skills/sky_strike.c line 94 :Illegal LHS
+wizards/moonstar/artists/skills/sky_strike.c line 94 :syntax error
+wizards/moonstar/test/testmayor.c line 32 :Variable str not declared !
+wizards/moonstar/test/testmayor.c line 32 :syntax error
+wizards/moonstar/test/testmayor.c line 40 :syntax error
+wizards/moonstar/artists/skills/sky_strike.c line 61 :syntax error
+wizards/moonstar/artists/skills/sky_strike.c line 89 :Illegal LHS
+wizards/moonstar/artists/skills/sky_strike.c line 89 :syntax error
+wizards/moonstar/artists/skills/sky_strike.c line 94 :Illegal LHS
+wizards/moonstar/artists/skills/sky_strike.c line 94 :syntax error
+wizards/moonstar/artists/skills/sky_strike.c line 61 :syntax error
+wizards/moonstar/artists/skills/sky_strike.c line 89 :Illegal LHS
+wizards/moonstar/artists/skills/sky_strike.c line 89 :syntax error
+wizards/moonstar/artists/skills/sky_strike.c line 94 :Illegal LHS
+wizards/moonstar/artists/skills/sky_strike.c line 94 :syntax error
+wizards/moonstar/artists/skills/sky_strike.c line 82 :syntax error
+wizards/moonstar/artists/skills/sky_strike.c line 87 :syntax error
+wizards/moonstar/artists/skills/sky_strike.c line 92 :syntax error
+wizards/moonstar/artists/skills/sky_strike.c line 94 :Illegal LHS
+wizards/moonstar/artists/skills/sky_strike.c line 94 :syntax error
+wizards/moonstar/artists/skills/sky_strike.c line 96 :Illegal LHS
+wizards/moonstar/artists/skills/sky_strike.c line 96 :syntax error
+wizards/moonstar/test/testmayor.c line 32 :Variable str not declared !
+wizards/moonstar/test/testmayor.c line 32 :syntax error
+wizards/moonstar/test/testmayor.c line 40 :syntax error
+wizards/moonstar/artists/skills/sky_strike.c line 92 :syntax error
+wizards/moonstar/artists/skills/sky_strike.c line 94 :Illegal LHS
+wizards/moonstar/artists/skills/sky_strike.c line 94 :syntax error
+wizards/moonstar/artists/skills/sky_strike.c line 96 :Illegal LHS
+wizards/moonstar/artists/skills/sky_strike.c line 96 :syntax error
+wizards/moonstar/artists/skys.c line 94 :syntax error
+wizards/moonstar/artists/skys.c line 94 :syntax error
+wizards/moonstar/artists/skys.c line 94 :syntax error
+wizards/moonstar/artists/skys.c line 94 :syntax error
+wizards/moonstar/artists/skys.c line 106 :syntax error
+wizards/moonstar/artists/skys.c line 92 :syntax error
+wizards/moonstar/artists/skills/sky_strike.c line 92 :syntax error
+wizards/moonstar/artists/skills/sky_strike.c line 94 :Illegal LHS
+wizards/moonstar/artists/skills/sky_strike.c line 94 :syntax error
+wizards/moonstar/artists/skills/sky_strike.c line 96 :Illegal LHS
+wizards/moonstar/artists/skills/sky_strike.c line 96 :syntax error
+wizards/moonstar/artists/claws_storm.c line 31 :Newline in string
+wizards/moonstar/artists/claws_storm.c line 32 :syntax error
+wizards/moonstar/artists/claws_storm.c line 32 :Newline in string
+wizards/moonstar/artists/claws_storm.c line 33 :Newline in string
+wizards/moonstar/artists/claws_storm.c line 35 :Newline in string
+wizards/moonstar/artists/claws_storm.c line 36 :syntax error
+wizards/moonstar/artists/claws_storm.c line 32 :Newline in string
+wizards/moonstar/artists/claws_storm.c line 33 :Newline in string
+wizards/moonstar/artists/claws_storm.c line 35 :Newline in string
+wizards/moonstar/artists/claws_storm.c line 36 :syntax error
+wizards/moonstar/artists/skys.c line 92 :syntax error
+wizards/moonstar/artists/skys.c line 92 :syntax error
+wizards/moonstar/artists/dblow.c line 58 :syntax error
+wizards/moonstar/artists/skills/seal_wounds.c line 35 :syntax error
+wizards/moonstar/artists/skills/meditation.c line 39 :Illegal character (hex 5c) '\'
+wizards/moonstar/artists/skills/meditation.c line 39 :syntax error
+wizards/moonstar/artists/skills/meditation.c line 39 :Newline in string
+wizards/moonstar/artists/skills/meditation.c line 39 :syntax error
+wizards/moonstar/artists/base_guild.c line 28 :syntax error
+wizards/moonstar/artists/base_guild.c line 187 :Newline in string
+wizards/moonstar/artists/base_guild.c line 188 :syntax error
+wizards/moonstar/artists/base_guild.c line 190 :Illegal LHS
+wizards/moonstar/artists/base_guild.c line 190 :syntax error
+wizards/moonstar/artists/base_guild.c line 191 :Illegal LHS
+wizards/moonstar/artists/base_guild.c line 191 :syntax error
+wizards/moonstar/artists/base_guild.c line 187 :Newline in string
+wizards/moonstar/artists/base_guild.c line 188 :syntax error
+wizards/moonstar/artists/base_guild.c line 190 :Illegal LHS
+wizards/moonstar/artists/base_guild.c line 190 :syntax error
+wizards/moonstar/artists/base_guild.c line 191 :Illegal LHS
+wizards/moonstar/artists/base_guild.c line 191 :syntax error
+wizards/moonstar/artists/base_guild.c line 28 :syntax error
+wizards/moonstar/artists/base_guild.c line 28 :syntax error
+wizards/moonstar/artists/base_guild.c line 28 :syntax error
+wizards/moonstar/artists/base_guild.c line 189 :Newline in string
+wizards/moonstar/artists/base_guild.c line 190 :syntax error
+wizards/moonstar/artists/base_guild.c line 192 :Illegal LHS
+wizards/moonstar/artists/base_guild.c line 192 :syntax error
+wizards/moonstar/artists/base_guild.c line 193 :Illegal LHS
+wizards/moonstar/artists/base_guild.c line 193 :syntax error
+wizards/moonstar/artists/base_guild.c line 189 :Newline in string
+wizards/moonstar/artists/base_guild.c line 190 :syntax error
+wizards/moonstar/artists/base_guild.c line 192 :Illegal LHS
+wizards/moonstar/artists/base_guild.c line 192 :syntax error
+wizards/moonstar/artists/base_guild.c line 193 :Illegal LHS
+wizards/moonstar/artists/base_guild.c line 193 :syntax error
+wizards/moonstar/artists/base_guild.c line 191 :syntax error
+wizards/moonstar/artists/base_guild.c line 192 :Illegal LHS
+wizards/moonstar/artists/base_guild.c line 192 :syntax error
+wizards/moonstar/artists/base_guild.c line 193 :Illegal LHS
+wizards/moonstar/artists/base_guild.c line 193 :syntax error
+wizards/moonstar/artists/base_guild.c line 194 :Illegal LHS
+wizards/moonstar/test/testmayor.c line 32 :Variable str not declared !
+wizards/moonstar/test/testmayor.c line 32 :syntax error
+wizards/moonstar/test/testmayor.c line 40 :syntax error
+wizards/moonstar/artists/base_guild.c line 191 :syntax error
+wizards/moonstar/artists/base_guild.c line 192 :Illegal LHS
+wizards/moonstar/artists/base_guild.c line 192 :syntax error
+wizards/moonstar/artists/base_guild.c line 193 :Illegal LHS
+wizards/moonstar/artists/base_guild.c line 193 :syntax error
+wizards/moonstar/artists/base_guild.c line 194 :Illegal LHS
+wizards/moonstar/artists/base_guild.c line 191 :syntax error
+wizards/moonstar/artists/base_guild.c line 192 :Illegal LHS
+wizards/moonstar/artists/base_guild.c line 192 :syntax error
+wizards/moonstar/artists/base_guild.c line 193 :Illegal LHS
+wizards/moonstar/artists/base_guild.c line 193 :syntax error
+wizards/moonstar/artists/base_guild.c line 194 :Illegal LHS
+wizards/moonstar/artists/base_guild.c line 266 :syntax error
+wizards/moonstar/eval_file.c line 2 :Too many arguments to this_player
+wizards/moonstar/artists/body_focusers_alotus.c line 141 :syntax error
+wizards/moonstar/artists/skills/skillfun.c line 5 :Unrecognized inheritance modifier qualifier
+wizards/moonstar/artists/skills/skillfun.c line 5 :Unrecognized inheritance modifier qualifier
+wizards/moonstar/artists/skills/skillfun.c line 5 :Unrecognized inheritance modifier qualifier
+wizards/moonstar/artists/skills/skillfun.c line 5 :Illegal character (hex 2e) '.'
+wizards/moonstar/artists/skills/skillfun.c line 5 :syntax error
+wizards/moonstar/artists/skills/skillfun.c line 187 :Duplicate case in line 186 and 153
+wizards/moonstar/artists/skills/claws_storm.c line 29 :syntax error
+wizards/moonstar/artists/skills/claws_storm.c line 29 :Newline in string
+wizards/moonstar/artists/skills/claws_storm.c line 30 :Illegal LHS
+wizards/moonstar/artists/skills/claws_storm.c line 31 :syntax error
+wizards/moonstar/artists/skills/claws_storm.c line 32 :Illegal LHS
+wizards/moonstar/artists/skills/claws_storm.c line 32 :syntax error
+wizards/moonstar/artists/skills/claws_storm.c line 32 :syntax error
+wizards/moonstar/artists/skills/claws_storm.c line 32 :Newline in string
+wizards/moonstar/artists/skills/claws_storm.c line 48 :Illegal LHS
+wizards/moonstar/artists/skills/claws_storm.c line 50 :syntax error
+wizards/moonstar/artists/skills/claws_storm.c line 53 :Illegal LHS
+wizards/moonstar/artists/skills/claws_storm.c line 53 :syntax error
+wizards/moonstar/test/testmayor.c line 32 :Variable str not declared !
+wizards/moonstar/test/testmayor.c line 32 :syntax error
+wizards/moonstar/test/testmayor.c line 40 :syntax error
+wizards/moonstar/artists/skills/claws_storm.c line 32 :syntax error
+wizards/moonstar/artists/skills/claws_storm.c line 32 :Newline in string
+wizards/moonstar/artists/skills/claws_storm.c line 48 :Illegal LHS
+wizards/moonstar/artists/skills/claws_storm.c line 50 :syntax error
+wizards/moonstar/artists/skills/claws_storm.c line 53 :Illegal LHS
+wizards/moonstar/artists/skills/claws_storm.c line 53 :syntax error
+wizards/moonstar/artists/cs.c line 32 :Variable target not declared !
+wizards/moonstar/artists/cs.c line 33 :Variable target not declared !
+wizards/moonstar/artists/cs.c line 33 :Variable target not declared !
+wizards/moonstar/artists/cs.c line 34 :Variable target not declared !
+wizards/moonstar/artists/cs.c line 35 :Variable target not declared !
+wizards/moonstar/artists/cs.c line 36 :Variable target not declared !
+wizards/moonstar/artists/cs.c line 33 :Variable target not declared !
+wizards/moonstar/artists/cs.c line 32 :Variable target not declared !
+wizards/moonstar/artists/cs.c line 33 :Variable target not declared !
+wizards/moonstar/artists/cs.c line 33 :Variable target not declared !
+wizards/moonstar/artists/cs.c line 34 :Variable target not declared !
+wizards/moonstar/artists/cs.c line 35 :Variable target not declared !
+wizards/moonstar/artists/cs.c line 36 :Variable target not declared !
+wizards/moonstar/test/testmayor.c line 32 :Variable str not declared !
+wizards/moonstar/test/testmayor.c line 32 :syntax error
+wizards/moonstar/test/testmayor.c line 40 :syntax error
+wizards/moonstar/artists/cs.c line 33 :Variable target not declared !
+wizards/moonstar/artists/cs.c line 33 :Variable target not declared !
+wizards/moonstar/artists/cs.c line 34 :Variable target not declared !
+wizards/moonstar/artists/cs.c line 47 :Variable target not declared !
+wizards/moonstar/artists/cs.c line 33 :Variable target not declared !
+wizards/moonstar/artists/cs.c line 47 :Variable target not declared !
+wizards/moonstar/artists/cs.c line 32 :syntax error
+wizards/moonstar/artists/cs.c line 32 :Newline in string
+wizards/moonstar/artists/cs.c line 48 :Illegal LHS
+wizards/moonstar/artists/cs.c line 50 :syntax error
+wizards/moonstar/artists/cs.c line 53 :Illegal LHS
+wizards/moonstar/artists/cs.c line 53 :syntax error
+wizards/moonstar/artists/cs.c line 32 :syntax error
+wizards/moonstar/artists/cs.c line 32 :Newline in string
+wizards/moonstar/artists/cs.c line 48 :Illegal LHS
+wizards/moonstar/artists/cs.c line 50 :syntax error
+wizards/moonstar/artists/cs.c line 53 :Illegal LHS
+wizards/moonstar/artists/cs.c line 53 :syntax error
+wizards/moonstar/artists/cs.c line 30 :syntax error
+wizards/moonstar/artists/cs.c line 30 :Newline in string
+wizards/moonstar/artists/cs.c line 32 :Illegal LHS
+wizards/moonstar/artists/cs.c line 32 :Illegal LHS
+wizards/moonstar/artists/cs.c line 32 :syntax error
+wizards/moonstar/artists/cs.c line 48 :Variable str not declared !
+wizards/moonstar/test/testmayor.c line 32 :Variable str not declared !
+wizards/moonstar/test/testmayor.c line 32 :syntax error
+wizards/moonstar/test/testmayor.c line 40 :syntax error
+wizards/moonstar/artists/cs.c line 30 :syntax error
+wizards/moonstar/artists/cs.c line 30 :Newline in string
+wizards/moonstar/artists/cs.c line 32 :Illegal LHS
+wizards/moonstar/artists/cs.c line 32 :Illegal LHS
+wizards/moonstar/artists/cs.c line 32 :syntax error
+wizards/moonstar/artists/cs.c line 48 :Variable str not declared !
+wizards/moonstar/artists/cs.c line 32 :syntax error
+wizards/moonstar/artists/cs.c line 32 :Newline in string
+wizards/moonstar/artists/cs.c line 48 :Illegal LHS
+wizards/moonstar/artists/cs.c line 50 :syntax error
+wizards/moonstar/artists/cs.c line 53 :Illegal LHS
+wizards/moonstar/artists/cs.c line 53 :syntax error
+wizards/moonstar/artists/db.c line 63 :syntax error
+wizards/moonstar/artists/wepat/gm.c line 9 :Illegal character (hex 5c) '\'
+wizards/moonstar/artists/wepat/gm.c line 9 :syntax error
+wizards/moonstar/artists/wepat/gm.c line 9 :Newline in string
+wizards/moonstar/artists/wepat/gm.c line 9 :Illegal character (hex 5c) '\'
+wizards/moonstar/artists/wepat/gm.c line 9 :syntax error
+wizards/moonstar/artists/wepat/gm.c line 9 :Newline in string
+wizards/moonstar/artists/wepat/black.c line 11 :syntax error
+wizards/moonstar/test/rankit.c line 77 :Newline in string
+wizards/moonstar/test/rankit.c line 78 :syntax error
+wizards/moonstar/test/rankit.c line 238 :syntax error
+wizards/moonstar/test/rankit.c line 239 :Illegal LHS
+wizards/moonstar/test/rankit.c line 239 :syntax error
+wizards/moonstar/test/rankit.c line 242 :Illegal LHS
+wizards/moonstar/test/rankit.c line 242 :syntax error
+wizards/moonstar/test/rankit.c line 243 :Illegal LHS
+wizards/moonstar/dragon_ring.c line 10 :Illegal character (hex 5c) '\'
+wizards/moonstar/dragon_ring.c line 10 :syntax error
+wizards/moonstar/dragon_ring.c line 11 :Illegal character (hex 5c) '\'
+wizards/moonstar/test/ruum.c line 50 :syntax error
+wizards/moonstar/test/ruum.c line 8 :Variable short_desc not declared !
+wizards/moonstar/test/ruum.c line 9 :Variable long_desc not declared !
+wizards/moonstar/test/ruum.c line 13 :Variable items not declared !
+wizards/moonstar/test/ruum.c line 14 :Variable items not declared !
+wizards/moonstar/test/ruum.c line 15 :Variable items not declared !
+wizards/moonstar/test/ruum.c line 16 :Variable items not declared !
+wizards/moonstar/artists/wepat/testred.c line 1 :Missing leading " or < in #include
+wizards/moonstar/artists/wepat/testred.c line 2 :Illegal character (hex 2e) '.'
+wizards/moonstar/artists/wepat/testred.c line 2 :syntax error
+wizards/moonstar/artists/wepat/testred.c line 8 :Newline in string
+wizards/moonstar/artists/wepat/testred.c line 9 :syntax error
+wizards/moonstar/artists/wepat/yellow.c line 7 :Variable OFF not declared !
+wizards/moonstar/artists/wepat/blue.c line 8 :Variable BLUE_D not declared !
+wizards/moonstar/artists/wepat/black.c line 8 :Variable GRAY_F not declared !
+wizards/moonstar/artists/wepat/black.c line 8 :Variable GRAY not declared !
+wizards/moonstar/artists/wepat/gm.c line 8 :Variable CYAN not declared !
+wizards/moonstar/artists/wepat/gm.c line 8 :Variable LIGHT_CYAN_F not declared !
+wizards/moonstar/artists/wepat/yellow.c line 15 :syntax error
+wizards/moonstar/rhee.c line 29 :syntax error
+wizards/moonstar/rhee.c line 29 :Illegal LHS
+wizards/moonstar/khi.c line 11 :syntax error
+wizards/moonstar/khi.c line 46 :Too few arguments to clone_object
+wizards/moonstar/khi.c line 46 :Illegal LHS
+wizards/moonstar/khi.c line 46 :syntax error
+wizards/moonstar/khi.c line 50 :Too few arguments to clone_object
+wizards/moonstar/khi.c line 50 :Illegal LHS
+wizards/moonstar/khi.c line 82 :syntax error
+wizards/moonstar/abjubisnes/_kyo_sol_zas.c line 3 :syntax error
+wizards/moonstar/abjubisnes/_kyo_zzt_zas.c line 4 :Unrecognized inheritance modifier qualifier
+wizards/moonstar/abjubisnes/_kyo_zzt_zas.c line 4 :Unrecognized inheritance modifier qualifier
+wizards/moonstar/abjubisnes/_kyo_zzt_zas.c line 4 :syntax error
+wizards/moonstar/abjubisnes/_kyo_zzt_zas.c line 4 :Unrecognized inheritance modifier qualifier
+wizards/moonstar/abjubisnes/_kyo_zzt_zas.c line 4 :Unrecognized inheritance modifier qualifier
+wizards/moonstar/abjubisnes/_kyo_zzt_zas.c line 4 :syntax error
+wizards/moonstar/abjubisnes/_kyo_fla_zas.c line 52 :syntax error
+wizards/moonstar/abjubisnes/_kyo_fla_zas.c line 53 :syntax error
+wizards/moonstar/abjubisnes/_kyo_fla_zas.c line 54 :syntax error
+wizards/moonstar/test/testmayor.c line 32 :Variable str not declared !
+wizards/moonstar/test/testmayor.c line 32 :syntax error
+wizards/moonstar/test/testmayor.c line 40 :syntax error
+wizards/moonstar/abjubisnes/_kyo_fla_zas.c line 54 :syntax error
+wizards/moonstar/abjubisnes/_kyo_zzt_zas.c line 27 :syntax error
+wizards/moonstar/abjubisnes/_kyo_zzt_zas.c line 27 :Illegal LHS
+wizards/moonstar/abjubisnes/_kyo_zzt_zas.c line 26 :syntax error
+wizards/moonstar/abjubisnes/_kyo_zzt_zas.c line 26 :Illegal LHS
+wizards/moonstar/abjubisnes/_kyo_zzt_zas.c line 27 :syntax error
+wizards/moonstar/abjubisnes/_kyo_zzt_zas.c line 30 :Illegal LHS
+wizards/moonstar/abjubisnes/_kyo_zzt_zas.c line 28 :syntax error
+wizards/moonstar/abjubisnes/_kyo_zzt_zas.c line 28 :Illegal LHS
+wizards/moonstar/eval_file.c line 2 :syntax error
+wizards/moonstar/eval_file.c line 2 :Variable moonstar not declared !
+wizards/moonstar/eval_file.c line 2 :Too many arguments to this_player
+wizards/moonstar/areas/forest/eq/robes.c line 7 :Variable OFF not declared !
+wizards/moonstar/artists/entrance.c line 7 :syntax error
+wizards/moonstar/artists/entrance.c line 8 :syntax error
+wizards/moonstar/test/rankit.c line 322 :Newline in string
+wizards/moonstar/test/rankit.c line 323 :Newline in string
+wizards/moonstar/test/rankit.c line 326 :syntax error
+wizards/moonstar/test/rankit.c line 329 :Illegal LHS
+wizards/moonstar/test/rankit.c line 329 :syntax error
+wizards/moonstar/test/rankit.c line 331 :Illegal LHS
+wizards/moonstar/artists/skys.c line 33 :syntax error
+wizards/moonstar/artists/skys.c line 33 :syntax error
+wizards/moonstar/test/sm.c line 35 :syntax error
+wizards/moonstar/test/sm.c line 44 :Illegal LHS
+wizards/moonstar/test/sm.c line 44 :syntax error
+wizards/moonstar/test/sm.c line 55 :Illegal LHS
+wizards/moonstar/test/sm.c line 55 :syntax error
+wizards/moonstar/test/sm.c line 58 :syntax error
+wizards/moonstar/test/sm.c line 35 :syntax error
+wizards/moonstar/test/sm.c line 44 :Illegal LHS
+wizards/moonstar/test/sm.c line 44 :syntax error
+wizards/moonstar/test/sm.c line 55 :Illegal LHS
+wizards/moonstar/test/sm.c line 55 :syntax error
+wizards/moonstar/test/sm.c line 58 :syntax error
+wizards/moonstar/artists/mind_focusers.c line 17 :Variable More not declared !
+wizards/moonstar/artists/mind_focusers.c line 17 :syntax error
+wizards/moonstar/artists/mind_focusers.c line 34 :Variable More not declared !
+wizards/moonstar/artists/mind_focusers.c line 34 :syntax error
+wizards/moonstar/artists/med.c line 19 :syntax error
+wizards/moonstar/areas/sewers/monsut/man.c line 6 :syntax error
+wizards/moonstar/areas/sewers/monsut/man.c line 16 :Variable chat_str not declared !
+wizards/moonstar/areas/sewers/monsut/man.c line 17 :Variable chat_str not declared !
+wizards/moonstar/areas/sewers/monsut/man.c line 18 :Variable chat_str not declared !
+wizards/moonstar/areas/sewers/monsut/man.c line 19 :Variable chat_str not declared !
+wizards/moonstar/areas/sewers/monsut/man.c line 21 :Variable a_chat_str not declared !
+wizards/moonstar/areas/sewers/monsut/man.c line 26 :Variable str not declared !
+wizards/moonstar/areas/sewers/monsut/man.c line 26 :syntax error
+wizards/moonstar/areas/sewers/monsut/man.c line 30 :Variable str not declared !
+wizards/moonstar/areas/sewers/monsut/man.c line 32 :Variable str not declared !
+wizards/moonstar/areas/sewers/monsut/man.c line 32 :Variable tmp1 not declared !
+wizards/moonstar/areas/sewers/monsut/man.c line 32 :Variable tmp2 not declared !
+wizards/moonstar/test/testmayor.c line 32 :Variable str not declared !
+wizards/moonstar/test/testmayor.c line 32 :syntax error
+wizards/moonstar/test/testmayor.c line 40 :syntax error
+wizards/moonstar/areas/sewers/monsut/man.c line 26 :Variable str not declared !
+wizards/moonstar/areas/sewers/monsut/man.c line 26 :syntax error
+wizards/moonstar/areas/sewers/monsut/man.c line 30 :Variable str not declared !
+wizards/moonstar/areas/sewers/monsut/man.c line 32 :Variable str not declared !
+wizards/moonstar/areas/sewers/monsut/man.c line 32 :Variable tmp1 not declared !
+wizards/moonstar/areas/sewers/monsut/man.c line 32 :Variable tmp2 not declared !
+wizards/moonstar/areas/sewers/monsut/m.c line 44 :syntax error
+wizards/moonstar/areas/sewers/monsut/evilman.c line 41 :Variable leggings not declared !
+wizards/moonstar/areas/sewers/monsut/man.c line 27 :Variable str not declared !
+wizards/moonstar/areas/sewers/monsut/man.c line 27 :syntax error
+wizards/moonstar/areas/sewers/monsut/man.c line 31 :Variable str not declared !
+wizards/moonstar/areas/sewers/monsut/man.c line 33 :Variable str not declared !
+wizards/moonstar/areas/sewers/monsut/man.c line 33 :Variable tmp1 not declared !
+wizards/moonstar/areas/sewers/monsut/man.c line 33 :Variable tmp2 not declared !
+wizards/moonstar/areas/sewers/monsut/man.c line 45 :Too few arguments to move_object
+wizards/moonstar/areas/sewers/monsut/man.c line 45 :syntax error
+wizards/moonstar/areas/sewers/monsut/man.c line 45 :syntax error
+wizards/moonstar/areas/sewers/monsut/man.c line 45 :syntax error
+wizards/moonstar/areas/sewers/monsut/m.c line 45 :syntax error
+wizards/moonstar/areas/sewers/monsut/m.c line 44 :syntax error
+wizards/moonstar/areas/sewers/monsut/m.c line 45 :syntax error
+wizards/moonstar/areas/sewers/monsut/m.c line 44 :syntax error
+wizards/moonstar/test/testmayor.c line 32 :Variable str not declared !
+wizards/moonstar/test/testmayor.c line 32 :syntax error
+wizards/moonstar/test/testmayor.c line 40 :syntax error
+wizards/moonstar/areas/sewers/monsut/m.c line 44 :syntax error
+wizards/moonstar/areas/sewers/monsut/m.c line 44 :syntax error
+wizards/moonstar/areas/sewers/monsut/m.c line 45 :syntax error
+wizards/moonstar/wroom.c line 52 :syntax error
+wizards/moonstar/wroom.c line 52 :syntax error
+wizards/moonstar/wroom.c line 56 :Variable str not declared !
+wizards/moonstar/wroom.c line 57 :Variable str not declared !
+wizards/moonstar/wroom.c line 58 :Variable str not declared !
+wizards/moonstar/wroom.c line 59 :Variable us not declared !
+wizards/moonstar/wroom.c line 60 :Variable lkm not declared !
+wizards/moonstar/areas/sewers/monsut/m.c line 5 :syntax error
+wizards/moonstar/areas/sewers/monsut/m.c line 7 :syntax error
+wizards/moonstar/areas/sewers/entrance.c line 1 :syntax error
+wizards/moonstar/areas/sewers/entrance.c line 3 :syntax error
+wizards/moonstar/areas/sewers/entrance.c line 14 :syntax error
+wizards/moonstar/areas/sewers/entrance.c line 14 :Illegal LHS
+wizards/moonstar/areas/sewers/entrance.c line 15 :syntax error
+wizards/moonstar/areas/sewers/entrance.c line 6 :syntax error
+wizards/moonstar/areas/sewers/entrance.c line 20 :Illegal LHS
+wizards/moonstar/areas/sewers/entrance.c line 20 :Illegal LHS
+wizards/moonstar/areas/sewers/entrance.c line 20 :Illegal LHS
+wizards/moonstar/areas/sewers/entrance.c line 20 :syntax error
+wizards/moonstar/areas/sewers/monsut/man.c line 41 :Newline in string
+wizards/moonstar/areas/sewers/monsut/man.c line 42 :syntax error
+wizards/moonstar/areas/sewers/monsut/man.c line 42 :Too few arguments to clone_object
+wizards/moonstar/areas/sewers/monsut/man.c line 42 :Illegal LHS
+wizards/moonstar/areas/sewers/monsut/man.c line 42 :syntax error
+wizards/moonstar/areas/sewers/monsut/man.c line 41 :Newline in string
+wizards/moonstar/areas/sewers/monsut/man.c line 42 :syntax error
+wizards/moonstar/areas/sewers/monsut/man.c line 42 :Too few arguments to clone_object
+wizards/moonstar/areas/sewers/monsut/man.c line 42 :Illegal LHS
+wizards/moonstar/areas/sewers/monsut/man.c line 42 :syntax error
+wizards/moonstar/areas/sewers/entrance.c line 6 :syntax error
+wizards/moonstar/areas/sewers/entrance.c line 20 :Illegal LHS
+wizards/moonstar/areas/sewers/entrance.c line 20 :Illegal LHS
+wizards/moonstar/areas/sewers/entrance.c line 20 :Illegal LHS
+wizards/moonstar/areas/sewers/entrance.c line 20 :syntax error
+wizards/moonstar/areas/sewers/entrance.c line 6 :syntax error
+wizards/moonstar/areas/sewers/entrance.c line 20 :Illegal LHS
+wizards/moonstar/areas/sewers/entrance.c line 20 :Illegal LHS
+wizards/moonstar/areas/sewers/entrance.c line 20 :Illegal LHS
+wizards/moonstar/areas/sewers/entrance.c line 20 :syntax error
+wizards/moonstar/areas/sewers/entrance.c line 6 :syntax error
+wizards/moonstar/areas/sewers/entrance.c line 20 :Illegal LHS
+wizards/moonstar/areas/sewers/entrance.c line 20 :Illegal LHS
+wizards/moonstar/areas/sewers/entrance.c line 20 :Illegal LHS
+wizards/moonstar/areas/sewers/entrance.c line 20 :syntax error
+wizards/moonstar/areas/sewers/en.c line 5 :syntax error
+wizards/moonstar/areas/sewers/en.c line 19 :Illegal LHS
+wizards/moonstar/areas/sewers/en.c line 19 :Illegal LHS
+wizards/moonstar/areas/sewers/en.c line 19 :Illegal LHS
+wizards/moonstar/areas/sewers/en.c line 19 :syntax error
+wizards/moonstar/areas/sewers/monsut/evilman.c line 8 :function not defined by inheritance as specified
+wizards/moonstar/areas/s1.c line 6 :syntax error
+wizards/moonstar/areas/s1.c line 28 :Illegal LHS
+wizards/moonstar/areas/s1.c line 28 :Illegal LHS
+wizards/moonstar/areas/s1.c line 28 :Illegal LHS
+wizards/moonstar/areas/s1.c line 28 :syntax error
+wizards/moonstar/areas/sewers/s1.c line 6 :Newline in string
+wizards/moonstar/areas/sewers/s1.c line 6 :syntax error
+wizards/moonstar/areas/sewers/s1.c line 28 :Illegal LHS
+wizards/moonstar/areas/sewers/s1.c line 28 :Illegal LHS
+wizards/moonstar/areas/sewers/s1.c line 28 :Illegal LHS
+wizards/moonstar/areas/sewers/s1.c line 28 :syntax error
+wizards/moonstar/areas/sewers/s1.c line 6 :Newline in string
+wizards/moonstar/areas/sewers/s1.c line 6 :syntax error
+wizards/moonstar/areas/sewers/s1.c line 28 :Illegal LHS
+wizards/moonstar/areas/sewers/s1.c line 28 :Illegal LHS
+wizards/moonstar/areas/sewers/s1.c line 28 :Illegal LHS
+wizards/moonstar/areas/sewers/s1.c line 28 :syntax error
+wizards/moonstar/areas/sewers/s1.c line 6 :syntax error
+wizards/moonstar/areas/sewers/s1.c line 28 :Illegal LHS
+wizards/moonstar/areas/sewers/s1.c line 28 :Illegal LHS
+wizards/moonstar/areas/sewers/s1.c line 28 :Illegal LHS
+wizards/moonstar/areas/sewers/s1.c line 28 :syntax error
+wizards/moonstar/areas/sewers/s1.c line 7 :syntax error
+wizards/moonstar/areas/sewers/s1.c line 28 :Illegal LHS
+wizards/moonstar/areas/sewers/s1.c line 28 :Illegal LHS
+wizards/moonstar/areas/sewers/s1.c line 28 :Illegal LHS
+wizards/moonstar/areas/sewers/s1.c line 28 :syntax error
+wizards/moonstar/areas/sewers/s1.c line 7 :Too few arguments to move_object
+wizards/moonstar/areas/sewers/s1.c line 9 :syntax error
+wizards/moonstar/areas/sewers/s1.c line 7 :Too few arguments to move_object
+wizards/moonstar/areas/sewers/s1.c line 9 :Newline in string
+wizards/moonstar/areas/sewers/s1.c line 9 :syntax error
+wizards/moonstar/areas/sewers/s1.c line 28 :Illegal LHS
+wizards/moonstar/areas/sewers/s1.c line 28 :Illegal LHS
+wizards/moonstar/areas/sewers/s1.c line 28 :Illegal LHS
+wizards/moonstar/test/testmayor.c line 32 :Variable str not declared !
+wizards/moonstar/test/testmayor.c line 32 :syntax error
+wizards/moonstar/test/testmayor.c line 40 :syntax error
+wizards/moonstar/areas/sewers/s1.c line 7 :Too few arguments to move_object
+wizards/moonstar/areas/sewers/s1.c line 9 :Newline in string
+wizards/moonstar/areas/sewers/s1.c line 9 :syntax error
+wizards/moonstar/areas/sewers/s1.c line 28 :Illegal LHS
+wizards/moonstar/areas/sewers/s1.c line 28 :Illegal LHS
+wizards/moonstar/areas/sewers/s1.c line 28 :Illegal LHS
+wizards/moonstar/test/sfang.c line 13 :Illegal character (hex 5c) '\'
+wizards/moonstar/test/sfang.c line 13 :syntax error
+wizards/moonstar/test/sfang.c line 21 :Too few arguments to lower_case
+wizards/moonstar/test/sfang.c line 21 :Illegal LHS
+wizards/moonstar/test/sfang.c line 21 :syntax error
+wizards/moonstar/test/sfang.c line 33 :Illegal LHS
+wizards/moonstar/sky.c line 17 :Variable More not declared !
+wizards/moonstar/sky.c line 17 :syntax error
+wizards/moonstar/sky.c line 34 :Variable More not declared !
+wizards/moonstar/sky.c line 34 :syntax error
+wizards/moonstar/sky.c line 36 :Illegal LHS
+wizards/moonstar/sky.c line 124 :syntax error
+wizards/moonstar/sky.c line 48 :Variable MASTERY_D not declared !
+Fri Dec 19 00:13:09 2003 Dark shadow floats here(undead) (strong) (/wizards/moonstar/areas/wasteland/monsut/shadow#14772, 65) killed by Devil (190) 
+Fri Dec 19 03:56:39 2003 Krazzt, the secret keeper of water(strong) (/wizards/moonstar/areas/wasteland/monsut/bluewizard#15905, 86) killed by Devil (190) 
+Fri Dec 19 04:27:15 2003 Drazil's bodyguard is standing here(strong) (/wizards/moonstar/areas/forest/monsut/bguard#24374, 57) killed by Devil (190) 
+wizards/moonstar/d.c line 37 :syntax error
+wizards/moonstar/d.c line 40 :Illegal LHS
+wizards/moonstar/d.c line 40 :syntax error
+wizards/moonstar/d.c line 44 :Illegal LHS
+wizards/moonstar/d.c line 44 :syntax error
+wizards/moonstar/d.c line 49 :Too few arguments to clone_object
+Fri Dec 19 16:28:29 2003 Ranger Drazil, The secret keeper of fire(strong) (/wizards/moonstar/areas/forest/monsut/drazil#36007, 82) killed by Devil (190) 
+wizards/moonstar/areas/sewers/s4.c line 4 :syntax error
+wizards/moonstar/areas/sewers/s7.c line 28 :Newline in string
+wizards/moonstar/areas/sewers/s7.c line 29 :Newline in string
+wizards/moonstar/areas/sewers/s7.c line 30 :syntax error
+wizards/moonstar/areas/sewers/s7.c line 30 :Illegal LHS
+wizards/moonstar/areas/sewers/s7.c line 30 :syntax error
+wizards/moonstar/areas/sewers/s11.c line 11 :Illegal character (hex ffffffb4) '´'
+wizards/moonstar/areas/sewers/s11.c line 11 :syntax error
+wizards/moonstar/areas/sewers/s11.c line 16 :Illegal LHS
+wizards/moonstar/areas/sewers/s11.c line 16 :syntax error
+wizards/moonstar/areas/sewers/s11.c line 11 :Illegal character (hex ffffffb4) '´'
+wizards/moonstar/areas/sewers/s11.c line 11 :syntax error
+wizards/moonstar/areas/sewers/s11.c line 16 :Illegal LHS
+wizards/moonstar/areas/sewers/s11.c line 16 :syntax error
+wizards/moonstar/artists/wepat/testred.c line 8 :Newline in string
+wizards/moonstar/artists/wepat/testred.c line 9 :syntax error
+wizards/moonstar/artists/wepat/testred.c line 9 :Newline in string
+wizards/moonstar/artists/wepat/testred.c line 11 :Newline in string
+wizards/moonstar/artists/wepat/testred.c line 19 :Missing type for argument
+wizards/moonstar/rk.c line 25 :syntax error
+wizards/moonstar/rk.c line 33 :syntax error
+wizards/moonstar/rk.c line 24 :syntax error
+wizards/moonstar/rk.c line 24 :syntax error
+wizards/moonstar/rk.c line 25 :Redeclaration of function init.
+wizards/moonstar/rk.c line 28 :Redeclaration of function init.
+wizards/moonstar/ep.c line 23 :Variable heal not declared !
+wizards/moonstar/ep.c line 32 :Variable heal not declared !
+wizards/moonstar/ep.c line 35 :Variable heal not declared !
+wizards/moonstar/ep.c line 23 :Variable heal not declared !
+wizards/moonstar/ep.c line 35 :Variable heal not declared !
+wizards/moonstar/spell.c line 153 :Duplicate case in line 138 and 131
+wizards/moonstar/areas/sewers/s12.c line 19 :syntax error
+wizards/moonstar/areas/sewers/s12.c line 20 :Illegal LHS
+wizards/moonstar/areas/sewers/s12.c line 21 :Illegal LHS
+wizards/moonstar/areas/sewers/s12.c line 22 :Illegal LHS
+wizards/moonstar/areas/sewers/s12.c line 23 :Illegal LHS
+wizards/moonstar/bladedancers/guild.c line 1 :syntax error
+wizards/moonstar/bladedancers/guild.c line 23 :syntax error
+wizards/moonstar/bladedancers/guild.c line 48 :Illegal LHS
+wizards/moonstar/bladedancers/guild.c line 49 :Variable sk not declared !
+wizards/moonstar/bladedancers/guild.c line 62 :syntax error
+wizards/moonstar/bladedancers/guild.c line 63 :syntax error
+wizards/moonstar/bladedancers/guild.c line 64 :syntax error
+wizards/moonstar/bladedancers/whirling_slash.c line 38 :syntax error
+wizards/moonstar/bladedancers/whirling_slash.c line 38 :Illegal LHS
+wizards/moonstar/bladedancers/whirling_slash.c line 72 :syntax error
+wizards/moonstar/bladedancers/whirling_slash.c line 74 :Variable this_player not declared !
+wizards/moonstar/bladedancers/whirling_slash.c line 74 :Illegal LHS
+wizards/moonstar/bladedancers/whirling_slash.c line 74 :syntax error
+wizards/moonstar/bladedancers/whirling_slash.c line 71 :syntax error
+wizards/moonstar/bladedancers/whirling_slash.c line 73 :Variable this_player not declared !
+wizards/moonstar/bladedancers/whirling_slash.c line 73 :Illegal LHS
+wizards/moonstar/bladedancers/whirling_slash.c line 73 :syntax error
+wizards/moonstar/bladedancers/whirling_slash.c line 74 :Illegal LHS
+wizards/moonstar/bladedancers/whirling_slash.c line 75 :Illegal LHS
+wizards/moonstar/bladedancers/whirling_slash.c line 71 :syntax error
+wizards/moonstar/bladedancers/whirling_slash.c line 73 :Variable this_player not declared !
+wizards/moonstar/bladedancers/whirling_slash.c line 73 :Illegal LHS
+wizards/moonstar/bladedancers/whirling_slash.c line 73 :syntax error
+wizards/moonstar/bladedancers/whirling_slash.c line 74 :Illegal LHS
+wizards/moonstar/bladedancers/whirling_slash.c line 75 :Illegal LHS
+wizards/moonstar/test/testmayor.c line 32 :Variable str not declared !
+wizards/moonstar/test/testmayor.c line 32 :syntax error
+wizards/moonstar/test/testmayor.c line 40 :syntax error
+wizards/moonstar/bladedancers/whirling_slash.c line 71 :syntax error
+wizards/moonstar/bladedancers/whirling_slash.c line 73 :Variable this_player not declared !
+wizards/moonstar/bladedancers/whirling_slash.c line 73 :Illegal LHS
+wizards/moonstar/bladedancers/whirling_slash.c line 73 :syntax error
+wizards/moonstar/bladedancers/whirling_slash.c line 74 :Illegal LHS
+wizards/moonstar/bladedancers/whirling_slash.c line 75 :Illegal LHS
+wizards/moonstar/bladedancers/whirling_slash.c line 73 :Variable this_player not declared !
+wizards/moonstar/bladedancers/whirling_slash.c line 80 :syntax error
+wizards/moonstar/bladedancers/whirling_slash.c line 82 :Illegal LHS
+wizards/moonstar/bladedancers/whirling_slash.c line 82 :syntax error
+wizards/moonstar/bladedancers/whirling_slash.c line 83 :Variable dama3 not declared !
+wizards/moonstar/bladedancers/whirling_slash.c line 83 :Illegal LHS
+wizards/moonstar/bladedancers/whirling_slash.c line 73 :Variable this_player not declared !
+wizards/moonstar/bladedancers/whirling_slash.c line 80 :syntax error
+wizards/moonstar/bladedancers/whirling_slash.c line 82 :Illegal LHS
+wizards/moonstar/bladedancers/whirling_slash.c line 82 :syntax error
+wizards/moonstar/bladedancers/whirling_slash.c line 83 :Variable dama3 not declared !
+wizards/moonstar/bladedancers/whirling_slash.c line 83 :Illegal LHS
+wizards/moonstar/bladedancers/whirling_slash.c line 80 :syntax error
+wizards/moonstar/bladedancers/whirling_slash.c line 82 :Illegal LHS
+wizards/moonstar/bladedancers/whirling_slash.c line 82 :syntax error
+wizards/moonstar/bladedancers/whirling_slash.c line 83 :Variable dama3 not declared !
+wizards/moonstar/bladedancers/whirling_slash.c line 83 :Illegal LHS
+wizards/moonstar/bladedancers/whirling_slash.c line 98 :Illegal LHS
+wizards/moonstar/bladedancers/whirling_slash.c line 80 :syntax error
+wizards/moonstar/bladedancers/whirling_slash.c line 82 :Illegal LHS
+wizards/moonstar/bladedancers/whirling_slash.c line 82 :syntax error
+wizards/moonstar/bladedancers/whirling_slash.c line 83 :Variable dama3 not declared !
+wizards/moonstar/bladedancers/whirling_slash.c line 83 :Illegal LHS
+wizards/moonstar/bladedancers/whirling_slash.c line 98 :Illegal LHS
+wizards/moonstar/bladedancers/whirling_slash.c line 81 :syntax error
+wizards/moonstar/bladedancers/whirling_slash.c line 82 :Illegal LHS
+wizards/moonstar/bladedancers/whirling_slash.c line 82 :syntax error
+wizards/moonstar/bladedancers/whirling_slash.c line 83 :Variable dama3 not declared !
+wizards/moonstar/bladedancers/whirling_slash.c line 83 :Illegal LHS
+wizards/moonstar/bladedancers/whirling_slash.c line 98 :Illegal LHS
+wizards/moonstar/bladedancers/whirling_slash.c line 82 :Variable dama3 not declared !
+wizards/moonstar/bladedancers/whirling_slash.c line 83 :Variable dama3 not declared !
+wizards/moonstar/bladedancers/whirling_slash.c line 82 :Variable dama3 not declared !
+wizards/moonstar/bladedancers/whirling_slash.c line 83 :Variable dama3 not declared !
+wizards/moonstar/bladedancers/whirling_slash.c line 82 :Variable dama3 not declared !
+wizards/moonstar/bladedancers/whirling_slash.c line 83 :Variable dama3 not declared !
+wizards/moonstar/test/cave.c line 30 :Variable str not declared !
+wizards/moonstar/test/cave.c line 30 :syntax error
+wizards/moonstar/test/cave.c line 37 :syntax error
+wizards/moonstar/test/cave.c line 30 :Variable str not declared !
+wizards/moonstar/test/cave.c line 30 :syntax error
+wizards/moonstar/test/cave.c line 37 :syntax error
+wizards/moonstar/test/cave.c line 33 :Too many arguments to this_player
+wizards/moonstar/test/cave.c line 33 :Too many arguments to this_player
+wizards/moonstar/bladedancers/whirling_slash.c line 69 :syntax error
+wizards/moonstar/bladedancers/whirling_slash.c line 57 :Newline in string
+wizards/moonstar/bladedancers/whirling_slash.c line 58 :syntax error
+wizards/moonstar/bladedancers/whirling_slash.c line 56 :Newline in string
+wizards/moonstar/bladedancers/whirling_slash.c line 57 :syntax error
+wizards/moonstar/skys.c line 63 :syntax error
+wizards/moonstar/skys.c line 63 :Illegal character (hex 2e) '.'
+wizards/moonstar/skys.c line 66 :Illegal LHS
+wizards/moonstar/skys.c line 68 :syntax error
+wizards/moonstar/bank.c line 24 :syntax error
+wizards/moonstar/bank.c line 31 :syntax error
+wizards/moonstar/bank.c line 33 :Illegal LHS
+wizards/moonstar/bank.c line 51 :Illegal LHS
+wizards/moonstar/bank.c line 51 :syntax error
+wizards/moonstar/bank.c line 76 :Variable who not declared !
+wizards/moonstar/cave.c line 17 :Variable More not declared !
+wizards/moonstar/cave.c line 17 :syntax error
+wizards/moonstar/test/mies.c line 50 :syntax error
+wizards/moonstar/areas/sewers/monsut/evilman.c line 46 :Variable bottle not declared !
+wizards/moonstar/areas/sewers/monsut/evilman.c line 47 :Variable bottle not declared !
+wizards/moonstar/areas/sewers/entrance.c line 5 :syntax error
+wizards/moonstar/areas/mosnotar/forest/for3.c line 8 :Variable short_desc not declared !
+wizards/moonstar/areas/mosnotar/forest/for3.c line 9 :Variable long_desc not declared !
+wizards/moonstar/areas/mosnotar/forest/for3.c line 1 :syntax error
+Tue Feb 24 17:44:15 2004 Channelor Eve is cursing here(strong) (/wizards/moonstar/areas/sewers/monsut/channelor#12492, 40) killed by Jenny (123) 
+Tue Feb 24 17:52:37 2004 Channelors's husband Marx(strong) (/wizards/moonstar/areas/sewers/monsut/evilman#20990, 40) killed by Jenny (123) 
+wizards/moonstar/areas/mosnotar/forest/gate.c line 15 :Newline in string
+wizards/moonstar/areas/mosnotar/forest/gate.c line 16 :syntax error
+wizards/moonstar/areas/mosnotar/forest/gate.c line 18 :Illegal LHS
+wizards/moonstar/areas/mosnotar/forest/gate.c line 18 :syntax error
+wizards/moonstar/areas/mosnotar/forest/gate.c line 15 :Newline in string
+wizards/moonstar/areas/mosnotar/forest/gate.c line 16 :syntax error
+wizards/moonstar/areas/mosnotar/forest/gate.c line 18 :Illegal LHS
+wizards/moonstar/areas/mosnotar/forest/gate.c line 18 :syntax error
+wizards/moonstar/areas/mosnotar/forest/gate.c line 15 :Newline in string
+wizards/moonstar/areas/mosnotar/forest/gate.c line 16 :syntax error
+wizards/moonstar/areas/mosnotar/forest/gate.c line 17 :Illegal LHS
+wizards/moonstar/areas/mosnotar/forest/gate.c line 17 :syntax error
+wizards/moonstar/areas/mosnotar/forest/gate.c line 15 :Newline in string
+wizards/moonstar/areas/mosnotar/forest/gate.c line 16 :syntax error
+wizards/moonstar/areas/mosnotar/forest/gate.c line 17 :Illegal LHS
+wizards/moonstar/areas/mosnotar/forest/gate.c line 17 :syntax error
+wizards/moonstar/areas/mosnotar/forest/hut.c line 10 :Newline in string
+wizards/moonstar/areas/mosnotar/forest/hut.c line 11 :Newline in string
+wizards/moonstar/areas/mosnotar/forest/hut.c line 12 :Newline in string
+wizards/moonstar/areas/mosnotar/forest/hut.c line 13 :Newline in string
+wizards/moonstar/areas/mosnotar/forest/hut.c line 15 :syntax error
+wizards/moonstar/areas/mosnotar/forest/eq/rose.c line 9 :Newline in string
+wizards/moonstar/areas/mosnotar/forest/eq/rose.c line 10 :syntax error
+wizards/moonstar/areas/mosnotar/forest/eq/rose.c line 16 :Illegal LHS
+wizards/moonstar/areas/mosnotar/forest/eq/rose.c line 16 :syntax error
+wizards/moonstar/areas/mosnotar/forest/eq/rose.c line 9 :Newline in string
+wizards/moonstar/areas/mosnotar/forest/eq/rose.c line 10 :syntax error
+wizards/moonstar/areas/mosnotar/forest/eq/rose.c line 16 :Illegal LHS
+wizards/moonstar/areas/mosnotar/forest/eq/rose.c line 16 :syntax error
+Wed Feb 25 03:22:54 2004 Channelor Eve is cursing here(strong) (/wizards/moonstar/areas/sewers/monsut/channelor#1647, 40) killed by Jenny (136) 
+Wed Feb 25 03:30:58 2004 Channelors's husband Marx(strong) (/wizards/moonstar/areas/sewers/monsut/evilman#1790, 40) killed by Jenny (136) 
+wizards/moonstar/areas/mosnotar/forest/eq/ta.c line 79 :syntax error
+wizards/moonstar/areas/mosnotar/forest/eq/ta.c line 79 :Newline in string
+wizards/moonstar/areas/mosnotar/forest/eq/ta.c line 81 :syntax error
+wizards/moonstar/areas/mosnotar/forest/eq/ta.c line 81 :Newline in string
+wizards/moonstar/areas/mosnotar/forest/eq/ta.c line 82 :Discontinued case label list range, line 79 by line 80
+wizards/moonstar/test/testmayor.c line 32 :Variable str not declared !
+wizards/moonstar/test/testmayor.c line 32 :syntax error
+wizards/moonstar/test/testmayor.c line 40 :syntax error
+wizards/moonstar/areas/mosnotar/forest/eq/ta.c line 82 :Discontinued case label list range, line 79 by line 80
+wizards/moonstar/areas/mosnotar/forest/eq/ta.c line 82 :Discontinued case label list range, line 79 by line 80
+wizards/moonstar/areas/mosnotar/forest/eq/m.c line 4 :syntax error
+wizards/moonstar/areas/mosnotar/forest/eq/m.c line 31 :Too few arguments to clone_object
+wizards/moonstar/areas/mosnotar/forest/eq/m.c line 31 :Illegal LHS
+wizards/moonstar/areas/mosnotar/forest/eq/m.c line 31 :Type mismatch ( unknown vs mixed ) when initializing i
+wizards/moonstar/areas/mosnotar/forest/eq/m.c line 31 :Missing type
+wizards/moonstar/areas/mosnotar/forest/eq/m.c line 32 :syntax error
+wizards/moonstar/areas/mosnotar/forest/eq/m.c line 3 :Type mismatch ( unknown vs mixed ) when initializing i
+wizards/moonstar/areas/mosnotar/forest/eq/m.c line 3 :Missing type
+wizards/moonstar/areas/mosnotar/forest/eq/m.c line 29 :syntax error
+wizards/moonstar/areas/mosnotar/forest/eq/m.c line 31 :Too few arguments to clone_object
+wizards/moonstar/areas/mosnotar/forest/eq/m.c line 31 :Illegal LHS
+wizards/moonstar/areas/mosnotar/forest/eq/m.c line 31 :syntax error
+wizards/moonstar/areas/mosnotar/forest/eq/m.c line 3 :syntax error
+wizards/moonstar/test/testmayor.c line 32 :Variable str not declared !
+wizards/moonstar/test/testmayor.c line 32 :syntax error
+wizards/moonstar/test/testmayor.c line 40 :syntax error
+wizards/moonstar/areas/mosnotar/forest/eq/m.c line 3 :syntax error
+wizards/moonstar/areas/mosnotar/forest/eq/m.c line 4 :Type mismatch ( unknown vs mixed ) when initializing i
+wizards/moonstar/areas/mosnotar/forest/eq/m.c line 4 :Missing type
+wizards/moonstar/areas/mosnotar/forest/eq/m.c line 30 :syntax error
+wizards/moonstar/areas/mosnotar/forest/eq/m.c line 32 :Too few arguments to clone_object
+wizards/moonstar/areas/mosnotar/forest/eq/m.c line 32 :Illegal LHS
+wizards/moonstar/areas/mosnotar/forest/eq/m.c line 32 :syntax error
+wizards/moonstar/m.c line 30 :syntax error
+wizards/moonstar/m.c line 32 :Too few arguments to clone_object
+wizards/moonstar/m.c line 32 :Illegal LHS
+wizards/moonstar/m.c line 32 :syntax error
+wizards/moonstar/m.c line 36 :syntax error
+wizards/moonstar/areas/mosnotar/forest/for4.c line 9 :syntax error
+wizards/moonstar/areas/mosnotar/forest/for4.c line 9 :syntax error
+wizards/moonstar/areas/mosnotar/forest/for3.c line 10 :syntax error
+wizards/moonstar/areas/mosnotar/forest/for3.c line 10 :syntax error
+wizards/moonstar/areas/mosnotar/forest/for3.c line 10 :syntax error
+wizards/moonstar/areas/mosnotar/forest/for3.c line 10 :syntax error
+wizards/moonstar/areas/mosnotar/forest/for3.c line 10 :syntax error
+wizards/moonstar/areas/mosnotar/forest/for3.c line 10 :syntax error
+wizards/moonstar/areas/mosnotar/forest/for4.c line 9 :syntax error
+wizards/moonstar/areas/mosnotar/forest/for4.c line 9 :syntax error
+wizards/moonstar/areas/mosnotar/forest/for20.c line 5 :Variable monster not declared !
+wizards/moonstar/areas/mosnotar/forest/for20.c line 6 :Variable monster not declared !
+wizards/moonstar/areas/mosnotar/forest/for20.c line 7 :Variable monster not declared !
+wizards/moonstar/areas/mosnotar/forest/for20.c line 5 :Variable monster not declared !
+wizards/moonstar/areas/mosnotar/forest/for20.c line 6 :Variable monster not declared !
+wizards/moonstar/areas/mosnotar/forest/for20.c line 7 :Variable monster not declared !
+Sun Feb 29 15:21:26 2004 Channelor Eve is cursing here(strong) (/wizards/moonstar/areas/sewers/monsut/channelor#14674, 40) killed by Jenny (162) 
+Sun Feb 29 15:23:50 2004 Channelors's husband Marx(strong) (/wizards/moonstar/areas/sewers/monsut/evilman#14844, 40) killed by Jenny (162) 
+wizards/moonstar/areas/mosnotar/forest/eq/icering.c line 1 :Unrecognised # directive
+wizards/moonstar/areas/mosnotar/forest/eq/icering.c line 9 :Variable BLUE_F not declared !
+wizards/moonstar/areas/mosnotar/forest/eq/icering.c line 9 :Variable OFF not declared !
+wizards/moonstar/knight.c line 36 :Newline in string
+wizards/moonstar/knight.c line 37 :syntax error
+wizards/moonstar/knight.c line 65 :syntax error
+wizards/moonstar/knight.c line 70 :syntax error
+wizards/moonstar/areas/mosnotar/forest/monsut/tokiro.c line 23 :Newline in string
+wizards/moonstar/areas/mosnotar/forest/monsut/tokiro.c line 24 :syntax error
+wizards/moonstar/areas/mosnotar/forest/monsut/tokiro.c line 45 :Too few arguments to clone_object
+wizards/moonstar/areas/mosnotar/forest/monsut/tokiro.c line 45 :Illegal LHS
+wizards/moonstar/areas/mosnotar/forest/monsut/tokiro.c line 45 :syntax error
+wizards/moonstar/areas/mosnotar/forest/monsut/tokiro.c line 47 :Too few arguments to clone_object
+wizards/moonstar/areas/mosnotar/forest/monsut/tokiro.c line 23 :Newline in string
+wizards/moonstar/areas/mosnotar/forest/monsut/tokiro.c line 24 :syntax error
+wizards/moonstar/areas/mosnotar/forest/monsut/tokiro.c line 45 :Too few arguments to clone_object
+wizards/moonstar/areas/mosnotar/forest/monsut/tokiro.c line 45 :Illegal LHS
+wizards/moonstar/areas/mosnotar/forest/monsut/tokiro.c line 45 :syntax error
+wizards/moonstar/areas/mosnotar/forest/monsut/tokiro.c line 47 :Too few arguments to clone_object
+wizards/moonstar/areas/mosnotar/forest/monsut/tokiro.c line 23 :Newline in string
+wizards/moonstar/areas/mosnotar/forest/monsut/tokiro.c line 24 :syntax error
+wizards/moonstar/areas/mosnotar/forest/monsut/tokiro.c line 45 :Too few arguments to clone_object
+wizards/moonstar/areas/mosnotar/forest/monsut/tokiro.c line 45 :Illegal LHS
+wizards/moonstar/areas/mosnotar/forest/monsut/tokiro.c line 45 :syntax error
+wizards/moonstar/areas/mosnotar/forest/monsut/tokiro.c line 47 :Too few arguments to clone_object
+wizards/moonstar/areas/mosnotar/forest/monsut/tokiro.c line 23 :Newline in string
+wizards/moonstar/areas/mosnotar/forest/monsut/tokiro.c line 24 :syntax error
+wizards/moonstar/areas/mosnotar/forest/monsut/tokiro.c line 45 :Too few arguments to clone_object
+wizards/moonstar/areas/mosnotar/forest/monsut/tokiro.c line 45 :Illegal LHS
+wizards/moonstar/areas/mosnotar/forest/monsut/tokiro.c line 45 :syntax error
+wizards/moonstar/areas/mosnotar/forest/monsut/tokiro.c line 47 :Too few arguments to clone_object
+wizards/moonstar/areas/mosnotar/forest/monsut/tokiro.c line 23 :Newline in string
+wizards/moonstar/areas/mosnotar/forest/monsut/tokiro.c line 24 :syntax error
+wizards/moonstar/areas/mosnotar/forest/monsut/tokiro.c line 45 :Too few arguments to clone_object
+wizards/moonstar/areas/mosnotar/forest/monsut/tokiro.c line 45 :Illegal LHS
+wizards/moonstar/areas/mosnotar/forest/monsut/tokiro.c line 45 :syntax error
+wizards/moonstar/areas/mosnotar/forest/monsut/tokiro.c line 47 :Too few arguments to clone_object
+wizards/moonstar/areas/mosnotar/forest/monsut/tokiro.c line 23 :Newline in string
+wizards/moonstar/areas/mosnotar/forest/monsut/tokiro.c line 24 :syntax error
+wizards/moonstar/areas/mosnotar/forest/monsut/tokiro.c line 45 :Too few arguments to clone_object
+wizards/moonstar/areas/mosnotar/forest/monsut/tokiro.c line 45 :Illegal LHS
+wizards/moonstar/areas/mosnotar/forest/monsut/tokiro.c line 45 :syntax error
+wizards/moonstar/areas/mosnotar/forest/monsut/tokiro.c line 47 :Too few arguments to clone_object
+wizards/moonstar/areas/mosnotar/forest/monsut/tokiro.c line 23 :Newline in string
+wizards/moonstar/areas/mosnotar/forest/monsut/tokiro.c line 24 :syntax error
+wizards/moonstar/areas/mosnotar/forest/monsut/tokiro.c line 45 :Too few arguments to clone_object
+wizards/moonstar/areas/mosnotar/forest/monsut/tokiro.c line 45 :Illegal LHS
+wizards/moonstar/areas/mosnotar/forest/monsut/tokiro.c line 45 :syntax error
+wizards/moonstar/areas/mosnotar/forest/monsut/tokiro.c line 47 :Too few arguments to clone_object
+wizards/moonstar/areas/mosnotar/forest/up1.c line 4 :syntax error
+wizards/moonstar/areas/mosnotar/forest/up1.c line 4 :syntax error
+wizards/moonstar/areas/mosnotar/forest/up2.c line 4 :syntax error
+wizards/moonstar/areas/mosnotar/forest/eq/flower.c line 24 :syntax error
+wizards/moonstar/areas/mosnotar/forest/eq/flower.c line 24 :syntax error
+wizards/moonstar/areas/mosnotar/forest/monsut/ranger.c line 75 :Variable fring not declared !
+wizards/moonstar/areas/mosnotar/forest/monsut/ranger.c line 84 :Variable wring not declared !
+wizards/moonstar/areas/mosnotar/forest/monsut/ranger.c line 96 :Variable flower not declared !
+wizards/moonstar/areas/dragonlair/rooms/room1.c line 9 :Illegal character (hex 5c) '\'
+wizards/moonstar/areas/dragonlair/rooms/room1.c line 9 :syntax error
+wizards/moonstar/areas/dragonlair/rooms/room1.c line 9 :Newline in string
+wizards/moonstar/areas/dragonlair/rooms/room1.c line 10 :Illegal LHS
+wizards/moonstar/areas/dragonlair/rooms/room1.c line 11 :syntax error
+wizards/moonstar/areas/dragonlair/rooms/room1.c line 10 :Illegal character (hex 5c) '\'
+wizards/moonstar/areas/dragonlair/rooms/room1.c line 10 :syntax error
+wizards/moonstar/areas/dragonlair/rooms/room1.c line 10 :Newline in string
+wizards/moonstar/areas/dragonlair/rooms/room1.c line 11 :Illegal LHS
+wizards/moonstar/areas/dragonlair/rooms/room1.c line 12 :syntax error
+wizards/moonstar/areas/dragonlair/rooms/room1.c line 10 :Illegal character (hex 5c) '\'
+wizards/moonstar/areas/dragonlair/rooms/room1.c line 10 :syntax error
+wizards/moonstar/areas/dragonlair/rooms/room1.c line 10 :Newline in string
+wizards/moonstar/areas/dragonlair/rooms/room1.c line 11 :Illegal LHS
+wizards/moonstar/areas/dragonlair/rooms/room1.c line 11 :syntax error
+wizards/moonstar/areas/dragonlair/room26.c line 24 :syntax error
+wizards/moonstar/areas/dragonlair/room5.c line 9 :syntax error
+wizards/moonstar/areas/dragonlair/room5.c line 11 :Illegal LHS
+wizards/moonstar/areas/dragonlair/room5.c line 14 :syntax error
+wizards/moonstar/areas/dragonlair/room5.c line 9 :syntax error
+wizards/moonstar/areas/dragonlair/room5.c line 11 :Illegal LHS
+wizards/moonstar/areas/dragonlair/room5.c line 14 :syntax error
+wizards/moonstar/areas/dragonlair/room5.c line 9 :syntax error
+wizards/moonstar/areas/dragonlair/room5.c line 11 :Illegal LHS
+wizards/moonstar/areas/dragonlair/room5.c line 14 :syntax error
+wizards/moonstar/areas/dragonlair/room5.c line 9 :syntax error
+wizards/moonstar/areas/dragonlair/room5.c line 11 :Illegal LHS
+wizards/moonstar/areas/dragonlair/room5.c line 14 :syntax error
+wizards/moonstar/areas/dragonlair/monsters/red.c line 3 :syntax error
+wizards/moonstar/areas/dragonlair/monsters/red.c line 3 :syntax error
+wizards/moonstar/areas/dragonlair/room54.c line 16 :syntax error
+wizards/moonstar/areas/dragonlair/room54.c line 16 :syntax error
+wizards/moonstar/areas/mosnotar/forest/monsut/treant.c line 6 :syntax error
+wizards/moonstar/areas/mosnotar/forest/monsut/ranger.c line 67 :syntax error
+wizards/moonstar/areas/mosnotar/forest/monsut/ranger.c line 72 :Variable tmp1 not declared !
+wizards/moonstar/areas/mosnotar/forest/monsut/ranger.c line 72 :Variable tmp2 not declared !
+wizards/moonstar/areas/mosnotar/forest/monsut/ranger.c line 73 :Variable ob not declared !
+wizards/moonstar/areas/mosnotar/forest/monsut/ranger.c line 74 :Variable ob not declared !
+wizards/moonstar/areas/mosnotar/forest/monsut/ranger.c line 78 :Variable ob not declared !
+Fri Mar  5 15:46:16 2004 Drazil's bodyguard is standing here(strong) (/wizards/moonstar/areas/forest/monsut/bguard#30265, 57) killed by Jenny (186) 
+wizards/moonstar/areas/dragonlair/room26.c line 24 :syntax error
+wizards/moonstar/areas/dragonlair/room26.c line 24 :syntax error
+wizards/moonstar/areas/dragonlair/room25.c line 38 :Variable i not declared !
+wizards/moonstar/areas/dragonlair/room25.c line 44 :Variable i not declared !
+wizards/moonstar/areas/dragonlair/room25.c line 47 :Variable i not declared !
+wizards/moonstar/areas/dragonlair/room27.c line 18 :syntax error
+wizards/moonstar/areas/dragonlair/room27.c line 18 :syntax error
+wizards/moonstar/areas/dragonlair/room27.c line 18 :syntax error
+wizards/moonstar/areas/dragonlair/room25.c line 38 :Variable i not declared !
+wizards/moonstar/areas/dragonlair/room25.c line 44 :Variable i not declared !
+wizards/moonstar/areas/dragonlair/room25.c line 47 :Variable i not declared !
+wizards/moonstar/areas/dragonlair/room25.c line 44 :Variable i not declared !
+wizards/moonstar/areas/dragonlair/room16.c line 22 :syntax error
+wizards/moonstar/areas/dragonlair/room16.c line 22 :syntax error
+wizards/moonstar/areas/dragonlair/room16.c line 22 :syntax error
+wizards/moonstar/areas/dragonlair/room16.c line 22 :syntax error
+wizards/moonstar/areas/dragonlair/room16.c line 22 :syntax error
+wizards/moonstar/areas/dragonlair/room16.c line 22 :syntax error
+wizards/moonstar/areas/dragonlair/room16.c line 22 :syntax error
+wizards/moonstar/areas/dragonlair/room16.c line 25 :syntax error
+wizards/moonstar/areas/dragonlair/room16.c line 25 :syntax error
+wizards/moonstar/areas/dragonlair/monsters/silver.c line 7 :Newline in string
+wizards/moonstar/areas/dragonlair/monsters/silver.c line 8 :syntax error
+wizards/moonstar/areas/dragonlair/monsters/silver.c line 7 :Newline in string
+wizards/moonstar/areas/dragonlair/monsters/silver.c line 8 :syntax error
+wizards/moonstar/areas/dragonlair/monsters/golden.c line 7 :Newline in string
+wizards/moonstar/areas/dragonlair/monsters/golden.c line 8 :syntax error
+wizards/moonstar/areas/dragonlair/room70.c line 20 :Variable i not declared !
+wizards/moonstar/areas/dragonlair/room70.c line 26 :Variable i not declared !
+wizards/moonstar/areas/dragonlair/room70.c line 29 :Variable i not declared !
+wizards/moonstar/areas/dragonlair/test.c line 2 :Unrecognized inheritance modifier qualifier
+wizards/moonstar/areas/dragonlair/test.c line 2 :Unrecognized inheritance modifier qualifier
+wizards/moonstar/areas/dragonlair/test.c line 2 :syntax error
+wizards/moonstar/areas/dragonlair/test.c line 3 :Variable i not declared !
+wizards/moonstar/areas/dragonlair/test.c line 4 :syntax error
+wizards/moonstar/areas/dragonlair/test.c line 4 :Illegal LHS
+wizards/moonstar/areas/dragonlair/test.c line 20 :Variable i not declared !
+wizards/moonstar/areas/dragonlair/test.c line 26 :Variable i not declared !
+wizards/moonstar/areas/dragonlair/test.c line 29 :Variable i not declared !
+wizards/moonstar/areas/dragonlair/room67.c line 21 :syntax error
+wizards/moonstar/areas/dragonlair/room67.c line 21 :syntax error
+wizards/moonstar/areas/dragonlair/monsters/malystrax.c line 19 :Variable armor not declared !
+wizards/moonstar/areas/dragonlair/monsters/malystrax.c line 20 :Variable armor not declared !
+wizards/moonstar/areas/mosnotar/forest/eq/tattoon.c line 38 :Newline in string
+wizards/moonstar/areas/mosnotar/forest/eq/tattoon.c line 39 :syntax error
+wizards/moonstar/areas/mosnotar/forest/eq/tattoon.c line 39 :Too few arguments to clone_object
+wizards/moonstar/areas/mosnotar/forest/eq/tattoon.c line 39 :Illegal LHS
+wizards/moonstar/areas/mosnotar/forest/eq/tattoon.c line 39 :syntax error
+wizards/moonstar/areas/mosnotar/forest/eq/tattoon.c line 42 :Illegal LHS
+wizards/moonstar/areas/mosnotar/forest/eq/tattoon.c line 38 :Newline in string
+wizards/moonstar/areas/mosnotar/forest/eq/tattoon.c line 39 :syntax error
+wizards/moonstar/areas/mosnotar/forest/eq/tattoon.c line 39 :Too few arguments to clone_object
+wizards/moonstar/areas/mosnotar/forest/eq/tattoon.c line 39 :Illegal LHS
+wizards/moonstar/areas/mosnotar/forest/eq/tattoon.c line 39 :syntax error
+wizards/moonstar/areas/mosnotar/forest/eq/tattoon.c line 42 :Illegal LHS
+wizards/moonstar/areas/mosnotar/forest/eq/tattoon.c line 38 :Newline in string
+wizards/moonstar/areas/mosnotar/forest/eq/tattoon.c line 39 :syntax error
+wizards/moonstar/areas/mosnotar/forest/eq/tattoon.c line 39 :Too few arguments to clone_object
+wizards/moonstar/areas/mosnotar/forest/eq/tattoon.c line 39 :Illegal LHS
+wizards/moonstar/areas/mosnotar/forest/eq/tattoon.c line 39 :syntax error
+wizards/moonstar/areas/mosnotar/forest/eq/tattoon.c line 42 :Illegal LHS
+wizards/moonstar/areas/mosnotar/forest/eq/tattoon.c line 38 :Newline in string
+wizards/moonstar/areas/mosnotar/forest/eq/tattoon.c line 39 :syntax error
+wizards/moonstar/areas/mosnotar/forest/eq/tattoon.c line 39 :Too few arguments to clone_object
+wizards/moonstar/areas/mosnotar/forest/eq/tattoon.c line 39 :Illegal LHS
+wizards/moonstar/areas/mosnotar/forest/eq/tattoon.c line 39 :syntax error
+wizards/moonstar/areas/mosnotar/forest/eq/tattoon.c line 42 :Illegal LHS
+wizards/moonstar/areas/mosnotar/forest/eq/tattoon.c line 38 :Newline in string
+wizards/moonstar/areas/mosnotar/forest/eq/tattoon.c line 39 :syntax error
+wizards/moonstar/areas/mosnotar/forest/eq/tattoon.c line 39 :Too few arguments to clone_object
+wizards/moonstar/areas/mosnotar/forest/eq/tattoon.c line 39 :Illegal LHS
+wizards/moonstar/areas/mosnotar/forest/eq/tattoon.c line 39 :syntax error
+wizards/moonstar/areas/mosnotar/forest/eq/tattoon.c line 42 :Illegal LHS
+Sun Mar  7 17:26:20 2004 Drazil's bodyguard is standing here(strong) (/wizards/moonstar/areas/forest/monsut/bguard#31154, 57) killed by Jenny (186) 
+Sun Mar  7 22:11:08 2004 Dark shadow floats here(undead) (strong) (/wizards/moonstar/areas/wasteland/monsut/shadow#43302, 65) killed by Jenny (186) 
+wizards/moonstar/mb.c line 14 :Variable cast not declared !
+wizards/moonstar/mb.c line 18 :Variable healres_tgt not declared !
+wizards/moonstar/mb.c line 11 :Variable cast not declared !
+wizards/moonstar/mb.c line 18 :Variable healres_tgt not declared !
+wizards/moonstar/mb.c line 11 :Variable cast not declared !
+wizards/moonstar/mb.c line 11 :Variable cast not declared !
+wizards/moonstar/mb.c line 15 :Variable caster not declared !
+wizards/moonstar/mb.c line 16 :Variable caster not declared !
+Sun Mar  7 23:02:40 2004 Krazzt, the secret keeper of water(strong) (/wizards/moonstar/areas/wasteland/monsut/bluewizard#51110, 89) killed by Jenny (186) 
+wizards/moonstar/r.c line 96 :syntax error
+wizards/moonstar/areas/mosnotar/forest/monsut/r.c line 96 :syntax error
+wizards/moonstar/areas/mosnotar/forest/monsut/r.c line 96 :syntax error
+wizards/moonstar/ra_spessu.c line 17 :syntax error
+wizards/moonstar/ra_spessu.c line 19 :Illegal LHS
+wizards/moonstar/ra_spessu.c line 20 :Illegal LHS
+wizards/moonstar/ra_spessu.c line 25 :syntax error
+wizards/moonstar/ra_spessu.c line 25 :Illegal character (hex 5c) '\'
+wizards/moonstar/ra_spessu.c line 25 :Newline in string
+wizards/moonstar/ra_spessu.c line 26 :syntax error
+wizards/moonstar/ra_spessu.c line 26 :Illegal character (hex 5c) '\'
+wizards/moonstar/ra_spessu.c line 26 :Newline in string
+wizards/moonstar/ra_spessu.c line 38 :Illegal LHS
+wizards/moonstar/ra_spessu.c line 38 :syntax error
+wizards/moonstar/ra_spessu.c line 41 :Illegal LHS
+wizards/moonstar/test/testmayor.c line 32 :Variable str not declared !
+wizards/moonstar/test/testmayor.c line 32 :syntax error
+wizards/moonstar/test/testmayor.c line 40 :syntax error
+wizards/moonstar/ra_spessu.c line 26 :syntax error
+wizards/moonstar/ra_spessu.c line 26 :Illegal character (hex 5c) '\'
+wizards/moonstar/ra_spessu.c line 26 :Newline in string
+wizards/moonstar/ra_spessu.c line 38 :Illegal LHS
+wizards/moonstar/ra_spessu.c line 38 :syntax error
+wizards/moonstar/ra_spessu.c line 41 :Illegal LHS
+wizards/moonstar/ra_spessu.c line 27 :Too few arguments to tell_object
+wizards/moonstar/test/testmayor.c line 32 :Variable str not declared !
+wizards/moonstar/test/testmayor.c line 32 :syntax error
+wizards/moonstar/test/testmayor.c line 40 :syntax error
+wizards/moonstar/ra_spessu.c line 27 :Too few arguments to tell_object
+wizards/moonstar/ra_spessu.c line 26 :Too few arguments to tell_object
+wizards/moonstar/areas/mosnotar/forest/monsut/r.c line 86 :syntax error
+wizards/moonstar/spessu.c line 25 :Too many arguments to environment
+wizards/moonstar/spessu.c line 25 :Too few arguments to tell_room
+wizards/moonstar/spessu.c line 25 :Variable environment not declared !
+Mon Mar  8 16:30:39 2004 Drazil's bodyguard is standing here(strong) (/wizards/moonstar/areas/forest/monsut/bguard#37588, 57) killed by Jenny (189) 
+wizards/moonstar/areas/mosnotar/forest/monsut/r.c line 74 :Illegal character (hex 5c) '\'
+wizards/moonstar/areas/mosnotar/forest/monsut/r.c line 74 :syntax error
+wizards/moonstar/areas/mosnotar/forest/monsut/r.c line 74 :Illegal LHS
+wizards/moonstar/areas/mosnotar/forest/monsut/r.c line 76 :syntax error
+wizards/moonstar/areas/mosnotar/forest/monsut/r.c line 76 :Illegal character (hex 5c) '\'
+wizards/moonstar/areas/mosnotar/forest/test.c line 21 :Newline in string
+wizards/moonstar/areas/mosnotar/forest/test.c line 22 :syntax error
+wizards/moonstar/areas/mosnotar/forest/test.c line 23 :Illegal LHS
+wizards/moonstar/areas/mosnotar/forest/test.c line 23 :syntax error
+wizards/moonstar/areas/mosnotar/forest/west/for13.c line 48 :Variable broken not declared !
+wizards/moonstar/areas/mosnotar/forest/west/for13.c line 51 :Newline in string
+wizards/moonstar/areas/mosnotar/forest/west/for13.c line 52 :syntax error
+Tue Mar  9 20:58:04 2004 Mohataki Akituro, The ancient samurai of 'Frazis'(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/akituro#78192, 52) killed by Jenny (196) 
+wizards/moonstar/sky.c line 59 :syntax error
+wizards/moonstar/sky.c line 59 :Illegal character (hex 2e) '.'
+wizards/moonstar/sky.c line 62 :Illegal LHS
+wizards/moonstar/sky.c line 64 :syntax error
+Tue Mar  9 22:36:45 2004 Nagidi Tokiro, The ancient samurai of 'Frazis'(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/tokiro#57265, 73) killed by Jenny (196) 
+Wed Mar 10 14:48:48 2004 Channelor Eve is cursing here(strong) (/wizards/moonstar/areas/sewers/monsut/channelor#28333, 40) killed by Trooper (145) 
+Wed Mar 10 15:25:07 2004 Mohataki Akituro, The ancient samurai of 'Frazis'(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/akituro#25105, 59) killed by Jenny (198) 
+wizards/moonstar/sky.c line 58 :syntax error
+wizards/moonstar/sky.c line 58 :Illegal LHS
+wizards/moonstar/sky.c line 58 :syntax error
+wizards/moonstar/sky.c line 58 :Illegal LHS
+wizards/moonstar/sky.c line 58 :syntax error
+wizards/moonstar/sky.c line 58 :Illegal LHS
+wizards/moonstar/sky.c line 58 :syntax error
+wizards/moonstar/sky.c line 58 :Illegal LHS
+wizards/moonstar/areas/dragonlair/room2.c line 3 :syntax error
+wizards/moonstar/areas/dragonlair/room2.c line 3 :syntax error
+wizards/moonstar/areas/dragonlair/room2.c line 2 :syntax error
+wizards/moonstar/areas/dragonlair/room2.c line 3 :syntax error
+wizards/moonstar/areas/valley/giant.c line 8 :Variable str not declared !
+wizards/moonstar/areas/valley/giant.c line 9 :Variable str not declared !
+wizards/moonstar/areas/valley/giant.c line 10 :Variable str not declared !
+wizards/moonstar/areas/valley/giant.c line 11 :Variable str not declared !
+wizards/moonstar/areas/valley/giant.c line 15 :Variable str not declared !
+wizards/moonstar/areas/valley/desert.c line 11 :syntax error
+Thu Mar 11 02:04:10 2004 Nagidi Tokiro, The ancient samurai of 'Frazis'(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/tokiro#1039, 70) killed by Jenny (204) 
+Thu Mar 11 02:11:26 2004 Mohataki Akituro, The ancient samurai of 'Frazis'(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/akituro#903, 56) killed by Jenny (204) 
+Thu Mar 11 02:32:00 2004 Takiru Ikira, The leader of 'Frazis' samurai(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/ikira#2586, 80) killed by Jenny (204) 
+wizards/moonstar/areas/valley/virtual_map.c line 14 :syntax error
+wizards/moonstar/areas/valley/virtual_map.c line 18 :Illegal LHS
+wizards/moonstar/areas/valley/virtual_map.c line 18 :syntax error
+wizards/moonstar/areas/valley/virtual_map.c line 14 :syntax error
+wizards/moonstar/areas/valley/virtual_map.c line 18 :Illegal LHS
+wizards/moonstar/areas/valley/virtual_map.c line 18 :syntax error
+Sat Mar 13 23:42:01 2004 Mohataki Akituro, The ancient samurai of 'Frazis'(strong) (/wizards/moonstar/areas/mosnotar/forest/monsut/akituro#1595, 55) killed by Jenny (211) 
+Sun Mar 14 02:13:43 2004 Drazil's bodyguard is standing here(strong) (/wizards/moonstar/areas/forest/monsut/bguard#2109, 57) killed by Bloodstorm (200) 
+wizards/moonstar/areas/valley/virtual_map.c line 14 :syntax error
+wizards/moonstar/areas/valley/virtual_map.c line 18 :Illegal LHS
+wizards/moonstar/areas/valley/virtual_map.c line 18 :syntax error
+wizards/moonstar/areas/valley/virtual_map.c line 14 :syntax error
+wizards/moonstar/areas/valley/virtual_map.c line 18 :Illegal LHS
+wizards/moonstar/areas/valley/virtual_map.c line 18 :syntax error
+wizards/moonstar/areas/valley/virtual_map.c line 14 :syntax error
+wizards/moonstar/areas/valley/virtual_map.c line 18 :Illegal LHS
+wizards/moonstar/areas/valley/virtual_map.c line 18 :syntax error

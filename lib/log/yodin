@@ -1,0 +1,999 @@
+wizards/yodin/eval_file.c line 2: Illegal character (hex 2e) '.'
+wizards/yodin/eval_file.c line 2: Variable workroom not declared !
+wizards/yodin/eval_file.c line 2: syntax error
+wizards/yodin/workroom.c line 29: Illegal character (hex 5c) '\'
+wizards/yodin/workroom.c line 29: syntax error
+wizards/yodin/hattu.c line 17: illegal to inherit after defining functions
+wizards/yodin/hattu.c line 17: Misplaced prototype for set_resists in wizards/yodin/hattu.c
+
+wizards/yodin/hattu.c line 17: Misplaced prototype for set_stats in wizards/yodin/hattu.c
+
+wizards/yodin/hattu.c line 17: Misplaced prototype for set_name in wizards/yodin/hattu.c
+
+wizards/yodin/hattu.c line 17: Misplaced prototype for set_short in wizards/yodin/hattu.c
+
+wizards/yodin/hattu.c line 17: Misplaced prototype for set_long in wizards/yodin/hattu.c
+
+wizards/yodin/hattu.c line 17: Misplaced prototype for set_value in wizards/yodin/hattu.c
+
+wizards/yodin/hattu.c line 17: Misplaced prototype for set_weight in wizards/yodin/hattu.c
+
+wizards/yodin/hattu.c line 17: Misplaced prototype for set_slot in wizards/yodin/hattu.c
+
+wizards/yodin/hattu.c line 17: Misplaced prototype for set_alias in wizards/yodin/hattu.c
+
+wizards/yodin/hattu.c line 17: Misplaced prototype for set_class in wizards/yodin/hattu.c
+
+wizards/yodin/hattu.c line 18: Redeclaration of function start.
+wizards/yodin/ytesti.c line 14: Variable More not declared !
+wizards/yodin/ytesti.c line 14: syntax error
+wizards/yodin/ytesti.c line 15: Illegal LHS
+wizards/yodin/hattu.c line 8: Variable OFF not declared !
+wizards/yodin/hattu.c line 8: Variable OFF not declared !
+wizards/yodin/hattu.c line 8: Variable OFF not declared !
+wizards/yodin/hattu.c line 8: Variable OFF not declared !
+wizards/yodin/eval_file.c line 2: Variable experience not declared !
+wizards/yodin/hattu2.c line 8: syntax error
+wizards/yodin/hattu.c line 8: Variable OFF not declared !
+wizards/yodin/pupu.c line 26: Variable sword not declared !
+wizards/yodin/pupu.c line 27: Variable robe not declared !
+wizards/yodin/pupu.c line 26: Variable sword not declared !
+wizards/yodin/pupu.c line 27: Variable sword not declared !
+wizards/yodin/pupu.c line 26: Variable sword not declared !
+wizards/yodin/pupu.c line 27: Variable sword not declared !
+wizards/yodin/pupu.c line 26: Variable sword not declared !
+wizards/yodin/pupu.c line 27: Variable sword not declared !
+wizards/yodin/deer.c line 30: syntax error
+wizards/yodin/forest/ff4.c line 17: Newline in string
+wizards/yodin/forest/ff4.c line 18: syntax error
+wizards/yodin/forest/ff4.c line 18: Illegal LHS
+wizards/yodin/forest/ff4.c line 18: syntax error
+wizards/yodin/forest/ff4.c line 19: Illegal LHS
+wizards/yodin/forest/ff4.c line 20: Illegal LHS
+wizards/yodin/forest/ff4.c line 17: Newline in string
+wizards/yodin/forest/ff4.c line 18: syntax error
+wizards/yodin/forest/ff4.c line 18: Illegal LHS
+wizards/yodin/forest/ff4.c line 18: syntax error
+wizards/yodin/forest/ff4.c line 19: Illegal LHS
+wizards/yodin/forest/ff4.c line 20: Illegal LHS
+wizards/yodin/forest/ff12.c line 27: Variable str not declared !
+wizards/yodin/forest/ff12.c line 27: syntax error
+wizards/yodin/forest/ff12.c line 30: syntax error
+wizards/yodin/forest/ff12.c line 27: syntax error
+wizards/yodin/forest/ff22.c line 24: Variable str not declared !
+wizards/yodin/forest/ff22.c line 24: syntax error
+wizards/yodin/forest/ff22.c line 27: syntax error
+wizards/yodin/forest/ff22.c line 24: Variable str not declared !
+wizards/yodin/forest/ff22.c line 24: syntax error
+wizards/yodin/forest/ff22.c line 27: syntax error
+wizards/yodin/forest/ff22.c line 24: Variable str not declared !
+wizards/yodin/forest/ff22.c line 24: syntax error
+wizards/yodin/forest/ff22.c line 27: syntax error
+wizards/yodin/forest/ff22.c line 24: Variable str not declared !
+wizards/yodin/forest/ff22.c line 24: syntax error
+wizards/yodin/forest/ff22.c line 27: syntax error
+wizards/yodin/forest/ff22.c line 24: Variable str not declared !
+wizards/yodin/forest/ff22.c line 24: syntax error
+wizards/yodin/forest/ff22.c line 27: syntax error
+wizards/yodin/human.c line 4: syntax error
+wizards/yodin/shirt.c line 29: illegal to inherit after defining functions
+wizards/yodin/shirt.c line 29: Program 'obj/armour.c' already inherited
+wizards/yodin/shirt.c line 31: Redeclaration of function start.
+wizards/yodin/shirt.c line 29: illegal to inherit after defining functions
+wizards/yodin/shirt.c line 29: Program 'obj/armour.c' already inherited
+wizards/yodin/shirt.c line 31: Redeclaration of function start.
+wizards/yodin/forest/for1/ff14.c line 16: syntax error
+wizards/yodin/forest/for1/ff14.c line 19: syntax error
+wizards/yodin/forest/monsters/bear.c line 23: Newline in string
+wizards/yodin/forest/monsters/bear.c line 24: Newline in string
+wizards/yodin/forest/monsters/bear.c line 23: Newline in string
+wizards/yodin/forest/monsters/bear.c line 24: Newline in string
+wizards/yodin/forest/monsters/bear.c line 23: Newline in string
+wizards/yodin/forest/monsters/bear.c line 24: Newline in string
+wizards/yodin/forest/monsters/bear.c line 25: syntax error
+wizards/yodin/forest/monsters/bear.c line 23: Newline in string
+wizards/yodin/forest/monsters/bear.c line 24: Newline in string
+wizards/yodin/forest/monsters/bear.c line 25: syntax error
+wizards/yodin/forest/monsters/bear.c line 25: syntax error
+wizards/yodin/forest/monsters/bear.c line 25: syntax error
+wizards/yodin/forest/monsters/bear.c line 34: syntax error
+wizards/yodin/forest/monsters/bear.c line 34: syntax error
+wizards/yodin/forest/monsters/bear.c line 34: syntax error
+wizards/yodin/forest/monsters/bear.c line 34: syntax error
+wizards/yodin/forest/monsters/bear.c line 34: syntax error
+wizards/yodin/forest/monsters/bear.c line 34: syntax error
+wizards/yodin/lord.c line 2: function not defined by inheritance as specified
+wizards/yodin/lord.c line 3: Variable number_of_ants not declared !
+wizards/yodin/lord.c line 12: Variable armour not declared !
+wizards/yodin/lord.c line 13: Variable armour not declared !
+wizards/yodin/lord.c line 19: Variable attacker_ob not declared !
+wizards/yodin/lord.c line 22: syntax error
+wizards/yodin/lord.c line 7: Variable number_of_ants not declared !
+wizards/yodin/lord.c line 28: Variable number_of_ants not declared !
+wizards/yodin/lord.c line 29: Variable small_ant not declared !
+wizards/yodin/lord.c line 30: Variable small_ant not declared !
+wizards/yodin/lord.c line 32: Variable number_of_skeleton not declared !
+wizards/yodin/armor.c line 27: Variable More not declared !
+wizards/yodin/armor.c line 27: syntax error
+wizards/yodin/armor.c line 39: Variable More not declared !
+wizards/yodin/armor.c line 39: syntax error
+wizards/yodin/armor.c line 40: Variable REPAIR_COST not declared !
+wizards/yodin/armor.c line 40: Illegal LHS
+wizards/yodin/armor.c line 52: syntax error
+wizards/yodin/armor.c line 40: Variable REPAIR_COST not declared !
+wizards/yodin/areas/forest/ff1.c line 17: syntax error
+wizards/yodin/areas/forest/ff1.c line 18: Illegal LHS
+wizards/yodin/areas/windmill/obj/amulet.c line 7: Variable RED_F not declared !
+wizards/yodin/areas/windmill/obj/amulet.c line 7: Variable OFF not declared !
+wizards/yodin/areas/windmill/obj/amulet.c line 21: syntax error
+wizards/yodin/areas/windmill/obj/amulet.c line 7: Variable RED_F not declared !
+wizards/yodin/areas/windmill/obj/amulet.c line 7: Variable OFF not declared !
+wizards/yodin/areas/windmill/obj/amulet.c line 7: Variable RED_F not declared !
+wizards/yodin/areas/windmill/obj/amulet.c line 7: Variable OFF not declared !
+wizards/yodin/areas/windmill/obj/amulet.c line 7: Variable RED_F not declared !
+wizards/yodin/areas/windmill/obj/amulet.c line 7: Variable OFF not declared !
+wizards/yodin/hattu.c line 2: Illegal character (hex 23) '#'
+wizards/yodin/hattu.c line 2: syntax error
+wizards/yodin/areas/forest/ff11.c line 14: Variable because not declared !
+wizards/yodin/areas/forest/ff11.c line 14: syntax error
+wizards/yodin/areas/forest/ff11.c line 16: syntax error
+wizards/yodin/areas/forest/ff11.c line 18: Illegal LHS
+wizards/yodin/areas/forest/ff11.c line 18: syntax error
+wizards/yodin/areas/forest/ff11.c line 14: Variable because not declared !
+wizards/yodin/areas/forest/ff11.c line 14: syntax error
+wizards/yodin/areas/forest/ff11.c line 16: syntax error
+wizards/yodin/areas/forest/ff11.c line 18: Illegal LHS
+wizards/yodin/areas/forest/ff11.c line 18: syntax error
+wizards/yodin/areas/forest/ff11.c line 14: Variable because not declared !
+wizards/yodin/areas/forest/ff11.c line 14: syntax error
+wizards/yodin/areas/forest/ff11.c line 16: syntax error
+wizards/yodin/areas/forest/ff11.c line 18: Illegal LHS
+wizards/yodin/areas/forest/ff11.c line 18: syntax error
+wizards/yodin/areas/forest/ff11.c line 14: Variable because not declared !
+wizards/yodin/areas/forest/ff11.c line 14: syntax error
+wizards/yodin/areas/forest/ff11.c line 16: syntax error
+wizards/yodin/areas/forest/ff11.c line 18: Illegal LHS
+wizards/yodin/areas/forest/ff11.c line 18: syntax error
+wizards/yodin/areas/forest/ff11.c line 14: Variable because not declared !
+wizards/yodin/areas/forest/ff11.c line 14: syntax error
+wizards/yodin/areas/forest/ff11.c line 16: syntax error
+wizards/yodin/areas/forest/ff11.c line 18: Illegal LHS
+wizards/yodin/areas/forest/ff11.c line 18: syntax error
+wizards/yodin/areas/forest/ff11.c line 14: Variable because not declared !
+wizards/yodin/areas/forest/ff11.c line 14: syntax error
+wizards/yodin/areas/forest/ff11.c line 16: syntax error
+wizards/yodin/areas/forest/ff11.c line 18: Illegal LHS
+wizards/yodin/areas/forest/ff11.c line 18: syntax error
+wizards/yodin/areas/forest/ff11.c line 14: Variable because not declared !
+wizards/yodin/areas/forest/ff11.c line 14: syntax error
+wizards/yodin/areas/forest/ff11.c line 16: syntax error
+wizards/yodin/areas/forest/ff11.c line 18: Illegal LHS
+wizards/yodin/areas/forest/ff11.c line 18: syntax error
+wizards/yodin/areas/forest/ff11.c line 14: Variable because not declared !
+wizards/yodin/areas/forest/ff11.c line 14: syntax error
+wizards/yodin/areas/forest/ff11.c line 16: syntax error
+wizards/yodin/areas/forest/ff11.c line 18: Illegal LHS
+wizards/yodin/areas/forest/ff11.c line 18: syntax error
+wizards/yodin/areas/forest/ff11.c line 14: Variable because not declared !
+wizards/yodin/areas/forest/ff11.c line 14: syntax error
+wizards/yodin/areas/forest/ff11.c line 16: syntax error
+wizards/yodin/areas/forest/ff11.c line 18: Illegal LHS
+wizards/yodin/areas/forest/ff11.c line 18: syntax error
+wizards/yodin/areas/forest/ff11.c line 14: Variable because not declared !
+wizards/yodin/areas/forest/ff11.c line 14: syntax error
+wizards/yodin/areas/forest/ff11.c line 16: syntax error
+wizards/yodin/areas/forest/ff11.c line 18: Illegal LHS
+wizards/yodin/areas/forest/ff11.c line 18: syntax error
+wizards/yodin/workroom.c line 20: syntax error
+wizards/yodin/workroom.c line 20: Illegal LHS
+wizards/yodin/workroom.c line 20: syntax error
+wizards/yodin/workroom.c line 20: Illegal LHS
+wizards/yodin/ff10.c line 24: syntax error
+wizards/yodin/ff10.c line 24: Illegal character (hex 5c) '\'
+wizards/yodin/ff10.c line 24: Illegal character (hex 5c) '\'
+wizards/yodin/ff10.c line 24: Illegal LHS
+wizards/yodin/ff10.c line 24: Illegal character (hex 5c) '\'
+wizards/yodin/ff10.c line 24: syntax error
+wizards/yodin/ff1.c line 24: Variable human not declared !
+wizards/yodin/ff1.c line 25: Variable rat1 not declared !
+wizards/yodin/ff1.c line 26: Variable human not declared !
+wizards/yodin/areas/forest/for2/ff49.c line 22: syntax error
+wizards/yodin/areas/forest/for2/ff49.c line 24: Illegal LHS
+wizards/yodin/areas/forest/for2/ff49.c line 25: Variable elf not declared !
+wizards/yodin/areas/forest/for2/ff49.c line 22: syntax error
+wizards/yodin/areas/forest/for2/ff49.c line 24: Illegal LHS
+wizards/yodin/areas/forest/for2/ff49.c line 25: Variable elf not declared !
+wizards/yodin/areas/forest/for2/ff49.c line 22: syntax error
+wizards/yodin/areas/forest/for2/ff49.c line 24: Illegal LHS
+wizards/yodin/areas/forest/for2/ff49.c line 25: Variable elf not declared !
+wizards/yodin/areas/forest/for2/ff49.c line 27: syntax error
+wizards/yodin/areas/forest/for2/ff49.c line 23: syntax error
+wizards/yodin/areas/forest/for2/ff49.c line 25: Illegal LHS
+wizards/yodin/areas/forest/for2/ff49.c line 23: syntax error
+wizards/yodin/areas/forest/for2/ff49.c line 25: Illegal LHS
+wizards/yodin/areas/forest/for2/ff49.c line 23: syntax error
+wizards/yodin/areas/forest/for2/ff49.c line 25: Illegal LHS
+wizards/yodin/areas/forest/for2/ff49.c line 23: syntax error
+wizards/yodin/areas/forest/for2/ff49.c line 25: Illegal LHS
+wizards/yodin/areas/forest/for2/ff49.c line 23: syntax error
+wizards/yodin/areas/forest/for2/ff49.c line 25: Illegal LHS
+wizards/yodin/areas/forest/for2/ff49.c line 23: syntax error
+wizards/yodin/areas/forest/for2/ff49.c line 25: Illegal LHS
+wizards/yodin/areas/forest/for2/ff49.c line 23: syntax error
+wizards/yodin/areas/forest/for2/ff49.c line 25: Illegal LHS
+wizards/yodin/areas/forest/for2/ff49.c line 23: syntax error
+wizards/yodin/areas/forest/for2/ff49.c line 25: Illegal LHS
+wizards/yodin/areas/forest/for2/ff49.c line 28: syntax error
+wizards/yodin/areas/forest/for2/ff49.c line 4: syntax error
+wizards/yodin/areas/forest/for2/ff49.c line 4: syntax error
+wizards/yodin/areas/forest/for1/ff1.c line 5: syntax error
+wizards/yodin/areas/forest/for1/ff1.c line 5: syntax error
+wizards/yodin/areas/forest/for1/ff1.c line 5: syntax error
+wizards/yodin/areas/forest/for1/ff1.c line 5: syntax error
+wizards/yodin/areas/forest/for1/ff1.c line 5: syntax error
+wizards/yodin/areas/forest/for1/ff1.c line 5: syntax error
+wizards/yodin/areas/forest/for1/ff1.c line 5: syntax error
+wizards/yodin/areas/forest/for1/ff1.c line 5: syntax error
+wizards/yodin/areas/forest/for1/ff1.c line 5: syntax error
+wizards/yodin/areas/forest/for1/ff1.c line 5: syntax error
+wizards/yodin/areas/forest/ff2.c line 6: Variable deer not declared !
+wizards/yodin/areas/forest/ff2.c line 7: Variable deer not declared !
+wizards/yodin/areas/forest/ff2.c line 8: Variable deer not declared !
+wizards/yodin/areas/forest/ff2.c line 6: Variable deer not declared !
+wizards/yodin/areas/forest/ff2.c line 7: Variable deer not declared !
+wizards/yodin/areas/forest/ff2.c line 8: Variable deer not declared !
+wizards/yodin/areas/forest/ff2.c line 6: Variable deer not declared !
+wizards/yodin/areas/forest/ff2.c line 7: Variable deer not declared !
+wizards/yodin/areas/forest/ff2.c line 8: Variable deer not declared !
+wizards/yodin/areas/forest/ff3.c line 6: Variable deer not declared !
+wizards/yodin/areas/forest/ff3.c line 7: Variable deer not declared !
+wizards/yodin/areas/forest/ff3.c line 8: Variable deer not declared !
+wizards/yodin/areas/forest/ff11.c line 20: Variable because not declared !
+wizards/yodin/areas/forest/ff11.c line 20: syntax error
+wizards/yodin/areas/forest/ff11.c line 22: syntax error
+wizards/yodin/areas/forest/ff11.c line 24: Illegal LHS
+wizards/yodin/areas/forest/ff11.c line 24: syntax error
+wizards/yodin/areas/forest/ff11.c line 20: Variable because not declared !
+wizards/yodin/areas/forest/ff11.c line 20: syntax error
+wizards/yodin/areas/forest/ff11.c line 22: syntax error
+wizards/yodin/areas/forest/ff11.c line 24: Illegal LHS
+wizards/yodin/areas/forest/ff11.c line 24: syntax error
+wizards/yodin/areas/forest/ff11.c line 20: Variable because not declared !
+wizards/yodin/areas/forest/ff11.c line 20: syntax error
+wizards/yodin/areas/forest/ff11.c line 22: syntax error
+wizards/yodin/areas/forest/ff11.c line 24: Illegal LHS
+wizards/yodin/areas/forest/ff11.c line 24: syntax error
+wizards/yodin/areas/forest/ff11.c line 20: Variable because not declared !
+wizards/yodin/areas/forest/ff11.c line 20: syntax error
+wizards/yodin/areas/forest/ff11.c line 22: syntax error
+wizards/yodin/areas/forest/ff11.c line 24: Illegal LHS
+wizards/yodin/areas/forest/ff11.c line 24: syntax error
+wizards/yodin/areas/windmill/wm3.c line 22: Variable kaks not declared !
+wizards/yodin/areas/windmill/wm3.c line 22: syntax error
+wizards/yodin/areas/windmill/wm3.c line 22: Illegal character (hex 2e) '.'
+wizards/yodin/areas/windmill/wm3.c line 24: Illegal LHS
+wizards/yodin/helm.c line 2: Illegal character (hex 23) '#'
+wizards/yodin/helm.c line 2: syntax error
+wizards/yodin/helm.c line 2: Illegal character (hex 23) '#'
+wizards/yodin/helm.c line 2: syntax error
+wizards/yodin/areas/village/vh12.c line 6: Variable fountain not declared !
+wizards/yodin/areas/village/vh12.c line 7: Variable fountain not declared !
+wizards/yodin/areas/village/vh12.c line 8: Variable fountain not declared !
+wizards/yodin/areas/village/vh18.c line 8: Variable short_desc not declared !
+wizards/yodin/areas/village/vh18.c line 9: Variable long_desc not declared !
+wizards/yodin/areas/village/vh18.c line 20: function not defined by inheritance as specified
+wizards/yodin/areas/village/monsters/sheep.c line 32: Illegal character (hex 5c) '\'
+wizards/yodin/areas/village/monsters/sheep.c line 32: syntax error
+wizards/yodin/areas/village/monsters/sheep.c line 32: Newline in string
+wizards/yodin/areas/village/monsters/sheep.c line 32: Illegal character (hex 5c) '\'
+wizards/yodin/areas/village/monsters/sheep.c line 32: syntax error
+wizards/yodin/areas/village/monsters/sheep.c line 32: Newline in string
+wizards/yodin/areas/village/monsters/sheep.c line 32: Illegal character (hex 5c) '\'
+wizards/yodin/areas/village/monsters/sheep.c line 32: syntax error
+wizards/yodin/areas/village/monsters/sheep.c line 32: Newline in string
+wizards/yodin/areas/village/monsters/sheep.c line 32: Illegal character (hex 5c) '\'
+wizards/yodin/areas/village/monsters/sheep.c line 32: syntax error
+wizards/yodin/areas/village/monsters/sheep.c line 32: Newline in string
+wizards/yodin/areas/village/monsters/sheep.c line 32: Illegal character (hex 5c) '\'
+wizards/yodin/areas/village/monsters/sheep.c line 32: syntax error
+wizards/yodin/areas/village/monsters/sheep.c line 32: Newline in string
+wizards/yodin/sheep.c line 33: Variable GREY_F not declared !
+wizards/yodin/areas/village/monsters/dog.c line 35: syntax error
+wizards/yodin/areas/village/monsters/dog.c line 35: Illegal character (hex 60) '`'
+wizards/yodin/areas/village/monsters/dog.c line 35: Illegal character (hex 5c) '\'
+wizards/yodin/areas/village/monsters/dog.c line 35: Newline in string
+wizards/yodin/areas/village/monsters/dog.c line 35: syntax error
+wizards/yodin/areas/village/monsters/dog.c line 35: Illegal character (hex 60) '`'
+wizards/yodin/areas/village/monsters/dog.c line 35: Illegal character (hex 5c) '\'
+wizards/yodin/areas/village/monsters/dog.c line 35: Newline in string
+wizards/yodin/areas/village/monsters/dog.c line 34: syntax error
+wizards/yodin/areas/village/monsters/dog.c line 34: Illegal character (hex 60) '`'
+wizards/yodin/areas/village/monsters/dog.c line 34: Illegal character (hex 5c) '\'
+wizards/yodin/areas/village/monsters/dog.c line 34: Newline in string
+wizards/yodin/areas/village/monsters/dog.c line 34: syntax error
+wizards/yodin/areas/village/monsters/dog.c line 34: Illegal character (hex 60) '`'
+wizards/yodin/areas/village/monsters/dog.c line 34: Illegal character (hex 5c) '\'
+wizards/yodin/areas/village/monsters/dog.c line 34: Newline in string
+wizards/yodin/areas/village/monsters/dog.c line 34: syntax error
+wizards/yodin/areas/village/monsters/dog.c line 34: Illegal character (hex 60) '`'
+wizards/yodin/areas/village/monsters/dog.c line 34: Illegal character (hex 5c) '\'
+wizards/yodin/areas/village/monsters/dog.c line 34: Newline in string
+wizards/yodin/areas/village/monsters/dog.c line 34: syntax error
+wizards/yodin/areas/village/monsters/dog.c line 34: Illegal character (hex 5c) '\'
+wizards/yodin/areas/village/monsters/dog.c line 34: Newline in string
+wizards/yodin/areas/village/monsters/dog.c line 34: syntax error
+wizards/yodin/areas/village/monsters/dog.c line 34: Illegal character (hex 5c) '\'
+wizards/yodin/areas/village/monsters/dog.c line 34: Newline in string
+wizards/yodin/areas/village/monsters/dog.c line 34: syntax error
+wizards/yodin/areas/village/monsters/dog.c line 34: Illegal character (hex 5c) '\'
+wizards/yodin/areas/village/monsters/dog.c line 34: Newline in string
+wizards/yodin/dog.c line 35: syntax error
+wizards/yodin/dog.c line 35: Illegal character (hex 5c) '\'
+wizards/yodin/dog.c line 35: Illegal character (hex 5c) '\'
+wizards/yodin/dog.c line 35: Illegal character (hex 5c) '\'
+wizards/yodin/dog.c line 35: Newline in string
+wizards/yodin/dog.c line 33: Variable BOLD not declared !
+wizards/yodin/dog.c line 33: Variable WHITE_F not declared !
+wizards/yodin/dog.c line 33: Variable OFF not declared !
+wizards/yodin/dog.c line 34: Variable BOLD not declared !
+wizards/yodin/dog.c line 34: Variable WHITE_F not declared !
+wizards/yodin/dog.c line 34: Variable OFF not declared !
+wizards/yodin/areas/windmill/wm8.c line 3: syntax error
+wizards/yodin/areas/windmill/wm8.c line 3: Unrecognized inheritance modifier 'i'
+wizards/yodin/areas/windmill/wm8.c line 3: Unrecognized inheritance modifier 'reset'
+wizards/yodin/areas/windmill/wm8.c line 3: syntax error
+wizards/yodin/areas/windmill/wm8.c line 21: Variable str not declared !
+wizards/yodin/areas/windmill/wm8.c line 21: syntax error
+wizards/yodin/areas/windmill/wm8.c line 24: Too few arguments to write
+wizards/yodin/areas/windmill/wm8.c line 25: syntax error
+wizards/yodin/areas/windmill/wm8.c line 26: Too few arguments to clone_object
+wizards/yodin/areas/windmill/wm8.c line 26: Illegal LHS
+wizards/yodin/areas/windmill/wm8.c line 21: Variable str not declared !
+wizards/yodin/areas/windmill/wm8.c line 21: syntax error
+wizards/yodin/areas/windmill/wm8.c line 24: Too few arguments to write
+wizards/yodin/areas/windmill/wm8.c line 25: syntax error
+wizards/yodin/areas/windmill/wm8.c line 26: Too few arguments to clone_object
+wizards/yodin/areas/windmill/wm8.c line 26: Illegal LHS
+wizards/yodin/areas/windmill/wm8.c line 21: Variable str not declared !
+wizards/yodin/areas/windmill/wm8.c line 21: syntax error
+wizards/yodin/areas/windmill/wm8.c line 24: Too few arguments to write
+wizards/yodin/areas/windmill/wm8.c line 25: syntax error
+wizards/yodin/areas/windmill/wm8.c line 26: Too few arguments to clone_object
+wizards/yodin/areas/windmill/wm8.c line 26: Illegal LHS
+wizards/yodin/areas/windmill/wm8.c line 21: Variable str not declared !
+wizards/yodin/areas/windmill/wm8.c line 21: syntax error
+wizards/yodin/areas/windmill/wm8.c line 24: Too few arguments to write
+wizards/yodin/areas/windmill/wm8.c line 25: syntax error
+wizards/yodin/areas/windmill/wm8.c line 26: Too few arguments to clone_object
+wizards/yodin/areas/windmill/wm8.c line 26: Illegal LHS
+wizards/yodin/areas/windmill/wm8.c line 21: Variable str not declared !
+wizards/yodin/areas/windmill/wm8.c line 21: syntax error
+wizards/yodin/areas/windmill/wm8.c line 24: Too few arguments to write
+wizards/yodin/areas/windmill/wm8.c line 25: syntax error
+wizards/yodin/areas/windmill/wm8.c line 26: Too few arguments to clone_object
+wizards/yodin/areas/windmill/wm8.c line 26: Illegal LHS
+wizards/yodin/areas/windmill/wm8.c line 21: Variable str not declared !
+wizards/yodin/areas/windmill/wm8.c line 21: syntax error
+wizards/yodin/areas/windmill/wm8.c line 24: Too few arguments to write
+wizards/yodin/areas/windmill/wm8.c line 25: syntax error
+wizards/yodin/areas/windmill/wm8.c line 26: Too few arguments to clone_object
+wizards/yodin/areas/windmill/wm8.c line 26: Illegal LHS
+wizards/yodin/baker2.c line 72: syntax error
+wizards/yodin/baker2.c line 78: Variable tmp1 not declared !
+wizards/yodin/baker2.c line 78: Variable tmp2 not declared !
+wizards/yodin/baker2.c line 80: Variable tmp1 not declared !
+wizards/yodin/baker2.c line 85: Variable chat_str not declared !
+wizards/yodin/baker2.c line 86: Variable chat_str not declared !
+wizards/yodin/lord.c line 7: Variable number_of_ants not declared !
+wizards/yodin/lord.c line 28: Variable number_of_ants not declared !
+wizards/yodin/lord.c line 29: Variable small_ant not declared !
+wizards/yodin/lord.c line 30: Variable small_ant not declared !
+wizards/yodin/lord.c line 32: Variable number_of_skeleton not declared !
+wizards/yodin/vankila.c line 8: syntax error
+wizards/yodin/vankila.c line 8: Illegal character (hex 2e) '.'
+wizards/yodin/vankila.c line 8: Illegal character constant
+wizards/yodin/vankila.c line 9: Illegal character (hex 5c) '\'
+wizards/yodin/vankila.c line 9: Illegal character (hex 5c) '\'
+wizards/yodin/vankila.c line 9: Illegal character (hex 2e) '.'
+wizards/yodin/vankila.c line 8: Illegal character constant
+wizards/yodin/vankila.c line 8: syntax error
+wizards/yodin/vankila.c line 8: Illegal character (hex 2e) '.'
+wizards/yodin/vankila.c line 8: Illegal character (hex 5c) '\'
+wizards/yodin/vankila.c line 8: Newline in string
+wizards/yodin/vankila.c line 8: Illegal character constant
+wizards/yodin/vankila.c line 8: syntax error
+wizards/yodin/vankila.c line 8: Illegal character (hex 2e) '.'
+wizards/yodin/vankila.c line 8: Illegal character (hex 5c) '\'
+wizards/yodin/vankila.c line 8: Newline in string
+wizards/yodin/vankila.c line 8: Illegal character constant
+wizards/yodin/vankila.c line 8: syntax error
+wizards/yodin/vankila.c line 8: Illegal character (hex 2e) '.'
+wizards/yodin/vankila.c line 8: Illegal character (hex 5c) '\'
+wizards/yodin/vankila.c line 8: Newline in string
+wizards/yodin/vankila.c line 8: Illegal character constant
+wizards/yodin/vankila.c line 8: syntax error
+wizards/yodin/vankila.c line 8: Illegal character (hex 2e) '.'
+wizards/yodin/vankila.c line 8: Illegal character (hex 5c) '\'
+wizards/yodin/vankila.c line 8: Newline in string
+wizards/yodin/vankila.c line 8: Illegal character constant
+wizards/yodin/vankila.c line 8: syntax error
+wizards/yodin/vankila.c line 8: Illegal character (hex 2e) '.'
+wizards/yodin/vankila.c line 8: Illegal character (hex 5c) '\'
+wizards/yodin/vankila.c line 8: Newline in string
+wizards/yodin/baker2.c line 72: syntax error
+wizards/yodin/baker2.c line 78: Variable tmp1 not declared !
+wizards/yodin/baker2.c line 78: Variable tmp2 not declared !
+wizards/yodin/baker2.c line 80: Variable tmp1 not declared !
+wizards/yodin/baker2.c line 85: Variable chat_str not declared !
+wizards/yodin/baker2.c line 86: Variable chat_str not declared !
+wizards/yodin/bakertest.c line 72: syntax error
+wizards/yodin/bakertest.c line 75: Variable giver not declared !
+wizards/yodin/bakertest.c line 76: Variable this_object not declared !
+wizards/yodin/bakertest.c line 76: syntax error
+wizards/yodin/bakertest.c line 77: Variable giver not declared !
+wizards/yodin/bakertest.c line 77: Illegal LHS
+wizards/yodin/bakertest2.c line 79: Variable chat_str not declared !
+wizards/yodin/bakertest2.c line 80: Variable chat_str not declared !
+wizards/yodin/bakertest2.c line 81: Variable chat_str not declared !
+wizards/yodin/bakertest2.c line 83: Variable chat_str not declared !
+wizards/yodin/bakertest2.c line 87: Variable chat_str not declared !
+wizards/yodin/bakertest2.c line 79: Variable chat_str not declared !
+wizards/yodin/bakertest2.c line 80: Variable chat_str not declared !
+wizards/yodin/bakertest2.c line 81: Variable chat_str not declared !
+wizards/yodin/bakertest2.c line 83: Variable chat_str not declared !
+wizards/yodin/bakertest2.c line 87: Variable chat_str not declared !
+wizards/yodin/bakertest2.c line 77: Variable a_chat_str not declared !
+wizards/yodin/bakertest2.c line 78: Variable chat_str not declared !
+wizards/yodin/bakertest2.c line 79: Variable chat_str not declared !
+wizards/yodin/bakertest2.c line 81: Variable chat_str not declared !
+wizards/yodin/bakertest2.c line 85: Variable a_chat_str not declared !
+wizards/yodin/bakertest2.c line 77: syntax error
+wizards/yodin/bakertest2.c line 77: syntax error
+wizards/yodin/bakertest2.c line 77: syntax error
+wizards/yodin/bakertest2.c line 76: syntax error
+wizards/yodin/areas/windmill/wm8.c line 22: Variable str not declared !
+wizards/yodin/areas/windmill/wm8.c line 22: syntax error
+wizards/yodin/areas/windmill/wm8.c line 25: Too few arguments to write
+wizards/yodin/areas/windmill/wm8.c line 26: syntax error
+wizards/yodin/areas/windmill/wm8.c line 27: Too few arguments to clone_object
+wizards/yodin/areas/windmill/wm8.c line 27: Illegal LHS
+wizards/yodin/bakertest3.c line 37: Newline in string
+wizards/yodin/bakertest3.c line 38: syntax error
+wizards/yodin/bakertest3.c line 5: syntax error
+wizards/yodin/bakertest3.c line 38: Newline in string
+wizards/yodin/bakertest3.c line 39: syntax error
+wizards/yodin/bakertest3.c line 40: Illegal LHS
+wizards/yodin/bakertest3.c line 76: Newline in string
+wizards/yodin/bakertest3.c line 77: syntax error
+wizards/yodin/bakertest3.c line 5: syntax error
+wizards/yodin/bakertest3.c line 38: Newline in string
+wizards/yodin/bakertest3.c line 39: syntax error
+wizards/yodin/bakertest3.c line 40: Illegal LHS
+wizards/yodin/bakertest3.c line 94: Newline in string
+wizards/yodin/bakertest3.c line 95: syntax error
+wizards/yodin/lord.c line 7: Variable number_of_ants not declared !
+wizards/yodin/lord.c line 28: Variable number_of_ants not declared !
+wizards/yodin/lord.c line 29: Variable small_ant not declared !
+wizards/yodin/lord.c line 30: Variable small_ant not declared !
+wizards/yodin/lord.c line 32: Variable number_of_skeleton not declared !
+wizards/yodin/areas/windmill/wm8.c line 21: Variable str not declared !
+wizards/yodin/areas/windmill/wm8.c line 21: syntax error
+wizards/yodin/areas/windmill/wm8.c line 24: Too few arguments to write
+wizards/yodin/areas/windmill/wm8.c line 25: syntax error
+wizards/yodin/areas/windmill/wm8.c line 26: Too few arguments to clone_object
+wizards/yodin/areas/windmill/wm8.c line 26: Illegal LHS
+wizards/yodin/areas/windmill/wm8.c line 21: Variable str not declared !
+wizards/yodin/areas/windmill/wm8.c line 21: syntax error
+wizards/yodin/areas/windmill/wm8.c line 24: Too few arguments to write
+wizards/yodin/areas/windmill/wm8.c line 25: syntax error
+wizards/yodin/areas/windmill/wm8.c line 26: Too few arguments to clone_object
+wizards/yodin/areas/windmill/wm8.c line 26: Illegal LHS
+wizards/yodin/areas/windmill/wm8.c line 21: Variable str not declared !
+wizards/yodin/areas/windmill/wm8.c line 21: syntax error
+wizards/yodin/areas/windmill/wm8.c line 25: syntax error
+wizards/yodin/areas/windmill/wm8.c line 27: Too few arguments to clone_object
+wizards/yodin/areas/windmill/wm8.c line 27: Illegal LHS
+wizards/yodin/areas/windmill/wm8.c line 27: syntax error
+wizards/yodin/areas/windmill/wm8.c line 21: Variable str not declared !
+wizards/yodin/areas/windmill/wm8.c line 21: syntax error
+wizards/yodin/areas/windmill/wm8.c line 24: Too few arguments to write
+wizards/yodin/areas/windmill/wm8.c line 25: syntax error
+wizards/yodin/areas/windmill/wm8.c line 26: Too few arguments to clone_object
+wizards/yodin/areas/windmill/wm8.c line 26: Illegal LHS
+wizards/yodin/areas/windmill/wm8.c line 21: Variable str not declared !
+wizards/yodin/areas/windmill/wm8.c line 21: syntax error
+wizards/yodin/areas/windmill/wm8.c line 24: Too few arguments to write
+wizards/yodin/areas/windmill/wm8.c line 25: syntax error
+wizards/yodin/areas/windmill/wm8.c line 26: Too few arguments to clone_object
+wizards/yodin/areas/windmill/wm8.c line 26: Illegal LHS
+wizards/yodin/storagekeeper.c line 24: Variable this_object not declared !
+wizards/yodin/storagekeeper.c line 24: syntax error
+wizards/yodin/storagekeeper.c line 25: Illegal LHS
+wizards/yodin/storagekeeper.c line 25: syntax error
+wizards/yodin/storagekeeper.c line 24: Variable this_object not declared !
+wizards/yodin/storagekeeper.c line 24: syntax error
+wizards/yodin/storagekeeper.c line 25: Illegal LHS
+wizards/yodin/storagekeeper.c line 25: syntax error
+wizards/yodin/eval_file.c line 2: syntax error
+wizards/yodin/eval_file.c line 2: syntax error
+wizards/yodin/eval_file.c line 2: syntax error
+wizards/yodin/eval_file.c line 2: syntax error
+wizards/yodin/eval_file.c line 2: syntax error
+wizards/yodin/eval_file.c line 2: Variable WHITE_F not declared !
+wizards/yodin/eval_file.c line 2: Variable OFF not declared !
+wizards/yodin/areas/island/tunnel/_77.c line 12: Variable deer not declared !
+wizards/yodin/areas/island/tunnel/_77.c line 12: Variable deer not declared !
+wizards/yodin/areas/island/tunnel/_77.c line 12: Variable deer not declared !
+wizards/yodin/areas/island/tunnel/_77.c line 12: Variable deer not declared !
+wizards/yodin/areas/island/tunnel/_77.c line 12: Variable deer not declared !
+wizards/yodin/areas/island/tunnel/_77.c line 12: Variable deer not declared !
+wizards/yodin/areas/island/tunnel/_77.c line 12: Variable deer not declared !
+wizards/yodin/areas/island/tunnel/1.c line 12: Variable deer not declared !
+wizards/yodin/areas/island/tunnel/3.c line 12: Variable deer not declared !
+wizards/yodin/areas/island/tunnel/3.c line 12: Variable deer not declared !
+wizards/yodin/areas/island/tunnel/3.c line 12: Variable deer not declared !
+wizards/yodin/areas/island/tunnel/3.c line 12: Variable deer not declared !
+wizards/yodin/areas/island/tunnel/3.c line 12: Variable deer not declared !
+wizards/yodin/areas/island/tunnel/3.c line 12: Variable deer not declared !
+wizards/yodin/areas/island/tunnel/3.c line 12: Variable deer not declared !
+wizards/yodin/areas/island/tunnel/9.c line 20: Redefining inherited nosave variable 'long_desc' with a non-nosave variable
+wizards/yodin/areas/island/tunnel/9.c line 20: Type mismatch ( unknown vs string ) when initializing long_desc
+wizards/yodin/areas/island/tunnel/9.c line 20: Missing type
+wizards/yodin/areas/island/tunnel/9.c line 20: Redefining inherited nosave variable 'long_desc' with a non-nosave variable
+wizards/yodin/areas/island/tunnel/9.c line 20: Type mismatch ( unknown vs string ) when initializing long_desc
+wizards/yodin/areas/island/tunnel/9.c line 20: Missing type
+wizards/yodin/cmds/_morehere.c line 3: Variable more not declared !
+wizards/yodin/cmds/_morehere.c line 3: syntax error
+wizards/yodin/eval_file.c line 2: syntax error
+wizards/yodin/lutku.c line 2: function not defined by inheritance as specified
+wizards/yodin/lutku.c line 6: syntax error
+wizards/yodin/lutku.c line 2: function not defined by inheritance as specified
+wizards/yodin/lutku.c line 6: syntax error
+wizards/yodin/lutku.c line 2: function not defined by inheritance as specified
+wizards/yodin/deer.c line 30: syntax error
+wizards/yodin/dragonists/heart.h line 13: casting a value to its own type: int 
+wizards/yodin/animals/heart.h line 13: casting a value to its own type: int 
+wizards/yodin/animals/animals.c line 32: syntax error
+wizards/yodin/animals/animals.c line 37: syntax error
+wizards/yodin/animals/animals.c line 32: syntax error
+wizards/yodin/animals/animals.c line 37: syntax error
+wizards/yodin/varjot/bless_shadow.c line 8: Too few arguments to shadow
+wizards/yodin/varjot/bless_shadow.c line 8: Too few arguments to shadow
+wizards/yodin/varjot/bless_shadow.c line 8: Too few arguments to shadow
+wizards/yodin/varjot/bless_shadow.c line 8: Too few arguments to shadow
+wizards/yodin/varjot/bless_shadow.c line 8: Too few arguments to shadow
+wizards/yodin/varjot/bless_shadow.c line 8: Too few arguments to shadow
+wizards/yodin/varjot/bless_shadow.c line 8: Variable varjo not declared !
+wizards/yodin/varjot/bless_shadow.c line 8: Variable list not declared !
+wizards/yodin/varjot/bless_shadow.c line 8: Variable o not declared !
+wizards/yodin/varjot/bless_shadow.c line 8: Variable list not declared !
+wizards/yodin/varjot/bless_shadow.c line 8: Variable o not declared !
+wizards/yodin/varjot/bless_shadow.c line 8: syntax error
+wizards/yodin/varjot/bless_shadow.c line 22: Illegal LHS
+wizards/yodin/varjot/bless_shadow.c line 8: syntax error
+wizards/yodin/varjot/bless_shadow.c line 22: Illegal LHS
+wizards/yodin/varjot/bless_shadow.c line 8: Variable obj not declared !
+wizards/yodin/varjot/bless_shadow.c line 8: Variable list not declared !
+wizards/yodin/varjot/bless_shadow.c line 9: Variable shadow not declared !
+wizards/yodin/varjot/bless_shadow.c line 9: Variable shadow not declared !
+wizards/yodin/varjot/bless_shadow.c line 9: syntax error
+wizards/yodin/varjot/bless_shadow.c line 23: Illegal LHS
+wizards/yodin/varjot/bless_shadow.c line 9: Too many arguments to users
+wizards/yodin/varjot/bless_shadow.c line 9: Too many arguments to users
+wizards/yodin/varjot/bless_shadow.c line 6: Variable list not declared !
+wizards/yodin/varjot/bless_shadow.c line 7: syntax error
+wizards/yodin/varjot/bless_shadow.c line 10: Variable list not declared !
+wizards/yodin/eval_file.c line 2: syntax error
+wizards/yodin/varjot/bless_shadow.c line 6: Too few arguments to filter_array
+wizards/yodin/varjot/bless_shadow.c line 8: Too few arguments to shadow
+wizards/yodin/varjot/bless_shadow.c line 8: Variable users not declared !
+wizards/yodin/varjot/bless_shadow.c line 8: Too many arguments to shadow
+wizards/yodin/varjot/bless_shadow.c line 6: Variable ob not declared !
+wizards/yodin/varjot/bless_shadow.c line 7: Variable ob not declared !
+wizards/yodin/cmds/abusehuuto.c line 51: Undefined function 'check_shout'
+wizards/yodin/cmds/abusehuuto.c line 56: Function check_shout undefined
+wizards/yodin/cmds/abusehuuto.c line 56: Wrong number of arguments to check_shout
+wizards/yodin/varjot/bless_shadow.c line 8: Too few arguments to shadow
+wizards/yodin/areas/weird_land/vl1.c line 35: Variable More not declared !
+wizards/yodin/areas/weird_land/vl1.c line 35: syntax error
+wizards/yodin/areas/weird_land/vl1.c line 35: Variable More not declared !
+wizards/yodin/areas/weird_land/vl1.c line 35: syntax error
+wizards/yodin/areas/weird_land/vl1.c line 35: Variable More not declared !
+wizards/yodin/areas/weird_land/vl1.c line 35: syntax error
+wizards/yodin/areas/weird_land/vl1.c line 35: Variable More not declared !
+wizards/yodin/areas/weird_land/vl1.c line 35: syntax error
+wizards/yodin/areas/island/virtual_map.c line 2: Variable map not declared !
+wizards/yodin/areas/island/virtual_map.c line 4: Variable map not declared !
+wizards/yodin/areas/island/virtual_map.c line 5: Variable map not declared !
+wizards/yodin/areas/island/virtual_map.c line 6: Variable map not declared !
+wizards/yodin/areas/island/virtual_map.c line 7: Variable map not declared !
+wizards/yodin/areas/island/virtual_map.c line 8: Variable map not declared !
+wizards/yodin/areas/island/virtual_map.c line 2: Variable map not declared !
+wizards/yodin/areas/island/virtual_map.c line 4: Variable map not declared !
+wizards/yodin/areas/island/virtual_map.c line 5: Variable map not declared !
+wizards/yodin/areas/island/virtual_map.c line 6: Variable map not declared !
+wizards/yodin/areas/island/virtual_map.c line 7: Variable map not declared !
+wizards/yodin/areas/island/virtual_map.c line 8: Variable map not declared !
+wizards/yodin/varjot/bless_shadow.c line 9: Too few arguments to shadow
+wizards/yodin/varjot/bless_shadow.c line 9: Too few arguments to shadow
+wizards/yodin/varjot/bless_shadow.c line 9: Too few arguments to shadow
+wizards/yodin/varjot/bless_shadow.c line 9: Too few arguments to shadow
+wizards/yodin/varjot/bless_shadow.c line 9: Too few arguments to shadow
+wizards/yodin/varjot/bless_shadow.c line 9: Variable shadow not declared !
+wizards/yodin/varjot/bless_shadow.c line 9: Too few arguments to shadow
+wizards/yodin/varjot/bless_shadow.c line 9: Variable list not declared !
+wizards/yodin/varjot/bless_shadow.c line 9: Variable o not declared !
+wizards/yodin/varjot/bless_shadow.c line 9: Too few arguments to shadow
+wizards/yodin/eval_file.c line 2: Newline in string
+wizards/yodin/eval_file.c line 3: syntax error
+wizards/yodin/eval_file.c line 2: Newline in string
+wizards/yodin/eval_file.c line 3: syntax error
+wizards/yodin/varjot/bless_shadow.c line 9: Variable list not declared !
+wizards/yodin/varjot/bless_shadow.c line 9: Variable o not declared !
+wizards/yodin/varjot/bless_shadow.c line 9: Too few arguments to shadow
+wizards/yodin/varjot/bless_shadow.c line 9: Variable list not declared !
+wizards/yodin/varjot/bless_shadow.c line 9: Variable o not declared !
+wizards/yodin/varjot/bless_shadow.c line 9: Too few arguments to shadow
+wizards/yodin/storagekeeper2.c line 56: syntax error
+wizards/yodin/sack1.c line 3: syntax error
+wizards/yodin/sack1.c line 3: syntax error
+wizards/yodin/sack1.c line 3: syntax error
+wizards/yodin/sack1.c line 3: syntax error
+wizards/yodin/deer.c line 30: syntax error
+wizards/yodin/animals/heart.h line 13: casting a value to its own type: int 
+wizards/yodin/dragonists/heart.h line 13: casting a value to its own type: int 
+wizards/yodin/deer.c line 30: syntax error
+wizards/yodin/deer.c line 30: syntax error
+wizards/yodin/deer.c line 30: syntax error
+wizards/yodin/cake.c line 4: syntax error
+wizards/yodin/eval_file.c line 2: Undefined function 'list_files'
+wizards/yodin/eval_file.c line 2: Too many arguments to environment
+wizards/yodin/cmds/_clean.c line 20: Variable KEEP not declared !
+wizards/yodin/cmds/_clean.c line 20: Variable KEEP not declared !
+wizards/yodin/cmds/_clean.c line 20: Variable KEEP not declared !
+wizards/yodin/cmds/_clean.c line 20: Variable KEEP not declared !
+wizards/yodin/cmds/_clean.c line 20: Variable KEEP not declared !
+wizards/yodin/cmds/_clean.c line 20: Variable KEEP not declared !
+wizards/yodin/staff.c line 7: Variable BLUE not declared !
+wizards/yodin/staff.c line 7: Variable BLUE not declared !
+wizards/yodin/staff.c line 7: Variable BLUE not declared !
+wizards/yodin/testit/sword.c line 10: Newline in string
+wizards/yodin/testit/sword.c line 11: syntax error
+wizards/yodin/testit/sword.c line 10: Newline in string
+wizards/yodin/testit/sword.c line 11: syntax error
+wizards/yodin/areas/village/vh3.c line 32: syntax error
+wizards/yodin/areas/village/vh7.c line 32: syntax error
+wizards/yodin/areas/village/vh5.c line 32: syntax error
+wizards/yodin/areas/village/monsters/weapon.c line 22: syntax error
+wizards/yodin/areas/village/monsters/weapon.c line 28: Too few arguments to clone_object
+wizards/yodin/areas/village/monsters/weapon.c line 28: Illegal LHS
+wizards/yodin/areas/village/monsters/weapon.c line 28: syntax error
+wizards/yodin/areas/village/monsters/weapon.c line 22: syntax error
+wizards/yodin/areas/village/monsters/weapon.c line 28: Too few arguments to clone_object
+wizards/yodin/areas/village/monsters/weapon.c line 28: Illegal LHS
+wizards/yodin/areas/village/monsters/weapon.c line 28: syntax error
+wizards/yodin/areas/village/monsters/weapon.c line 22: syntax error
+wizards/yodin/areas/village/monsters/weapon.c line 28: Too few arguments to clone_object
+wizards/yodin/areas/village/monsters/weapon.c line 28: Illegal LHS
+wizards/yodin/areas/village/monsters/weapon.c line 28: syntax error
+wizards/yodin/areas/village/monsters/weapon.c line 22: syntax error
+wizards/yodin/areas/village/monsters/weapon.c line 28: Too few arguments to clone_object
+wizards/yodin/areas/village/monsters/weapon.c line 28: Illegal LHS
+wizards/yodin/areas/village/monsters/weapon.c line 28: syntax error
+wizards/yodin/areas/village/monsters/weapon.c line 22: syntax error
+wizards/yodin/areas/village/monsters/weapon.c line 28: Too few arguments to clone_object
+wizards/yodin/areas/village/monsters/weapon.c line 28: Illegal LHS
+wizards/yodin/areas/village/monsters/weapon.c line 28: syntax error
+wizards/yodin/areas/village/monsters/weapon.c line 21: syntax error
+wizards/yodin/areas/village/monsters/weapon.c line 27: Too few arguments to clone_object
+wizards/yodin/areas/village/monsters/weapon.c line 27: Illegal LHS
+wizards/yodin/areas/village/monsters/weapon.c line 27: syntax error
+wizards/yodin/areas/village/monsters/weapon.c line 21: syntax error
+wizards/yodin/areas/village/monsters/weapon.c line 27: Too few arguments to clone_object
+wizards/yodin/areas/village/monsters/weapon.c line 27: Illegal LHS
+wizards/yodin/areas/village/monsters/weapon.c line 27: syntax error
+wizards/yodin/areas/village/monsters/weapon.c line 21: syntax error
+wizards/yodin/areas/village/monsters/weapon.c line 27: Too few arguments to clone_object
+wizards/yodin/areas/village/monsters/weapon.c line 27: Illegal LHS
+wizards/yodin/areas/village/monsters/weapon.c line 27: syntax error
+wizards/yodin/areas/village/monsters/weapon.c line 21: syntax error
+wizards/yodin/areas/village/monsters/weapon.c line 27: Too few arguments to clone_object
+wizards/yodin/areas/village/monsters/weapon.c line 27: Illegal LHS
+wizards/yodin/areas/village/monsters/weapon.c line 27: syntax error
+wizards/yodin/areas/village/monsters/weapon.c line 21: syntax error
+wizards/yodin/areas/village/monsters/weapon.c line 27: Too few arguments to clone_object
+wizards/yodin/areas/village/monsters/weapon.c line 27: Illegal LHS
+wizards/yodin/areas/village/monsters/weapon.c line 27: syntax error
+wizards/yodin/areas/village/monsters/weapon.c line 21: syntax error
+wizards/yodin/areas/village/monsters/weapon.c line 27: Too few arguments to clone_object
+wizards/yodin/areas/village/monsters/weapon.c line 27: Illegal LHS
+wizards/yodin/areas/village/monsters/weapon.c line 27: syntax error
+wizards/yodin/areas/village/monsters/weapon.c line 21: syntax error
+wizards/yodin/areas/village/monsters/weapon.c line 27: Too few arguments to clone_object
+wizards/yodin/areas/village/monsters/weapon.c line 27: Illegal LHS
+wizards/yodin/areas/village/monsters/weapon.c line 27: syntax error
+wizards/yodin/areas/village/monsters/weapon.c line 21: syntax error
+wizards/yodin/areas/village/monsters/weapon.c line 27: Too few arguments to clone_object
+wizards/yodin/areas/village/monsters/weapon.c line 27: Illegal LHS
+wizards/yodin/areas/village/monsters/weapon.c line 27: syntax error
+wizards/yodin/areas/village/monsters/weapon.c line 21: syntax error
+wizards/yodin/areas/village/monsters/weapon.c line 27: Too few arguments to clone_object
+wizards/yodin/areas/village/monsters/weapon.c line 27: Illegal LHS
+wizards/yodin/areas/village/monsters/weapon.c line 27: syntax error
+wizards/yodin/areas/village/vh25.c line 17: Illegal character (hex 5c) '\'
+wizards/yodin/areas/village/vh25.c line 17: syntax error
+wizards/yodin/areas/village/vh25.c line 21: syntax error
+wizards/yodin/cmds/_clean.c line 20: Variable KEEP not declared !
+wizards/yodin/cmds/_clean.c line 20: Variable KEEP not declared !
+wizards/yodin/tree.c line 2: function not defined by inheritance as specified
+wizards/yodin/tree.c line 7: Newline in string
+wizards/yodin/tree.c line 10: Newline in string
+wizards/yodin/tree.c line 2: function not defined by inheritance as specified
+wizards/yodin/tree.c line 7: Newline in string
+wizards/yodin/tree.c line 10: syntax error
+wizards/yodin/tree.c line 2: function not defined by inheritance as specified
+wizards/yodin/tree.c line 7: Newline in string
+wizards/yodin/tree.c line 10: syntax error
+wizards/yodin/tree.c line 2: function not defined by inheritance as specified
+wizards/yodin/tree.c line 7: Newline in string
+wizards/yodin/tree.c line 10: syntax error
+wizards/yodin/tree.c line 2: function not defined by inheritance as specified
+wizards/yodin/tree.c line 67: syntax error
+wizards/yodin/tree.c line 2: function not defined by inheritance as specified
+wizards/yodin/tree.c line 11: syntax error
+wizards/yodin/tree.c line 13: syntax error
+wizards/yodin/tree.c line 3: function not defined by inheritance as specified
+Tue Jan 24 14:03:27 2006 A tall and sturdy man(strong) (/wizards/yodin/areas/windmill/monsters/man#4302, 30) killed by Kaappi (313) 
+Wed Jan 25 08:01:02 2006 A tall and sturdy man(strong) (/wizards/yodin/areas/windmill/monsters/man#1126, 30) killed by Ntg (303) 
+wizards/yodin/workroom.c line 22: Newline in string
+wizards/yodin/workroom.c line 23: syntax error
+wizards/yodin/workroom.c line 22: Newline in string
+wizards/yodin/workroom.c line 23: syntax error
+Wed Feb 01 17:27:31 2006 A tall and sturdy man(strong) (/wizards/yodin/areas/windmill/monsters/man#5996, 30) killed by Nightwish (157) 
+wizards/yodin/testit/erclups.c line 69: syntax error
+wizards/yodin/testit/erclups.c line 72: syntax error
+wizards/yodin/testit/erclups.c line 87: Illegal LHS
+wizards/yodin/testit/erclups.c line 87: syntax error
+wizards/yodin/testit/erclups.c line 66: syntax error
+wizards/yodin/testit/erclups.c line 68: Variable ob not declared !
+wizards/yodin/testit/erclups.c line 69: Variable ob not declared !
+wizards/yodin/testit/erclups.c line 70: Variable ob not declared !
+wizards/yodin/testit/erclups.c line 71: Variable ob not declared !
+wizards/yodin/testit/erclups.c line 72: Variable ob not declared !
+wizards/yodin/testit/erclups.c line 66: syntax error
+wizards/yodin/testit/erclups.c line 74: syntax error
+wizards/yodin/testit/erclups.c line 66: syntax error
+wizards/yodin/testit/erclups.c line 74: syntax error
+wizards/yodin/testit/erclups.c line 66: syntax error
+wizards/yodin/testit/erclups.c line 74: syntax error
+wizards/yodin/testit/erclups.c line 62: syntax error
+wizards/yodin/testit/erclups.c line 70: syntax error
+wizards/yodin/testit/erclups.c line 86: Illegal LHS
+wizards/yodin/testit/erclups.c line 86: syntax error
+wizards/yodin/testit/erclups.c line 62: syntax error
+wizards/yodin/testit/erclups.c line 70: syntax error
+wizards/yodin/testit/erclups.c line 86: Illegal LHS
+wizards/yodin/testit/erclups.c line 86: syntax error
+wizards/yodin/testit/erclups.c line 62: syntax error
+wizards/yodin/testit/erclups.c line 70: syntax error
+wizards/yodin/testit/erclups.c line 62: syntax error
+wizards/yodin/testit/erclups.c line 70: syntax error
+wizards/yodin/testit/erclups.c line 62: syntax error
+wizards/yodin/testit/erclups.c line 68: syntax error
+wizards/yodin/testit/erclups.c line 71: syntax error
+wizards/yodin/testit/erclups.c line 62: syntax error
+wizards/yodin/testit/erclups.c line 68: syntax error
+wizards/yodin/testit/erclups.c line 71: syntax error
+wizards/yodin/testit/erclups.c line 91: Variable small_ant not declared !
+wizards/yodin/cmds/_fu.c line 7: Unrecognized inheritance modifier 'cmd_f'
+wizards/yodin/cmds/_fu.c line 7: syntax error
+wizards/yodin/cmds/_fu.c line 7: Unrecognized inheritance modifier 'cmd_f'
+wizards/yodin/cmds/_fu.c line 7: syntax error
+wizards/yodin/cmds/_clean.c line 20: Variable KEEP not declared !
+wizards/yodin/cmds/_clean.c line 20: Variable KEEP not declared !
+Thu Feb 09 21:17:38 2006 A tall and sturdy man(strong) (/wizards/yodin/areas/windmill/monsters/man#17533, 30) killed by Nightwish (159) 
+Sun Jul 16 18:37:07 2006 A tall and sturdy man(strong) (/wizards/yodin/areas/windmill/monsters/man#4158, 30) killed by Bloodstorm (243) 
+wizards/yodin/eval_file.c line 2: syntax error
+wizards/yodin/eval_file.c line 2: syntax error
+wizards/yodin/eval_file.c line 2: Undefined function 'list'
+wizards/yodin/eval_file.c line 2: syntax error
+Sun Aug 06 15:42:42 2006 A tall and sturdy man(strong) (/wizards/yodin/areas/windmill/monsters/man#4564, 30) killed by Elric (245) 
+wizards/yodin/areas/metsa/virtual_map.c line 2: Variable map not declared !
+wizards/yodin/areas/metsa/virtual_map.c line 4: Variable map not declared !
+wizards/yodin/areas/metsa/virtual_map.c line 5: Variable map not declared !
+wizards/yodin/areas/metsa/virtual_map.c line 6: Variable map not declared !
+wizards/yodin/areas/metsa/virtual_map.c line 7: Variable map not declared !
+wizards/yodin/areas/metsa/virtual_map.c line 8: Variable map not declared !
+wizards/yodin/eval_file.c line 2: Undefined function 'is_directory'
+wizards/yodin/eval_file.c line 2: Undefined function 'is_directory'
+wizards/yodin/eval_file.c line 2: Undefined function 'is_directory'
+wizards/yodin/areas/metsa/monsters/reindeer.c line 1: Unrecognized inheritance modifier 'nherit'
+wizards/yodin/areas/metsa/monsters/reindeer.c line 1: syntax error
+wizards/yodin/areas/metsa/monsters/reindeer.c line 2: Unrecognized inheritance modifier 'nherit'
+wizards/yodin/areas/metsa/monsters/reindeer.c line 2: syntax error
+wizards/yodin/areas/metsa/forest.c line 16: syntax error
+wizards/yodin/areas/metsa/entrance.c line 8: syntax error
+wizards/yodin/areas/metsa/entrance.c line 9: syntax error
+wizards/yodin/areas/metsa/entrance.c line 16: syntax error
+wizards/yodin/areas/mardia/entrance.c line 16: syntax error
+wizards/yodin/areas/mardia/entrance.c line 16: syntax error
+wizards/yodin/areas/mardia/entrance.c line 16: syntax error
+wizards/yodin/areas/mardia/entrance.c line 16: syntax error
+wizards/yodin/areas/mardia/virtual_map.c line 18: Redeclaration of function check_special_coords.
+wizards/yodin/areas/mardia/virtual_map.c line 22: Redeclaration of function check_special_coords.
+wizards/yodin/areas/mardia/virtual_map.c line 18: Redeclaration of function check_special_coords.
+wizards/yodin/areas/mardia/virtual_map.c line 22: Redeclaration of function check_special_coords.
+wizards/yodin/areas/mardia/virtual_map.c line 18: Redeclaration of function check_special_coords.
+wizards/yodin/areas/mardia/virtual_map.c line 22: Redeclaration of function check_special_coords.
+wizards/yodin/boxers.c line 7: Variable YELLOW not declared !
+wizards/yodin/boxers.c line 7: Variable YELLOW not declared !
+wizards/yodin/workroom.c line 3: Missing leading " or < in #include
+wizards/yodin/workroom.c line 4: Illegal character (hex 2e) '.'
+wizards/yodin/workroom.c line 4: syntax error
+wizards/yodin/areas/mardia/monsters/orc.c line 72: Variable trousers not declared !
+wizards/yodin/areas/mardia/monsters/orc.c line 72: Variable trousers not declared !
+Mon Sep 25 13:31:13 2006 A tall and sturdy man(strong) (/wizards/yodin/areas/windmill/monsters/man#627, 30) killed by Nightwish (163) 
+Thu Nov 09 23:33:39 2006 A tall and sturdy man(strong) (/wizards/yodin/areas/windmill/monsters/man#3239, 30) killed by Ntg (290) 
+Sat Dec 23 17:31:41 2006 A tall and sturdy man(strong) (/wizards/yodin/areas/windmill/monsters/man#270, 30) killed by Elric (305) 
+Wed Dec 27 05:50:32 2006 A tall and sturdy man(strong) (/wizards/yodin/areas/windmill/monsters/man#723, 30) killed by Elric (302) 
+Thu Jan 18 20:26:49 2007 A tall and sturdy man(strong) (/wizards/yodin/areas/windmill/monsters/man#24139, 30) killed by Olsma (155) 
+Tue Jun 26 13:35:29 2007 A tall and sturdy man(strong) (/wizards/yodin/areas/windmill/monsters/man#434, 30) killed by Olsma (128) 
+Tue Jul 10 03:15:01 2007 A tall and sturdy man(strong) (/wizards/yodin/areas/windmill/monsters/man#8130, 30) killed by Olsma (158) 
+Mon Jul 23 16:02:18 2007 A tall and sturdy man(strong) (/wizards/yodin/areas/windmill/monsters/man#9469, 30) killed by Trooper (230) 
+Mon Aug 13 15:47:06 2007 A tall and sturdy man(strong) (/wizards/yodin/areas/windmill/monsters/man#2664, 30) killed by Olsma (168) 
+Wed Aug 15 00:46:34 2007 A tall and sturdy man(strong) (/wizards/yodin/areas/windmill/monsters/man#11936, 30) killed by Olsma (171) 
+wizards/yodin/cmds/_clean.c line 20: Variable KEEP not declared !
+wizards/yodin/cmds/_clean.c line 20: Variable KEEP not declared !
+wizards/yodin/cmds/_clean.c line 20: Variable KEEP not declared !
+wizards/yodin/cmds/_clean.c line 20: Variable KEEP not declared !
+wizards/yodin/areas/forest/monsters/human.c line 32: Newline in string
+wizards/yodin/areas/forest/monsters/human.c line 34: syntax error
+wizards/yodin/areas/forest/monsters/human.c line 35: Illegal LHS
+wizards/yodin/areas/forest/monsters/human.c line 35: syntax error
+wizards/yodin/areas/forest/monsters/human.c line 32: Newline in string
+wizards/yodin/areas/forest/monsters/human.c line 34: syntax error
+wizards/yodin/areas/forest/monsters/human.c line 35: Illegal LHS
+wizards/yodin/areas/forest/monsters/human.c line 35: syntax error
+Wed Sep 26 10:12:51 2007 A tall and sturdy man(strong) (/wizards/yodin/areas/windmill/monsters/man#237, 30) killed by Olsma (178) 
+wizards/yodin/ycloak.c line 15: Newline in string
+wizards/yodin/ycloak.c line 18: syntax error
+wizards/yodin/ycloak.c line 15: Newline in string
+wizards/yodin/ycloak.c line 18: syntax error
+wizards/yodin/ycloak.c line 18: syntax error
+Wed Oct 17 17:47:30 2007 A tall and sturdy man(strong) (/wizards/yodin/areas/windmill/monsters/man#7912, 30) killed by Laeh (126) 
+Thu Oct 25 17:42:17 2007 A tall and sturdy man(strong) (/wizards/yodin/areas/windmill/monsters/man#8511, 30) killed by Laeh (127) 
+Sun Nov 04 13:53:17 2007 A tall and sturdy man(strong) (/wizards/yodin/areas/windmill/monsters/man#2489, 30) killed by Oaycrin (176) 
+wizards/yodin/eval_file.c line 2: syntax error
+wizards/yodin/eval_file.c line 2: Newline in string
+wizards/yodin/eval_file.c line 2: Newline in string
+wizards/yodin/eval_file.c line 3: syntax error
+Thu Nov 29 14:11:19 2007 A tall and sturdy man(strong) (/wizards/yodin/areas/windmill/monsters/man#4280, 30) killed by Olsma (129) 
+wizards/yodin/eval_file.c line 2: syntax error
+wizards/yodin/eval_file.c line 2: syntax error
+Mon Dec 31 19:22:10 2007 A tall and sturdy man(strong) (/wizards/yodin/areas/windmill/monsters/man#29631, 30) killed by Alardolath (161) 
+wizards/yodin/areas/windmill/monsters/man.c line 34: Unrecognized inheritance modifier 'q'
+wizards/yodin/areas/windmill/monsters/man.c line 34: syntax error
+Sat Jan 12 17:42:04 2008 A tall and sturdy man(strong) (/wizards/yodin/areas/windmill/monsters/man#202966, 30) killed by Devil (222) 
+wizards/yodin/cmds/_clean.c line 20: Variable KEEP not declared !
+wizards/yodin/cmds/_clean.c line 20: Variable KEEP not declared !
+wizards/yodin/cmds/_yauts.c line 33: Illegal character constant
+wizards/yodin/cmds/_yauts.c line 33: syntax error
+wizards/yodin/dragonists/heart.h line 13: casting a value to its own type: int 
+wizards/yodin/eval_file.c line 2: Undefined function 'iclone_object'
+wizards/yodin/nyx.c line 12: syntax error
+wizards/yodin/nyx.c line 15: syntax error
+wizards/yodin/nyx.c line 41: Illegal LHS
+wizards/yodin/nyx.c line 41: syntax error
+wizards/yodin/nyx.c line 50: Too few arguments to clone_object
+wizards/yodin/nyx.c line 50: Illegal LHS
+wizards/yodin/nyx.c line 12: syntax error
+wizards/yodin/nyx.c line 15: syntax error
+wizards/yodin/nyx.c line 41: Illegal LHS
+wizards/yodin/nyx.c line 41: syntax error
+wizards/yodin/nyx.c line 50: Too few arguments to clone_object
+wizards/yodin/nyx.c line 50: Illegal LHS
+wizards/yodin/nyx.c line 12: syntax error
+wizards/yodin/nyx.c line 15: syntax error
+wizards/yodin/nyx.c line 41: Illegal LHS
+wizards/yodin/nyx.c line 41: syntax error
+wizards/yodin/nyx.c line 50: Too few arguments to clone_object
+wizards/yodin/nyx.c line 50: Illegal LHS
+wizards/yodin/nyx.c line 3: syntax error
+wizards/yodin/tune/belt.c line 25: Redeclaration of function drop.
+wizards/yodin/tune/belt.c line 23: syntax error
+Mon Jan 28 18:29:27 2008 A tall and sturdy man(strong) (/wizards/yodin/areas/windmill/monsters/man#11737, 30) killed by Olsma (181) 
+Wed Feb 06 15:41:29 2008 A tall and sturdy man(strong) (/wizards/yodin/areas/windmill/monsters/man#24187, 30) killed by Razarac (163) 
+Sun Feb 10 22:36:30 2008 A tall and sturdy man(strong) (/wizards/yodin/areas/windmill/monsters/man#1027, 30) killed by Olsma (219) 
+Sun Feb 17 10:09:06 2008 A tall and sturdy man(strong) (/wizards/yodin/areas/windmill/monsters/man#233, 30) killed by Golthar (162) 
+wizards/yodin/cmds/_clearlevel.c line 2: syntax error
+wizards/yodin/cmds/_clearlevel.c line 2: Variable this_player not declared !
+wizards/yodin/cmds/_clearlevel.c line 2: syntax error
+wizards/yodin/cmds/_clearlevel.c line 5: syntax error
+wizards/yodin/cmds/_clearlevel.c line 2: Variable TP not declared !
+wizards/yodin/ycloak.c line 16: syntax error
+wizards/yodin/ycloak.c line 26: syntax error
+wizards/yodin/cmds/_clean.c line 20: Variable KEEP not declared !
+wizards/yodin/cmds/_clean.c line 20: Variable KEEP not declared !
+wizards/yodin/testit/cloak.c line 23: Too many arguments to this_object
+wizards/yodin/testit/cloak.c line 25: syntax error
+wizards/yodin/testit/cloak.c line 25: syntax error
+wizards/yodin/testit/cloak.c line 27: syntax error
+wizards/yodin/testit/cloak.c line 27: syntax error
+wizards/yodin/testit/cloak.c line 24: Too many arguments to this_object
+wizards/yodin/testit/cloak.c line 27: syntax error
+wizards/yodin/cmds/_clean.c line 20: Variable KEEP not declared !
+wizards/yodin/cmds/_clean.c line 20: Variable KEEP not declared !
+wizards/yodin/cmds/_clean.c line 20: Variable KEEP not declared !
+wizards/yodin/cmds/_clean.c line 20: Variable KEEP not declared !
+wizards/yodin/eval_file.c line 2: Newline in string
+wizards/yodin/eval_file.c line 3: syntax error
+wizards/yodin/testit/cloak.c line 24: Too many arguments to this_object
+wizards/yodin/testit/cloak.c line 27: syntax error
+wizards/yodin/areas/forest/obj/shirt.c line 15: syntax error
+wizards/yodin/areas/forest/obj/shirt.c line 15: syntax error
+wizards/yodin/cmds/morehere.c line 7: syntax error
+wizards/yodin/cmds/_morehere.c line 6: syntax error
+wizards/yodin/cmds/_morehere.c line 1: syntax error
+wizards/yodin/cmds/_morehere.c line 1: syntax error
+wizards/yodin/cmds/_psay.c line 2: syntax error
+wizards/yodin/cmds/_psay.c line 2: Illegal LHS
+wizards/yodin/cmds/_psay.c line 8: Variable args not declared !
+wizards/yodin/cmds/_psay.c line 9: Variable args not declared !
+wizards/yodin/cmds/_psay.c line 10: Variable args not declared !
+wizards/yodin/cmds/_psay.c line 16: Variable channel_d not declared !
+wizards/yodin/cmds/_psay.c line 3: syntax error
+wizards/yodin/cmds/_psay.c line 4: Illegal LHS
+wizards/yodin/cmds/_psay.c line 10: Variable args not declared !
+wizards/yodin/cmds/_psay.c line 11: Variable args not declared !
+wizards/yodin/cmds/_psay.c line 12: Variable args not declared !
+wizards/yodin/cmds/cliin.c line 20: Variable KEEP not declared !
+wizards/yodin/cmds/cliin.c line 20: Variable KEEP not declared !
+wizards/yodin/cmds/_psay.c line 3: syntax error
+wizards/yodin/cmds/_psay.c line 4: Illegal LHS
+wizards/yodin/cmds/_psay.c line 10: Variable args not declared !
+wizards/yodin/cmds/_psay.c line 11: Variable args not declared !
+wizards/yodin/cmds/_psay.c line 12: Variable args not declared !
+wizards/yodin/man.c line 7: syntax error
+wizards/yodin/testit/man.c line 11: Variable head not declared !
+wizards/yodin/testit/man.c line 12: syntax error
+wizards/yodin/testit/man.c line 12: syntax error
+wizards/yodin/areas/wor/virtual_map.c line 21: syntax error
+wizards/yodin/areas/island/tunnel/64.c line 10: syntax error
+wizards/yodin/areas/island/tunnel/64.c line 10: Unrecognized inheritance modifier 'dwarf'
+wizards/yodin/areas/island/tunnel/64.c line 10: Unrecognized inheritance modifier 'reset'
+wizards/yodin/areas/island/tunnel/64.c line 10: syntax error
+wizards/yodin/areas/island/tunnel/64.c line 10: syntax error
+wizards/yodin/areas/island/tunnel/64.c line 10: Unrecognized inheritance modifier 'dwarf'
+wizards/yodin/areas/island/tunnel/64.c line 10: Unrecognized inheritance modifier 'reset'
+wizards/yodin/areas/island/tunnel/64.c line 10: syntax error
+wizards/yodin/testit/main.c line 1: Cannot #include 'path.h'
+wizards/yodin/testit/main.c line 63: Variable ENTER_FROM not declared !
+wizards/yodin/testit/main.c line 63: Variable EXIT_DIR not declared !
+wizards/yodin/testit/main.c line 64: Variable PATH not declared !
+wizards/yodin/testit/main.c line 65: Variable PATH not declared !
+wizards/yodin/testit/main.c line 67: Variable SQUARES not declared !
+wizards/yodin/testit/main.c line 2: syntax error
+wizards/yodin/testit/main.c line 2: Unrecognized inheritance modifier 'Copyright'
+wizards/yodin/testit/main.c line 2: syntax error
+wizards/yodin/testit/main.c line 1: Cannot #include 'path.h'
+wizards/yodin/testit/main.c line 67: Variable SQUARES not declared !
+wizards/yodin/testit/main.c line 68: Variable MONOPOLIES not declared !
+wizards/yodin/testit/main.c line 73: Variable SQSZ not declared !
+wizards/yodin/testit/main.c line 74: Variable SQSZ not declared !
+wizards/yodin/testit/main.c line 75: Variable PATH not declared !
+Sat May 24 02:45:01 2008 A tall and sturdy man(strong) (/wizards/yodin/areas/windmill/monsters/man#20823, 30) killed by Oaycrin (198) 
+Mon May 26 21:10:42 2008 A tall and sturdy man(strong) (/wizards/yodin/areas/windmill/monsters/man#198, 30) killed by Oaycrin (205) 
+Sat Jun 14 22:49:22 2008 A tall and sturdy man(strong) (/wizards/yodin/areas/windmill/monsters/man#9231, 30) killed by Manzku (103) 
+Wed Aug 06 00:54:29 2008 A tall and sturdy man(strong) (/wizards/yodin/areas/windmill/monsters/man#6529, 30) killed by Shadowman (175) 
+Thu Aug 07 13:22:03 2008 A tall and sturdy man(strong) (/wizards/yodin/areas/windmill/monsters/man#7237, 30) killed by Shadowman (175) 
+Fri Sep 12 22:14:32 2008 A tall and sturdy man(strong) (/wizards/yodin/areas/windmill/monsters/man#58042, 30) killed by Ozmala (207) 
+Sat Sep 20 22:40:18 2008 A tall and sturdy man(strong) (/wizards/yodin/areas/windmill/monsters/man#9703, 30) killed by Ozmala (208) 
+Fri Sep 26 19:47:54 2008 A tall and sturdy man(strong) (/wizards/yodin/areas/windmill/monsters/man#40347, 30) killed by Madk (152) 
+Tue Sep 30 17:03:21 2008 A tall and sturdy man(strong) (/wizards/yodin/areas/windmill/monsters/man#25303, 30) killed by Terror (274) 
+Thu Oct 02 10:49:41 2008 A tall and sturdy man(strong) (/wizards/yodin/areas/windmill/monsters/man#1724, 30) killed by Golthar (400) 
+Wed Nov 19 13:51:46 2008 A tall and sturdy man(strong) (/wizards/yodin/areas/windmill/monsters/man#273, 30) killed by Laeh (190) 
+Tue Dec 16 12:34:03 2008 A tall and sturdy man(strong) (/wizards/yodin/areas/windmill/monsters/man#341, 30) killed by Shadowman (105) 
+Wed Dec 17 10:53:06 2008 A tall and sturdy man(strong) (/wizards/yodin/areas/windmill/monsters/man#11070, 30) killed by Laeh (225) 
+Thu Dec 25 21:07:26 2008 A tall and sturdy man(strong) (/wizards/yodin/areas/windmill/monsters/man#574, 30) killed by Shadowman (107) 
+Wed Mar 17 13:18:09 2010 A tall and sturdy man(strong) (/wizards/yodin/areas/windmill/monsters/man#10003, 30) killed by Laeh (270) 
+Sun Oct 10 02:08:35 2010 A tall and sturdy man(strong) (/wizards/yodin/areas/windmill/monsters/man#18104, 30) killed by Rold (88) 

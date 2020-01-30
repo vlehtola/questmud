@@ -1,0 +1,39 @@
+inherit "room/room";
+
+reset(status arg) 
+{
+  if(arg) return;
+
+  add_exit("bladis", "/wizards/bloodstorm/workroom.c");
+  add_exit("cs",  "/world/city/cs");
+
+  short_desc = "Tämä on testi huone, jossa salaexit";
+  long_desc =   
+ "No näpytellääs tähän nytten jotain. Tääl huonees vois vähän \n"+
+ "opetella näitä uusia juttuja mitkä on mulle vielä hieman hakusessa\n"+
+ "niinkuin vähän kaikki viel velhona olemisessa. Salaexitti kato sitä.\n";
+
+ 
+        items = allocate(2);
+        items[0] = "salaexit";
+        items[1] = "hieno salaexit josta voi liikkua jonnekkin muualle";
+
+}
+
+
+
+
+init() {
+  ::init(); 
+  add_action("liiku", "liiku"); 
+}
+
+liiku(str) {
+  if(str == "salaexit") {
+    write("Katoppas menit salexitistä hiphei hurraa!\n"); 
+    say(this_player()->query_name()+" katosi salaexittiin hmm\n");
+    this_player()->move_player("building#/wizards/bloodstorm/testit/salexitti.c");
+     }
+     return 1;
+ }
+

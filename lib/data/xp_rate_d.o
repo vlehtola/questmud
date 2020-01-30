@@ -1,0 +1,4 @@
+#1:0
+time_to_act 1333420329
+race_xp (["demon":1,"spirit":1,"golem":1,"mind flayer":1,"ogre":1,"giant":1,"lizardman":1,"avatar":27520035,"dwarf":1,"wood elf":1,"catfolk":6420748,"human":1,"dark elf":1,"gnome":1,"orc":1,"troll":1,"angel":1,"lich":1,"sprite":1,"ent":1,"hobbit":1,"high elf":247056,])
+tuned_race_xp_rate (["spirit":61,"demon":72,"golem":81,"mind flayer":89,"giant":77,"lizardman":99,"avatar":6,"catfolk":100,"human":99,"orc":93,"sprite":107,"angel":94,"troll":91,"lich":83,"high elf":93,"hobbit":94,"ent":151,])

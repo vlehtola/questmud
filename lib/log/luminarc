@@ -1,0 +1,842 @@
+wizards/luminarc/workroom.c line 8 :Newline in string
+wizards/luminarc/workroom.c line 9 :syntax error
+wizards/luminarc/workroom.c line 8 :Newline in string
+wizards/luminarc/workroom.c line 9 :syntax error
+wizards/luminarc/workroom.c line 8 :Newline in string
+wizards/luminarc/workroom.c line 9 :syntax error
+wizards/luminarc/monsters/testmon1.c line 2 :function not defined by inheritance as specified
+wizards/luminarc/monsters/testmon1.c line 2 :function not defined by inheritance as specified
+wizards/luminarc/monsroom.c line 2 :Variable monster not declared !
+wizards/luminarc/monsroom.c line 3 :Variable monster not declared !
+wizards/luminarc/monsroom.c line 4 :Variable monster not declared !
+wizards/luminarc/monsroom.c line 13 :Variable short_desc not declared !
+wizards/luminarc/monsroom.c line 14 :Variable long_desc not declared !
+wizards/luminarc/monsters/testmon1.c line 2 :function not defined by inheritance as specified
+wizards/luminarc/monsters/testmon1.c line 9 :syntax error
+wizards/luminarc/monsters/testmon1.c line 2 :function not defined by inheritance as specified
+wizards/luminarc/monsters/testmon1.c line 9 :syntax error
+wizards/luminarc/monsroom.c line 2 :Variable monster not declared !
+wizards/luminarc/monsroom.c line 3 :Variable monster not declared !
+wizards/luminarc/monsroom.c line 4 :Variable monster not declared !
+wizards/luminarc/monsroom.c line 13 :Variable short_desc not declared !
+wizards/luminarc/monsroom.c line 14 :Variable long_desc not declared !
+wizards/luminarc/monsroom.c line 3 :Variable monster not declared !
+wizards/luminarc/monsters/testmon1.c line 2 :function not defined by inheritance as specified
+wizards/luminarc/monsters/testmon1.c line 9 :syntax error
+wizards/luminarc/testmon1.c line 3 :function not defined by inheritance as specified
+wizards/luminarc/testmon1.c line 11 :Newline in string
+wizards/luminarc/testmon1.c line 12 :syntax error
+wizards/luminarc/testmon1.c line 3 :function not defined by inheritance as specified
+wizards/luminarc/testmon1.c line 1 :Newline in string
+wizards/luminarc/testmon1.c line 2 :syntax error
+wizards/luminarc/testmon1.c line 2 :syntax error
+wizards/luminarc/testmon1.c line 2 :syntax error
+wizards/luminarc/testmon1.c line 2 :syntax error
+wizards/luminarc/testmon1.c line 2 :syntax error
+wizards/luminarc/testmon1.c line 2 :syntax error
+wizards/luminarc/testmon1.c line 2 :syntax error
+wizards/luminarc/testmon1.c line 2 :syntax error
+wizards/luminarc/testmon1.c line 2 :syntax error
+wizards/luminarc/wizcastle/room1.c line 13 :syntax error
+wizards/luminarc/wizcastle/room1.c line 13 :syntax error
+wizards/luminarc/wizcastle/room1.c line 13 :syntax error
+wizards/luminarc/wizcastle/room1.c line 13 :syntax error
+wizards/luminarc/wizcastle/room0.c line 7 :Newline in string
+wizards/luminarc/wizcastle/room0.c line 8 :syntax error
+wizards/luminarc/wizcastle/room0.c line 9 :Illegal LHS
+wizards/luminarc/wizcastle/room0.c line 9 :Illegal LHS
+wizards/luminarc/wizcastle/room0.c line 7 :Newline in string
+wizards/luminarc/wizcastle/room0.c line 8 :syntax error
+wizards/luminarc/wizcastle/room0.c line 9 :Illegal LHS
+wizards/luminarc/wizcastle/room0.c line 9 :Illegal LHS
+wizards/luminarc/wizcastle/westhall.c line 13 :syntax error
+wizards/luminarc/wizcastle/westhall.c line 16 :Variable str not declared !
+wizards/luminarc/wizcastle/westhall.c line 16 :syntax error
+wizards/luminarc/wizcastle/westhall.c line 22 :syntax error
+wizards/luminarc/westhall.c line 13 :syntax error
+wizards/luminarc/westhall.c line 16 :Variable str not declared !
+wizards/luminarc/westhall.c line 16 :syntax error
+wizards/luminarc/westhall.c line 22 :syntax error
+wizards/luminarc/wizcastle/westhall.c line 13 :syntax error
+wizards/luminarc/wizcastle/westhall.c line 16 :Variable str not declared !
+wizards/luminarc/wizcastle/westhall.c line 16 :syntax error
+wizards/luminarc/wizcastle/westhall.c line 22 :syntax error
+wizards/luminarc/westhall.c line 13 :syntax error
+wizards/luminarc/westhall.c line 16 :Variable str not declared !
+wizards/luminarc/westhall.c line 16 :syntax error
+wizards/luminarc/westhall.c line 22 :syntax error
+wizards/luminarc/wizcastle/westhall.c line 13 :syntax error
+wizards/luminarc/wizcastle/westhall.c line 13 :syntax error
+wizards/luminarc/wizcastle/westhall.c line 25 :syntax error
+wizards/luminarc/wizcastle/westhall.c line 13 :syntax error
+wizards/luminarc/wizcastle/westhall.c line 25 :syntax error
+wizards/luminarc/wizcastle/westhall.c line 13 :syntax error
+wizards/luminarc/wizcastle/westhall.c line 25 :syntax error
+wizards/luminarc/wizcastle/westhall.c line 13 :syntax error
+wizards/luminarc/wizcastle/westhall.c line 25 :syntax error
+wizards/luminarc/wizcastle/room1.c line 24 :syntax error
+wizards/luminarc/wizcastle/room1.c line 24 :syntax error
+wizards/luminarc/wizcastle/westhall.c line 13 :syntax error
+wizards/luminarc/wizcastle/westhall.c line 25 :syntax error
+wizards/luminarc/wizcastle/westhall.c line 13 :syntax error
+wizards/luminarc/wizcastle/westhall.c line 25 :syntax error
+wizards/luminarc/wizcastle/westhall.c line 13 :syntax error
+wizards/luminarc/wizcastle/westhall.c line 25 :syntax error
+wizards/luminarc/wizcastle/westhall.c line 13 :syntax error
+wizards/luminarc/wizcastle/westhall.c line 25 :syntax error
+wizards/luminarc/wizcastle/room1.c line 13 :syntax error
+wizards/luminarc/wizcastle/room1.c line 14 :Variable ob not declared !
+wizards/luminarc/wizcastle/room1.c line 15 :Variable ob not declared !
+wizards/luminarc/wizcastle/northhall.c line 6 :Newline in string
+wizards/luminarc/wizcastle/northhall.c line 7 :syntax error
+wizards/luminarc/wizcastle/northhall.c line 7 :Newline in string
+wizards/luminarc/wizcastle/northhall.c line 8 :Illegal LHS
+wizards/luminarc/wizcastle/northhall.c line 6 :Newline in string
+wizards/luminarc/wizcastle/northhall.c line 7 :syntax error
+wizards/luminarc/wizcastle/northhall.c line 7 :Newline in string
+wizards/luminarc/wizcastle/northhall.c line 8 :Illegal LHS
+wizards/luminarc/wizcastle/northhall.c line 6 :Newline in string
+wizards/luminarc/wizcastle/northhall.c line 7 :syntax error
+wizards/luminarc/wizcastle/northhall.c line 7 :Newline in string
+wizards/luminarc/wizcastle/northhall.c line 8 :Illegal LHS
+wizards/luminarc/wizcastle/humans/farnax.c line 17 :Variable a_chat_str not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 18 :Variable a_chat_str not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 19 :Variable a_chat_str not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 20 :Variable a_chat_str not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 21 :Variable a_chat_str not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 24 :Variable a_chat_str not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 17 :Variable a_chat_str not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 18 :Variable a_chat_str not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 19 :Variable a_chat_str not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 20 :Variable a_chat_str not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 21 :Variable a_chat_str not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 24 :Variable a_chat_str not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 17 :Variable chat_str not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 18 :Variable chat_str not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 19 :Variable chat_str not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 20 :Variable chat_str not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 21 :Variable chat_str not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 24 :Variable chat_str not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 17 :Variable chat_str not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 18 :Variable chat_str not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 19 :Variable chat_str not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 20 :Variable chat_str not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 21 :Variable chat_str not declared !
+wizards/luminarc/wizcastle/westhall.c line 19 :syntax error
+wizards/luminarc/wizcastle/westhall.c line 19 :syntax error
+wizards/luminarc/wizcastle/westhall.c line 19 :syntax error
+wizards/luminarc/wizcastle/westhall.c line 30 :syntax error
+wizards/luminarc/westhall.c line 13 :syntax error
+wizards/luminarc/westhall.c line 16 :Variable str not declared !
+wizards/luminarc/westhall.c line 16 :syntax error
+wizards/luminarc/westhall.c line 22 :syntax error
+wizards/luminarc/wizcastle/westhall.c line 19 :syntax error
+wizards/luminarc/wizcastle/westhall.c line 30 :syntax error
+wizards/luminarc/wizcastle/westhall.c line 19 :syntax error
+wizards/luminarc/wizcastle/westhall.c line 19 :syntax error
+wizards/luminarc/wizcastle/westhall.c line 34 :syntax error
+wizards/luminarc/wizcastle/westhall.c line 34 :syntax error
+wizards/luminarc/westhall.c line 13 :syntax error
+wizards/luminarc/westhall.c line 16 :Variable str not declared !
+wizards/luminarc/westhall.c line 16 :syntax error
+wizards/luminarc/westhall.c line 22 :syntax error
+wizards/luminarc/wizcastle/up1.c line 9 :Newline in string
+wizards/luminarc/wizcastle/up1.c line 10 :syntax error
+wizards/luminarc/wizcastle/westhall.c line 5 :Newline in string
+wizards/luminarc/wizcastle/westhall.c line 6 :syntax error
+wizards/luminarc/wizcastle/round.c line 12 :Newline in string
+wizards/luminarc/wizcastle/round.c line 13 :syntax error
+wizards/luminarc/wizcastle/round.c line 13 :Newline in string
+wizards/luminarc/wizcastle/room0.c line 8 :Newline in string
+wizards/luminarc/wizcastle/room0.c line 9 :syntax error
+wizards/luminarc/armour1.c line 7 :syntax error
+wizards/luminarc/armour1.c line 7 :syntax error
+wizards/luminarc/armour1.c line 7 :syntax error
+wizards/luminarc/armour1.c line 7 :syntax error
+wizards/luminarc/wizcastle/basem.c line 7 :Newline in string
+wizards/luminarc/wizcastle/basem.c line 8 :syntax error
+wizards/luminarc/wizcastle/basem.c line 8 :Illegal LHS
+wizards/luminarc/wizcastle/basem.c line 7 :Newline in string
+wizards/luminarc/wizcastle/basem.c line 8 :syntax error
+wizards/luminarc/wizcastle/basem.c line 8 :Illegal LHS
+wizards/luminarc/wizcastle/basem.c line 7 :Newline in string
+wizards/luminarc/wizcastle/basem.c line 8 :syntax error
+wizards/luminarc/wizcastle/basem.c line 8 :Illegal LHS
+wizards/luminarc/wizcastle/armours/stone.c line 6 :syntax error
+wizards/luminarc/wizcastle/armours/stone.c line 6 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 26 :Variable str not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 26 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 28 :Variable str not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 29 :Variable More not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 29 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 36 :Too few arguments to write
+wizards/luminarc/wizcastle/humans/farnax.c line 26 :Variable str not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 26 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 28 :Variable str not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 29 :Variable More not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 29 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 34 :Too few arguments to write
+wizards/luminarc/wizcastle/humans/farnax.c line 26 :Variable str not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 26 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 28 :Variable str not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 29 :Variable str not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 29 :Variable tmp1 not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 29 :Variable tmp2 not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 26 :Variable str not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 26 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 28 :Variable str not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 29 :Variable str not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 29 :Variable tmp1 not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 29 :Variable tmp2 not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 27 :Variable str not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 27 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 29 :Variable str not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 41 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 27 :Variable str not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 27 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 29 :Variable str not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 42 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 27 :Variable str not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 27 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 29 :Variable str not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 26 :Variable c not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 26 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 28 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 41 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 26 :Variable c not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 26 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 28 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 41 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 28 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 41 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 28 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 43 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 28 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 43 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 28 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 28 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 28 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 28 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 49 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 31 :Variable tmp1 not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 31 :Variable tmp2 not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 32 :Variable tmp1 not declared !
+wizards/luminarc/wizcastle/mawork.c line 8 :Variable monster not declared !
+wizards/luminarc/wizcastle/mawork.c line 9 :Variable monster not declared !
+wizards/luminarc/wizcastle/mawork.c line 10 :Variable monster not declared !
+wizards/luminarc/wizcastle/easthall.c line 13 :Variable imtes not declared !
+wizards/luminarc/wizcastle/easthall.c line 13 :Variable imtes not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 13 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 20 :Too few arguments to clone_object
+wizards/luminarc/wizcastle/humans/farnax.c line 25 :syntax error
+wizards/luminarc/wizcastle/mawork.c line 14 :Newline in string
+wizards/luminarc/wizcastle/mawork.c line 15 :syntax error
+wizards/luminarc/wizcastle/mawork.c line 17 :Too few arguments to clone_object
+wizards/luminarc/wizcastle/mawork.c line 17 :Illegal LHS
+wizards/luminarc/wizcastle/mawork.c line 22 :syntax error
+wizards/luminarc/wizcastle/upwest1.c line 14 :Variable ob not declared !
+wizards/luminarc/wizcastle/upwest1.c line 15 :Variable ob not declared !
+wizards/luminarc/wizcastle/up1.c line 24 :syntax error
+wizards/luminarc/wizcastle/humans/pguard.c line 20 :syntax error
+wizards/luminarc/wizcastle/up1.c line 27 :syntax error
+wizards/luminarc/wizcastle/kitchen.c line 13 :Variable ob not declared !
+wizards/luminarc/wizcastle/kitchen.c line 14 :Variable ob not declared !
+wizards/luminarc/wizcastle/kitchen.c line 13 :Variable ob not declared !
+wizards/luminarc/wizcastle/kitchen.c line 14 :Variable ob not declared !
+wizards/luminarc/wizcastle/humans/guardte.c line 20 :syntax error
+wizards/luminarc/wizcastle/humans/guardte.c line 22 :Variable target_name not declared !
+wizards/luminarc/wizcastle/humans/guardte.c line 31 :Variable target_name not declared !
+wizards/luminarc/wizcastle/humans/guardte.c line 17 :Variable str not declared !
+wizards/luminarc/wizcastle/humans/guardte.c line 17 :syntax error
+wizards/luminarc/wizcastle/humans/guardte.c line 20 :Variable str not declared !
+wizards/luminarc/wizcastle/humans/guardte.c line 20 :Variable tmp not declared !
+wizards/luminarc/wizcastle/humans/guardte.c line 20 :Variable tmp2 not declared !
+wizards/luminarc/wizcastle/humans/guardte.c line 21 :Variable player not declared !
+wizards/luminarc/wizcastle/humans/healer.c line 5 :function not defined by inheritance as specified
+wizards/luminarc/wizcastle/humans/healer.c line 30 :Variable spell not declared !
+wizards/luminarc/wizcastle/humans/healer.c line 31 :Variable spell not declared !
+wizards/luminarc/workroom.c line 9 :syntax error
+wizards/luminarc/workroom.c line 9 :Illegal character (hex 2e) '.'
+wizards/luminarc/workroom.c line 9 :Newline in string
+wizards/luminarc/workroom.c line 12 :Illegal LHS
+wizards/luminarc/workroom.c line 12 :Illegal LHS
+wizards/luminarc/workroom.c line 12 :Illegal LHS
+wizards/luminarc/workroom.c line 9 :syntax error
+wizards/luminarc/workroom.c line 9 :Newline in string
+wizards/luminarc/workroom.c line 12 :Illegal LHS
+wizards/luminarc/workroom.c line 12 :Illegal LHS
+wizards/luminarc/workroom.c line 12 :Illegal LHS
+wizards/luminarc/workroom.c line 12 :syntax error
+wizards/luminarc/mountain/bot1.c line 5 :Variable short_desc not declared !
+wizards/luminarc/mountain/bot1.c line 6 :Variable long_desc not declared !
+wizards/luminarc/mountain/bot1.c line 10 :Variable property not declared !
+wizards/luminarc/mountain/bot1.c line 5 :Variable short_desc not declared !
+wizards/luminarc/mountain/bot1.c line 6 :Variable long_desc not declared !
+wizards/luminarc/mountain/bot1.c line 10 :Variable property not declared !
+wizards/luminarc/mountain/bot1.c line 5 :Variable short_desc not declared !
+wizards/luminarc/mountain/bot1.c line 6 :Variable long_desc not declared !
+wizards/luminarc/mountain/bot1.c line 10 :Variable property not declared !
+wizards/luminarc/mountain/bot2.c line 11 :Newline in string
+wizards/luminarc/mountain/bot2.c line 12 :syntax error
+wizards/luminarc/mountain/bot2.c line 12 :Illegal LHS
+wizards/luminarc/mountain/bot2.c line 11 :Newline in string
+wizards/luminarc/mountain/bot2.c line 12 :syntax error
+wizards/luminarc/mountain/bot2.c line 12 :Illegal LHS
+wizards/luminarc/testi.c line 17 :Variable More not declared !
+wizards/luminarc/testi.c line 17 :syntax error
+wizards/luminarc/testi.c line 19 :syntax error
+wizards/luminarc/testi.c line 34 :Too few arguments to clone_object
+wizards/luminarc/testi.c line 34 :Illegal LHS
+wizards/luminarc/testi.c line 34 :Illegal LHS
+wizards/luminarc/wizcastle/garden/entrance.c line 7 :Newline in string
+wizards/luminarc/wizcastle/garden/entrance.c line 8 :syntax error
+wizards/luminarc/wizcastle/garden/entrance.c line 14 :Illegal LHS
+wizards/luminarc/wizcastle/garden/entrance.c line 14 :Illegal LHS
+wizards/luminarc/wizcastle/garden/entrance.c line 14 :Illegal LHS
+wizards/luminarc/wizcastle/garden/entrance.c line 14 :syntax error
+wizards/luminarc/wizcastle/garden/entrance.c line 7 :Newline in string
+wizards/luminarc/wizcastle/garden/entrance.c line 8 :syntax error
+wizards/luminarc/wizcastle/garden/entrance.c line 14 :Illegal LHS
+wizards/luminarc/wizcastle/garden/entrance.c line 14 :Illegal LHS
+wizards/luminarc/wizcastle/garden/entrance.c line 14 :Illegal LHS
+wizards/luminarc/wizcastle/garden/entrance.c line 14 :syntax error
+wizards/luminarc/wizcastle/garden/entrance.c line 7 :Newline in string
+wizards/luminarc/wizcastle/garden/entrance.c line 8 :syntax error
+wizards/luminarc/wizcastle/garden/entrance.c line 14 :Illegal LHS
+wizards/luminarc/wizcastle/garden/entrance.c line 14 :Illegal LHS
+wizards/luminarc/wizcastle/garden/entrance.c line 14 :Illegal LHS
+wizards/luminarc/wizcastle/garden/entrance.c line 14 :syntax error
+wizards/luminarc/wizcastle/garden/entrance.c line 7 :Newline in string
+wizards/luminarc/wizcastle/garden/entrance.c line 8 :syntax error
+wizards/luminarc/wizcastle/garden/entrance.c line 14 :Illegal LHS
+wizards/luminarc/wizcastle/garden/entrance.c line 14 :Illegal LHS
+wizards/luminarc/wizcastle/garden/entrance.c line 14 :Illegal LHS
+wizards/luminarc/wizcastle/garden/entrance.c line 14 :syntax error
+wizards/luminarc/wizcastle/garden/entrance.c line 7 :Newline in string
+wizards/luminarc/wizcastle/garden/entrance.c line 8 :syntax error
+wizards/luminarc/wizcastle/garden/entrance.c line 14 :Illegal LHS
+wizards/luminarc/wizcastle/garden/entrance.c line 14 :Illegal LHS
+wizards/luminarc/wizcastle/garden/entrance.c line 14 :Illegal LHS
+wizards/luminarc/wizcastle/garden/entrance.c line 14 :syntax error
+wizards/luminarc/wizcastle/garden/entrance.c line 7 :Newline in string
+wizards/luminarc/wizcastle/garden/entrance.c line 8 :syntax error
+wizards/luminarc/wizcastle/garden/entrance.c line 14 :Illegal LHS
+wizards/luminarc/wizcastle/garden/entrance.c line 14 :Illegal LHS
+wizards/luminarc/wizcastle/garden/entrance.c line 14 :Illegal LHS
+wizards/luminarc/wizcastle/garden/entrance.c line 14 :syntax error
+wizards/luminarc/wizcastle/garden/house.c line 12 :syntax error
+wizards/luminarc/wizcastle/garden/house.c line 12 :Illegal LHS
+wizards/luminarc/wizcastle/garden/gar01.c line 8 :syntax error
+wizards/luminarc/wizcastle/garden/gar01.c line 8 :Illegal LHS
+wizards/luminarc/wizcastle/garden/gar01.c line 11 :syntax error
+wizards/luminarc/wizcastle/garden/gar01.c line 8 :syntax error
+wizards/luminarc/wizcastle/garden/gar01.c line 8 :Illegal LHS
+wizards/luminarc/wizcastle/garden/gar01.c line 11 :syntax error
+wizards/luminarc/wizcastle/garden/gar01.c line 11 :syntax error
+wizards/luminarc/wizcastle/garden/gar01.c line 11 :syntax error
+wizards/luminarc/wizcastle/garden/gar01.c line 11 :syntax error
+wizards/luminarc/wizcastle/garden/gar01.c line 11 :Illegal LHS
+wizards/luminarc/wizcastle/garden/gar01.c line 12 :syntax error
+wizards/luminarc/wizcastle/garden/gar01.c line 10 :Variable i not declared !
+wizards/luminarc/wizcastle/garden/gar01.c line 11 :Variable i not declared !
+wizards/luminarc/wizcastle/garden/gar01.c line 12 :Variable i not declared !
+wizards/luminarc/wizcastle/garden/gar01.c line 13 :Variable i not declared !
+wizards/luminarc/wizcastle/garden/gar01.c line 14 :Variable i not declared !
+wizards/luminarc/wizcastle/garden/gar01.c line 10 :Variable i not declared !
+wizards/luminarc/wizcastle/garden/gar01.c line 11 :Variable i not declared !
+wizards/luminarc/wizcastle/garden/gar01.c line 12 :Variable i not declared !
+wizards/luminarc/wizcastle/garden/gar01.c line 13 :Variable i not declared !
+wizards/luminarc/wizcastle/garden/gar01.c line 14 :Variable i not declared !
+wizards/luminarc/wizcastle/garden/gar01.c line 11 :syntax error
+wizards/luminarc/flower.c line 2 :function not defined by inheritance as specified
+wizards/luminarc/pine.c line 2 :function not defined by inheritance as specified
+wizards/luminarc/flower.c line 2 :function not defined by inheritance as specified
+wizards/luminarc/wizcastle/garden/gar01.c line 11 :syntax error
+wizards/luminarc/wizcastle/humans/elvar.c line 29 :syntax error
+wizards/luminarc/wizcastle/humans/elvar.c line 30 :Illegal LHS
+wizards/luminarc/wizcastle/humans/elvar.c line 34 :syntax error
+wizards/luminarc/wizcastle/humans/elvar.c line 38 :syntax error
+wizards/luminarc/wizcastle/humans/elvar.c line 38 :syntax error
+wizards/luminarc/wizcastle/garden/house.c line 14 :Variable ob not declared !
+wizards/luminarc/wizcastle/garden/house.c line 15 :Variable ob not declared !
+wizards/luminarc/wizcastle/garden/entrance.c line 14 :Variable ob not declared !
+wizards/luminarc/wizcastle/garden/entrance.c line 15 :Variable ob not declared !
+wizards/luminarc/wizcastle/garden/entrance.c line 16 :Variable ob not declared !
+wizards/luminarc/wizcastle/garden/entrance.c line 17 :Variable ob not declared !
+wizards/luminarc/wizcastle/garden/entrance.c line 18 :Variable ob not declared !
+wizards/luminarc/wizcastle/garden/entrance.c line 19 :Variable ob not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 12 :syntax error
+wizards/luminarc/wizcastle/room1.c line 13 :syntax error
+wizards/luminarc/wizcastle/room1.c line 14 :Illegal LHS
+wizards/luminarc/wizcastle/westhall.c line 10 :syntax error
+wizards/luminarc/wizcastle/westhall.c line 13 :Illegal LHS
+wizards/luminarc/wizcastle/tower21.c line 10 :Newline in string
+wizards/luminarc/wizcastle/humans/servant.c line 9 :Newline in string
+wizards/luminarc/wizcastle/humans/servant.c line 10 :syntax error
+wizards/luminarc/wizcastle/upwest1.c line 12 :syntax error
+wizards/luminarc/wizcastle/upwest1.c line 12 :Illegal character (hex 2e) '.'
+wizards/luminarc/wizcastle/upwest1.c line 13 :Illegal LHS
+wizards/luminarc/wizcastle/basem.c line 11 :syntax error
+wizards/luminarc/wizcastle/humans/guard.c line 17 :syntax error
+wizards/luminarc/wizcastle/humans/cook.c line 11 :syntax error
+wizards/luminarc/wizcastle/armours/gglove.c line 13 :syntax error
+wizards/luminarc/spec/snow.c line 9 :syntax error
+wizards/luminarc/spec/snow.c line 27 :syntax error
+wizards/luminarc/spec/snow.c line 9 :syntax error
+wizards/luminarc/spec/snow.c line 22 :syntax error
+wizards/luminarc/spec/snow.c line 27 :Variable armour not declared !
+wizards/luminarc/spec/snow.c line 27 :Variable armour not declared !
+wizards/luminarc/spec/snow.c line 26 :syntax error
+wizards/luminarc/spec/snow.c line 31 :Too few arguments to clone_object
+wizards/luminarc/spec/snow.c line 31 :Illegal LHS
+wizards/luminarc/spec/snow.c line 31 :syntax error
+wizards/luminarc/spec/snow.c line 26 :syntax error
+wizards/luminarc/spec/snow.c line 31 :Too few arguments to clone_object
+wizards/luminarc/spec/snow.c line 31 :Illegal LHS
+wizards/luminarc/spec/snow.c line 31 :syntax error
+wizards/luminarc/spec/snow.c line 15 :Redeclaration of function init.
+wizards/luminarc/spec/snow.c line 18 :Redeclaration of function init.
+wizards/luminarc/spec/snow.c line 15 :Redeclaration of function init.
+wizards/luminarc/spec/snow.c line 18 :Redeclaration of function init.
+wizards/luminarc/spec/snow.c line 15 :Redeclaration of function init.
+wizards/luminarc/spec/snow.c line 18 :Redeclaration of function init.
+wizards/luminarc/spec/snow.c line 40 :Variable tmp1 not declared !
+wizards/luminarc/spec/snow.c line 16 :Redeclaration of function init.
+wizards/luminarc/spec/snow.c line 19 :Redeclaration of function init.
+wizards/luminarc/spec/snow.c line 15 :Redeclaration of function init.
+wizards/luminarc/spec/snow.c line 18 :Redeclaration of function init.
+wizards/luminarc/spec/snow.c line 41 :function not defined by inheritance as specified
+wizards/luminarc/spec/snow.c line 15 :Redeclaration of function init.
+wizards/luminarc/spec/snow.c line 18 :Redeclaration of function init.
+wizards/luminarc/spec/snow.c line 15 :Redeclaration of function init.
+wizards/luminarc/spec/snow.c line 18 :Redeclaration of function init.
+wizards/luminarc/spec/snow.c line 17 :Redeclaration of function init.
+wizards/luminarc/spec/snow.c line 20 :Redeclaration of function init.
+wizards/luminarc/spec/snow.c line 17 :Redeclaration of function init.
+wizards/luminarc/spec/snow.c line 20 :Redeclaration of function init.
+wizards/luminarc/spec/snow.c line 17 :Redeclaration of function init.
+wizards/luminarc/spec/snow.c line 20 :Redeclaration of function init.
+wizards/luminarc/spec/snow.c line 17 :Redeclaration of function init.
+wizards/luminarc/spec/snow.c line 20 :Redeclaration of function init.
+wizards/luminarc/spec/snow.c line 17 :Redeclaration of function init.
+wizards/luminarc/spec/snow.c line 20 :Redeclaration of function init.
+wizards/luminarc/spec/snow.c line 17 :Redeclaration of function init.
+wizards/luminarc/spec/snow.c line 20 :Redeclaration of function init.
+wizards/luminarc/spec/snow.c line 16 :syntax error
+wizards/luminarc/spec/snow.c line 16 :syntax error
+wizards/luminarc/spec/snow.c line 16 :syntax error
+wizards/luminarc/spec/snow.c line 47 :Newline in string
+wizards/luminarc/spec/snow.c line 47 :syntax error
+wizards/luminarc/spec/snow.c line 47 :syntax error
+wizards/luminarc/spec/snow.c line 52 :syntax error
+wizards/luminarc/spec/snow.c line 47 :syntax error
+wizards/luminarc/spec/snow.c line 50 :Too many arguments to write
+wizards/luminarc/spec/snowball.c line 50 :Variable throw1 not declared !
+wizards/luminarc/spec/snowball.c line 62 :Variable throw2 not declared !
+wizards/luminarc/spec/snowball.c line 66 :Variable what not declared !
+wizards/luminarc/spec/snowball.c line 50 :Newline in string
+wizards/luminarc/spec/snowball.c line 51 :syntax error
+wizards/luminarc/spec/snowball.c line 3 :syntax error
+wizards/luminarc/spec/snowball.c line 25 :Variable name not declared !
+wizards/luminarc/spec/snowball.c line 28 :Variable name not declared !
+wizards/luminarc/spec/snowball.c line 28 :syntax error
+wizards/luminarc/spec/snowball.c line 49 :Variable what not declared !
+wizards/luminarc/spec/snowball.c line 49 :Illegal LHS
+wizards/luminarc/spec/snowball.c line 3 :syntax error
+wizards/luminarc/spec/snowball.c line 25 :Variable name not declared !
+wizards/luminarc/spec/snowball.c line 58 :Variable who not declared !
+wizards/luminarc/spec/snowball.c line 3 :syntax error
+wizards/luminarc/spec/snowball.c line 25 :Variable name not declared !
+wizards/luminarc/spec/snow.c line 26 :Newline in string
+wizards/luminarc/spec/snow.c line 27 :syntax error
+wizards/luminarc/spec/snow.c line 42 :Too few arguments to clone_object
+wizards/luminarc/spec/snow.c line 42 :Illegal LHS
+wizards/luminarc/spec/snow.c line 42 :syntax error
+wizards/luminarc/spec/snow.c line 54 :Too few arguments to clone_object
+wizards/luminarc/spec/snow.c line 26 :Newline in string
+wizards/luminarc/spec/snow.c line 27 :syntax error
+wizards/luminarc/spec/snow.c line 42 :Too few arguments to clone_object
+wizards/luminarc/spec/snow.c line 42 :Illegal LHS
+wizards/luminarc/spec/snow.c line 42 :syntax error
+wizards/luminarc/spec/snow.c line 54 :Too few arguments to clone_object
+wizards/luminarc/spec/snow.c line 26 :Newline in string
+wizards/luminarc/spec/snow.c line 27 :syntax error
+wizards/luminarc/spec/snow.c line 42 :Too few arguments to clone_object
+wizards/luminarc/spec/snow.c line 42 :Illegal LHS
+wizards/luminarc/spec/snow.c line 42 :syntax error
+wizards/luminarc/spec/snow.c line 54 :Too few arguments to clone_object
+wizards/luminarc/spec/snow.c line 26 :Newline in string
+wizards/luminarc/spec/snow.c line 27 :syntax error
+wizards/luminarc/spec/snow.c line 42 :Too few arguments to clone_object
+wizards/luminarc/spec/snow.c line 42 :Illegal LHS
+wizards/luminarc/spec/snow.c line 42 :syntax error
+wizards/luminarc/spec/snow.c line 54 :Too few arguments to clone_object
+wizards/luminarc/spec/snow.c line 26 :Newline in string
+wizards/luminarc/spec/snow.c line 27 :syntax error
+wizards/luminarc/spec/snow.c line 42 :Too few arguments to clone_object
+wizards/luminarc/spec/snow.c line 42 :Illegal LHS
+wizards/luminarc/spec/snow.c line 42 :syntax error
+wizards/luminarc/spec/snow.c line 54 :syntax error
+wizards/luminarc/spec/snow.c line 26 :Newline in string
+wizards/luminarc/spec/snow.c line 27 :syntax error
+wizards/luminarc/spec/snow.c line 42 :Too few arguments to clone_object
+wizards/luminarc/spec/snow.c line 42 :Illegal LHS
+wizards/luminarc/spec/snow.c line 42 :syntax error
+wizards/luminarc/spec/snow.c line 54 :syntax error
+wizards/luminarc/spec/snow.c line 54 :Illegal LHS
+wizards/luminarc/spec/snow.c line 54 :syntax error
+wizards/luminarc/spec/snow.c line 54 :Illegal LHS
+wizards/luminarc/spec/snow.c line 26 :syntax error
+wizards/luminarc/spec/snow.c line 55 :Too few arguments to clone_object
+wizards/luminarc/spec/snow.c line 55 :Illegal LHS
+wizards/luminarc/spec/snow.c line 55 :syntax error
+wizards/luminarc/spec/snow.c line 67 :Too few arguments to clone_object
+wizards/luminarc/spec/snow.c line 67 :Illegal LHS
+wizards/luminarc/spec/snow.c line 24 :syntax error
+wizards/luminarc/spec/snow.c line 29 :Variable behind not declared !
+wizards/luminarc/spec/snow.c line 29 :Variable behind not declared !
+wizards/luminarc/spec/snow.c line 28 :syntax error
+wizards/luminarc/spec/snow.c line 28 :Newline in string
+wizards/luminarc/spec/snow.c line 29 :Variable start not declared !
+wizards/luminarc/spec/snow.c line 29 :Variable lumitest not declared !
+wizards/luminarc/spec/snow.c line 29 :Variable start not declared !
+wizards/luminarc/spec/snow.c line 29 :Variable start not declared !
+wizards/luminarc/spec/snow.c line 29 :Variable start not declared !
+wizards/luminarc/spec/snow.c line 29 :Variable start not declared !
+wizards/luminarc/spec/snow.c line 30 :Variable start not declared !
+wizards/luminarc/spec/snow.c line 30 :syntax error
+wizards/luminarc/spec/snow.c line 58 :Too few arguments to clone_object
+wizards/luminarc/spec/snow.c line 58 :Illegal LHS
+wizards/luminarc/spec/snow.c line 58 :syntax error
+wizards/luminarc/spec/snow.c line 70 :Too few arguments to clone_object
+wizards/luminarc/spec/snow.c line 70 :Illegal LHS
+wizards/luminarc/spec/snow.c line 30 :syntax error
+wizards/luminarc/spec/snow.c line 58 :Too few arguments to clone_object
+wizards/luminarc/spec/snow.c line 58 :Illegal LHS
+wizards/luminarc/spec/snow.c line 58 :syntax error
+wizards/luminarc/spec/snow.c line 70 :Too few arguments to clone_object
+wizards/luminarc/spec/snow.c line 70 :Illegal LHS
+wizards/luminarc/spec/behind.c line 6 :Too few arguments to shadow
+wizards/luminarc/spec/behind.c line 6 :Too few arguments to shadow
+wizards/luminarc/spec/behind.c line 6 :Too few arguments to shadow
+wizards/luminarc/spec/behind.c line 6 :Too few arguments to shadow
+wizards/luminarc/spec/snow.c line 30 :syntax error
+wizards/luminarc/spec/snow.c line 22 :Variable return1 not declared !
+wizards/luminarc/spec/obehind.c line 6 :Too many arguments to unshadow
+wizards/luminarc/spec/obehind.c line 6 :Too many arguments to unshadow
+wizards/luminarc/wizcastle/westhall.c line 15 :Illegal character (hex 2e) '.'
+wizards/luminarc/wizcastle/westhall.c line 15 :syntax error
+wizards/luminarc/wizcastle/westhall.c line 16 :Illegal LHS
+wizards/luminarc/wizcastle/westhall.c line 14 :Illegal character (hex 2e) '.'
+wizards/luminarc/wizcastle/westhall.c line 14 :syntax error
+wizards/luminarc/wizcastle/westhall.c line 15 :Illegal LHS
+wizards/luminarc/wizcastle/westhall.c line 14 :Illegal character (hex 2e) '.'
+wizards/luminarc/wizcastle/westhall.c line 14 :syntax error
+wizards/luminarc/wizcastle/westhall.c line 15 :Illegal LHS
+wizards/luminarc/spec/snow.c line 28 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 58 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 58 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 58 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 57 :syntax error
+wizards/luminarc/wizcastle/humans/cook.c line 17 :syntax error
+wizards/luminarc/wizcastle/humans/cook.c line 17 :Illegal character (hex 2e) '.'
+wizards/luminarc/wizcastle/humans/cook.c line 18 :Illegal character (hex 2e) '.'
+wizards/luminarc/wizcastle/humans/cook.c line 20 :Illegal character (hex 2e) '.'
+wizards/luminarc/wizcastle/humans/cook.c line 20 :Illegal character (hex 2e) '.'
+wizards/luminarc/wizcastle/humans/farnax.c line 58 :syntax error
+wizards/luminarc/spec/snowball.c line 59 :Variable target not declared !
+wizards/luminarc/spec/snowball.c line 59 :syntax error
+wizards/luminarc/spec/snowball.c line 59 :Illegal character (hex 2e) '.'
+wizards/luminarc/spec/snowball.c line 59 :syntax error
+wizards/luminarc/spec/snowball.c line 59 :Illegal character (hex 2e) '.'
+wizards/luminarc/spec/snowball.c line 63 :Too many arguments to write
+wizards/luminarc/spec/hits.c line 7 :Too many arguments to write
+wizards/luminarc/spec/snowball.c line 63 :syntax error
+wizards/luminarc/spec/hits.c line 6 :syntax error
+wizards/luminarc/spec/hits.c line 7 :syntax error
+wizards/luminarc/spec/hits.c line 9 :Illegal LHS
+wizards/luminarc/spec/hits.c line 8 :syntax error
+wizards/luminarc/spec/hits.c line 8 :syntax error
+wizards/luminarc/spec/hits.c line 20 :syntax error
+wizards/luminarc/spec/hits.c line 22 :Variable my_map not declared !
+wizards/luminarc/spec/snowball.c line 61 :Variable this_player not declared !
+wizards/luminarc/spec/snowball.c line 61 :syntax error
+wizards/luminarc/spec/hits.c line 14 :syntax error
+wizards/luminarc/spec/hits.c line 17 :syntax error
+wizards/luminarc/spec/hits.c line 4 :Type mismatch ( unknown vs mapping ) when initializing my_map
+wizards/luminarc/spec/hits.c line 4 :Missing type
+wizards/luminarc/spec/hits.c line 4 :Type mismatch ( unknown vs int ) when initializing my_map
+wizards/luminarc/spec/hits.c line 4 :Missing type
+wizards/luminarc/spec/hits.c line 4 :Type mismatch ( unknown vs mapping ) when initializing my_map
+wizards/luminarc/spec/hits.c line 4 :Missing type
+wizards/luminarc/spec/hits.c line 5 :Type mismatch ( unknown vs mixed ) when initializing emotemap
+wizards/luminarc/spec/hits.c line 5 :Missing type
+wizards/luminarc/spec/hits.c line 5 :Type mismatch ( unknown vs mixed ) when initializing emotemap
+wizards/luminarc/spec/hits.c line 5 :Missing type
+wizards/luminarc/spec/hits.c line 5 :Type mismatch ( unknown vs mixed ) when initializing emotemap
+wizards/luminarc/spec/hits.c line 5 :Missing type
+wizards/luminarc/spec/hits.c line 5 :Type mismatch ( unknown vs mixed ) when initializing emotemap
+wizards/luminarc/spec/hits.c line 5 :Missing type
+wizards/luminarc/spec/hits.c line 8 :syntax error
+wizards/luminarc/spec/hits.c line 10 :Illegal LHS
+wizards/luminarc/spec/hits.c line 11 :syntax error
+wizards/luminarc/spec/hits.c line 7 :syntax error
+wizards/luminarc/spec/hits.c line 10 :Illegal LHS
+wizards/luminarc/spec/hits.c line 11 :syntax error
+wizards/luminarc/spec/hits.c line 6 :syntax error
+wizards/luminarc/spec/hits.c line 9 :Illegal LHS
+wizards/luminarc/spec/hits.c line 10 :syntax error
+wizards/luminarc/spec/hits.c line 7 :syntax error
+wizards/luminarc/spec/hits.c line 10 :Illegal LHS
+wizards/luminarc/spec/hits.c line 11 :syntax error
+wizards/luminarc/spec/hits.c line 23 :Variable my_map not declared !
+wizards/luminarc/spec/hits.c line 32 :Variable my_map not declared !
+wizards/luminarc/spec/hits.c line 10 :syntax error
+wizards/luminarc/spec/snowball.c line 64 :syntax error
+wizards/luminarc/spec/snowball.c line 65 :Variable who not declared !
+wizards/luminarc/spec/snowball.c line 66 :Variable who not declared !
+wizards/luminarc/spec/snowball.c line 66 :Too many arguments to tell_object
+wizards/luminarc/spec/hits.c line 34 :Variable map_allocated not declared !
+wizards/luminarc/spec/hits.c line 36 :Variable map_allocated not declared !
+wizards/luminarc/spec/hits.c line 49 :syntax error
+wizards/luminarc/spec/hits.c line 51 :Illegal LHS
+wizards/luminarc/spec/hits.c line 51 :syntax error
+wizards/luminarc/spec/hits.c line 59 :Illegal LHS
+wizards/luminarc/spec/hits.c line 36 :Variable map_allocated not declared !
+wizards/luminarc/spec/hits.c line 49 :syntax error
+wizards/luminarc/spec/hits.c line 51 :Illegal LHS
+wizards/luminarc/spec/hits.c line 51 :syntax error
+wizards/luminarc/spec/hits.c line 59 :Illegal LHS
+wizards/luminarc/spec/hits.c line 59 :syntax error
+wizards/luminarc/spec/hits.c line 36 :Variable map_allocated not declared !
+wizards/luminarc/spec/hits.c line 42 :Variable map_allocated not declared !
+wizards/luminarc/spec/snowball.c line 88 :syntax error
+wizards/luminarc/spec/snowball.c line 88 :syntax error
+wizards/luminarc/spec/hits.c line 75 :syntax error
+wizards/luminarc/spec/start.c line 21 :syntax error
+wizards/luminarc/spec/start.c line 27 :syntax error
+wizards/luminarc/spec/start.c line 40 :Newline in string
+wizards/luminarc/spec/start.c line 40 :syntax error
+wizards/luminarc/spec/start.c line 41 :syntax error
+wizards/luminarc/spec/start.c line 38 :syntax error
+wizards/luminarc/spec/start.c line 40 :Illegal LHS
+wizards/luminarc/spec/start.c line 40 :syntax error
+wizards/luminarc/spec/start.c line 40 :syntax error
+wizards/luminarc/spec/start.c line 42 :Illegal LHS
+wizards/luminarc/spec/start.c line 42 :syntax error
+wizards/luminarc/spec/snowball.c line 105 :Newline in string
+wizards/luminarc/spec/snowball.c line 106 :syntax error
+wizards/luminarc/spec/snowball.c line 109 :syntax error
+wizards/luminarc/spec/start.c line 70 :syntax error
+wizards/luminarc/spec/start.c line 73 :syntax error
+wizards/luminarc/spec/start.c line 85 :Variable ob not declared !
+wizards/luminarc/spec/start.c line 86 :Variable ob not declared !
+wizards/luminarc/spec/snowball.c line 93 :Variable what not declared !
+wizards/luminarc/spec/snow_start.c line 15 :Variable start_event not declared !
+wizards/luminarc/spec/snow_start.c line 19 :syntax error
+wizards/luminarc/spec/snow_start.c line 20 :Variable start_event not declared !
+wizards/luminarc/spec/snow_start.c line 24 :syntax error
+wizards/luminarc/spec/snow_start.c line 24 :syntax error
+wizards/luminarc/spec/snowball.c line 76 :syntax error
+wizards/luminarc/spec/snowball.c line 79 :Illegal LHS
+wizards/luminarc/spec/snowball.c line 79 :syntax error
+wizards/luminarc/spec/snowball.c line 81 :syntax error
+wizards/luminarc/spec/snowball.c line 82 :Illegal LHS
+wizards/luminarc/spec/snowball.c line 82 :syntax error
+wizards/luminarc/spec/snowball.c line 77 :syntax error
+wizards/luminarc/spec/snowball.c line 77 :syntax error
+wizards/luminarc/spec/start.c line 125 :syntax error
+wizards/luminarc/spec/start.c line 129 :Illegal LHS
+wizards/luminarc/spec/start.c line 130 :syntax error
+wizards/luminarc/spec/snowball.c line 108 :Variable a not declared !
+wizards/luminarc/spec/snowball.c line 109 :Variable a not declared !
+wizards/luminarc/spec/snowball.c line 111 :Variable player not declared !
+wizards/luminarc/spec/snowball.c line 118 :Variable player not declared !
+wizards/luminarc/spec/snowball.c line 118 :Variable player not declared !
+wizards/luminarc/spec/snowball.c line 119 :Variable player not declared !
+wizards/luminarc/wizcastle/humans/farnax.c line 58 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 58 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 58 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 58 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 58 :syntax error
+wizards/luminarc/spec/snow_start.c line 27 :syntax error
+wizards/luminarc/wizcastle/tower21.c line 19 :syntax error
+wizards/luminarc/wizcastle/tower21.c line 19 :syntax error
+wizards/luminarc/wizcastle/tower21.c line 19 :syntax error
+wizards/luminarc/wizcastle/tower21.c line 19 :syntax error
+wizards/luminarc/wizcastle/tower21.c line 19 :syntax error
+wizards/luminarc/wizcastle/tower21.c line 19 :syntax error
+wizards/luminarc/wizcastle/tower21.c line 19 :syntax error
+wizards/luminarc/wizcastle/tower21.c line 19 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 58 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 58 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 58 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 56 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 58 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 58 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 56 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 56 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 59 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 59 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 59 :syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 59 :syntax error
+wizards/luminarc/shop/shoproom.c line 7 :Variable short_desc not declared !
+wizards/luminarc/shop/shoproom.c line 8 :Variable long_desc not declared !
+wizards/luminarc/shop/shoproom.c line 25 :Variable items not declared !
+wizards/luminarc/shop/shoproom.c line 26 :Variable items not declared !
+wizards/luminarc/shop/shoproom.c line 27 :Variable items not declared !
+wizards/luminarc/shop/shoproom.c line 30 :Variable property not declared !
+wizards/luminarc/shop/shoproom.c line 7 :Variable short_desc not declared !
+wizards/luminarc/shop/shoproom.c line 8 :Variable long_desc not declared !
+wizards/luminarc/shop/shoproom.c line 25 :Variable items not declared !
+wizards/luminarc/shop/shoproom.c line 26 :Variable items not declared !
+wizards/luminarc/shop/shoproom.c line 27 :Variable items not declared !
+wizards/luminarc/shop/shoproom.c line 30 :Variable property not declared !
+wizards/luminarc/shop/shoproom.c line 16 :Newline in string
+wizards/luminarc/shop/shoproom.c line 16 :syntax error
+wizards/luminarc/shop/shoproom.c line 16 :Newline in string
+wizards/luminarc/shop/shoproom.c line 16 :syntax error
+wizards/luminarc/shop/shoproom.c line 15 :Newline in string
+wizards/luminarc/shop/shoproom.c line 15 :syntax error
+wizards/luminarc/shop/shoproom.c line 19 :Newline in string
+wizards/luminarc/shop/shoproom.c line 20 :syntax error
+wizards/luminarc/shop/shoproom.c line 22 :Newline in string
+wizards/luminarc/shop/shoproom.c line 19 :Newline in string
+wizards/luminarc/shop/shoproom.c line 20 :syntax error
+wizards/luminarc/shop/shoproom.c line 22 :Newline in string
+wizards/luminarc/spec/flower.c line 2 :function not defined by inheritance as specified
+wizards/luminarc/spec/flower.c line 27 :Newline in string
+wizards/luminarc/spec/flower.c line 28 :syntax error
+wizards/luminarc/flower.c line 3 :function not defined by inheritance as specified
+wizards/luminarc/flower.c line 20 :syntax error
+wizards/luminarc/flower.c line 20 :Illegal LHS
+wizards/luminarc/flower.c line 24 :syntax error
+wizards/luminarc/flower.c line 24 :Illegal LHS
+wizards/luminarc/flower.c line 28 :syntax error
+wizards/luminarc/flower.c line 3 :function not defined by inheritance as specified
+wizards/luminarc/flower.c line 28 :Newline in string
+wizards/luminarc/flower.c line 29 :syntax error
+wizards/luminarc/flower.c line 3 :function not defined by inheritance as specified
+wizards/luminarc/flower.c line 28 :Newline in string
+wizards/luminarc/flower.c line 29 :syntax error
+wizards/luminarc/flo.c line 19 :Variable str not declared !
+wizards/luminarc/flo.c line 19 :syntax error
+wizards/luminarc/flo.c line 26 :Too few arguments to write
+wizards/luminarc/flo.c line 43 :Redeclaration of function init.
+wizards/luminarc/flo.c line 44 :syntax error
+wizards/luminarc/flo.c line 58 :Newline in string
+wizards/luminarc/flo.c line 20 :Variable str not declared !
+wizards/luminarc/flo.c line 20 :syntax error
+wizards/luminarc/flo.c line 27 :Too few arguments to write
+wizards/luminarc/flo.c line 44 :Redeclaration of function init.
+wizards/luminarc/flo.c line 45 :function not defined by inheritance as specified
+wizards/luminarc/flo.c line 46 :syntax error
+wizards/luminarc/flo.c line 43 :Redeclaration of function init.
+wizards/luminarc/flo.c line 44 :function not defined by inheritance as specified
+wizards/luminarc/flo.c line 48 :Redeclaration of function init.
+wizards/luminarc/flo.c line 18 :syntax error
+wizards/luminarc/snowball.c line 51 :Newline in string
+wizards/luminarc/snowball.c line 52 :syntax error
+wizards/luminarc/hmm.c line 3 :syntax error
+wizards/luminarc/hmm.c line 3 :syntax error
+wizards/luminarc/hmm.c line 5 :Newline in string
+wizards/luminarc/hmm.c line 6 :syntax error
+wizards/luminarc/hmm.c line 15 :Too few arguments to read_file
+wizards/luminarc/hmm.c line 15 :Illegal LHS
+wizards/luminarc/hmm.c line 15 :Illegal LHS
+wizards/luminarc/hmm.c line 15 :syntax error
+wizards/luminarc/hmm.c line 5 :Newline in string
+wizards/luminarc/hmm.c line 6 :syntax error
+wizards/luminarc/hmm.c line 15 :Too few arguments to read_file
+wizards/luminarc/hmm.c line 15 :Illegal LHS
+wizards/luminarc/hmm.c line 15 :Illegal LHS
+wizards/luminarc/hmm.c line 15 :syntax error
+wizards/luminarc/hmm.c line 5 :Newline in string
+wizards/luminarc/hmm.c line 6 :syntax error
+wizards/luminarc/hmm.c line 5 :Newline in string
+wizards/luminarc/hmm.c line 6 :syntax error
+wizards/luminarc/hmm.c line 5 :Newline in string
+wizards/luminarc/hmm.c line 6 :syntax error
+wizards/luminarc/hmm.c line 5 :Newline in string
+wizards/luminarc/hmm.c line 6 :syntax error
+wizards/luminarc/wizcastle/tower22.c line 19 :syntax error
+wizards/luminarc/wizcastle/tower22.c line 19 :syntax error
+wizards/luminarc/wizcastle/tower22.c line 19 :syntax error
+wizards/luminarc/wizcastle/tower22.c line 19 :syntax error
+wizards/luminarc/wizcastle/tower22.c line 19 :syntax error
+wizards/luminarc/wizcastle/tower22.c line 19 :syntax error
+wizards/luminarc/wizcastle/tower22.c line 19 :syntax error
+wizards/luminarc/wizcastle/lumi.c line 59 :syntax error
+wizards/luminarc/spec/start.c line 98 :Redeclaration of function start_event.
+wizards/luminarc/spec/start.c line 102 :Redeclaration of function start_event.
+wizards/luminarc/spec/start.c line 99 :Redeclaration of function start_event.
+wizards/luminarc/spec/start.c line 103 :Redeclaration of function start_event.
+wizards/luminarc/wizcastle/room0.c line 11 :syntax error
+wizards/luminarc/wizcastle/room0.c line 19 :Illegal LHS
+wizards/luminarc/wizcastle/room0.c line 19 :syntax error
+wizards/luminarc/wizcastle/room0.c line 9 :syntax error
+wizards/luminarc/wizcastle/room0.c line 11 :Illegal LHS
+wizards/luminarc/wizcastle/room0.c line 19 :Illegal LHS
+wizards/luminarc/wizcastle/room0.c line 19 :syntax error
+wizards/luminarc/wizcastle/room0.c line 9 :syntax error
+wizards/luminarc/wizcastle/room0.c line 11 :Illegal LHS
+wizards/luminarc/wizcastle/room0.c line 19 :Illegal LHS
+wizards/luminarc/wizcastle/room0.c line 19 :syntax error
+wizards/luminarc/wizcastle/room0.c line 9 :syntax error
+wizards/luminarc/wizcastle/room0.c line 11 :Illegal LHS
+wizards/luminarc/wizcastle/room0.c line 19 :Illegal LHS
+wizards/luminarc/wizcastle/room0.c line 19 :syntax error
+wizards/luminarc/wizcastle/room0.c line 9 :syntax error
+wizards/luminarc/wizcastle/room0.c line 11 :Illegal LHS
+wizards/luminarc/wizcastle/room0.c line 19 :Illegal LHS
+wizards/luminarc/wizcastle/room0.c line 19 :syntax error
+wizards/luminarc/wizcastle/room0.c line 9 :syntax error
+wizards/luminarc/wizcastle/room0.c line 11 :Illegal LHS
+wizards/luminarc/wizcastle/room0.c line 19 :Illegal LHS
+wizards/luminarc/wizcastle/room0.c line 19 :syntax error
+wizards/luminarc/mountain/cave12.c line 15 :syntax error
+wizards/luminarc/mountain/cave12.c line 17 :syntax error
+wizards/luminarc/mountain/cave12.c line 23 :syntax error
+wizards/luminarc/mountain/cave12.c line 23 :Illegal LHS
+wizards/luminarc/mountain/cave12.c line 27 :syntax error
+wizards/luminarc/mountain/cave12.c line 27 :syntax error
+wizards/luminarc/mountain/cave12.c line 30 :syntax error
+wizards/luminarc/mountain/cave12.c line 30 :syntax error
+Mon Mar 31 20:25:33 2003 Blurred image of Farnax the gnomish wizard(undead) (strong) (/wizards/luminarc/wizcastle/humans/farnax#22472, 60) killed by Devil (168) 
+wizards/luminarc/flo.c line 18 :syntax error
+wizards/luminarc/flower.c line 3 :function not defined by inheritance as specified
+wizards/luminarc/flower.c line 28 :Newline in string
+wizards/luminarc/flower.c line 29 :syntax error
+Sun Jun 15 21:18:02 2003 Elvar the beautiful gardener(strong) (/wizards/luminarc/wizcastle/humans/elvar#2228, 65) killed by Drakhor (209) 
+wizards/luminarc/wizcastle/westhall.c line 35 :syntax error
+Sun Mar  7 17:35:12 2004 Blurred image of Farnax the gnomish wizard(undead) (strong) (/wizards/luminarc/wizcastle/humans/farnax#22336, 60) killed by Jenny (186) 
+wizards/luminarc/flower.c line 3 :function not defined by inheritance as specified
+wizards/luminarc/flower.c line 28 :Newline in string
+wizards/luminarc/flower.c line 29 :syntax error
+wizards/luminarc/flower.c line 3 :function not defined by inheritance as specified
+wizards/luminarc/flower.c line 28 :Newline in string
+wizards/luminarc/flower.c line 29 :syntax error
+Sun Jan 09 10:45:05 2005 Elvar the beautiful gardener(strong) (/wizards/luminarc/wizcastle/humans/elvar#9637, 65) killed by Madk (158) 
+wizards/luminarc/wizcastle/lumi.c line 59: syntax error
+wizards/luminarc/wizcastle/lumi.c line 59: syntax error
+wizards/luminarc/wizcastle/lumi.c line 59: syntax error
+wizards/luminarc/wizcastle/lumi.c line 59: syntax error
+wizards/luminarc/wizcastle/lumi.c line 59: syntax error
+Mon Feb 20 13:04:48 2006 Blurred image of Farnax the gnomish wizard(undead) (strong) (/wizards/luminarc/wizcastle/humans/farnax#4264, 60) killed by Elric (230) 
+Wed Aug 09 15:25:10 2006 Blurred image of Farnax the gnomish wizard(undead) (strong) (/wizards/luminarc/wizcastle/humans/farnax#6854, 60) killed by Elric (286) 
+Tue Nov 14 15:33:30 2006 Elvar the beautiful gardener(strong) (/wizards/luminarc/wizcastle/humans/elvar#305, 65) killed by Nightwish (161) 
+Fri Dec 29 00:55:07 2006 Blurred image of Farnax the gnomish wizard(undead) (strong) (/wizards/luminarc/wizcastle/humans/farnax#41505, 60) killed by Elric (303) 
+Fri May 25 09:16:57 2007 Blurred image of Farnax the gnomish wizard(undead) (strong) (/wizards/luminarc/wizcastle/humans/farnax#1966, 60) killed by Elric (400) 
+Thu Jul 12 12:02:49 2007 Elvar the beautiful gardener(strong) (/wizards/luminarc/wizcastle/humans/elvar#513, 65) killed by Nightwish (190) 
+Fri Jul 13 15:05:05 2007 Elvar the beautiful gardener(strong) (/wizards/luminarc/wizcastle/humans/elvar#1199, 65) killed by Nightwish (190) 
+Wed Feb 13 14:34:41 2008 Elvar the beautiful gardener(strong) (/wizards/luminarc/wizcastle/humans/elvar#23060, 65) killed by Elric (400) 
+wizards/luminarc/flower.c line 3: function not defined by inheritance as specified
+wizards/luminarc/flower.c line 28: Newline in string
+wizards/luminarc/flower.c line 29: syntax error
+wizards/luminarc/wizcastle/humans/farnax.c line 66: Missing 'return <value>' statement
+wizards/luminarc/wizcastle/humans/farnax.c line 66: Missing 'return <value>' statement
+wizards/luminarc/wizcastle/humans/farnax.c line 66: Missing 'return <value>' statement
+wizards/luminarc/wizcastle/humans/farnax.c line 66: Missing 'return <value>' statement
+wizards/luminarc/wizcastle/humans/farnax.c line 66: Missing 'return <value>' statement
+wizards/luminarc/wizcastle/humans/farnax.c line 66: Missing 'return <value>' statement
+wizards/luminarc/wizcastle/humans/farnax.c line 66: Missing 'return <value>' statement

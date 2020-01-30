@@ -1,0 +1,2807 @@
+wizards/astarel/eval_file.c line 2 :syntax error
+wizards/astarel/testi.c line 9 :syntax error
+wizards/astarel/testi.c line 9 :Newline in string
+wizards/astarel/testi.c line 9 :syntax error
+wizards/astarel/testi.c line 9 :Newline in string
+wizards/astarel/testi.c line 9 :syntax error
+wizards/astarel/testi.c line 9 :Newline in string
+wizards/astarel/eval_file.c line 2 :syntax error
+wizards/astarel/eval_file.c line 2 :syntax error
+wizards/astarel/eval_file.c line 2 :syntax error
+wizards/astarel/eval_file.c line 2 :syntax error
+wizards/astarel/eval_file.c line 2 :syntax error
+wizards/astarel/eval_file.c line 2 :syntax error
+wizards/astarel/areas/beldor/mobs/orc1.c line 15 :syntax error
+wizards/astarel/areas/beldor/mobs/orc1.c line 17 :Illegal character (hex 5c) '\'
+wizards/astarel/areas/beldor/mobs/orc1.c line 21 :syntax error
+wizards/astarel/areas/beldor/mobs/orc1.c line 23 :syntax error
+wizards/astarel/areas/beldor/mobs/orc1.c line 28 :syntax error
+wizards/astarel/areas/beldor/mobs/orc1.c line 36 :Illegal LHS
+wizards/astarel/areas/beldor/mobs/orc1.c line 55 :syntax error
+wizards/astarel/areas/beldor/mobs/orc1.c line 53 :syntax error
+wizards/astarel/areas/beldor/mobs/orc1.c line 53 :syntax error
+wizards/astarel/areas/beldor/mobs/orc1.c line 52 :syntax error
+wizards/astarel/areas/beldor/mobs/orc1.c line 52 :syntax error
+wizards/astarel/areas/beldor/mobs/orc1.c line 52 :syntax error
+wizards/astarel/areas/beldor/rooms/forest1.c line 21 :Variable PATH not declared !
+wizards/astarel/areas/beldor/rooms/forest1.c line 22 :Variable PATH not declared !
+wizards/astarel/areas/beldor/rooms/forest1.c line 23 :Variable PATH not declared !
+wizards/astarel/areas/beldor/rooms/forest1.c line 21 :Variable PATH not declared !
+wizards/astarel/areas/beldor/rooms/forest1.c line 22 :Variable PATH not declared !
+wizards/astarel/areas/beldor/rooms/forest1.c line 23 :Variable PATH not declared !
+wizards/astarel/areas/beldor/rooms/forest1.c line 21 :Variable PATH not declared !
+wizards/astarel/areas/beldor/rooms/forest1.c line 22 :Variable PATH not declared !
+wizards/astarel/areas/beldor/rooms/forest1.c line 23 :Variable PATH not declared !
+wizards/astarel/areas/beldor/rooms/forest1.c line 26 :syntax error
+wizards/astarel/areas/beldor/rooms/forest1.c line 28 :Newline in string
+wizards/astarel/areas/beldor/rooms/forest1.c line 29 :syntax error
+wizards/astarel/areas/beldor/rooms/forest1.c line 28 :Newline in string
+wizards/astarel/areas/beldor/rooms/forest1.c line 29 :syntax error
+wizards/astarel/areas/beldor/rooms/forest1.c line 28 :Newline in string
+wizards/astarel/areas/beldor/rooms/forest1.c line 35 :syntax error
+wizards/astarel/areas/beldor/rooms/forest1.c line 28 :Newline in string
+wizards/astarel/areas/beldor/rooms/forest1.c line 35 :syntax error
+wizards/astarel/areas/beldor/rooms/forest1.c line 28 :Newline in string
+wizards/astarel/areas/beldor/rooms/forest1.c line 35 :syntax error
+wizards/astarel/testaus.c line 16 :syntax error
+wizards/astarel/testiih.c line 15 :syntax error
+wizards/astarel/testiih.c line 15 :syntax error
+wizards/astarel/testiih.c line 15 :syntax error
+wizards/astarel/testiih.c line 15 :syntax error
+wizards/astarel/areas/beldor/rooms/forest4.c line 2 :Missing leading " in #include
+wizards/astarel/areas/beldor/rooms/forest4.c line 22 :Variable longdescs not declared !
+wizards/astarel/areas/beldor/rooms/forest4.c line 22 :Variable longdescs not declared !
+wizards/astarel/areas/beldor/misc/descs1.c line 23 :syntax error
+wizards/astarel/areas/beldor/misc/descs1.c line 21 :Type mismatch ( unknown vs mixed * ) when initializing longdescs
+wizards/astarel/areas/beldor/misc/descs1.c line 21 :Missing type
+wizards/astarel/areas/beldor/rooms/forest4.c line 2 :Missing leading " in #include
+wizards/astarel/areas/beldor/rooms/forest4.c line 22 :Variable longdescs not declared !
+wizards/astarel/areas/beldor/rooms/forest4.c line 22 :Variable longdescs not declared !
+wizards/astarel/areas/beldor/rooms/forest4.c line 5 :Missing leading " in #include
+wizards/astarel/areas/beldor/rooms/forest4.c line 22 :Variable longdescs not declared !
+wizards/astarel/areas/beldor/rooms/forest4.c line 22 :Variable longdescs not declared !
+wizards/astarel/areas/beldor/misc/descs1.c line 20 :Type mismatch ( unknown vs mixed * ) when initializing longdescs
+wizards/astarel/areas/beldor/misc/descs1.c line 20 :Missing type
+wizards/astarel/areas/beldor/rooms/forest4.c line 5 :Missing leading " in #include
+wizards/astarel/areas/beldor/rooms/forest4.c line 5 :Missing leading " in #include
+wizards/astarel/areas/beldor/rooms/forest4.c line 3 :illegal to inherit after defining functions
+wizards/astarel/eval_file.c line 2 :Illegal character (hex 23) '#'
+wizards/astarel/eval_file.c line 2 :syntax error
+wizards/astarel/eval_file.c line 2 :Illegal character (hex 23) '#'
+wizards/astarel/eval_file.c line 2 :syntax error
+wizards/astarel/ford.c line 21 :Variable TP not declared !
+wizards/astarel/ford.c line 26 :Variable TP not declared !
+wizards/astarel/ford.c line 28 :Variable TP not declared !
+wizards/astarel/ford.c line 30 :Variable TP not declared !
+wizards/astarel/ford.c line 30 :Variable TP not declared !
+wizards/astarel/ford.c line 31 :Variable TP not declared !
+wizards/astarel/ford.c line 11 :Variable PATH not declared !
+wizards/astarel/ford.c line 21 :syntax error
+wizards/astarel/areas/beldor/rooms/ford.c line 11 :Variable PATH not declared !
+wizards/astarel/areas/beldor/rooms/ford.c line 26 :syntax error
+wizards/astarel/areas/beldor/rooms/ford.c line 30 :syntax error
+wizards/astarel/areas/beldor/rooms/ford.c line 35 :syntax error
+wizards/astarel/eval_file.c line 2 :Variable obj not declared !
+wizards/astarel/eval_file.c line 2 :Variable obj not declared !
+wizards/astarel/areas/beldor/objs/orcba.c line 1 :Unrecognised # directive
+wizards/astarel/scan.c line 117 :syntax error
+wizards/astarel/scan.c line 117 :syntax error
+wizards/astarel/eval_file.c line 2 :syntax error
+wizards/astarel/scan.c line 30 :syntax error
+wizards/astarel/scan.c line 32 :syntax error
+wizards/astarel/scan.c line 34 :syntax error
+wizards/astarel/scan.c line 36 :syntax error
+wizards/astarel/scan.c line 38 :syntax error
+wizards/astarel/scan.c line 40 :syntax error
+wizards/astarel/scan.c line 31 :syntax error
+wizards/astarel/scan.c line 33 :syntax error
+wizards/astarel/scan.c line 35 :syntax error
+wizards/astarel/scan.c line 37 :syntax error
+wizards/astarel/scan.c line 39 :syntax error
+wizards/astarel/scan.c line 41 :syntax error
+wizards/astarel/scan.c line 31 :syntax error
+wizards/astarel/scan.c line 52 :Illegal LHS
+wizards/astarel/scan.c line 55 :syntax error
+wizards/astarel/scan.c line 62 :Illegal LHS
+wizards/astarel/scan.c line 62 :syntax error
+wizards/astarel/scan.c line 64 :Illegal LHS
+wizards/astarel/scan.c line 31 :Variable mobs_hp not declared !
+wizards/astarel/scan.c line 32 :syntax error
+wizards/astarel/scan.c line 34 :syntax error
+wizards/astarel/scan.c line 36 :syntax error
+wizards/astarel/scan.c line 38 :syntax error
+wizards/astarel/scan.c line 40 :syntax error
+wizards/astarel/scan.c line 32 :syntax error
+wizards/astarel/scan.c line 34 :syntax error
+wizards/astarel/scan.c line 36 :syntax error
+wizards/astarel/scan.c line 38 :syntax error
+wizards/astarel/scan.c line 40 :syntax error
+wizards/astarel/scan.c line 42 :syntax error
+wizards/astarel/scan.c line 3 :Variable this_player not declared !
+wizards/astarel/eval_file.c line 2 :syntax error
+wizards/astarel/peer.c line 17 :syntax error
+wizards/astarel/peer.c line 17 :Illegal LHS
+wizards/astarel/peer.c line 22 :syntax error
+wizards/astarel/peer.c line 46 :syntax error
+wizards/astarel/peer.c line 50 :Illegal LHS
+wizards/astarel/peer.c line 50 :Illegal LHS
+wizards/astarel/peer.c line 43 :Duplicate case in line 23 and 22
+wizards/astarel/peer.c line 17 :Illegal character (hex 1b) ''
+wizards/astarel/peer.c line 17 :syntax error
+wizards/astarel/peer.c line 17 :Illegal character (hex 1b) ''
+wizards/astarel/peer.c line 17 :Illegal character (hex 1b) ''
+wizards/astarel/peer.c line 18 :Illegal LHS
+wizards/astarel/peer.c line 23 :syntax error
+wizards/astarel/areas/beldor/rooms/2forest1.c line 4 :Missing leading " in #include
+wizards/astarel/areas/beldor/rooms/2forest1.c line 4 :Missing leading " in #include
+wizards/astarel/areas/beldor/rooms/2forest1.c line 4 :Missing leading " in #include
+wizards/astarel/areas/beldor/rooms/2forest2.c line 4 :Missing leading " in #include
+wizards/astarel/areas/beldor/rooms/2forest1.c line 4 :Cannot #include /wizards/astarel/areas/beldor/misc/descs2.c
+wizards/astarel/areas/beldor/rooms/2forest1.c line 4 :Cannot #include /wizards/astarel/areas/beldor/misc/descs2.c
+wizards/astarel/eval_file.c line 2 :Bad argument 2 type to efun functionlist()
+wizards/astarel/eval_file.c line 2 :Variable s not declared !
+wizards/astarel/peer.c line 59 :syntax error
+wizards/astarel/peer.c line 60 :Illegal LHS
+wizards/astarel/peer.c line 61 :Illegal LHS
+wizards/astarel/peer.c line 61 :syntax error
+wizards/astarel/peer.c line 62 :Illegal LHS
+wizards/astarel/peer.c line 61 :syntax error
+wizards/astarel/peer.c line 62 :Variable poh not declared !
+wizards/astarel/peer.c line 63 :Variable poh not declared !
+wizards/astarel/eval_file.c line 2 :Bad argument 1 type to efun all_inventory()
+wizards/astarel/testaus.c line 26 :syntax error
+wizards/astarel/mortstats.c line 27 :Bad argument 1 type to efun to_int()
+wizards/astarel/mortstats.c line 27 :Bad argument 1 type to efun to_int()
+wizards/astarel/mortstats.c line 27 :Bad argument 1 type to efun to_int()
+wizards/astarel/mortstats.c line 27 :Bad argument 1 type to efun to_int()
+wizards/astarel/mortstats.c line 27 :Bad argument 1 type to efun to_int()
+wizards/astarel/mortstats.c line 29 :Variable juoppo not declared !
+wizards/astarel/mortstats.c line 31 :Variable juoppo not declared !
+wizards/astarel/mortstats.c line 5 :syntax error
+wizards/astarel/mortstats.c line 10 :Variable obbi not declared !
+wizards/astarel/mortstats.c line 10 :Illegal LHS
+wizards/astarel/mortstats.c line 10 :syntax error
+wizards/astarel/mortstats.c line 11 :Variable obba not declared !
+wizards/astarel/mortstats.c line 11 :Illegal LHS
+wizards/astarel/rose.c line 1 :Cannot #include sys/ansi.h
+wizards/astarel/rose.c line 8 :Variable BOLD not declared !
+wizards/astarel/rose.c line 8 :Variable REF_F not declared !
+wizards/astarel/rose.c line 8 :Variable OFF not declared !
+wizards/astarel/rose.c line 31 :syntax error
+wizards/astarel/rose.c line 8 :Variable REF_F not declared !
+wizards/astarel/eval_file.c line 2 :Too many arguments to clone_object
+wizards/astarel/eval_file.c line 2 :Bad argument 1 type to efun clone_object()
+wizards/astarel/eval_file.c line 2 :syntax error
+wizards/astarel/eval_file.c line 2 :Too many arguments to clone_object
+wizards/astarel/eval_file.c line 2 :Bad argument 1 type to efun clone_object()
+wizards/astarel/eval_file.c line 2 :Too few arguments to move_object
+wizards/astarel/peer.c line 21 :syntax error
+wizards/astarel/peer.c line 35 :syntax error
+wizards/astarel/peer.c line 35 :Illegal LHS
+wizards/astarel/peer.c line 37 :Illegal LHS
+wizards/astarel/peer.c line 39 :Illegal LHS
+wizards/astarel/peer.c line 39 :syntax error
+wizards/astarel/peer.c line 41 :Illegal LHS
+wizards/astarel/areas/beldor/rooms/castleentrance.c line 24 :Variable str not declared !
+wizards/astarel/areas/beldor/rooms/castleentrance.c line 28 :Variable str not declared !
+wizards/astarel/areas/beldor/rooms/castleentrance.c line 43 :Variable bridge_flag not declared !
+wizards/astarel/areas/beldor/rooms/castleentrance.c line 49 :Illegal character (hex 24) '$'
+wizards/astarel/areas/beldor/rooms/castleentrance.c line 49 :syntax error
+wizards/astarel/areas/beldor/rooms/castleentrance.c line 49 :Illegal character (hex 24) '$'
+wizards/astarel/areas/beldor/rooms/castleentrance.c line 24 :Variable str not declared !
+wizards/astarel/areas/beldor/rooms/castleentrance.c line 28 :Variable str not declared !
+wizards/astarel/areas/beldor/rooms/castleentrance.c line 43 :Variable bridge_flag not declared !
+wizards/astarel/areas/beldor/rooms/castleentrance.c line 49 :Illegal character (hex 24) '$'
+wizards/astarel/areas/beldor/rooms/castleentrance.c line 49 :syntax error
+wizards/astarel/areas/beldor/rooms/castleentrance.c line 49 :Illegal character (hex 24) '$'
+wizards/astarel/areas/beldor/rooms/castleentrance.c line 24 :Variable str not declared !
+wizards/astarel/areas/beldor/rooms/castleentrance.c line 28 :Variable str not declared !
+wizards/astarel/areas/beldor/rooms/castleentrance.c line 43 :Variable bridge_flag not declared !
+wizards/astarel/areas/beldor/rooms/castleentrance.c line 49 :Illegal character (hex 24) '$'
+wizards/astarel/areas/beldor/rooms/castleentrance.c line 49 :syntax error
+wizards/astarel/areas/beldor/rooms/castleentrance.c line 49 :Illegal character (hex 24) '$'
+wizards/astarel/areas/beldor/rooms/castleentrance.c line 24 :Variable str not declared !
+wizards/astarel/areas/beldor/rooms/castleentrance.c line 28 :Variable str not declared !
+wizards/astarel/areas/beldor/rooms/castleentrance.c line 43 :Variable bridge_flag not declared !
+wizards/astarel/areas/beldor/rooms/castleentrance.c line 49 :Illegal character (hex 24) '$'
+wizards/astarel/areas/beldor/rooms/castleentrance.c line 49 :syntax error
+wizards/astarel/areas/beldor/rooms/castleentrance.c line 49 :Illegal character (hex 24) '$'
+wizards/astarel/areas/beldor/mobs/orc1.c line 37 :syntax error
+wizards/astarel/areas/beldor/misc/conf.h line 3 :Redefinition of #define ORC1L
+wizards/astarel/testi.c line 20 :Redeclaration of function start.
+wizards/astarel/testi.c line 33 :Redeclaration of function start.
+wizards/astarel/testi.c line 21 :Redeclaration of function start.
+wizards/astarel/testi.c line 35 :Redeclaration of function start.
+wizards/astarel/testi.c line 21 :Redeclaration of function start.
+wizards/astarel/testi.c line 34 :Redeclaration of function start.
+wizards/astarel/eval_file.c line 2 :syntax error
+wizards/astarel/castle/castle.c line 20 :syntax error
+wizards/astarel/castle/castle.c line 20 :Illegal LHS
+wizards/astarel/castle/castle.c line 147 :syntax error
+wizards/astarel/castle/castle_d.c line 45 :Variable file not declared !
+wizards/astarel/castle/castle_d.c line 54 :syntax error
+wizards/astarel/castle/chest.c line 20 :syntax error
+wizards/astarel/castle/chest.c line 20 :Illegal LHS
+wizards/astarel/castle/chest.c line 147 :syntax error
+wizards/astarel/castle/chest.c line 20 :syntax error
+wizards/astarel/castle/chest.c line 20 :Illegal LHS
+wizards/astarel/castle/chest.c line 147 :syntax error
+wizards/astarel/castle/castle.c line 20 :syntax error
+wizards/astarel/castle/castle.c line 20 :Illegal LHS
+wizards/astarel/castle/castle.c line 147 :syntax error
+wizards/astarel/eval_file.c line 2 :syntax error
+wizards/astarel/eval_file.c line 2 :Variable i not declared !
+wizards/astarel/eval_file.c line 2 :Variable i not declared !
+wizards/astarel/eval_file.c line 2 :Variable i not declared !
+wizards/astarel/eval_file.c line 2 :Variable i not declared !
+wizards/astarel/eval_file.c line 2 :Extra ';'. Ignored.
+wizards/astarel/eval_file.c line 2 :Illegal character (hex 2e) '.'
+wizards/astarel/eval_file.c line 2 :syntax error
+wizards/astarel/testi/_exs_fla_rha.c line 42 :syntax error
+wizards/astarel/testi/_exs_fla_rha.c line 42 :syntax error
+wizards/astarel/testi/_exs_fla_rha.c line 42 :syntax error
+wizards/astarel/testi/testi.c line 42 :syntax error
+wizards/astarel/testi/testi.c line 42 :syntax error
+wizards/astarel/testi/testi.c line 42 :syntax error
+wizards/astarel/workroom.c line 179 :syntax error
+wizards/astarel/workroom.c line 181 :Illegal LHS
+wizards/astarel/workroom.c line 182 :Illegal LHS
+wizards/astarel/workroom.c line 182 :syntax error
+wizards/astarel/workroom.c line 183 :Illegal LHS
+wizards/astarel/workroom.c line 179 :syntax error
+wizards/astarel/workroom.c line 181 :Illegal LHS
+wizards/astarel/workroom.c line 182 :Illegal LHS
+wizards/astarel/workroom.c line 182 :syntax error
+wizards/astarel/workroom.c line 183 :Illegal LHS
+wizards/astarel/workroom.c line 179 :syntax error
+wizards/astarel/workroom.c line 181 :Illegal LHS
+wizards/astarel/workroom.c line 182 :Illegal LHS
+wizards/astarel/workroom.c line 182 :syntax error
+wizards/astarel/workroom.c line 183 :Illegal LHS
+wizards/astarel/workroom.c line 179 :syntax error
+wizards/astarel/workroom.c line 181 :Illegal LHS
+wizards/astarel/workroom.c line 182 :Illegal LHS
+wizards/astarel/workroom.c line 182 :syntax error
+wizards/astarel/workroom.c line 183 :Illegal LHS
+wizards/astarel/workroom.c line 179 :syntax error
+wizards/astarel/workroom.c line 181 :Illegal LHS
+wizards/astarel/workroom.c line 182 :Illegal LHS
+wizards/astarel/workroom.c line 182 :syntax error
+wizards/astarel/workroom.c line 183 :Illegal LHS
+wizards/astarel/workroom.c line 179 :syntax error
+wizards/astarel/workroom.c line 181 :Illegal LHS
+wizards/astarel/workroom.c line 182 :Illegal LHS
+wizards/astarel/workroom.c line 182 :syntax error
+wizards/astarel/workroom.c line 183 :Illegal LHS
+wizards/astarel/workroom.c line 179 :syntax error
+wizards/astarel/workroom.c line 181 :Illegal LHS
+wizards/astarel/workroom.c line 182 :Illegal LHS
+wizards/astarel/workroom.c line 182 :syntax error
+wizards/astarel/workroom.c line 183 :Illegal LHS
+wizards/astarel/eval_file.c line 2 :Variable this_player not declared !
+wizards/astarel/eval_file.c line 2 :Undefined function query_valid_dir
+wizards/astarel/eval_file.c line 2 :syntax error
+wizards/astarel/eval_file.c line 2 :Undefined function query_valid_dir
+wizards/astarel/wander.c line 6 :Type mismatch ( unknown vs mixed ) when initializing varmistus
+wizards/astarel/wander.c line 6 :Missing type
+wizards/astarel/wander.c line 34 :Illegal character (hex ffffffef) 'ï'
+wizards/astarel/wander.c line 34 :syntax error
+wizards/astarel/wander.c line 33 :Illegal character (hex ffffffef) 'ï'
+wizards/astarel/wander.c line 33 :syntax error
+wizards/astarel/wander.c line 34 :Illegal character (hex ffffffef) 'ï'
+wizards/astarel/wander.c line 34 :syntax error
+wizards/astarel/wander.c line 29 :Illegal character (hex ffffffef) 'ï'
+wizards/astarel/wander.c line 29 :syntax error
+wizards/astarel/wander.c line 6 :Missing type for argument
+wizards/astarel/wander.c line 29 :Illegal character (hex ffffffef) 'ï'
+wizards/astarel/wander.c line 29 :syntax error
+wizards/astarel/wander.c line 6 :Missing type for argument
+wizards/astarel/wander.c line 31 :syntax error
+wizards/astarel/wander.c line 31 :Illegal LHS
+wizards/astarel/lotto.c line 26 :Cannot #include mudlib.h
+wizards/astarel/lotto.c line 90 :syntax error
+wizards/astarel/lotto.c line 90 :Illegal LHS
+wizards/astarel/lotto.c line 88 :syntax error
+wizards/astarel/lotto.c line 88 :Illegal LHS
+wizards/astarel/lotto/lotto.c line 287 :Undefined function this_objecT
+wizards/astarel/lotto/lotto.c line 84 :syntax error
+wizards/astarel/lotto/lotto.c line 90 :syntax error
+wizards/astarel/lotto/lotto.c line 84 :syntax error
+wizards/astarel/lotto/lotto.c line 90 :syntax error
+wizards/astarel/lotto/lotto.c line 135 :Newline in string
+wizards/astarel/lotto/lotto.c line 178 :syntax error
+wizards/astarel/lotto/lotto.c line 123 :syntax error
+wizards/astarel/lotto/lotto.c line 123 :Illegal LHS
+wizards/astarel/lotto/lotto.c line 67 :syntax error
+wizards/astarel/lotto/lotto.c line 89 :Illegal LHS
+wizards/astarel/lotto/lotto.c line 103 :Illegal LHS
+wizards/astarel/lotto/lotto.c line 103 :syntax error
+wizards/astarel/lotto/lotto.c line 104 :Illegal LHS
+wizards/astarel/lotto/lotto.c line 106 :Illegal LHS
+wizards/astarel/eval_file.c line 2 :Undefined function this_lplayer
+wizards/astarel/misc/doll.c line 29 :function not defined by inheritance as specified
+wizards/astarel/misc/boombaster.c line 107 :syntax error
+wizards/astarel/misc/boombaster.c line 114 :Variable artist not declared !
+wizards/astarel/misc/boombaster.c line 116 :Variable i not declared !
+wizards/astarel/misc/boombaster.c line 116 :Variable i not declared !
+wizards/astarel/misc/boombaster.c line 116 :Variable artist not declared !
+wizards/astarel/misc/boombaster.c line 116 :Variable i not declared !
+wizards/astarel/misc/boombaster.c line 125 :Wrong number of arguments to play_song
+wizards/astarel/misc/boombaster.c line 155 :Incorrect number of arguments.
+wizards/astarel/misc/boombaster.c line 177 :Incorrect number of arguments.
+wizards/astarel/misc/boombaster.c line 229 :Undefined function this_objecT
+wizards/astarel/misc/boombaster.c line 229 :Undefined function capitaze
+wizards/astarel/misc/boombaster.c line 239 :syntax error
+wizards/astarel/misc/boombaster.c line 229 :Undefined function capitaze
+wizards/astarel/misc/boombaster.c line 239 :syntax error
+wizards/astarel/misc/boombaster.c line 239 :syntax error
+wizards/astarel/misc/boombaster.c line 245 :syntax error
+wizards/astarel/misc/boombaster.c line 280 :Variable band not declared !
+wizards/astarel/misc/boombaster.c line 280 :Illegal LHS
+wizards/astarel/misc/boombaster.c line 280 :syntax error
+wizards/astarel/misc/boombaster.c line 288 :Variable mapp not declared !
+wizards/astarel/misc/boombaster.c line 288 :Variable song not declared !
+wizards/astarel/lotto/lotto.c line 93 :Too many arguments to simul_efun find_player
+wizards/astarel/lotto/lotto.c line 93 :syntax error
+wizards/astarel/lotto/lotto.c line 121 :Illegal LHS
+wizards/astarel/lotto/lotto.c line 135 :Illegal LHS
+wizards/astarel/lotto/lotto.c line 135 :syntax error
+wizards/astarel/lotto/lotto.c line 136 :Illegal LHS
+wizards/astarel/misc/boombaster.c line 350 :Variable band not declared !
+wizards/astarel/misc/boombaster.c line 350 :Variable song not declared !
+wizards/astarel/eval_file.c line 2 :Variable this_player not declared !
+wizards/astarel/lotto/lotto.c line 323 :Variable b1 not declared !
+wizards/astarel/lotto/lotto.c line 323 :Variable b2 not declared !
+wizards/astarel/lotto/lotto.c line 323 :Variable b3 not declared !
+wizards/astarel/lotto/lotto.c line 323 :Variable b4 not declared !
+wizards/astarel/lotto/lotto.c line 323 :Variable b5 not declared !
+wizards/astarel/lotto/lotto.c line 323 :Variable b6 not declared !
+wizards/astarel/lotto/lotto.c line 170 :Variable TICKET_COST not declared !
+wizards/astarel/lotto/emma.c line 14 :syntax error
+wizards/astarel/lotto/emma.c line 25 :Variable this_object not declared !
+wizards/astarel/lotto/emma.c line 25 :Too few arguments to tell_room
+wizards/astarel/lotto/emma.c line 25 :syntax error
+wizards/astarel/lotto/emma.c line 25 :Too few arguments to tell_room
+wizards/astarel/lotto/emma.c line 25 :syntax error
+wizards/astarel/lotto/emma.c line 25 :syntax error
+wizards/astarel/lotto/emma.c line 27 :Variable str not declared !
+wizards/astarel/lotto/emma.c line 28 :Variable str not declared !
+wizards/astarel/eval_file.c line 2 :syntax error
+wizards/astarel/eval_file.c line 2 :Variable str not declared !
+wizards/astarel/eval_file.c line 2 :Variable str not declared !
+wizards/astarel/eval_file.c line 2 :Variable ctime not declared !
+wizards/astarel/eval_file.c line 2 :Variable str not declared !
+wizards/astarel/eval_file.c line 2 :syntax error
+wizards/astarel/eval_file.c line 2 :Variable str not declared !
+wizards/astarel/eval_file.c line 2 :Variable str not declared !
+wizards/astarel/eval_file.c line 2 :Variable str not declared !
+wizards/astarel/eval_file.c line 2 :syntax error
+wizards/astarel/eval_file.c line 2 :Newline in string
+wizards/astarel/lotto/emma.c line 19 :syntax error
+wizards/astarel/lotto/emma.c line 37 :Illegal LHS
+wizards/astarel/lotto/emma.c line 37 :syntax error
+wizards/astarel/lotto/emma.c line 39 :Illegal LHS
+wizards/astarel/lotto/emma.c line 47 :Illegal LHS
+wizards/astarel/lotto/emma.c line 40 :Bad argument 1 type to efun interactive()
+wizards/astarel/lotto/lotto.c line 72 :syntax error
+wizards/astarel/lotto/lotto.c line 77 :Illegal LHS
+wizards/astarel/lotto/lotto.c line 79 :Illegal LHS
+wizards/astarel/lotto/lotto.c line 83 :Illegal LHS
+wizards/astarel/lotto/lotto.c line 83 :Illegal LHS
+wizards/astarel/lotto/lotto.c line 83 :syntax error
+wizards/astarel/lotto/lotto.c line 73 :syntax error
+wizards/astarel/lotto/lotto.c line 77 :Illegal LHS
+wizards/astarel/lotto/lotto.c line 79 :Illegal LHS
+wizards/astarel/lotto/lotto.c line 81 :Illegal LHS
+wizards/astarel/lotto/lotto.c line 83 :Illegal LHS
+wizards/astarel/lotto/lotto.c line 83 :syntax error
+wizards/astarel/eval_file.c line 2 :syntax error
+wizards/astarel/lotto/lotto.c line 593 :syntax error
+wizards/astarel/psi/psicombat.c line 36 :Variable aname not declared !
+wizards/astarel/psi/psicombat.c line 37 :Variable dname not declared !
+wizards/astarel/psi/psicombat.c line 60 :Variable dname not declared !
+wizards/astarel/psi/psicombat.c line 61 :Variable aname not declared !
+wizards/astarel/psi/psicombat.c line 66 :Variable ENHANCE_LIMIT not declared !
+wizards/astarel/psi/psicombat.c line 66 :Variable SPECIAL_LIMIT not declared !
+wizards/astarel/psi/psicombat.c line 66 :Variable ENHANCE_LIMIT not declared !
+wizards/astarel/psi/psicombat.c line 66 :Variable SPECIAL_LIMIT not declared !
+wizards/astarel/psi/psicombat.c line 110 :syntax error
+wizards/astarel/psi/psicombat.c line 120 :Illegal LHS
+wizards/astarel/psi/psicombat.c line 120 :syntax error
+wizards/astarel/psi/psicombat.c line 134 :Illegal LHS
+wizards/astarel/psi/psicombat.c line 111 :syntax error
+wizards/astarel/psi/psicombat.c line 121 :Illegal LHS
+wizards/astarel/psi/psicombat.c line 121 :syntax error
+wizards/astarel/psi/psicombat.c line 135 :Illegal LHS
+wizards/astarel/psi/psicombat.c line 136 :Illegal LHS
+wizards/astarel/psi/psicombat.c line 136 :syntax error
+wizards/astarel/psi/psicombat.c line 111 :syntax error
+wizards/astarel/psi/psicombat.c line 121 :Illegal LHS
+wizards/astarel/psi/psicombat.c line 121 :syntax error
+wizards/astarel/psi/psicombat.c line 135 :Illegal LHS
+wizards/astarel/psi/psicombat.c line 136 :Illegal LHS
+wizards/astarel/psi/psicombat.c line 136 :syntax error
+wizards/astarel/psi/psicombat.c line 111 :syntax error
+wizards/astarel/psi/psicombat.c line 121 :Illegal LHS
+wizards/astarel/psi/psicombat.c line 121 :syntax error
+wizards/astarel/psi/psicombat.c line 135 :Illegal LHS
+wizards/astarel/psi/psicombat.c line 136 :Illegal LHS
+wizards/astarel/psi/psicombat.c line 136 :syntax error
+wizards/astarel/psi/psicombat2.c line 111 :syntax error
+wizards/astarel/psi/psicombat2.c line 121 :Illegal LHS
+wizards/astarel/psi/psicombat2.c line 121 :syntax error
+wizards/astarel/psi/psicombat2.c line 135 :Illegal LHS
+wizards/astarel/psi/psicombat2.c line 136 :Illegal LHS
+wizards/astarel/psi/psicombat2.c line 136 :syntax error
+wizards/astarel/psi/psicombat2.c line 133 :syntax error
+wizards/astarel/psi/psicombat2.c line 135 :Illegal LHS
+wizards/astarel/psi/psicombat2.c line 136 :Illegal LHS
+wizards/astarel/psi/psicombat2.c line 136 :syntax error
+wizards/astarel/psi/psicombat2.c line 137 :Illegal LHS
+wizards/astarel/psi/psicombat2.c line 137 :syntax error
+wizards/astarel/psi/psicombat3.c line 133 :syntax error
+wizards/astarel/psi/psicombat3.c line 135 :Illegal LHS
+wizards/astarel/psi/psicombat3.c line 136 :Illegal LHS
+wizards/astarel/psi/psicombat3.c line 136 :syntax error
+wizards/astarel/psi/psicombat3.c line 137 :Illegal LHS
+wizards/astarel/psi/psicombat3.c line 137 :syntax error
+wizards/astarel/psi/psicombat4.c line 152 :Variable BASE_SPECIAL not declared !
+wizards/astarel/psi/psicombat4.c line 153 :Undefined function query_skill
+wizards/astarel/psi/psicombat4.c line 155 :Variable SPECIAL_DEATH_CHANCE not declared !
+wizards/astarel/psi/psicombat4.c line 170 :Return type not matching: "void "
+wizards/astarel/psi/psicombat4.c line 154 :Undefined function query_skill
+wizards/astarel/psi/psicombat4.c line 156 :Variable SPECIAL_DEATH_CHANCE not declared !
+wizards/astarel/psi/psicombat4.c line 171 :Return type not matching: "void "
+wizards/astarel/psi/psicombat4.c line 154 :Undefined function query_skill
+wizards/astarel/psi/psicombat4.c line 154 :Undefined function query_skills
+wizards/astarel/misc/psikeppi.c line 34 :syntax error
+wizards/astarel/misc/psikeppi.c line 35 :Illegal LHS
+wizards/astarel/misc/psikeppi.c line 35 :syntax error
+wizards/astarel/misc/psikeppi.c line 37 :Variable this_player not declared !
+wizards/astarel/psi/psicombat.c line 151 :syntax error
+wizards/astarel/psi/psicombat.c line 71 :syntax error
+wizards/astarel/psi/psicombat.c line 72 :Illegal LHS
+wizards/astarel/psi/psicombat.c line 128 :syntax error
+wizards/astarel/psi/psicombat.c line 147 :Illegal LHS
+wizards/astarel/psi/psicombat.c line 147 :syntax error
+wizards/astarel/psi/psicombat.c line 168 :Illegal LHS
+wizards/astarel/psi/psicombat.c line 169 :Illegal LHS
+wizards/astarel/psi/psicombat.c line 169 :syntax error
+wizards/astarel/psi/psicombat2.c line 128 :syntax error
+wizards/astarel/psi/psicombat2.c line 146 :Illegal LHS
+wizards/astarel/psi/psicombat2.c line 146 :syntax error
+wizards/astarel/psi/psicombat2.c line 167 :Illegal LHS
+wizards/astarel/psi/psicombat2.c line 168 :Illegal LHS
+wizards/astarel/psi/psicombat2.c line 168 :syntax error
+wizards/astarel/psi/shake_mind.c line 24 :Variable PSI_LEVELLIMIT not declared !
+wizards/astarel/psi/shake_mind.c line 35 :syntax error
+wizards/astarel/psi/shake_mind.c line 41 :Illegal LHS
+wizards/astarel/psi/shake_mind.c line 41 :syntax error
+wizards/astarel/psi/shake_mind.c line 42 :Illegal LHS
+wizards/astarel/psi/shake_mind.c line 42 :syntax error
+wizards/astarel/psi/shake_mind.c line 36 :syntax error
+wizards/astarel/psi/shake_mind.c line 42 :Illegal LHS
+wizards/astarel/psi/shake_mind.c line 42 :syntax error
+wizards/astarel/psi/shake_mind.c line 43 :Illegal LHS
+wizards/astarel/psi/shake_mind.c line 43 :syntax error
+wizards/astarel/psi/shake_mind.c line 44 :Illegal LHS
+wizards/astarel/psi/confuse_shadow.c line 36 :syntax error
+wizards/astarel/psi/psikeppi.c line 35 :syntax error
+wizards/astarel/psi/psikeppi.c line 37 :Illegal LHS
+wizards/astarel/psi/psikeppi.c line 37 :syntax error
+wizards/astarel/psi/psikeppi.c line 57 :Illegal LHS
+wizards/astarel/psi/psikeppi.c line 57 :syntax error
+wizards/astarel/psi/confuse.c line 88 :Variable time not declared !
+wizards/astarel/psi/confuse_shadow.c line 23 :syntax error
+wizards/astarel/psi/confuse_shadow.c line 40 :Illegal LHS
+wizards/astarel/psi/confuse_shadow.c line 40 :syntax error
+wizards/astarel/psi/confuse_shadow.c line 41 :Illegal LHS
+wizards/astarel/psi/confuse_shadow.c line 47 :Variable ob not declared !
+wizards/astarel/psi/confuse_shadow.c line 47 :Illegal LHS
+wizards/astarel/psi/mental_drain.c line 89 :syntax error
+wizards/astarel/psi/mental_drain.c line 108 :Newline in string
+wizards/astarel/psi/mental_drain.c line 112 :Illegal LHS
+wizards/astarel/psi/mental_drain.c line 113 :Too few arguments to write
+wizards/astarel/psi/mental_drain.c line 89 :syntax error
+wizards/astarel/psi/mental_drain.c line 108 :Newline in string
+wizards/astarel/psi/mental_drain.c line 112 :Illegal LHS
+wizards/astarel/psi/mental_drain.c line 113 :Too few arguments to write
+wizards/astarel/psi/psikeppi.c line 41 :Redeclaration of function psiconfuse.
+wizards/astarel/psi/psikeppi.c line 46 :Redeclaration of function psiconfuse.
+wizards/astarel/psi/psikeppi.c line 18 :Newline in string
+wizards/astarel/psi/psikeppi.c line 19 :syntax error
+wizards/astarel/psi/psikeppi.c line 68 :Variable str not declared !
+wizards/astarel/psi/psikeppi.c line 68 :Illegal LHS
+wizards/astarel/psi/psikeppi.c line 68 :syntax error
+wizards/astarel/psi/psikeppi.c line 51 :syntax error
+wizards/astarel/psi/charm.c line 47 :syntax error
+wizards/astarel/psi/charm.c line 58 :Illegal LHS
+wizards/astarel/psi/charm.c line 58 :syntax error
+wizards/astarel/psi/charm.c line 59 :Illegal LHS
+wizards/astarel/psi/charm.c line 59 :syntax error
+wizards/astarel/psi/charm.c line 60 :Illegal LHS
+wizards/astarel/psi/mental_denial.c line 10 :syntax error
+wizards/astarel/psi/mental_denial.c line 14 :syntax error
+wizards/astarel/psi/mental_denial.c line 31 :syntax error
+wizards/astarel/psi/mental_denial.c line 38 :Variable target not declared !
+wizards/astarel/psi/psikeppi.c line 45 :Bad argument 1 type to efun interactive()
+wizards/astarel/psi/psikeppi.c line 61 :== always false because of different types: "string "
+wizards/astarel/psi/psikeppi.c line 61 :                               compared to: "int "
+wizards/astarel/psi/psikeppi.c line 63 :syntax error
+wizards/astarel/psi/psikeppi.c line 65 :Illegal LHS
+wizards/astarel/psi/psikeppi.c line 63 :syntax error
+wizards/astarel/psi/psikeppi.c line 65 :Illegal LHS
+wizards/astarel/psi/psikeppi.c line 70 :Variable temp not declared !
+wizards/astarel/psi/psikeppi.c line 70 :Type mismatch ( unknown vs mixed ) when initializing poks
+wizards/astarel/psi/psikeppi.c line 70 :Missing type
+wizards/astarel/psi/psikeppi.c line 71 :syntax error
+wizards/astarel/psi/psikeppi.c line 62 :Illegal character constant
+wizards/astarel/psi/psikeppi.c line 72 :Variable temp not declared !
+wizards/astarel/psi/psikeppi.c line 72 :Type mismatch ( unknown vs mixed ) when initializing poks
+wizards/astarel/psi/psikeppi.c line 72 :Missing type
+wizards/astarel/psi/psikeppi.c line 73 :syntax error
+wizards/astarel/psi/psikeppi.c line 72 :Variable temp not declared !
+wizards/astarel/psi/psikeppi.c line 72 :Type mismatch ( unknown vs mixed ) when initializing poks
+wizards/astarel/psi/psikeppi.c line 72 :Missing type
+wizards/astarel/psi/psikeppi.c line 73 :syntax error
+wizards/astarel/psi/psikeppi.c line 62 :Illegal character constant
+wizards/astarel/psi/psikeppi.c line 63 :syntax error
+wizards/astarel/psi/psikeppi.c line 63 :Illegal character (hex 5c) '\'
+wizards/astarel/psi/psikeppi.c line 65 :Illegal LHS
+wizards/astarel/psi/psikeppi.c line 71 :Illegal LHS
+wizards/astarel/psi/psikeppi.c line 71 :syntax error
+wizards/astarel/psi/psikeppi.c line 72 :Illegal LHS
+wizards/astarel/psi/psikeppi.c line 63 :Illegal character (hex 5c) '\'
+wizards/astarel/psi/psikeppi.c line 63 :syntax error
+wizards/astarel/psi/psikeppi.c line 71 :Illegal LHS
+wizards/astarel/psi/psikeppi.c line 71 :Illegal LHS
+wizards/astarel/psi/psikeppi.c line 71 :syntax error
+wizards/astarel/psi/psikeppi.c line 130 :Illegal LHS
+wizards/astarel/psi/psikeppi.c line 63 :Illegal character (hex 5c) '\'
+wizards/astarel/psi/psikeppi.c line 63 :syntax error
+wizards/astarel/psi/psikeppi.c line 63 :Illegal character (hex 5c) '\'
+wizards/astarel/psi/psikeppi.c line 73 :Illegal LHS
+wizards/astarel/psi/psikeppi.c line 73 :Illegal LHS
+wizards/astarel/psi/psikeppi.c line 73 :syntax error
+wizards/astarel/psi/psikeppi.c line 63 :Bad assignment. Rhs: "string * "
+wizards/astarel/psi/psikeppi.c line 64 :Bad argument 1 type to efun sizeof()
+wizards/astarel/psi/psikeppi.c line 45 :syntax error
+wizards/astarel/psi/psikeppi.c line 45 :syntax error
+wizards/astarel/psi/psikeppi.c line 1 :Cannot #include /sys/ansi
+wizards/astarel/psi/psikeppi.c line 97 :Variable BOLD not declared !
+wizards/astarel/psi/psikeppi.c line 97 :Variable CYAN_F not declared !
+wizards/astarel/psi/psikeppi.c line 97 :Variable OFF not declared !
+wizards/astarel/psi/psikeppi.c line 138 :syntax error
+wizards/astarel/psi/psikeppi.c line 138 :syntax error
+wizards/astarel/psi/psikeppi.c line 156 :syntax error
+wizards/astarel/psi/psikeppi.c line 157 :Illegal LHS
+wizards/astarel/psi/psikeppi.c line 157 :syntax error
+wizards/astarel/psi/psikeppi.c line 158 :Illegal LHS
+wizards/astarel/psi/psikeppi.c line 161 :Illegal LHS
+wizards/astarel/psi/psikeppi.c line 161 :syntax error
+wizards/astarel/psi/mental_view.c line 133 :syntax error
+wizards/astarel/psi/psikeppi.c line 84 :syntax error
+wizards/astarel/psi/psikeppi.c line 85 :syntax error
+wizards/astarel/psi/psikeppi.c line 90 :Illegal LHS
+wizards/astarel/psi/psikeppi.c line 90 :syntax error
+wizards/astarel/psi/psikeppi.c line 92 :syntax error
+wizards/astarel/psi/psikeppi.c line 108 :Illegal LHS
+wizards/astarel/psi/psikeppi.c line 85 :syntax error
+wizards/astarel/psi/psikeppi.c line 90 :Illegal LHS
+wizards/astarel/psi/psikeppi.c line 90 :syntax error
+wizards/astarel/psi/psikeppi.c line 92 :syntax error
+wizards/astarel/psi/psikeppi.c line 108 :Illegal LHS
+wizards/astarel/psi/psikeppi.c line 108 :syntax error
+wizards/astarel/psi/psikeppi.c line 92 :syntax error
+wizards/astarel/psi/psikeppi.c line 108 :Illegal LHS
+wizards/astarel/psi/psikeppi.c line 108 :syntax error
+wizards/astarel/psi/psikeppi.c line 110 :Variable str not declared !
+wizards/astarel/psi/psikeppi.c line 110 :Illegal LHS
+wizards/astarel/psi/psikeppi.c line 111 :Illegal LHS
+wizards/astarel/psi/psikeppi.c line 86 :syntax error
+wizards/astarel/psi/psikeppi.c line 102 :Illegal LHS
+wizards/astarel/psi/psikeppi.c line 102 :syntax error
+wizards/astarel/psi/psikeppi.c line 104 :Variable str not declared !
+wizards/astarel/psi/psikeppi.c line 104 :Illegal LHS
+wizards/astarel/psi/psikeppi.c line 105 :Illegal LHS
+wizards/astarel/psi/psikeppi.c line 88 :Variable esult not declared !
+wizards/astarel/psi/mental_scan.c line 55 :syntax error
+wizards/astarel/psi/mental_scan.c line 59 :Illegal LHS
+wizards/astarel/psi/mental_scan.c line 59 :syntax error
+wizards/astarel/psi/mental_scan.c line 75 :Illegal LHS
+wizards/astarel/psi/mental_scan.c line 75 :syntax error
+wizards/astarel/psi/mental_scan.c line 76 :Illegal LHS
+wizards/astarel/psi/mental_scan.c line 73 :Variable target not declared !
+wizards/astarel/psi/mental_expansion_shadow.c line 18 :syntax error
+wizards/astarel/psi/psikeppi.c line 43 :Variable str not declared !
+wizards/astarel/psi/psikeppi.c line 51 :Variable str not declared !
+wizards/astarel/psi/psikeppi.c line 51 :Variable str not declared !
+wizards/astarel/psi/iron_will.c line 26 :Variable chance not declared !
+wizards/astarel/cmds/bugs.c line 2 :syntax error
+wizards/astarel/psi/psi_guild.c line 49 :Variable skills not declared !
+wizards/astarel/psi/psi_guild.c line 50 :Variable skills not declared !
+wizards/astarel/psi/psi_guild.c line 51 :Variable skills not declared !
+wizards/astarel/psi/psi_guild.c line 52 :Variable skills not declared !
+wizards/astarel/psi/psi_guild.c line 53 :Variable skills not declared !
+wizards/astarel/psi/psi_guild.c line 54 :Variable skills not declared !
+wizards/astarel/psi/psi_guild.c line 46 :Variable skills not declared !
+wizards/astarel/psi/psi_guild.c line 49 :Variable skills not declared !
+wizards/astarel/psi/psi_guild.c line 50 :Variable skills not declared !
+wizards/astarel/psi/psi_guild.c line 51 :Variable skills not declared !
+wizards/astarel/psi/psi_guild.c line 52 :Variable skills not declared !
+wizards/astarel/psi/psi_guild.c line 53 :Variable skills not declared !
+wizards/astarel/psi/psi_guild.c line 46 :Variable skills not declared !
+wizards/astarel/psi/psi_guild.c line 49 :Variable skills not declared !
+wizards/astarel/psi/psi_guild.c line 50 :Variable skills not declared !
+wizards/astarel/psi/psi_guild.c line 51 :Variable skills not declared !
+wizards/astarel/psi/psi_guild.c line 52 :Variable skills not declared !
+wizards/astarel/psi/psi_guild.c line 53 :Variable skills not declared !
+wizards/astarel/psi/psikeppi.c line 120 :syntax error
+wizards/astarel/psi/psikeppi.c line 146 :syntax error
+wizards/astarel/psi/psikeppi.c line 152 :Variable kummamerkit not declared !
+wizards/astarel/psi/psikeppi.c line 154 :Variable str not declared !
+wizards/astarel/psi/psikeppi.c line 155 :Variable temp not declared !
+wizards/astarel/psi/psikeppi.c line 156 :Variable a not declared !
+wizards/astarel/psi/psikeppi.c line 120 :syntax error
+wizards/astarel/psi/psikeppi.c line 133 :syntax error
+wizards/astarel/psi/psikeppi.c line 135 :Illegal LHS
+wizards/astarel/psi/psikeppi.c line 138 :syntax error
+wizards/astarel/psi/psikeppi.c line 147 :syntax error
+wizards/astarel/psi/psikeppi.c line 153 :Variable kummamerkit not declared !
+wizards/astarel/psi/psikeppi.c line 155 :Variable str not declared !
+wizards/astarel/psi/psikeppi.c line 137 :syntax error
+wizards/astarel/psi/mental_balance.c line 15 :Variable SP_NEEDED not declared !
+wizards/astarel/psi/mental_expansion.c line 6 :syntax error
+wizards/astarel/psi/psicombat.c line 196 :Variable target not declared !
+wizards/astarel/lotto/lotto.c line 536 :Variable ctime not declared !
+wizards/astarel/lotto/lotto.c line 555 :Variable ctime not declared !
+wizards/astarel/psi/psicombat.c line 152 :syntax error
+wizards/astarel/cmds/ceepee.c line 24 :Variable current_path not declared !
+wizards/astarel/cmds/ceepee.c line 34 :Undefined function bad_file
+wizards/astarel/cmds/ceepee.c line 47 :Function bad_file undefined
+wizards/astarel/cmds/ceepee.c line 47 :Wrong number of arguments to bad_file
+wizards/astarel/cmds/ceepee.c line 70 :Variable path_out not declared !
+wizards/astarel/cmds/ceepee.c line 75 :Undefined function wildcard_format
+wizards/astarel/cmds/ceepee.c line 9 :syntax error
+wizards/astarel/cmds/ceepee.c line 25 :syntax error
+wizards/astarel/cmds/ceepee.c line 26 :Illegal LHS
+wizards/astarel/cmds/ceepee.c line 27 :syntax error
+wizards/astarel/cmds/ceepee.c line 32 :Illegal LHS
+wizards/astarel/cmds/ceepee.c line 32 :syntax error
+wizards/astarel/cmds/ceepee.c line 36 :syntax error
+wizards/astarel/cmds/ceepee.c line 37 :Undefined function bad_file
+wizards/astarel/cmds/ceepee.c line 50 :Function bad_file undefined
+wizards/astarel/cmds/ceepee.c line 50 :Wrong number of arguments to bad_file
+wizards/astarel/cmds/ceepee.c line 73 :Variable path_out not declared !
+wizards/astarel/cmds/ceepee.c line 78 :Undefined function wildcard_format
+wizards/astarel/cmds/ceepee.c line 85 :Function wildcard_format undefined
+wizards/astarel/cmds/ceepee.c line 73 :Variable path_out not declared !
+wizards/astarel/cmds/ceepee.c line 78 :Undefined function wildcard_format
+wizards/astarel/cmds/ceepee.c line 85 :Function wildcard_format undefined
+wizards/astarel/cmds/ceepee.c line 85 :Wrong number of arguments to wildcard_format
+wizards/astarel/cmds/ceepee.c line 85 :Bad assignment. Rhs: "unknown "
+wizards/astarel/cmds/ceepee.c line 87 :Undefined function format_number
+wizards/astarel/cmds/ceepee.c line 79 :Undefined function wildcard_format
+wizards/astarel/cmds/ceepee.c line 86 :Function wildcard_format undefined
+wizards/astarel/cmds/ceepee.c line 86 :Wrong number of arguments to wildcard_format
+wizards/astarel/cmds/ceepee.c line 86 :Bad assignment. Rhs: "unknown "
+wizards/astarel/cmds/ceepee.c line 88 :Undefined function format_number
+wizards/astarel/cmds/ceepee.c line 88 :Function format_number undefined
+wizards/astarel/misc/vboard.c line 37 :syntax error
+wizards/astarel/misc/vboard.c line 61 :syntax error
+wizards/astarel/misc/vboard.c line 61 :Illegal LHS
+wizards/astarel/misc/vboard.c line 61 :syntax error
+wizards/astarel/misc/vboard.c line 65 :Illegal LHS
+wizards/astarel/misc/vboard.c line 66 :Illegal LHS
+wizards/astarel/misc/vboard.c line 66 :syntax error
+wizards/astarel/misc/vboard.c line 61 :syntax error
+wizards/astarel/misc/vboard.c line 61 :Illegal LHS
+wizards/astarel/misc/vboard.c line 61 :syntax error
+wizards/astarel/misc/vboard.c line 65 :Illegal LHS
+wizards/astarel/misc/vboard.c line 66 :Illegal LHS
+wizards/astarel/misc/vboard.c line 66 :syntax error
+wizards/astarel/misc/vboard.c line 61 :syntax error
+wizards/astarel/misc/vboard.c line 61 :syntax error
+wizards/astarel/misc/vboard.c line 65 :Illegal LHS
+wizards/astarel/misc/vboard.c line 66 :Illegal LHS
+wizards/astarel/misc/vboard.c line 66 :syntax error
+wizards/astarel/misc/vboard.c line 67 :Illegal LHS
+wizards/astarel/misc/vboard.c line 61 :syntax error
+wizards/astarel/misc/vboard.c line 61 :syntax error
+wizards/astarel/misc/vboard.c line 65 :Illegal LHS
+wizards/astarel/misc/vboard.c line 66 :Illegal LHS
+wizards/astarel/misc/vboard.c line 66 :syntax error
+wizards/astarel/misc/vboard.c line 67 :Illegal LHS
+wizards/astarel/misc/vboard.c line 61 :syntax error
+wizards/astarel/misc/vboard.c line 61 :Illegal LHS
+wizards/astarel/misc/vboard.c line 61 :syntax error
+wizards/astarel/misc/vboard.c line 65 :Illegal LHS
+wizards/astarel/misc/vboard.c line 66 :Illegal LHS
+wizards/astarel/misc/vboard.c line 66 :syntax error
+wizards/astarel/misc/vboard.c line 63 :syntax error
+wizards/astarel/misc/vboard.c line 64 :Illegal LHS
+wizards/astarel/misc/vboard.c line 64 :syntax error
+wizards/astarel/misc/vboard.c line 65 :Illegal LHS
+wizards/astarel/misc/vboard.c line 69 :Illegal LHS
+wizards/astarel/misc/vboard.c line 70 :Illegal LHS
+wizards/astarel/misc/vboard.c line 63 :syntax error
+wizards/astarel/misc/vboard.c line 64 :Illegal LHS
+wizards/astarel/misc/vboard.c line 64 :syntax error
+wizards/astarel/misc/vboard.c line 65 :Illegal LHS
+wizards/astarel/misc/vboard.c line 69 :Illegal LHS
+wizards/astarel/misc/vboard.c line 70 :Illegal LHS
+wizards/astarel/misc/vboard.c line 63 :syntax error
+wizards/astarel/misc/vboard.c line 64 :Illegal LHS
+wizards/astarel/misc/vboard.c line 64 :syntax error
+wizards/astarel/misc/vboard.c line 65 :Illegal LHS
+wizards/astarel/misc/vboard.c line 65 :syntax error
+wizards/astarel/misc/vboard.c line 66 :Illegal LHS
+wizards/astarel/misc/vboard.c line 63 :syntax error
+wizards/astarel/misc/vboard.c line 64 :Illegal LHS
+wizards/astarel/misc/vboard.c line 64 :syntax error
+wizards/astarel/misc/vboard.c line 65 :Illegal LHS
+wizards/astarel/misc/vboard.c line 65 :syntax error
+wizards/astarel/misc/vboard.c line 66 :Illegal LHS
+wizards/astarel/misc/vboard.c line 64 :syntax error
+wizards/astarel/misc/vboard.c line 64 :Illegal LHS
+wizards/astarel/misc/vboard.c line 64 :syntax error
+wizards/astarel/misc/vboard.c line 98 :Illegal LHS
+wizards/astarel/misc/vboard.c line 98 :syntax error
+wizards/astarel/misc/vboard.c line 64 :syntax error
+wizards/astarel/misc/vboard.c line 64 :Illegal LHS
+wizards/astarel/misc/vboard.c line 64 :syntax error
+wizards/astarel/misc/vboard.c line 98 :Illegal LHS
+wizards/astarel/misc/vboard.c line 98 :syntax error
+wizards/astarel/misc/vboard.c line 64 :syntax error
+wizards/astarel/misc/vboard.c line 99 :Illegal LHS
+wizards/astarel/misc/vboard.c line 99 :syntax error
+wizards/astarel/misc/vboard.c line 64 :syntax error
+wizards/astarel/misc/vboard.c line 99 :Illegal LHS
+wizards/astarel/misc/vboard.c line 99 :syntax error
+wizards/astarel/misc/vboard.c line 64 :syntax error
+wizards/astarel/misc/vboard.c line 99 :Illegal LHS
+wizards/astarel/misc/vboard.c line 99 :syntax error
+wizards/astarel/misc/vboard.c line 64 :syntax error
+wizards/astarel/misc/vboard.c line 99 :Illegal LHS
+wizards/astarel/misc/vboard.c line 99 :syntax error
+wizards/astarel/misc/vboard.c line 64 :syntax error
+wizards/astarel/misc/vboard.c line 99 :Illegal LHS
+wizards/astarel/misc/vboard.c line 99 :syntax error
+wizards/astarel/misc/vboard.c line 54 :Variable X not declared !
+wizards/astarel/misc/vboard.c line 103 :Variable X not declared !
+wizards/astarel/misc/vboard.c line 94 :Variable str not declared !
+wizards/astarel/misc/vboard.c line 94 :Variable str not declared !
+wizards/astarel/misc/vboard.c line 94 :Variable topis not declared !
+wizards/astarel/misc/vboard.c line 276 :syntax error
+wizards/astarel/misc/vboard.c line 268 :syntax error
+wizards/astarel/eval_file.c line 2 :Variable time not declared !
+wizards/astarel/psi/mental_scan.c line 66 :Variable SP_NEEDED not declared !
+wizards/astarel/psi/mental_scan.c line 71 :Variable SP_NEEDED not declared !
+wizards/astarel/psi/psikeppi.c line 181 :syntax error
+wizards/astarel/psi/psikeppi.c line 183 :syntax error
+wizards/astarel/psi/psikeppi.c line 192 :syntax error
+wizards/astarel/psi/psikeppi.c line 193 :syntax error
+wizards/astarel/psi/psikeppi.c line 194 :syntax error
+wizards/astarel/psi/psikeppi.c line 208 :syntax error
+wizards/astarel/psi/psikeppi.c line 181 :syntax error
+wizards/astarel/psi/psikeppi.c line 181 :Illegal LHS
+wizards/astarel/psi/psiorb.c line 10 :syntax error
+wizards/astarel/psi/psiorb.c line 42 :Variable str not declared !
+wizards/astarel/psi/psiorb.c line 42 :syntax error
+wizards/astarel/psi/psiorb.c line 54 :Variable target not declared !
+wizards/astarel/psi/psiorb.c line 54 :Variable target not declared !
+wizards/astarel/psi/psiorb.c line 54 :Illegal LHS
+wizards/astarel/psi/psiorb.c line 25 :function not defined by inheritance as specified
+wizards/astarel/psi/psiorb.c line 38 :syntax error
+wizards/astarel/psi/psiorb.c line 42 :syntax error
+wizards/astarel/psi/psiorb.c line 54 :Illegal LHS
+wizards/astarel/psi/psiorb.c line 54 :syntax error
+wizards/astarel/psi/psiorb.c line 37 :syntax error
+wizards/astarel/psi/psiorb.c line 41 :syntax error
+wizards/astarel/psi/psiorb.c line 53 :Illegal LHS
+wizards/astarel/psi/psiorb.c line 53 :syntax error
+wizards/astarel/psi/psiorb.c line 41 :syntax error
+wizards/astarel/psi/psiorb.c line 53 :Illegal LHS
+wizards/astarel/psi/psiorb.c line 53 :syntax error
+wizards/astarel/eval_file.c line 2 :Too many arguments to clone_object
+wizards/astarel/eval_file.c line 2 :Bad argument 1 type to efun clone_object()
+wizards/astarel/eval_file.c line 2 :syntax error
+wizards/astarel/psi/mental_scan.c line 98 :Variable poks not declared !
+wizards/astarel/psi/psicombat.c line 140 :Variable UNDEAD_STUN not declared !
+wizards/astarel/horde.c line 318 :syntax error
+wizards/astarel/horde.c line 323 :Illegal LHS
+wizards/astarel/horde.c line 323 :syntax error
+wizards/astarel/horde.c line 324 :Variable spcost not declared !
+wizards/astarel/horde.c line 324 :Illegal LHS
+wizards/astarel/horde.c line 324 :syntax error
+wizards/astarel/horde.c line 319 :Variable type not declared !
+wizards/astarel/horde.c line 319 :Variable amount not declared !
+wizards/astarel/horde.c line 320 :Variable type not declared !
+wizards/astarel/horde.c line 323 :Variable spcost not declared !
+wizards/astarel/horde.c line 324 :Variable spcost not declared !
+wizards/astarel/horde.c line 324 :Variable spcost not declared !
+wizards/astarel/horde.c line 319 :Variable type not declared !
+wizards/astarel/horde.c line 319 :Variable amount not declared !
+wizards/astarel/horde.c line 320 :Variable type not declared !
+wizards/astarel/horde.c line 323 :Variable spcost not declared !
+wizards/astarel/horde.c line 324 :Variable spcost not declared !
+wizards/astarel/horde.c line 324 :Variable spcost not declared !
+wizards/astarel/horde.c line 320 :Variable type not declared !
+wizards/astarel/horde.c line 320 :Variable amount not declared !
+wizards/astarel/horde.c line 321 :Variable type not declared !
+wizards/astarel/horde.c line 332 :Variable amount not declared !
+wizards/astarel/horde.c line 333 :Variable type not declared !
+wizards/astarel/horde.c line 335 :Variable type not declared !
+wizards/astarel/horde.c line 320 :Variable type not declared !
+wizards/astarel/horde.c line 320 :Variable amount not declared !
+wizards/astarel/horde.c line 321 :Variable type not declared !
+wizards/astarel/horde.c line 332 :Variable amount not declared !
+wizards/astarel/horde.c line 333 :Variable type not declared !
+wizards/astarel/horde.c line 335 :Variable type not declared !
+wizards/astarel/horde.c line 320 :Variable type not declared !
+wizards/astarel/horde.c line 321 :Variable type not declared !
+wizards/astarel/horde.c line 333 :Variable type not declared !
+wizards/astarel/horde.c line 335 :Variable type not declared !
+wizards/astarel/horde.c line 232 :Variable c_ethe not declared !
+wizards/astarel/horde.c line 232 :Variable c_grea not declared !
+wizards/astarel/horde.c line 232 :Variable c_corp not declared !
+wizards/astarel/horde.c line 232 :Type mismatch ( unknown vs mixed ) when initializing level
+wizards/astarel/horde.c line 232 :Missing type
+wizards/astarel/horde.c line 233 :syntax error
+wizards/astarel/workroom.c line 45 :Unrecognized inheritance modifier qualifier
+wizards/astarel/workroom.c line 45 :Unrecognized inheritance modifier qualifier
+wizards/astarel/workroom.c line 45 :syntax error
+wizards/astarel/horde.c line 95 :syntax error
+wizards/astarel/horde.c line 108 :Illegal LHS
+wizards/astarel/horde.c line 108 :syntax error
+wizards/astarel/horde.c line 110 :Illegal LHS
+wizards/astarel/horde.c line 110 :syntax error
+wizards/astarel/horde.c line 121 :Illegal LHS
+wizards/astarel/horde.c line 101 :syntax error
+wizards/astarel/horde.c line 101 :syntax error
+wizards/astarel/horde.c line 91 :Too few arguments to tell_room
+wizards/astarel/horde.c line 91 :syntax error
+wizards/astarel/horde.c line 104 :Illegal LHS
+wizards/astarel/horde.c line 105 :Variable ob not declared !
+wizards/astarel/horde.c line 106 :Variable i not declared !
+wizards/astarel/horde.c line 107 :Variable ob not declared !
+wizards/astarel/horde.c line 91 :Too few arguments to tell_room
+wizards/astarel/horde.c line 91 :syntax error
+wizards/astarel/horde.c line 104 :Illegal LHS
+wizards/astarel/horde.c line 105 :Variable ob not declared !
+wizards/astarel/horde.c line 106 :Variable i not declared !
+wizards/astarel/horde.c line 107 :Variable ob not declared !
+wizards/astarel/horde.c line 91 :syntax error
+wizards/astarel/horde.c line 104 :Illegal LHS
+wizards/astarel/horde.c line 104 :syntax error
+wizards/astarel/horde.c line 106 :Illegal LHS
+wizards/astarel/horde.c line 106 :syntax error
+wizards/astarel/horde.c line 117 :Illegal LHS
+wizards/astarel/horde.c line 91 :syntax error
+wizards/astarel/horde.c line 104 :Illegal LHS
+wizards/astarel/horde.c line 104 :syntax error
+wizards/astarel/horde.c line 106 :Illegal LHS
+wizards/astarel/horde.c line 106 :syntax error
+wizards/astarel/horde.c line 117 :Illegal LHS
+wizards/astarel/horde.c line 91 :syntax error
+wizards/astarel/horde.c line 104 :Illegal LHS
+wizards/astarel/horde.c line 104 :syntax error
+wizards/astarel/horde.c line 106 :Illegal LHS
+wizards/astarel/horde.c line 106 :syntax error
+wizards/astarel/horde.c line 117 :Illegal LHS
+wizards/astarel/horde.c line 91 :Variable temp not declared !
+wizards/astarel/horde.c line 20 :syntax error
+wizards/astarel/horde.c line 20 :syntax error
+wizards/astarel/horde.c line 317 :syntax error
+wizards/astarel/horde.c line 317 :Newline in string
+wizards/astarel/horde.c line 317 :syntax error
+wizards/astarel/horde.c line 317 :Newline in string
+wizards/astarel/horde.c line 317 :syntax error
+wizards/astarel/horde.c line 317 :Newline in string
+wizards/astarel/horde.c line 90 :syntax error
+wizards/astarel/horde.c line 97 :syntax error
+wizards/astarel/horde.c line 100 :Illegal LHS
+wizards/astarel/horde.c line 100 :syntax error
+wizards/astarel/horde.c line 102 :Illegal LHS
+wizards/astarel/horde.c line 102 :syntax error
+wizards/astarel/horde.c line 87 :syntax error
+wizards/astarel/horde.c line 100 :Illegal LHS
+wizards/astarel/horde.c line 100 :syntax error
+wizards/astarel/horde.c line 102 :Illegal LHS
+wizards/astarel/horde.c line 102 :syntax error
+wizards/astarel/horde.c line 113 :Illegal LHS
+wizards/astarel/horde.c line 87 :syntax error
+wizards/astarel/horde.c line 100 :Illegal LHS
+wizards/astarel/horde.c line 100 :syntax error
+wizards/astarel/horde.c line 102 :Illegal LHS
+wizards/astarel/horde.c line 102 :syntax error
+wizards/astarel/horde.c line 113 :Illegal LHS
+wizards/astarel/horde.c line 177 :Variable this_object not declared !
+wizards/astarel/horde.c line 156 :Variable hits_per_round not declared !
+wizards/astarel/horde.c line 156 :Variable hits_per_round not declared !
+wizards/astarel/horde.c line 279 :syntax error
+wizards/astarel/horde.c line 284 :syntax error
+wizards/astarel/horde.c line 285 :Illegal LHS
+wizards/astarel/horde.c line 314 :syntax error
+wizards/astarel/horde.c line 314 :syntax error
+wizards/astarel/psi/psicombat.c line 199 :syntax error
+wizards/astarel/horde.c line 284 :Variable dk_flag not declared !
+wizards/astarel/horde.c line 232 :syntax error
+wizards/astarel/horde.c line 33 :syntax error
+wizards/astarel/horde.c line 39 :syntax error
+wizards/astarel/horde.c line 40 :Illegal LHS
+wizards/astarel/horde.c line 66 :Illegal LHS
+wizards/astarel/horde.c line 66 :syntax error
+wizards/astarel/horde.c line 78 :Variable ob not declared !
+wizards/astarel/horde.c line 403 :syntax error
+wizards/astarel/horde.c line 405 :Variable str not declared !
+wizards/astarel/horde.c line 406 :Variable str not declared !
+wizards/astarel/horde.c line 407 :Variable str not declared !
+wizards/astarel/horde.c line 416 :Variable str not declared !
+wizards/astarel/horde.c line 417 :Variable str not declared !
+wizards/astarel/horde.c line 403 :syntax error
+wizards/astarel/horde.c line 405 :Variable str not declared !
+wizards/astarel/horde.c line 406 :Variable str not declared !
+wizards/astarel/horde.c line 407 :Variable str not declared !
+wizards/astarel/horde.c line 416 :Variable str not declared !
+wizards/astarel/horde.c line 417 :Variable str not declared !
+wizards/astarel/horde.c line 257 :syntax error
+wizards/astarel/horde.c line 283 :Variable str not declared !
+wizards/astarel/horde.c line 283 :Illegal LHS
+wizards/astarel/horde.c line 292 :Illegal LHS
+wizards/astarel/horde.c line 292 :syntax error
+wizards/astarel/horde.c line 308 :Illegal LHS
+wizards/astarel/horde.c line 257 :syntax error
+wizards/astarel/horde.c line 283 :Variable str not declared !
+wizards/astarel/horde.c line 283 :Illegal LHS
+wizards/astarel/horde.c line 292 :Illegal LHS
+wizards/astarel/horde.c line 292 :syntax error
+wizards/astarel/horde.c line 308 :Illegal LHS
+wizards/astarel/horde.c line 257 :syntax error
+wizards/astarel/horde.c line 283 :Variable str not declared !
+wizards/astarel/horde.c line 283 :Illegal LHS
+wizards/astarel/horde.c line 292 :Illegal LHS
+wizards/astarel/horde.c line 292 :syntax error
+wizards/astarel/horde.c line 308 :Illegal LHS
+wizards/astarel/horde.c line 257 :syntax error
+wizards/astarel/horde.c line 283 :Variable str not declared !
+wizards/astarel/horde.c line 283 :Illegal LHS
+wizards/astarel/horde.c line 292 :Illegal LHS
+wizards/astarel/horde.c line 292 :syntax error
+wizards/astarel/horde.c line 308 :Illegal LHS
+wizards/astarel/horde.c line 257 :syntax error
+wizards/astarel/horde.c line 283 :Variable str not declared !
+wizards/astarel/horde.c line 283 :Illegal LHS
+wizards/astarel/horde.c line 292 :Illegal LHS
+wizards/astarel/horde.c line 292 :syntax error
+wizards/astarel/horde.c line 308 :Illegal LHS
+wizards/astarel/horde.c line 257 :syntax error
+wizards/astarel/horde.c line 283 :Variable str not declared !
+wizards/astarel/horde.c line 283 :Illegal LHS
+wizards/astarel/horde.c line 292 :Illegal LHS
+wizards/astarel/horde.c line 292 :syntax error
+wizards/astarel/horde.c line 308 :Illegal LHS
+wizards/astarel/horde.c line 257 :syntax error
+wizards/astarel/horde.c line 283 :Variable str not declared !
+wizards/astarel/horde.c line 283 :Illegal LHS
+wizards/astarel/horde.c line 292 :Illegal LHS
+wizards/astarel/horde.c line 292 :syntax error
+wizards/astarel/horde.c line 308 :Illegal LHS
+wizards/astarel/horde.c line 257 :syntax error
+wizards/astarel/horde.c line 283 :Variable str not declared !
+wizards/astarel/horde.c line 283 :Illegal LHS
+wizards/astarel/horde.c line 292 :Illegal LHS
+wizards/astarel/horde.c line 292 :syntax error
+wizards/astarel/horde.c line 308 :Illegal LHS
+wizards/astarel/horde.c line 257 :syntax error
+wizards/astarel/horde.c line 283 :Variable str not declared !
+wizards/astarel/horde.c line 283 :Illegal LHS
+wizards/astarel/horde.c line 292 :Illegal LHS
+wizards/astarel/horde.c line 292 :syntax error
+wizards/astarel/horde.c line 308 :Illegal LHS
+wizards/astarel/horde.c line 257 :syntax error
+wizards/astarel/horde.c line 283 :Variable str not declared !
+wizards/astarel/horde.c line 283 :Illegal LHS
+wizards/astarel/horde.c line 292 :Illegal LHS
+wizards/astarel/horde.c line 292 :syntax error
+wizards/astarel/horde.c line 308 :Illegal LHS
+wizards/astarel/horde.c line 118 :Too many arguments to environment
+wizards/astarel/horde.c line 118 :syntax error
+wizards/astarel/horde.c line 129 :Illegal LHS
+wizards/astarel/horde.c line 129 :syntax error
+wizards/astarel/horde.c line 143 :Illegal LHS
+wizards/astarel/horde.c line 143 :syntax error
+wizards/astarel/horde.c line 118 :Too many arguments to environment
+wizards/astarel/horde.c line 118 :syntax error
+wizards/astarel/horde.c line 129 :Illegal LHS
+wizards/astarel/horde.c line 129 :syntax error
+wizards/astarel/horde.c line 143 :Illegal LHS
+wizards/astarel/horde.c line 143 :syntax error
+wizards/astarel/horde.c line 230 :Variable tmp2 not declared !
+wizards/astarel/horde.c line 230 :Variable tmp2 not declared !
+wizards/astarel/feature.c line 13 :syntax error
+wizards/astarel/horde.c line 335 :syntax error
+wizards/astarel/horde.c line 338 :Variable obs not declared !
+wizards/astarel/horde.c line 339 :Variable obs not declared !
+wizards/astarel/horde.c line 339 :Variable obs not declared !
+wizards/astarel/horde.c line 340 :Variable obs not declared !
+wizards/astarel/horde.c line 341 :Variable obs not declared !
+wizards/astarel/misc/box.c line 56 :syntax error
+wizards/astarel/eval_file.c line 2 :Variable wizards not declared !
+wizards/astarel/eval_file.c line 2 :Bad argument number 1 to '/': "string "
+wizards/astarel/eval_file.c line 2 :Variable astarel not declared !
+wizards/astarel/eval_file.c line 2 :syntax error
+wizards/astarel/eval_file.c line 2 :Newline in string
+wizards/astarel/guildsit.c line 21 :syntax error
+wizards/astarel/guildsit.c line 30 :syntax error
+wizards/astarel/guildsit.c line 21 :syntax error
+wizards/astarel/guildsit.c line 30 :syntax error
+wizards/astarel/guildsit.c line 39 :syntax error
+wizards/astarel/guildsit.c line 39 :syntax error
+wizards/astarel/guildsit.c line 41 :Illegal LHS
+wizards/astarel/guildsit.c line 39 :syntax error
+wizards/astarel/guildsit.c line 41 :Illegal LHS
+wizards/astarel/guildsit.c line 39 :Variable lvlv not declared !
+wizards/astarel/guildsit.c line 48 :syntax error
+wizards/astarel/guildsit.c line 54 :syntax error
+wizards/astarel/guildsit.c line 54 :Illegal LHS
+wizards/astarel/guildsit.c line 61 :syntax error
+wizards/astarel/guildsit.c line 68 :Illegal LHS
+wizards/astarel/guildsit.c line 68 :syntax error
+wizards/astarel/guildsit.c line 80 :syntax error
+wizards/astarel/guildsit.c line 56 :syntax error
+wizards/astarel/guildsit.c line 56 :Illegal LHS
+wizards/astarel/guildsit.c line 56 :syntax error
+wizards/astarel/guildsit.c line 65 :syntax error
+wizards/astarel/guildsit.c line 54 :syntax error
+wizards/astarel/guildsit.c line 56 :Illegal LHS
+wizards/astarel/guildsit.c line 57 :syntax error
+wizards/astarel/guildsit.c line 57 :Illegal LHS
+wizards/astarel/guildsit.c line 58 :syntax error
+wizards/astarel/guildsit.c line 62 :Illegal LHS
+wizards/astarel/guildsit.c line 54 :syntax error
+wizards/astarel/guildsit.c line 56 :Illegal LHS
+wizards/astarel/guildsit.c line 57 :syntax error
+wizards/astarel/guildsit.c line 57 :Illegal LHS
+wizards/astarel/guildsit.c line 58 :syntax error
+wizards/astarel/guildsit.c line 60 :Illegal LHS
+wizards/astarel/guildsit.c line 54 :syntax error
+wizards/astarel/guildsit.c line 56 :Illegal LHS
+wizards/astarel/guildsit.c line 58 :syntax error
+wizards/astarel/guildsit.c line 60 :Illegal LHS
+wizards/astarel/guildsit.c line 62 :syntax error
+wizards/astarel/guildsit.c line 62 :Illegal LHS
+wizards/astarel/guildsit.c line 54 :syntax error
+wizards/astarel/guildsit.c line 56 :Illegal LHS
+wizards/astarel/guildsit.c line 58 :syntax error
+wizards/astarel/guildsit.c line 60 :Illegal LHS
+wizards/astarel/guildsit.c line 62 :syntax error
+wizards/astarel/guildsit.c line 62 :Illegal LHS
+wizards/astarel/guildsit.c line 54 :syntax error
+wizards/astarel/guildsit.c line 56 :Illegal LHS
+wizards/astarel/guildsit.c line 58 :syntax error
+wizards/astarel/guildsit.c line 60 :Illegal LHS
+wizards/astarel/guildsit.c line 62 :syntax error
+wizards/astarel/guildsit.c line 62 :Illegal LHS
+wizards/astarel/guildsit.c line 56 :syntax error
+wizards/astarel/guildsit.c line 56 :Illegal LHS
+wizards/astarel/guildsit.c line 57 :syntax error
+wizards/astarel/guildsit.c line 57 :Illegal LHS
+wizards/astarel/guildsit.c line 78 :syntax error
+wizards/astarel/guildsit.c line 78 :Illegal LHS
+wizards/astarel/guildsit.c line 79 :syntax error
+wizards/astarel/guildsit.c line 79 :Illegal LHS
+wizards/astarel/guildsit.c line 80 :syntax error
+wizards/astarel/guildsit.c line 80 :Illegal LHS
+wizards/astarel/guildsit.c line 50 :syntax error
+wizards/astarel/guildsit.c line 52 :Illegal LHS
+wizards/astarel/guildsit.c line 54 :syntax error
+wizards/astarel/guildsit.c line 55 :Illegal LHS
+wizards/astarel/guildsit.c line 55 :syntax error
+wizards/astarel/guildsit.c line 56 :Illegal LHS
+wizards/astarel/guildsit.c line 37 :syntax error
+wizards/astarel/guildsit.c line 88 :Newline in string
+wizards/astarel/guildsit.c line 94 :Illegal LHS
+wizards/astarel/guildsit.c line 95 :syntax error
+wizards/astarel/guildsit.c line 95 :Illegal LHS
+wizards/astarel/guildsit.c line 99 :syntax error
+wizards/astarel/guildsit.c line 78 :Newline in string
+wizards/astarel/guildsit.c line 89 :syntax error
+wizards/astarel/eval_file.c line 2 :syntax error
+wizards/astarel/frp.c line 22 :function not defined by inheritance as specified
+wizards/astarel/eval_file.c line 2 :Undefined function map_indices
+wizards/astarel/eval_file.c line 2 :Undefined function map_indices
+wizards/astarel/eval_file.c line 2 :syntax error
+wizards/astarel/workroom.c line 56 :syntax error
+wizards/astarel/cmds/testi.c line 8 :Variable Players not declared !
+wizards/astarel/cmds/testi.c line 8 :Variable Location not declared !
+wizards/astarel/cmds/testi.c line 17 :Variable More not declared !
+wizards/astarel/cmds/testi.c line 17 :syntax error
+wizards/astarel/cmds/testi.c line 18 :Illegal LHS
+wizards/astarel/cmds/testi.c line 17 :Variable More not declared !
+wizards/astarel/cmds/testi.c line 17 :syntax error
+wizards/astarel/cmds/testi.c line 18 :Illegal LHS
+wizards/astarel/events/b_hunt/belg.c line 15 :Variable chat_str not declared !
+wizards/astarel/events/b_hunt/belg.c line 23 :syntax error
+wizards/astarel/events/b_hunt/belg.c line 7 :syntax error
+wizards/astarel/events/b_hunt/belg.c line 17 :Variable chat_str not declared !
+wizards/astarel/events/b_hunt/belg.c line 25 :syntax error
+wizards/astarel/events/b_hunt/belg.c line 25 :syntax error
+wizards/astarel/events/b_hunt/belg.c line 26 :syntax error
+wizards/astarel/events/b_hunt/belg.c line 1 :Cannot #include "/wizards/astarel/events/b_hunt/bh_defines.h"
+wizards/astarel/events/b_hunt/belg.c line 53 :syntax error
+wizards/astarel/events/b_hunt/belg.c line 1 :Cannot #include "/wizards/astarel/events/b_hunt/bh_defines.h"
+wizards/astarel/events/b_hunt/belg.c line 1 :Cannot #include /wizards/astarel/events/b_hunt/bh_defines.h
+wizards/astarel/events/b_hunt/belg.c line 3 :Cannot #include "/wizards/astarel/events/b_hunt/bh_defines.h"
+wizards/astarel/events/b_hunt/bh_defines.h line 3 :syntax error
+wizards/astarel/events/b_hunt/bunny_d.c line 19 :Type mismatch ( unknown vs mapping ) when initializing mapp
+wizards/astarel/events/b_hunt/bunny_d.c line 19 :Missing type
+wizards/astarel/events/b_hunt/bunny_d.c line 20 :Type mismatch ( unknown vs mixed * ) when initializing names
+wizards/astarel/events/b_hunt/bunny_d.c line 20 :Missing type
+wizards/astarel/events/b_hunt/bunny_d.c line 23 :Bad assignment. Rhs: "mapping "
+wizards/astarel/events/b_hunt/bunny_d.c line 24 :syntax error
+wizards/astarel/events/b_hunt/bunny_d.c line 22 :syntax error
+wizards/astarel/events/b_hunt/bunny_d.c line 28 :Illegal LHS
+wizards/astarel/events/b_hunt/bunny_d.c line 28 :syntax error
+wizards/astarel/events/b_hunt/bunny_d.c line 29 :Illegal LHS
+wizards/astarel/events/b_hunt/bunny_d.c line 29 :syntax error
+wizards/astarel/events/b_hunt/bunny_d.c line 50 :Variable name not declared !
+wizards/astarel/events/b_hunt/bunny_d.c line 62 :syntax error
+wizards/astarel/eval_file.c line 2 :Variable astarel not declared !
+wizards/astarel/workroom.c line 53 :Must return a value for a function declared: "int "
+wizards/astarel/workroom.c line 66 :Return type not matching: "mapping "
+wizards/astarel/workroom.c line 73 :syntax error
+wizards/astarel/events/b_hunt/bunny_d.c line 69 :syntax error
+wizards/astarel/events/b_hunt/bunny_d.c line 71 :Variable tmp not declared !
+wizards/astarel/events/b_hunt/bunny_d.c line 73 :Variable tmp not declared !
+wizards/astarel/events/b_hunt/bunny_d.c line 73 :Variable tmp not declared !
+wizards/astarel/events/b_hunt/bunny_d.c line 74 :Variable tmp not declared !
+wizards/astarel/events/b_hunt/bunny_d.c line 75 :Variable tmp not declared !
+wizards/astarel/events/b_hunt/bunny_d.c line 31 :syntax error
+wizards/astarel/events/b_hunt/bunny_d.c line 33 :Variable ob not declared !
+wizards/astarel/events/b_hunt/bunny_d.c line 34 :Variable ob not declared !
+wizards/astarel/events/b_hunt/bunny_d.c line 16 :syntax error
+wizards/astarel/events/b_hunt/bunny_d.c line 16 :Unrecognized inheritance modifier qualifier
+wizards/astarel/events/b_hunt/bunny_d.c line 16 :syntax error
+wizards/astarel/events/b_hunt/bunny_d.c line 16 :syntax error
+wizards/astarel/events/b_hunt/bunny_d.c line 2 :syntax error
+wizards/astarel/events/b_hunt/bunny_d.c line 2 :syntax error
+wizards/astarel/events/b_hunt/bunny_d.c line 2 :syntax error
+wizards/astarel/events/b_hunt/bunny_d.c line 2 :syntax error
+wizards/astarel/events/b_hunt/bunny_d.c line 2 :syntax error
+wizards/astarel/events/b_hunt/bunny_d.c line 2 :syntax error
+wizards/astarel/events/b_hunt/bunny_d.c line 2 :syntax error
+wizards/astarel/events/b_hunt/bunny_d.c line 2 :syntax error
+wizards/astarel/events/b_hunt/bunny_d.c line 2 :syntax error
+wizards/astarel/events/b_hunt/belg.c line 56 :Undefined function add_bunnyhunter
+wizards/astarel/events/b_hunt/belg.c line 56 :Variable add_bunnyhunter not declared !
+wizards/astarel/events/b_hunt/bunny_d.c line 2 :syntax error
+wizards/astarel/events/b_hunt/bunny_d.c line 2 :syntax error
+wizards/astarel/cloak.c line 11 :Illegal character (hex 00) '
+wizards/astarel/cloak.c line 11 :syntax error
+wizards/astarel/cloak.c line 11 :Illegal character (hex 00) '
+wizards/astarel/cloak.c line 11 :syntax error
+wizards/astarel/cloakki.c line 3 :syntax error
+wizards/astarel/swordi.c line 29 :syntax error
+wizards/astarel/chaos_knights/obj/base_weapon.c line 3 :syntax error
+wizards/astarel/chaos_knights/obj/base_weapon.c line 3 :Missing leading " in #include
+wizards/astarel/chaos_knights/obj/base_weapon.c line 26 :Variable WEAPON_SAVE not declared !
+wizards/astarel/chaos_knights/obj/base_weapon.c line 26 :Variable WEAPON_SAVE not declared !
+wizards/astarel/chaos_knights/obj/base_weapon.c line 2 :Missing leading " in #include
+wizards/astarel/chaos_knights/obj/base_weapon.c line 25 :Variable WEAPON_SAVE not declared !
+wizards/astarel/chaos_knights/obj/base_weapon.c line 25 :Variable WEAPON_SAVE not declared !
+wizards/astarel/chaos_knights/obj/base_weapon.c line 27 :syntax error
+wizards/astarel/chaos_knights/obj/base_weapon.c line 2 :Missing leading " in #include
+wizards/astarel/chaos_knights/obj/base_weapon.c line 27 :Variable WEAPON_SAVE not declared !
+wizards/astarel/chaos_knights/obj/base_weapon.c line 28 :Variable WEAPON_SAVE not declared !
+wizards/astarel/chaos_knights/obj/base_weapon.c line 3 :Missing leading " in #include
+wizards/astarel/chaos_knights/obj/base_weapon.c line 28 :Variable WEAPON_SAVE not declared !
+wizards/astarel/chaos_knights/obj/base_weapon.c line 29 :Variable WEAPON_SAVE not declared !
+wizards/astarel/chaos_knights/obj/base_weapon.c line 3 :Missing leading " in #include
+wizards/astarel/chaos_knights/obj/base_weapon.c line 27 :Variable WEAPON_SAVE not declared !
+wizards/astarel/chaos_knights/obj/base_weapon.c line 28 :Variable WEAPON_SAVE not declared !
+wizards/astarel/chaos_knights/obj/base_weapon.c line 26 :syntax error
+wizards/astarel/chaos_knights/obj/base_weapon.c line 29 :syntax error
+wizards/astarel/chaos_knights/obj/base_weapon.c line 31 :syntax error
+wizards/astarel/chaos_knights/obj/base_weapon.c line 75 :Undefined function sword_help
+wizards/astarel/chaos_knights/obj/base_weapon.c line 76 :Undefined function sword_drain
+wizards/astarel/chaos_knights/obj/base_weapon.c line 79 :Wrong number of arguments to sword_drain
+wizards/astarel/chaos_knights/obj/base_weapon.c line 76 :Variable temp not declared !
+wizards/astarel/chaos_knights/obj/base_weapon.c line 90 :Wrong number of arguments to sword_help
+wizards/astarel/chaos_knights/obj/base_weapon.c line 96 :Incorrect number of arguments.
+wizards/astarel/chaos_knights/obj/base_weapon.c line 112 :Incorrect number of arguments.
+wizards/astarel/chaos_knights/obj/base_weapon.c line 90 :Wrong number of arguments to sword_help
+wizards/astarel/chaos_knights/obj/base_weapon.c line 96 :Incorrect number of arguments.
+wizards/astarel/chaos_knights/obj/base_weapon.c line 112 :Incorrect number of arguments.
+wizards/astarel/chaos_knights/obj/base_weapon.c line 26 :syntax error
+wizards/astarel/chaos_knights/obj/base_weapon.c line 28 :Variable str not declared !
+wizards/astarel/chaos_knights/obj/base_weapon.c line 50 :Return type not matching: "string "
+wizards/astarel/chaos_knights/obj/base_weapon.c line 58 :syntax error
+wizards/astarel/chaos_knights/obj/base_weapon.c line 61 :Redeclaration of function query_sword_class.
+wizards/astarel/chaos_knights/obj/base_weapon.c line 63 :Redeclaration of function query_sword_class.
+wizards/astarel/chaos_knights/obj/base_weapon.c line 26 :syntax error
+wizards/astarel/chaos_knights/obj/base_weapon.c line 28 :Variable str not declared !
+wizards/astarel/chaos_knights/obj/base_weapon.c line 54 :syntax error
+wizards/astarel/chaos_knights/obj/base_weapon.c line 26 :syntax error
+wizards/astarel/chaos_knights/obj/base_weapon.c line 28 :Variable str not declared !
+wizards/astarel/chaos_knights/obj/base_weapon.c line 26 :syntax error
+wizards/astarel/chaos_knights/obj/base_weapon.c line 197 :Undefined function query_sword_corpse
+wizards/astarel/eval_file.c line 2 :Undefined function to_str
+wizards/astarel/eval_file.c line 2 :Undefined function to_str
+wizards/astarel/chaos_knights/obj/ck_d.c line 4 :Cannot #include /wizards/astarel/chaos_knights/defines/define.h
+wizards/astarel/chaos_knights/obj/ck_d.c line 16 :Missing type for argument
+wizards/astarel/chaos_knights/obj/ck_d.c line 23 :Variable CK_DATA not declared !
+wizards/astarel/chaos_knights/obj/ck_d.c line 23 :Variable CK_DATA not declared !
+wizards/astarel/chaos_knights/obj/ck_d.c line 28 :Variable CK_DATA not declared !
+wizards/astarel/chaos_knights/obj/ck_d.c line 34 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 4 :Cannot #include /wizards/astarel/chaos_knights/defines/define.h
+wizards/astarel/chaos_knights/obj/ck_d.c line 16 :Missing type for argument
+wizards/astarel/chaos_knights/obj/ck_d.c line 23 :Variable CK_DATA not declared !
+wizards/astarel/chaos_knights/obj/ck_d.c line 23 :Variable CK_DATA not declared !
+wizards/astarel/chaos_knights/obj/ck_d.c line 28 :Variable CK_DATA not declared !
+wizards/astarel/chaos_knights/obj/ck_d.c line 34 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 23 :Variable CK_DATA not declared !
+wizards/astarel/chaos_knights/obj/ck_d.c line 23 :Variable CK_DATA not declared !
+wizards/astarel/chaos_knights/obj/ck_d.c line 28 :Variable CK_DATA not declared !
+wizards/astarel/chaos_knights/obj/ck_d.c line 34 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 48 :Variable i not declared !
+wizards/astarel/chaos_knights/obj/ck_d.c line 48 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_d.c line 34 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 48 :Variable i not declared !
+wizards/astarel/chaos_knights/obj/ck_d.c line 48 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_d.c line 49 :Variable temp not declared !
+wizards/astarel/chaos_knights/obj/ck_d.c line 49 :Variable name not declared !
+wizards/astarel/chaos_knights/obj/ck_d.c line 50 :Variable name not declared !
+wizards/astarel/chaos_knights/obj/ck_d.c line 34 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 48 :Variable i not declared !
+wizards/astarel/chaos_knights/obj/ck_d.c line 48 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_d.c line 49 :Variable temp not declared !
+wizards/astarel/chaos_knights/obj/ck_d.c line 50 :Variable temp not declared !
+wizards/astarel/chaos_knights/obj/ck_d.c line 52 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 34 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 48 :Variable i not declared !
+wizards/astarel/chaos_knights/obj/ck_d.c line 48 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_d.c line 49 :Variable temp not declared !
+wizards/astarel/chaos_knights/obj/ck_d.c line 50 :Variable temp not declared !
+wizards/astarel/chaos_knights/obj/ck_d.c line 52 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 52 :Variable name not declared !
+wizards/astarel/chaos_knights/obj/ck_d.c line 52 :Variable name not declared !
+wizards/astarel/chaos_knights/obj/ck_d.c line 52 :Variable name not declared !
+wizards/astarel/chaos_knights/obj/ck_d.c line 52 :Variable name not declared !
+wizards/astarel/chaos_knights/obj/ck_d.c line 49 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 50 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_d.c line 49 :Undefined function ck_data
+wizards/astarel/chaos_knights/obj/ck_d.c line 50 :Function ck_data undefined
+wizards/astarel/chaos_knights/obj/ck_d.c line 50 :Wrong number of arguments to ck_data
+wizards/astarel/chaos_knights/obj/ck_d.c line 50 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 50 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_d.c line 52 :Function ck_data undefined
+wizards/astarel/eval_file.c line 2 :Too many arguments to this_player
+wizards/astarel/eval_file.c line 2 :syntax error
+wizards/astarel/eval_file.c line 2 :Too many arguments to this_player
+wizards/astarel/eval_file.c line 2 :Too few arguments to move_object
+wizards/astarel/eval_file.c line 2 :Undefined function stime
+wizards/astarel/eval_file.c line 2 :Undefined function stime
+wizards/astarel/err_d.c line 7 :syntax error
+wizards/astarel/err_d.c line 7 :Unrecognized inheritance modifier qualifier
+wizards/astarel/err_d.c line 7 :syntax error
+wizards/astarel/err_d.c line 7 :syntax error
+wizards/astarel/err_d.c line 27 :syntax error
+wizards/astarel/err_d.c line 48 :syntax error
+wizards/astarel/err_d.c line 49 :syntax error
+wizards/astarel/err_d.c line 53 :Illegal LHS
+wizards/astarel/err_d.c line 54 :syntax error
+wizards/astarel/err_d.c line 58 :Illegal LHS
+wizards/astarel/err_d.c line 59 :syntax error
+wizards/astarel/err_d.c line 49 :syntax error
+wizards/astarel/err_d.c line 53 :Illegal LHS
+wizards/astarel/err_d.c line 54 :syntax error
+wizards/astarel/err_d.c line 58 :Illegal LHS
+wizards/astarel/err_d.c line 59 :syntax error
+wizards/astarel/err_d.c line 62 :Illegal LHS
+wizards/astarel/err_d.c line 49 :syntax error
+wizards/astarel/err_d.c line 53 :Illegal LHS
+wizards/astarel/err_d.c line 54 :syntax error
+wizards/astarel/err_d.c line 58 :Illegal LHS
+wizards/astarel/err_d.c line 59 :syntax error
+wizards/astarel/err_d.c line 62 :Illegal LHS
+wizards/astarel/err_d.c line 49 :syntax error
+wizards/astarel/err_d.c line 53 :Illegal LHS
+wizards/astarel/err_d.c line 54 :syntax error
+wizards/astarel/err_d.c line 58 :Illegal LHS
+wizards/astarel/err_d.c line 59 :syntax error
+wizards/astarel/err_d.c line 62 :Illegal LHS
+wizards/astarel/err_d.c line 49 :syntax error
+wizards/astarel/err_d.c line 53 :Illegal LHS
+wizards/astarel/err_d.c line 54 :syntax error
+wizards/astarel/err_d.c line 58 :Illegal LHS
+wizards/astarel/err_d.c line 59 :syntax error
+wizards/astarel/err_d.c line 62 :Illegal LHS
+wizards/astarel/err_d.c line 49 :syntax error
+wizards/astarel/err_d.c line 53 :Illegal LHS
+wizards/astarel/err_d.c line 58 :Illegal LHS
+wizards/astarel/err_d.c line 62 :Illegal LHS
+wizards/astarel/err_d.c line 62 :syntax error
+wizards/astarel/err_d.c line 63 :Illegal LHS
+wizards/astarel/err_d.c line 49 :syntax error
+wizards/astarel/err_d.c line 53 :Illegal LHS
+wizards/astarel/err_d.c line 58 :Illegal LHS
+wizards/astarel/err_d.c line 62 :Illegal LHS
+wizards/astarel/err_d.c line 62 :syntax error
+wizards/astarel/err_d.c line 63 :Illegal LHS
+wizards/astarel/err_d.c line 49 :syntax error
+wizards/astarel/err_d.c line 53 :Illegal LHS
+wizards/astarel/err_d.c line 58 :Illegal LHS
+wizards/astarel/err_d.c line 62 :Illegal LHS
+wizards/astarel/err_d.c line 62 :syntax error
+wizards/astarel/err_d.c line 63 :Illegal LHS
+wizards/astarel/err_d.c line 81 :syntax error
+wizards/astarel/err_d.c line 81 :syntax error
+wizards/astarel/err_d.c line 81 :syntax error
+wizards/astarel/eval_file.c line 2 :syntax error
+wizards/astarel/eval_file.c line 2 :Variable stR not declared !
+wizards/astarel/err_d.c line 113 :syntax error
+wizards/astarel/err_d.c line 113 :Illegal LHS
+wizards/astarel/eval_file.c line 2 :syntax error
+wizards/astarel/eval_file.c line 2 :syntax error
+wizards/astarel/eval_file.c line 2 :Illegal character (hex 5c) '\'
+wizards/astarel/eval_file.c line 2 :syntax error
+wizards/astarel/err_d.c line 52 :Undefined function check_rates
+wizards/astarel/err_d.c line 44 :Bad assignment. Rhs: "void "
+wizards/astarel/err_d.c line 50 :Undefined function reset
+wizards/astarel/err_d.c line 50 :syntax error
+wizards/astarel/err_d.c line 51 :Illegal LHS
+wizards/astarel/err_d.c line 54 :Variable short_rate not declared !
+wizards/astarel/err_d.c line 131 :Variable short_rate not declared !
+wizards/astarel/err_d.c line 44 :Bad assignment. Rhs: "void "
+wizards/astarel/err_d.c line 50 :Undefined function reset
+wizards/astarel/err_d.c line 50 :syntax error
+wizards/astarel/err_d.c line 51 :Illegal LHS
+wizards/astarel/err_d.c line 131 :Variable short_rate not declared !
+wizards/astarel/err_d.c line 131 :syntax error
+wizards/astarel/err_d.c line 44 :Bad assignment. Rhs: "void "
+wizards/astarel/err_d.c line 50 :Undefined function reset
+wizards/astarel/err_d.c line 50 :syntax error
+wizards/astarel/err_d.c line 51 :Illegal LHS
+wizards/astarel/eval_file.c line 2 :Undefined function function_list
+wizards/astarel/eval_file.c line 2 :Undefined function function_list
+wizards/astarel/err_d.c line 181 :Variable namE not declared !
+wizards/astarel/err_d.c line 219 :syntax error
+wizards/astarel/err_d.c line 220 :Illegal LHS
+wizards/astarel/err_d.c line 219 :syntax error
+wizards/astarel/err_d.c line 220 :Illegal LHS
+wizards/astarel/eval_file.c line 2 :Undefined function c_time
+wizards/astarel/err_d.c line 5 :Missing type
+wizards/astarel/err_d.c line 63 :Variable party_summary_party_old_summary not declared !
+wizards/astarel/err_d.c line 88 :syntax error
+wizards/astarel/err_d.c line 90 :Return type not matching: "mapping "
+wizards/astarel/err_d.c line 98 :Bad assignment. Rhs: "mixed "
+wizards/astarel/err_d.c line 5 :Missing type
+wizards/astarel/err_d.c line 63 :Variable party_summary_party_old_summary not declared !
+wizards/astarel/err_d.c line 88 :syntax error
+wizards/astarel/err_d.c line 90 :Return type not matching: "mapping "
+wizards/astarel/err_d.c line 98 :Bad assignment. Rhs: "mixed "
+wizards/astarel/err_d.c line 88 :syntax error
+wizards/astarel/err_d.c line 90 :Return type not matching: "mapping "
+wizards/astarel/err_d.c line 64 :syntax error
+wizards/astarel/err_d.c line 68 :Illegal LHS
+wizards/astarel/err_d.c line 69 :Illegal LHS
+wizards/astarel/err_d.c line 69 :syntax error
+wizards/astarel/err_d.c line 75 :Illegal LHS
+wizards/astarel/err_d.c line 75 :syntax error
+wizards/astarel/err_d.c line 64 :syntax error
+wizards/astarel/err_d.c line 68 :Illegal LHS
+wizards/astarel/err_d.c line 69 :Illegal LHS
+wizards/astarel/err_d.c line 69 :syntax error
+wizards/astarel/err_d.c line 75 :Illegal LHS
+wizards/astarel/err_d.c line 75 :syntax error
+wizards/astarel/err_d.c line 45 :Variable data not declared !
+wizards/astarel/err_d.c line 45 :Variable data not declared !
+wizards/astarel/err_d.c line 60 :Variable data not declared !
+wizards/astarel/err_d.c line 61 :Variable data not declared !
+wizards/astarel/err_d.c line 85 :Variable data not declared !
+wizards/astarel/err_d.c line 86 :Variable data not declared !
+wizards/astarel/err_d.c line 96 :syntax error
+wizards/astarel/err_d.c line 100 :syntax error
+wizards/astarel/err_d.c line 102 :Return type not matching: "mapping "
+wizards/astarel/err_d.c line 100 :syntax error
+wizards/astarel/err_d.c line 102 :Return type not matching: "mapping "
+wizards/astarel/testi.c line 1 :line too long
+wizards/astarel/testi.c line 3 :syntax error
+wizards/astarel/err_d.c line 94 :syntax error
+wizards/astarel/err_d.c line 94 :Illegal LHS
+wizards/astarel/err_d.c line 154 :Variable get_daemon_mapping not declared !
+wizards/astarel/err_d.c line 48 :Variable raw_print not declared !
+wizards/astarel/err_d.c line 165 :syntax error
+wizards/astarel/err_d.c line 176 :Variable ob not declared !
+wizards/astarel/err_d.c line 176 :Variable i not declared !
+wizards/astarel/err_d.c line 176 :Variable data not declared !
+wizards/astarel/err_d.c line 176 :Variable ob not declared !
+wizards/astarel/err_d.c line 48 :Variable raw_print not declared !
+wizards/astarel/err_d.c line 176 :Variable ob not declared !
+wizards/astarel/err_d.c line 176 :Variable i not declared !
+wizards/astarel/err_d.c line 176 :Variable data not declared !
+wizards/astarel/err_d.c line 176 :Variable ob not declared !
+wizards/astarel/err_d.c line 176 :Variable i not declared !
+wizards/astarel/err_d.c line 176 :Variable ob not declared !
+wizards/astarel/err_d.c line 176 :Variable i not declared !
+wizards/astarel/err_d.c line 176 :Variable data not declared !
+wizards/astarel/err_d.c line 176 :Variable ob not declared !
+wizards/astarel/err_d.c line 176 :Variable i not declared !
+wizards/astarel/err_d.c line 176 :Variable data not declared !
+wizards/astarel/err_d.c line 178 :syntax error
+wizards/astarel/err_d.c line 192 :Variable ob not declared !
+wizards/astarel/err_d.c line 192 :Illegal LHS
+wizards/astarel/err_d.c line 192 :syntax error
+wizards/astarel/err_d.c line 196 :Variable stemp not declared !
+wizards/astarel/err_d.c line 196 :Illegal LHS
+wizards/astarel/err_d.c line 178 :syntax error
+wizards/astarel/err_d.c line 192 :Variable ob not declared !
+wizards/astarel/err_d.c line 192 :Illegal LHS
+wizards/astarel/err_d.c line 192 :syntax error
+wizards/astarel/err_d.c line 196 :Variable stemp not declared !
+wizards/astarel/err_d.c line 196 :Illegal LHS
+wizards/astarel/err_d.c line 52 :Variable create_deamon_mapping not declared !
+wizards/astarel/err_d.c line 52 :syntax error
+wizards/astarel/err_d.c line 65 :Variable ob not declared !
+wizards/astarel/err_d.c line 66 :Variable ob not declared !
+wizards/astarel/err_d.c line 66 :Variable ob not declared !
+wizards/astarel/err_d.c line 69 :Undefined function find_callout
+wizards/astarel/err_d.c line 51 :Undefined function create_deamon_mapping
+wizards/astarel/err_d.c line 70 :Undefined function find_callout
+wizards/astarel/err_d.c line 156 :Return type not matching: "void "
+wizards/astarel/err_d.c line 166 :Variable ob not declared !
+wizards/astarel/err_d.c line 168 :Variable ob not declared !
+wizards/astarel/err_d.c line 171 :Variable ob not declared !
+wizards/astarel/err_d.c line 51 :Undefined function create_deamon_mapping
+wizards/astarel/err_d.c line 156 :Return type not matching: "void "
+wizards/astarel/err_d.c line 166 :Variable ob not declared !
+wizards/astarel/err_d.c line 168 :Variable ob not declared !
+wizards/astarel/err_d.c line 171 :Variable ob not declared !
+wizards/astarel/err_d.c line 171 :Variable ob not declared !
+wizards/astarel/err_d.c line 50 :Undefined function create_deamon_mapping
+wizards/astarel/err_d.c line 163 :Variable ob not declared !
+wizards/astarel/err_d.c line 165 :Variable ob not declared !
+wizards/astarel/err_d.c line 168 :Variable ob not declared !
+wizards/astarel/err_d.c line 168 :Variable ob not declared !
+wizards/astarel/err_d.c line 168 :Variable ob not declared !
+wizards/astarel/err_d.c line 50 :Undefined function create_daemon_mapping
+wizards/astarel/err_d.c line 163 :Variable ob not declared !
+wizards/astarel/err_d.c line 165 :Variable ob not declared !
+wizards/astarel/err_d.c line 168 :Variable ob not declared !
+wizards/astarel/err_d.c line 168 :Variable ob not declared !
+wizards/astarel/err_d.c line 168 :Variable ob not declared !
+wizards/astarel/err_d.c line 50 :Undefined function create_daemon_mapping
+wizards/astarel/err_d.c line 163 :Variable ob not declared !
+wizards/astarel/err_d.c line 165 :Variable ob not declared !
+wizards/astarel/err_d.c line 168 :Variable ob not declared !
+wizards/astarel/err_d.c line 168 :Variable ob not declared !
+wizards/astarel/err_d.c line 168 :Variable ob not declared !
+wizards/astarel/err_d.c line 50 :Undefined function create_daemon_mapping
+wizards/astarel/err_d.c line 75 :Undefined function get_exp_string
+wizards/astarel/err_d.c line 163 :Variable ob not declared !
+wizards/astarel/err_d.c line 165 :Variable ob not declared !
+wizards/astarel/err_d.c line 168 :Variable ob not declared !
+wizards/astarel/err_d.c line 168 :Variable ob not declared !
+wizards/astarel/err_d.c line 51 :Undefined function create_daemon_mapping
+wizards/astarel/err_d.c line 76 :Wrong number of arguments to get_exp_string
+wizards/astarel/err_d.c line 164 :Variable ob not declared !
+wizards/astarel/err_d.c line 166 :Variable ob not declared !
+wizards/astarel/err_d.c line 169 :Variable ob not declared !
+wizards/astarel/err_d.c line 169 :Variable ob not declared !
+wizards/astarel/err_d.c line 51 :Undefined function create_daemon_mapping
+wizards/astarel/err_d.c line 148 :Wrong number of arguments to get_exp_string
+wizards/astarel/err_d.c line 164 :Variable ob not declared !
+wizards/astarel/err_d.c line 166 :Variable ob not declared !
+wizards/astarel/err_d.c line 169 :Variable ob not declared !
+wizards/astarel/err_d.c line 169 :Variable ob not declared !
+wizards/astarel/err_d.c line 45 :syntax error
+wizards/astarel/err_d.c line 45 :Unrecognized inheritance modifier qualifier
+wizards/astarel/err_d.c line 45 :syntax error
+wizards/astarel/err_d.c line 45 :Unrecognized inheritance modifier qualifier
+wizards/astarel/err_d.c line 45 :syntax error
+wizards/astarel/err_d.c line 45 :Incorrect number of arguments.
+wizards/astarel/err_d.c line 165 :Variable ob not declared !
+wizards/astarel/err_d.c line 167 :Variable ob not declared !
+wizards/astarel/err_d.c line 170 :Variable ob not declared !
+wizards/astarel/err_d.c line 170 :Variable ob not declared !
+wizards/astarel/err_d.c line 170 :Variable ob not declared !
+wizards/astarel/err_d.c line 45 :Incorrect number of arguments.
+wizards/astarel/err_d.c line 165 :Variable ob not declared !
+wizards/astarel/err_d.c line 167 :Variable ob not declared !
+wizards/astarel/err_d.c line 170 :Variable ob not declared !
+wizards/astarel/err_d.c line 170 :Variable ob not declared !
+wizards/astarel/err_d.c line 170 :Variable ob not declared !
+wizards/astarel/err_d.c line 165 :Variable ob not declared !
+wizards/astarel/err_d.c line 167 :Variable ob not declared !
+wizards/astarel/err_d.c line 170 :Variable ob not declared !
+wizards/astarel/err_d.c line 170 :Variable ob not declared !
+wizards/astarel/err_d.c line 170 :Variable ob not declared !
+wizards/astarel/err_d.c line 171 :syntax error
+wizards/astarel/err_d.c line 165 :Variable ob not declared !
+wizards/astarel/err_d.c line 167 :Variable ob not declared !
+wizards/astarel/err_d.c line 170 :Variable ob not declared !
+wizards/astarel/err_d.c line 170 :Variable ob not declared !
+wizards/astarel/err_d.c line 170 :Variable ob not declared !
+wizards/astarel/err_d.c line 171 :syntax error
+wizards/astarel/err_d.c line 165 :Variable ob not declared !
+wizards/astarel/err_d.c line 167 :Variable ob not declared !
+wizards/astarel/err_d.c line 170 :Variable ob not declared !
+wizards/astarel/err_d.c line 170 :Variable ob not declared !
+wizards/astarel/err_d.c line 170 :Variable ob not declared !
+wizards/astarel/err_d.c line 171 :syntax error
+wizards/astarel/err_d.c line 165 :Variable ob not declared !
+wizards/astarel/err_d.c line 167 :Variable ob not declared !
+wizards/astarel/err_d.c line 170 :Variable ob not declared !
+wizards/astarel/err_d.c line 170 :Variable ob not declared !
+wizards/astarel/err_d.c line 170 :Variable ob not declared !
+wizards/astarel/err_d.c line 171 :Variable ob not declared !
+wizards/astarel/err_d.c line 165 :Variable ob not declared !
+wizards/astarel/err_d.c line 167 :Variable ob not declared !
+wizards/astarel/err_d.c line 170 :Variable ob not declared !
+wizards/astarel/err_d.c line 170 :Variable ob not declared !
+wizards/astarel/err_d.c line 170 :Variable ob not declared !
+wizards/astarel/err_d.c line 171 :Variable ob not declared !
+wizards/astarel/err_d.c line 187 :syntax error
+wizards/astarel/err_d.c line 187 :syntax error
+wizards/astarel/err_d.c line 196 :syntax error
+wizards/astarel/err_d.c line 197 :Illegal LHS
+wizards/astarel/err_d.c line 198 :syntax error
+wizards/astarel/err_d.c line 199 :Illegal LHS
+wizards/astarel/err_d.c line 200 :syntax error
+wizards/astarel/err_d.c line 202 :syntax error
+wizards/astarel/err_d.c line 197 :syntax error
+wizards/astarel/err_d.c line 198 :Illegal LHS
+wizards/astarel/err_d.c line 200 :syntax error
+wizards/astarel/err_d.c line 201 :Illegal LHS
+wizards/astarel/err_d.c line 203 :syntax error
+wizards/astarel/err_d.c line 205 :syntax error
+wizards/astarel/err_d.c line 197 :syntax error
+wizards/astarel/err_d.c line 198 :Illegal LHS
+wizards/astarel/err_d.c line 200 :syntax error
+wizards/astarel/err_d.c line 201 :Illegal LHS
+wizards/astarel/err_d.c line 203 :syntax error
+wizards/astarel/err_d.c line 205 :syntax error
+wizards/astarel/err_d.c line 176 :Undefined function to_str
+wizards/astarel/err_d.c line 174 :Variable k not declared !
+wizards/astarel/err_d.c line 174 :syntax error
+wizards/astarel/err_d.c line 188 :Variable str not declared !
+wizards/astarel/err_d.c line 188 :Illegal LHS
+wizards/astarel/err_d.c line 192 :Variable stemp not declared !
+wizards/astarel/err_d.c line 192 :Illegal LHS
+wizards/astarel/err_d.c line 174 :Variable k not declared !
+wizards/astarel/err_d.c line 174 :syntax error
+wizards/astarel/err_d.c line 188 :Variable str not declared !
+wizards/astarel/err_d.c line 188 :Illegal LHS
+wizards/astarel/err_d.c line 192 :Variable stemp not declared !
+wizards/astarel/err_d.c line 192 :Illegal LHS
+wizards/astarel/err_d.c line 174 :Variable k not declared !
+wizards/astarel/err_d.c line 174 :syntax error
+wizards/astarel/err_d.c line 188 :Variable str not declared !
+wizards/astarel/err_d.c line 188 :Illegal LHS
+wizards/astarel/err_d.c line 192 :Variable stemp not declared !
+wizards/astarel/err_d.c line 192 :Illegal LHS
+wizards/astarel/err_d.c line 174 :Variable k not declared !
+wizards/astarel/err_d.c line 174 :syntax error
+wizards/astarel/err_d.c line 188 :Variable str not declared !
+wizards/astarel/err_d.c line 188 :Illegal LHS
+wizards/astarel/err_d.c line 192 :Variable stemp not declared !
+wizards/astarel/err_d.c line 192 :Illegal LHS
+wizards/astarel/err_d.c line 174 :syntax error
+wizards/astarel/err_d.c line 174 :Illegal character (hex 5c) '\'
+wizards/astarel/err_d.c line 174 :Newline in string
+wizards/astarel/err_d.c line 176 :syntax error
+wizards/astarel/err_d.c line 188 :Variable str not declared !
+wizards/astarel/err_d.c line 188 :Illegal LHS
+wizards/astarel/err_d.c line 192 :Variable stemp not declared !
+wizards/astarel/err_d.c line 192 :Illegal LHS
+wizards/astarel/err_d.c line 192 :Illegal LHS
+wizards/astarel/err_d.c line 176 :syntax error
+wizards/astarel/err_d.c line 188 :Variable str not declared !
+wizards/astarel/err_d.c line 188 :Illegal LHS
+wizards/astarel/err_d.c line 192 :Variable stemp not declared !
+wizards/astarel/err_d.c line 192 :Illegal LHS
+wizards/astarel/err_d.c line 192 :Illegal LHS
+wizards/astarel/err_d.c line 176 :syntax error
+wizards/astarel/err_d.c line 188 :Variable str not declared !
+wizards/astarel/err_d.c line 188 :Illegal LHS
+wizards/astarel/err_d.c line 192 :Variable stemp not declared !
+wizards/astarel/err_d.c line 192 :Illegal LHS
+wizards/astarel/err_d.c line 192 :Illegal LHS
+wizards/astarel/err_d.c line 187 :syntax error
+wizards/astarel/err_d.c line 198 :Variable str not declared !
+wizards/astarel/err_d.c line 198 :Illegal LHS
+wizards/astarel/err_d.c line 202 :Variable stemp not declared !
+wizards/astarel/err_d.c line 202 :Illegal LHS
+wizards/astarel/err_d.c line 202 :Illegal LHS
+wizards/astarel/err_d.c line 187 :syntax error
+wizards/astarel/err_d.c line 198 :Variable str not declared !
+wizards/astarel/err_d.c line 198 :Illegal LHS
+wizards/astarel/err_d.c line 202 :Variable stemp not declared !
+wizards/astarel/err_d.c line 202 :Illegal LHS
+wizards/astarel/err_d.c line 202 :Illegal LHS
+wizards/astarel/err_d.c line 187 :syntax error
+wizards/astarel/err_d.c line 198 :Variable str not declared !
+wizards/astarel/err_d.c line 198 :Illegal LHS
+wizards/astarel/err_d.c line 202 :Variable stemp not declared !
+wizards/astarel/err_d.c line 202 :Illegal LHS
+wizards/astarel/err_d.c line 202 :Illegal LHS
+wizards/astarel/err_d.c line 187 :syntax error
+wizards/astarel/err_d.c line 198 :Variable str not declared !
+wizards/astarel/err_d.c line 198 :Illegal LHS
+wizards/astarel/err_d.c line 202 :Variable stemp not declared !
+wizards/astarel/err_d.c line 202 :Illegal LHS
+wizards/astarel/err_d.c line 202 :Illegal LHS
+wizards/astarel/err_d.c line 187 :syntax error
+wizards/astarel/err_d.c line 198 :Variable str not declared !
+wizards/astarel/err_d.c line 198 :Illegal LHS
+wizards/astarel/err_d.c line 202 :Variable stemp not declared !
+wizards/astarel/err_d.c line 202 :Illegal LHS
+wizards/astarel/err_d.c line 202 :Illegal LHS
+wizards/astarel/err_d.c line 150 :syntax error
+wizards/astarel/err_d.c line 150 :Illegal LHS
+wizards/astarel/err_d.c line 156 :syntax error
+wizards/astarel/err_d.c line 177 :Variable guild not declared !
+wizards/astarel/err_d.c line 178 :Variable guild not declared !
+wizards/astarel/err_d.c line 180 :Variable active not declared !
+wizards/astarel/err_d.c line 181 :Variable active not declared !
+wizards/astarel/err_d.c line 189 :Variable guild not declared !
+wizards/astarel/err_d.c line 189 :syntax error
+wizards/astarel/err_d.c line 203 :Variable str not declared !
+wizards/astarel/err_d.c line 203 :Illegal LHS
+wizards/astarel/err_d.c line 207 :Variable stemp not declared !
+wizards/astarel/err_d.c line 207 :Illegal LHS
+wizards/astarel/err_d.c line 207 :Illegal LHS
+wizards/astarel/eval_file.c line 2 :syntax error
+wizards/astarel/eval_file.c line 2 :Illegal character (hex 2e) '.'
+wizards/astarel/eval_file.c line 2 :syntax error
+wizards/astarel/eval_file.c line 2 :Illegal character (hex 2e) '.'
+wizards/astarel/chaos_knights/obj/ck_d.c line 5 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 25 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 38 :Undefined function BLADE_POINTS
+wizards/astarel/chaos_knights/obj/ck_d.c line 38 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 38 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_d.c line 42 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 47 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 47 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 47 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 47 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 72 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 72 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 83 :syntax error
+wizards/astarel/chaos_knights/obj/ck_blade.c line 17 :syntax error
+wizards/astarel/chaos_knights/obj/ck_blade.c line 17 :Unrecognized inheritance modifier qualifier
+wizards/astarel/chaos_knights/obj/ck_blade.c line 17 :Unrecognized inheritance modifier qualifier
+wizards/astarel/chaos_knights/obj/ck_blade.c line 17 :syntax error
+wizards/astarel/chaos_knights/obj/ck_blade.c line 17 :syntax error
+wizards/astarel/chaos_knights/obj/ck_blade.c line 17 :Unrecognized inheritance modifier qualifier
+wizards/astarel/chaos_knights/obj/ck_blade.c line 17 :Unrecognized inheritance modifier qualifier
+wizards/astarel/chaos_knights/obj/ck_blade.c line 17 :syntax error
+wizards/astarel/chaos_knights/obj/ck_blade.c line 17 :syntax error
+wizards/astarel/chaos_knights/obj/ck_blade.c line 17 :Unrecognized inheritance modifier qualifier
+wizards/astarel/chaos_knights/obj/ck_blade.c line 17 :Unrecognized inheritance modifier qualifier
+wizards/astarel/chaos_knights/obj/ck_blade.c line 17 :syntax error
+wizards/astarel/chaos_knights/obj/ck_blade.c line 17 :syntax error
+wizards/astarel/chaos_knights/obj/ck_blade.c line 17 :Unrecognized inheritance modifier qualifier
+wizards/astarel/chaos_knights/obj/ck_blade.c line 17 :Unrecognized inheritance modifier qualifier
+wizards/astarel/chaos_knights/obj/ck_blade.c line 17 :syntax error
+wizards/astarel/chaos_knights/obj/ck_blade.c line 39 :syntax error
+wizards/astarel/chaos_knights/obj/ck_blade.c line 50 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_blade.c line 75 :Variable str not declared !
+wizards/astarel/chaos_knights/obj/ck_blade.c line 75 :syntax error
+wizards/astarel/chaos_knights/obj/ck_blade.c line 78 :Variable temp_array not declared !
+wizards/astarel/chaos_knights/obj/ck_blade.c line 78 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_blade.c line 39 :syntax error
+wizards/astarel/chaos_knights/obj/ck_blade.c line 50 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_blade.c line 75 :Variable str not declared !
+wizards/astarel/chaos_knights/obj/ck_blade.c line 75 :syntax error
+wizards/astarel/chaos_knights/obj/ck_blade.c line 78 :Variable temp_array not declared !
+wizards/astarel/chaos_knights/obj/ck_blade.c line 78 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_blade.c line 50 :syntax error
+wizards/astarel/chaos_knights/obj/ck_blade.c line 50 :syntax error
+wizards/astarel/chaos_knights/obj/ck_blade.c line 85 :Wrong number of arguments to blade_help
+wizards/astarel/chaos_knights/obj/ck_blade.c line 88 :Undefined function blade_donate
+wizards/astarel/chaos_knights/obj/ck_blade.c line 101 :Incorrect number of arguments.
+wizards/astarel/chaos_knights/obj/ck_blade.c line 118 :Incorrect number of arguments.
+wizards/astarel/chaos_knights/obj/ck_blade.c line 137 :syntax error
+wizards/astarel/chaos_knights/obj/ck_blade.c line 149 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_blade.c line 85 :Wrong number of arguments to blade_help
+wizards/astarel/chaos_knights/obj/ck_blade.c line 88 :Undefined function blade_donate
+wizards/astarel/chaos_knights/obj/ck_blade.c line 101 :Incorrect number of arguments.
+wizards/astarel/chaos_knights/obj/ck_blade.c line 118 :Incorrect number of arguments.
+wizards/astarel/chaos_knights/obj/ck_blade.c line 137 :syntax error
+wizards/astarel/chaos_knights/obj/ck_blade.c line 149 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_blade.c line 88 :Undefined function blade_donate
+wizards/astarel/chaos_knights/obj/ck_blade.c line 137 :syntax error
+wizards/astarel/chaos_knights/obj/ck_blade.c line 149 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_blade.c line 149 :syntax error
+wizards/astarel/chaos_knights/obj/ck_blade.c line 151 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_blade.c line 168 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_blade.c line 88 :Undefined function blade_donate
+wizards/astarel/chaos_knights/obj/ck_blade.c line 137 :syntax error
+wizards/astarel/chaos_knights/obj/ck_blade.c line 149 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_blade.c line 149 :syntax error
+wizards/astarel/chaos_knights/obj/ck_blade.c line 151 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_blade.c line 168 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_blade.c line 138 :syntax error
+wizards/astarel/chaos_knights/obj/ck_blade.c line 150 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_blade.c line 150 :syntax error
+wizards/astarel/chaos_knights/obj/ck_blade.c line 152 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_blade.c line 169 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_blade.c line 173 :Variable i not declared !
+wizards/astarel/chaos_knights/obj/ck_blade.c line 138 :syntax error
+wizards/astarel/chaos_knights/obj/ck_blade.c line 150 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_blade.c line 150 :syntax error
+wizards/astarel/chaos_knights/obj/ck_blade.c line 152 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_blade.c line 169 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_blade.c line 173 :Variable i not declared !
+wizards/astarel/chaos_knights/obj/ck_blade.c line 134 :syntax error
+wizards/astarel/chaos_knights/obj/ck_blade.c line 138 :syntax error
+wizards/astarel/chaos_knights/obj/ck_blade.c line 150 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_blade.c line 150 :syntax error
+wizards/astarel/chaos_knights/obj/ck_blade.c line 152 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_blade.c line 169 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_blade.c line 134 :syntax error
+wizards/astarel/chaos_knights/obj/ck_blade.c line 138 :syntax error
+wizards/astarel/chaos_knights/obj/ck_blade.c line 150 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_blade.c line 150 :syntax error
+wizards/astarel/chaos_knights/obj/ck_blade.c line 152 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_blade.c line 169 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_blade.c line 133 :syntax error
+wizards/astarel/chaos_knights/obj/ck_blade.c line 137 :syntax error
+wizards/astarel/chaos_knights/obj/ck_blade.c line 149 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_blade.c line 149 :syntax error
+wizards/astarel/chaos_knights/obj/ck_blade.c line 151 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_blade.c line 168 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_blade.c line 133 :syntax error
+wizards/astarel/chaos_knights/obj/ck_blade.c line 137 :syntax error
+wizards/astarel/chaos_knights/obj/ck_blade.c line 149 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_blade.c line 149 :syntax error
+wizards/astarel/chaos_knights/obj/ck_blade.c line 151 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_blade.c line 168 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_blade.c line 153 :Undefined function add_blade_points
+wizards/astarel/chaos_knights/obj/ck_blade.c line 154 :Undefined function add_blade_corpses
+wizards/astarel/chaos_knights/obj/ck_blade.c line 164 :Undefined function get_blade_type
+wizards/astarel/chaos_knights/obj/ck_blade.c line 154 :Undefined function add_blade_points
+wizards/astarel/chaos_knights/obj/ck_blade.c line 155 :Undefined function add_blade_corpses
+wizards/astarel/chaos_knights/obj/ck_blade.c line 165 :Undefined function get_blade_type
+wizards/astarel/chaos_knights/obj/ck_blade.c line 154 :Undefined function add_blade_points
+wizards/astarel/chaos_knights/obj/ck_blade.c line 155 :Undefined function add_blade_corpses
+wizards/astarel/chaos_knights/obj/ck_blade.c line 165 :Undefined function get_blade_type
+wizards/astarel/chaos_knights/obj/ck_blade.c line 167 :Undefined function get_blade_type
+wizards/astarel/chaos_knights/obj/ck_blade.c line 167 :Undefined function get_blade_type
+wizards/astarel/chaos_knights/obj/ck_blade.c line 167 :Undefined function get_blade_type
+wizards/astarel/eval_file.c line 2 :syntax error
+wizards/astarel/eval_file.c line 2 :syntax error
+wizards/astarel/eval_file.c line 2 :syntax error
+wizards/astarel/eval_file.c line 2 :syntax error
+wizards/astarel/eval_file.c line 2 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_d.c line 69 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 73 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_d.c line 73 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :Variable name not declared !
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 69 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 73 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_d.c line 73 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :Variable name not declared !
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 69 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 73 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_d.c line 73 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :Variable name not declared !
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 69 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 73 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_d.c line 73 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :Variable name not declared !
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 69 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 73 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_d.c line 73 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :Variable name not declared !
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 69 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 73 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_d.c line 73 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :Variable name not declared !
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 69 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 73 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_d.c line 73 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :Variable name not declared !
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 69 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 73 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_d.c line 73 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :Variable name not declared !
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 69 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 73 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_d.c line 73 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :Variable name not declared !
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 69 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 73 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_d.c line 73 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :Variable name not declared !
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 69 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 73 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_d.c line 73 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :Variable name not declared !
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 69 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 73 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_d.c line 73 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :Variable name not declared !
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 69 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 73 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_d.c line 73 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :Variable name not declared !
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 69 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 73 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_d.c line 73 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :Variable name not declared !
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 69 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 73 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_d.c line 73 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :Variable name not declared !
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 69 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 73 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_d.c line 73 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :Variable name not declared !
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 69 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 73 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_d.c line 73 :syntax error
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :Variable name not declared !
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :Illegal LHS
+wizards/astarel/chaos_knights/obj/ck_d.c line 81 :syntax error
+wizards/astarel/ck/obj/ck_blade.c line 49 :Bad assignment. Rhs: "mixed * "
+wizards/astarel/ck/obj/ck_blade.c line 20 :Variable owner not declared !
+wizards/astarel/ck/obj/ck_blade.c line 91 :Variable owner not declared !
+wizards/astarel/ck/obj/ck_blade.c line 91 :syntax error
+wizards/astarel/ck/obj/ck_blade.c line 96 :Variable owner not declared !
+wizards/astarel/ck/obj/ck_blade.c line 96 :syntax error
+wizards/astarel/ck/obj/ck_blade.c line 91 :Variable owner not declared !
+wizards/astarel/ck/obj/ck_blade.c line 91 :syntax error
+wizards/astarel/ck/obj/ck_blade.c line 96 :Variable owner not declared !
+wizards/astarel/ck/obj/ck_blade.c line 96 :syntax error
+wizards/astarel/ck/obj/ck_blade.c line 91 :syntax error
+wizards/astarel/ck/obj/ck_blade.c line 96 :syntax error
+wizards/astarel/ck/obj/ck_blade.c line 28 :syntax error
+wizards/astarel/ck/obj/ck_blade.c line 31 :syntax error
+wizards/astarel/ck/obj/ck_blade.c line 38 :syntax error
+wizards/astarel/ck/obj/ck_blade.c line 52 :Variable str not declared !
+wizards/astarel/ck/obj/ck_blade.c line 52 :syntax error
+wizards/astarel/ck/obj/ck_blade.c line 57 :Variable temp not declared !
+wizards/astarel/ck/obj/ck_blade.c line 31 :syntax error
+wizards/astarel/ck/obj/ck_blade.c line 32 :Variable Blade_material not declared !
+wizards/astarel/ck/obj/ck_blade.c line 31 :Variable blade_corpses not declared !
+wizards/astarel/ck/obj/ck_blade.c line 203 :Variable blade_corpses not declared !
+wizards/astarel/ck/obj/ck_blade.c line 202 :Variable blade_corpses not declared !
+wizards/astarel/ck/obj/ck_blade.c line 35 :syntax error
+wizards/astarel/ck/obj/ck_blade.c line 36 :Variable str not declared !
+wizards/astarel/ck/obj/ck_blade.c line 36 :Illegal LHS
+wizards/astarel/ck/obj/ck_blade.c line 37 :Variable dam_type not declared !
+wizards/astarel/ck/obj/ck_blade.c line 38 :Variable amount not declared !
+wizards/astarel/ck/daemons/ck_blade_d.c line 22 :syntax error
+wizards/astarel/ck/daemons/ck_blade_d.c line 69 :Discontinued case label list range, line 62 by line 63
+wizards/astarel/ck/daemons/ck_blade_d.c line 69 :Duplicate case in line 63 and 0
+wizards/astarel/ck/daemons/ck_blade_d.c line 69 :Discontinued case label list range, line 66 by line 67
+wizards/astarel/ck/daemons/ck_blade_d.c line 69 :Duplicate case in line 67 and 0
+wizards/astarel/ck/daemons/ck_blade_d.c line 75 :Must return a value for a function declared: "string "
+wizards/astarel/ck/daemons/ck_blade_d.c line 106 :Undefined function BLADE_MATERIAL
+wizards/astarel/ck/daemons/ck_blade_d.c line 69 :Discontinued case label list range, line 66 by line 67
+wizards/astarel/ck/daemons/ck_blade_d.c line 69 :Duplicate case in line 67 and 0
+wizards/astarel/ck/daemons/ck_blade_d.c line 75 :Must return a value for a function declared: "string "
+wizards/astarel/ck/daemons/ck_blade_d.c line 106 :Undefined function BLADE_MATERIAL
+wizards/astarel/ck/daemons/ck_blade_d.c line 106 :syntax error
+wizards/astarel/ck/daemons/ck_blade_d.c line 106 :Illegal LHS
+wizards/astarel/ck/daemons/ck_blade_d.c line 69 :Discontinued case label list range, line 66 by line 67
+wizards/astarel/ck/daemons/ck_blade_d.c line 69 :Duplicate case in line 67 and 0
+wizards/astarel/ck/daemons/ck_blade_d.c line 106 :Undefined function BLADE_MATERIAL
+wizards/astarel/ck/daemons/ck_blade_d.c line 106 :syntax error
+wizards/astarel/ck/daemons/ck_blade_d.c line 106 :Illegal LHS
+wizards/astarel/ck/daemons/ck_blade_d.c line 111 :Function BLADE_MATERIAL undefined
+wizards/astarel/ck/daemons/ck_blade_d.c line 4 :Variable name not declared !
+wizards/astarel/ck/daemons/ck_blade_d.c line 4 :Variable blade_level not declared !
+wizards/astarel/ck/daemons/ck_blade_d.c line 4 :Variable blade_quality not declared !
+wizards/astarel/ck/daemons/ck_blade_d.c line 4 :Variable blade_alignment not declared !
+wizards/astarel/ck/daemons/ck_blade_d.c line 4 :Variable blade_material not declared !
+wizards/astarel/ck/daemons/ck_blade_d.c line 4 :syntax error
+wizards/astarel/ck/daemons/ck_blade_d.c line 70 :Discontinued case label list range, line 67 by line 68
+wizards/astarel/ck/daemons/ck_blade_d.c line 70 :Duplicate case in line 68 and 0
+wizards/astarel/ck/daemons/ck_blade_d.c line 130 :Missing '(' in macro call
+wizards/astarel/ck/daemons/ck_blade_d.c line 152 :Missing type for argument
+wizards/astarel/ck/daemons/ck_blade_d.c line 152 :syntax error
+wizards/astarel/ck/daemons/ck_blade_d.c line 130 :Missing '(' in macro call
+wizards/astarel/ck/daemons/ck_blade_d.c line 152 :Missing type for argument
+wizards/astarel/ck/daemons/ck_blade_d.c line 152 :syntax error
+wizards/astarel/ck/daemons/ck_blade_d.c line 158 :syntax error
+wizards/astarel/ck/daemons/ck_blade_d.c line 160 :Illegal LHS
+wizards/astarel/ck/daemons/ck_blade_d.c line 160 :syntax error
+wizards/astarel/ck/daemons/ck_blade_d.c line 170 :Illegal LHS
+wizards/astarel/ck/daemons/ck_blade_d.c line 171 :Illegal LHS
+wizards/astarel/ck/daemons/ck_blade_d.c line 172 :Illegal LHS
+wizards/astarel/ck/daemons/ck_blade_d.c line 184 :Inconsistent number of values in mapping literal
+wizards/astarel/ck/daemons/ck_blade_d.c line 184 :syntax error
+wizards/astarel/ck/daemons/ck_blade_d.c line 190 :Variable i not declared !
+wizards/astarel/ck/daemons/ck_blade_d.c line 190 :Illegal LHS
+wizards/astarel/ck/daemons/ck_blade_d.c line 193 :Variable i not declared !
+wizards/astarel/ck/daemons/ck_blade_d.c line 193 :Illegal LHS
+wizards/astarel/ck/daemons/ck_blade_d.c line 184 :Inconsistent number of values in mapping literal
+wizards/astarel/ck/daemons/ck_blade_d.c line 184 :syntax error
+wizards/astarel/ck/daemons/ck_blade_d.c line 190 :Variable i not declared !
+wizards/astarel/ck/daemons/ck_blade_d.c line 190 :Illegal LHS
+wizards/astarel/ck/daemons/ck_blade_d.c line 193 :Variable i not declared !
+wizards/astarel/ck/daemons/ck_blade_d.c line 193 :Illegal LHS
+wizards/astarel/ck/obj/ck_blade.c line 286 :Bad type for argument 3 of set_blade_material ( int vs object )
+wizards/astarel/ck/obj/ck_blade.c line 292 :syntax error
+wizards/astarel/ck/obj/ck_blade.c line 286 :Bad type for argument 3 of set_blade_material ( int vs object )
+wizards/astarel/ck/obj/ck_blade.c line 292 :syntax error
+wizards/astarel/ck/obj/ck_blade.c line 286 :syntax error
+wizards/astarel/ck/obj/ck_blade.c line 292 :syntax error
+wizards/astarel/castle/castle_room_d.c line 50 :Too few arguments to write_file
+wizards/astarel/castle/castle_room_d.c line 50 :syntax error
+wizards/astarel/castle/castle_room_d.c line 400 :syntax error
+wizards/astarel/castle/castle_room_d.c line 405 :Illegal LHS
+wizards/astarel/castle/castle_room_d.c line 406 :Variable k not declared !
+wizards/astarel/castle/castle_room_d.c line 410 :Variable room not declared !
+wizards/astarel/castle/castle_room_d.c line 415 :Variable str not declared !
+wizards/astarel/castle/castle_room_d.c line 416 :Variable str not declared !
+wizards/astarel/eval_file.c line 2 :Too many arguments to clone_object
+wizards/astarel/eval_file.c line 2 :Bad argument 1 type to efun clone_object()
+wizards/astarel/eval_file.c line 2 :syntax error
+wizards/astarel/castle/chest.c line 283 :syntax error
+wizards/astarel/castle/chest.c line 287 :Illegal LHS
+wizards/astarel/castle/chest.c line 309 :Illegal LHS
+wizards/astarel/castle/chest.c line 342 :Variable i not declared !
+wizards/astarel/castle/chest.c line 342 :Illegal LHS
+wizards/astarel/castle/chest.c line 345 :Illegal LHS
+wizards/astarel/castle/chest.c line 284 :syntax error
+wizards/astarel/castle/chest.c line 288 :Illegal LHS
+wizards/astarel/castle/chest.c line 310 :Illegal LHS
+wizards/astarel/castle/chest.c line 343 :Variable i not declared !
+wizards/astarel/castle/chest.c line 343 :Illegal LHS
+wizards/astarel/castle/chest.c line 346 :Illegal LHS
+wizards/astarel/castle/castle_code.c line 162 :Wrong number of arguments to generate_room
+wizards/astarel/castle/castle_code.c line 189 :Incorrect number of arguments.
+wizards/astarel/castle/castle_code.c line 236 :Incorrect number of arguments.
+wizards/astarel/castle/castle_code.c line 254 :Illegal character (hex 5c) '\'
+wizards/astarel/castle/castle_code.c line 254 :syntax error
+wizards/astarel/castle/castle_code.c line 254 :Newline in string
+wizards/astarel/castle/castle_code.c line 162 :Wrong number of arguments to generate_room
+wizards/astarel/castle/castle_code.c line 189 :Incorrect number of arguments.
+wizards/astarel/castle/castle_code.c line 236 :Incorrect number of arguments.
+wizards/astarel/castle/castle_code.c line 282 :syntax error
+wizards/astarel/castle/castle_code.c line 285 :Variable room_num not declared !
+wizards/astarel/castle/castle_code.c line 286 :Variable tem not declared !
+wizards/astarel/castle/castle_code.c line 162 :Wrong number of arguments to generate_room
+wizards/astarel/castle/castle_code.c line 189 :Incorrect number of arguments.
+wizards/astarel/castle/castle_code.c line 236 :Incorrect number of arguments.
+wizards/astarel/castle/castle_code.c line 254 :Illegal character (hex 5c) '\'
+wizards/astarel/castle/castle_code.c line 254 :syntax error
+wizards/astarel/castle/castle_code.c line 254 :Newline in string
+wizards/astarel/castle/castle_code.c line 162 :Wrong number of arguments to generate_room
+wizards/astarel/castle/castle_code.c line 189 :Incorrect number of arguments.
+wizards/astarel/castle/castle_code.c line 236 :Incorrect number of arguments.
+wizards/astarel/castle/castle_code.c line 254 :Illegal character (hex 5c) '\'
+wizards/astarel/castle/castle_code.c line 254 :syntax error
+wizards/astarel/castle/castle_code.c line 254 :Newline in string
+wizards/astarel/daemons/bug_d.c line 48 :syntax error
+wizards/astarel/daemons/bug_d.c line 51 :Illegal LHS
+wizards/astarel/daemons/bug_d.c line 51 :syntax error
+wizards/astarel/daemons/bug_d.c line 62 :Variable id not declared !
+wizards/astarel/daemons/bug_d.c line 62 :Illegal LHS
+wizards/astarel/daemons/bug_d.c line 62 :syntax error
+wizards/astarel/daemons/bug_d.c line 75 :Variable mapp not declared !
+wizards/astarel/daemons/bug_d.c line 85 :syntax error
+wizards/astarel/daemons/bug_d.c line 95 :Illegal LHS
+wizards/astarel/daemons/bug_d.c line 75 :Variable mapp not declared !
+wizards/astarel/daemons/bug_d.c line 85 :syntax error
+wizards/astarel/daemons/bug_d.c line 95 :Illegal LHS
+wizards/astarel/daemons/bug_d.c line 75 :Variable mapp not declared !
+wizards/astarel/daemons/bug_d.c line 85 :syntax error
+wizards/astarel/daemons/bug_d.c line 95 :Illegal LHS
+wizards/astarel/daemons/bug_d.c line 75 :Variable mapp not declared !
+wizards/astarel/daemons/bug_d.c line 85 :syntax error
+wizards/astarel/daemons/bug_d.c line 95 :Illegal LHS
+wizards/astarel/daemons/bug_d.c line 83 :syntax error
+wizards/astarel/daemons/bug_d.c line 93 :Illegal LHS
+wizards/astarel/daemons/bug_d.c line 83 :syntax error
+wizards/astarel/daemons/bug_d.c line 93 :Illegal LHS
+wizards/astarel/daemons/bug_d.c line 83 :syntax error
+wizards/astarel/daemons/bug_d.c line 93 :Illegal LHS
+wizards/astarel/daemons/bug_d.c line 109 :syntax error
+wizards/astarel/daemons/bug_d.c line 71 :syntax error
+wizards/astarel/daemons/bug_d.c line 109 :Variable temp_map not declared !
+wizards/astarel/daemons/bug_d.c line 111 :Variable temp_map not declared !
+wizards/astarel/cmds/_bug.c line 43 :syntax error
+wizards/astarel/cmds/_bug.c line 44 :Illegal LHS
+wizards/astarel/cmds/_bug.c line 44 :syntax error
+wizards/astarel/cmds/_bug.c line 46 :syntax error
+wizards/astarel/cmds/_bug.c line 43 :syntax error
+wizards/astarel/cmds/_bug.c line 44 :Illegal LHS
+wizards/astarel/cmds/_bug.c line 44 :syntax error
+wizards/astarel/cmds/_bug.c line 46 :syntax error
+wizards/astarel/cmds/_bug.c line 44 :syntax error
+wizards/astarel/cmds/_bug.c line 47 :syntax error
+wizards/astarel/cmds/_bug.c line 44 :syntax error
+wizards/astarel/cmds/_bug.c line 47 :syntax error
+wizards/astarel/cmds/_bug.c line 44 :syntax error
+wizards/astarel/cmds/_bug.c line 44 :syntax error
+wizards/astarel/cmds/_bug.c line 44 :syntax error
+wizards/astarel/cmds/_bug.c line 44 :syntax error
+wizards/astarel/cmds/_bug.c line 44 :syntax error
+wizards/astarel/cmds/_bug.c line 44 :Illegal LHS
+wizards/astarel/cmds/_bug.c line 46 :syntax error
+wizards/astarel/cmds/_bug.c line 46 :Illegal LHS
+wizards/astarel/daemons/bug_d.c line 52 :Return type not matching: "void "
+wizards/astarel/daemons/bug_d.c line 62 :Return type not matching: "void "
+wizards/astarel/daemons/bug_d.c line 83 :Return type not matching: "void "
+wizards/astarel/daemons/bug_d.c line 103 :Return type not matching: "void "
+wizards/astarel/daemons/bug_d.c line 125 :Return type not matching: "void "
+wizards/astarel/daemons/bug_d.c line 62 :syntax error
+wizards/astarel/daemons/bug_d.c line 62 :syntax error
+wizards/astarel/cmds/_bugaa.c line 61 :syntax error
+wizards/astarel/dweller.c line 6 :syntax error
+wizards/astarel/dweller.c line 7 :Variable i not declared !
+wizards/astarel/dweller.c line 8 :Variable a not declared !
+wizards/astarel/dweller.c line 11 :syntax error
+wizards/astarel/dweller.c line 32 :Newline in string
+wizards/astarel/dweller.c line 9 :syntax error
+wizards/astarel/dweller.c line 10 :Variable i not declared !
+wizards/astarel/dweller.c line 11 :Variable a not declared !
+wizards/astarel/dweller.c line 14 :syntax error
+wizards/astarel/dweller.c line 35 :Newline in string
+wizards/astarel/dweller.c line 15 :syntax error
+wizards/astarel/dweller.c line 36 :Newline in string
+wizards/astarel/dweller.c line 15 :syntax error
+wizards/astarel/dweller.c line 36 :Newline in string
+wizards/astarel/dweller.c line 22 :syntax error
+wizards/astarel/dweller.c line 36 :syntax error
+wizards/astarel/dweller.c line 36 :Newline in string
+wizards/astarel/dweller.c line 36 :syntax error
+wizards/astarel/dweller.c line 36 :Newline in string
+wizards/astarel/9.c line 17 :syntax error
+wizards/astarel/9.c line 17 :Illegal LHS
+wizards/astarel/9.c line 18 :syntax error
+wizards/astarel/9.c line 18 :Illegal LHS
+wizards/astarel/9.c line 19 :syntax error
+wizards/astarel/9.c line 19 :Illegal LHS
+wizards/astarel/9.c line 6 :syntax error
+wizards/astarel/9.c line 6 :syntax error
+wizards/astarel/9.c line 6 :syntax error
+wizards/astarel/eval_file.c line 2 :syntax error
+wizards/astarel/eval_file.c line 2 :Undefined function copy_file
+wizards/astarel/eval_file.c line 2 :Undefined function copy
+wizards/astarel/eval_file.c line 2 :Undefined function cp
+wizards/astarel/eval_file.c line 2 :Undefined function file_copy
+wizards/astarel/eval_file.c line 2 :Newline in string
+wizards/astarel/eval_file.c line 3 :syntax error
+wizards/astarel/eval_file.c line 2 :syntax error
+wizards/astarel/sh/sh_base_room.c line 15 :syntax error
+wizards/astarel/sh/sh_base_room.c line 57 :Variable SH_DIR not declared !
+wizards/astarel/sh/sh_base_room.c line 67 :syntax error
+wizards/astarel/sh/sh_base_room.c line 84 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 84 :syntax error
+wizards/astarel/sh/sh_base_room.c line 85 :Variable SH_DIR not declared !
+wizards/astarel/sh/sh_base_room.c line 85 :syntax error
+wizards/astarel/sh/sh_base_room.c line 67 :syntax error
+wizards/astarel/sh/sh_base_room.c line 84 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 84 :syntax error
+wizards/astarel/sh/sh_base_room.c line 106 :Variable new_path not declared !
+wizards/astarel/sh/sh_base_room.c line 106 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 106 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 138 :syntax error
+wizards/astarel/sh/sh_control_d.c line 11 :Type mismatch ( unknown vs mapping ) when initializing strongholds
+wizards/astarel/sh/sh_control_d.c line 11 :Missing type
+wizards/astarel/sh/sh_control_d.c line 25 :Variable i not declared !
+wizards/astarel/sh/sh_control_d.c line 26 :Variable i not declared !
+wizards/astarel/sh/sh_control_d.c line 27 :Variable i not declared !
+wizards/astarel/sh/sh_control_d.c line 29 :Variable i not declared !
+wizards/astarel/sh/sh_control_d.c line 24 :Variable i not declared !
+wizards/astarel/sh/sh_control_d.c line 25 :Variable i not declared !
+wizards/astarel/sh/sh_control_d.c line 26 :Variable i not declared !
+wizards/astarel/sh/sh_control_d.c line 28 :Variable i not declared !
+wizards/astarel/sh/sh_control_d.c line 46 :Variable basic_room not declared !
+wizards/astarel/sh/sh_control_d.c line 24 :Variable i not declared !
+wizards/astarel/sh/sh_control_d.c line 25 :Variable i not declared !
+wizards/astarel/sh/sh_control_d.c line 26 :Variable i not declared !
+wizards/astarel/sh/sh_control_d.c line 28 :Variable i not declared !
+wizards/astarel/sh/sh_control_d.c line 14 :Missing type for argument
+wizards/astarel/sh/sh_control_d.c line 46 :Bad assignment. Rhs: "mixed * "
+wizards/astarel/sh/sh_control_d.c line 47 :Bad argument 1 type to efun sizeof()
+wizards/astarel/sh/sh_control_d.c line 58 :Return type not matching: "void "
+wizards/astarel/sh/sh_control_d.c line 14 :Missing type for argument
+wizards/astarel/sh/sh_control_d.c line 46 :Bad assignment. Rhs: "mixed * "
+wizards/astarel/sh/sh_control_d.c line 47 :Bad argument 1 type to efun sizeof()
+wizards/astarel/sh/sh_control_d.c line 58 :Return type not matching: "void "
+wizards/astarel/sh/sh_control_d.c line 46 :Bad assignment. Rhs: "mixed * "
+wizards/astarel/sh/sh_control_d.c line 47 :Bad argument 1 type to efun sizeof()
+wizards/astarel/sh/sh_control_d.c line 58 :Return type not matching: "void "
+wizards/astarel/sh/sh_control_d.c line 59 :Return type not matching: "void "
+wizards/astarel/sh/sh_control_d.c line 59 :Return type not matching: "void "
+wizards/astarel/sh/sh_base_room.c line 100 :Variable exit not declared !
+wizards/astarel/sh/sh_base_room.c line 101 :Variable exit not declared !
+wizards/astarel/sh/sh_base_room.c line 107 :Variable exit not declared !
+wizards/astarel/sh/sh_base_room.c line 108 :Variable exit not declared !
+wizards/astarel/sh/sh_base_room.c line 100 :Variable exit not declared !
+wizards/astarel/sh/sh_base_room.c line 101 :Variable strt not declared !
+wizards/astarel/sh/sh_base_room.c line 100 :Variable exit not declared !
+wizards/astarel/sh/sh_control_d.c line 77 :Variable x not declared !
+wizards/astarel/sh/sh_control_d.c line 77 :Variable y not declared !
+wizards/astarel/sh/sh_control_d.c line 116 :syntax error
+wizards/astarel/sh/sh_control_d.c line 116 :syntax error
+wizards/astarel/sh/sh_control_d.c line 117 :syntax error
+wizards/astarel/sh/sh_base_room.c line 53 :Variable temp not declared !
+wizards/astarel/sh/sh_base_room.c line 54 :Variable temp not declared !
+wizards/astarel/sh/sh_base_room.c line 56 :Variable i not declared !
+wizards/astarel/sh/sh_base_room.c line 56 :Variable i not declared !
+wizards/astarel/sh/sh_base_room.c line 56 :Variable temp not declared !
+wizards/astarel/sh/sh_base_room.c line 56 :Variable i not declared !
+wizards/astarel/sh/sh_base_room.c line 57 :Variable i not declared !
+wizards/astarel/sh/sh_base_room.c line 57 :Variable i not declared !
+wizards/astarel/sh/sh_base_room.c line 57 :Variable i not declared !
+wizards/astarel/sh/sh_base_room.c line 58 :Variable i not declared !
+wizards/astarel/sh/sh_base_room.c line 58 :Variable i not declared !
+wizards/astarel/eval_file.c line 2 :Variable south not declared !
+wizards/astarel/sh/stronghold_location_d.c line 106 :Variable stronghold_id not declared !
+wizards/astarel/sh/stronghold_location_d.c line 107 :Variable stronghold_id not declared !
+wizards/astarel/sh/stronghold_location_d.c line 113 :Variable stronghold_id not declared !
+wizards/astarel/sh/stronghold_location_d.c line 114 :Variable stronghold_id not declared !
+wizards/astarel/sh/sh_control_d.c line 63 :Variable STRONGHOLD_CASTLE_D not declared !
+wizards/astarel/sh/sh_control_d.c line 64 :Variable STRONGHOLD_CASTLE_D not declared !
+wizards/astarel/sh/sh_base_room.c line 61 :Variable i not declared !
+wizards/astarel/sh/sh_base_room.c line 61 :Variable i not declared !
+wizards/astarel/sh/sh_base_room.c line 61 :Variable i not declared !
+wizards/astarel/sh/sh_base_room.c line 62 :Variable i not declared !
+wizards/astarel/sh/sh_base_room.c line 62 :Variable i not declared !
+wizards/astarel/sh/sh_chest.c line 35 :Return type not matching: "string "
+wizards/astarel/sh/sh_chest.c line 40 :Bad assignment. Rhs: "object "
+wizards/astarel/sh/sh_chest.c line 40 :syntax error
+wizards/astarel/sh/sh_chest.c line 43 :syntax error
+wizards/astarel/sh/sh_chest.c line 49 :Must return a value for a function declared: "int "
+wizards/astarel/sh/sh_chest.c line 66 :Bad argument 1 type to efun file_size()
+wizards/astarel/sh/sh_chest.c line 40 :Bad assignment. Rhs: "object "
+wizards/astarel/sh/sh_chest.c line 40 :syntax error
+wizards/astarel/sh/sh_chest.c line 43 :syntax error
+wizards/astarel/sh/sh_chest.c line 49 :Must return a value for a function declared: "int "
+wizards/astarel/sh/sh_chest.c line 66 :Bad argument 1 type to efun file_size()
+wizards/astarel/sh/sh_chest.c line 66 :syntax error
+wizards/astarel/sh/sh_chest.c line 50 :Must return a value for a function declared: "int "
+wizards/astarel/sh/sh_chest.c line 67 :Bad argument 1 type to efun file_size()
+wizards/astarel/sh/sh_chest.c line 67 :syntax error
+wizards/astarel/sh/sh_chest.c line 73 :Illegal LHS
+wizards/astarel/sh/sh_chest.c line 73 :syntax error
+wizards/astarel/sh/sh_chest.c line 81 :Illegal LHS
+wizards/astarel/sh/sh_chest.c line 66 :Bad argument 1 type to efun file_size()
+wizards/astarel/sh/sh_chest.c line 66 :syntax error
+wizards/astarel/sh/sh_chest.c line 72 :Illegal LHS
+wizards/astarel/sh/sh_chest.c line 72 :syntax error
+wizards/astarel/sh/sh_chest.c line 80 :Illegal LHS
+wizards/astarel/sh/sh_chest.c line 80 :syntax error
+wizards/astarel/sh/sh_chest.c line 76 :Missing type for argument
+wizards/astarel/sh/sh_chest.c line 83 :Variable obs not declared !
+wizards/astarel/sh/sh_chest.c line 112 :Missing type for argument
+wizards/astarel/sh/sh_chest.c line 114 :Variable chest_mapp not declared !
+wizards/astarel/sh/sh_chest.c line 138 :Undefined function short
+wizards/astarel/sh/sh_chest.c line 147 :Function short undefined
+wizards/astarel/sh/sh_chest.c line 76 :Missing type for argument
+wizards/astarel/sh/sh_chest.c line 83 :Variable obs not declared !
+wizards/astarel/sh/sh_chest.c line 112 :Missing type for argument
+wizards/astarel/sh/sh_chest.c line 114 :Variable chest_mapp not declared !
+wizards/astarel/sh/sh_chest.c line 138 :Undefined function short
+wizards/astarel/sh/sh_chest.c line 147 :Function short undefined
+wizards/astarel/sh/sh_chest.c line 76 :Missing type for argument
+wizards/astarel/sh/sh_chest.c line 83 :Variable obs not declared !
+wizards/astarel/sh/sh_chest.c line 112 :Missing type for argument
+wizards/astarel/sh/sh_chest.c line 114 :Variable chest_mapp not declared !
+wizards/astarel/sh/sh_chest.c line 138 :Undefined function short
+wizards/astarel/sh/sh_chest.c line 147 :Function short undefined
+wizards/astarel/sh/sh_chest.c line 76 :Missing type for argument
+wizards/astarel/sh/sh_chest.c line 112 :Missing type for argument
+wizards/astarel/sh/sh_chest.c line 114 :Variable chest_mapp not declared !
+wizards/astarel/sh/sh_chest.c line 138 :Undefined function short
+wizards/astarel/sh/sh_chest.c line 147 :Function short undefined
+wizards/astarel/sh/sh_chest.c line 171 :Function short undefined
+wizards/astarel/sh/sh_chest.c line 76 :Missing type for argument
+wizards/astarel/sh/sh_chest.c line 112 :Missing type for argument
+wizards/astarel/sh/sh_chest.c line 114 :Variable chest_mapp not declared !
+wizards/astarel/sh/sh_chest.c line 138 :Undefined function short
+wizards/astarel/sh/sh_chest.c line 147 :Function short undefined
+wizards/astarel/sh/sh_chest.c line 171 :Function short undefined
+wizards/astarel/sh/sh_chest.c line 115 :Variable chest_mapp not declared !
+wizards/astarel/sh/sh_chest.c line 139 :Undefined function short
+wizards/astarel/sh/sh_chest.c line 148 :Function short undefined
+wizards/astarel/sh/sh_chest.c line 172 :Function short undefined
+wizards/astarel/sh/sh_chest.c line 176 :Function short undefined
+wizards/astarel/sh/sh_chest.c line 188 :Variable last_user_name not declared !
+wizards/astarel/sh/sh_chest.c line 115 :Variable chest_mapp not declared !
+wizards/astarel/sh/sh_chest.c line 139 :Undefined function short
+wizards/astarel/sh/sh_chest.c line 148 :Function short undefined
+wizards/astarel/sh/sh_chest.c line 172 :Function short undefined
+wizards/astarel/sh/sh_chest.c line 176 :Function short undefined
+wizards/astarel/sh/sh_chest.c line 188 :Variable last_user_name not declared !
+wizards/astarel/sh/sh_chest.c line 42 :Variable label not declared !
+wizards/astarel/sh/sh_chest.c line 42 :Variable label not declared !
+wizards/astarel/sh/sh_chest.c line 43 :Variable label not declared !
+wizards/astarel/sh/sh_chest.c line 54 :Bad assignment. Rhs: "object * "
+wizards/astarel/sh/sh_chest.c line 55 :Bad argument 1 type to efun sizeof()
+wizards/astarel/sh/sh_chest.c line 56 :Bad type to indexed value: "object "
+wizards/astarel/sh/sh_chest.c line 210 :Variable last_user_name not declared !
+wizards/astarel/sh/sh_chest.c line 218 :syntax error
+wizards/astarel/sh/sh_chest.c line 210 :Variable last_user_name not declared !
+wizards/astarel/sh/sh_chest.c line 218 :syntax error
+wizards/astarel/sh/sh_chest.c line 218 :syntax error
+wizards/astarel/sh/sh_chest.c line 218 :syntax error
+wizards/astarel/sh/sh_base_room.c line 56 :Missing type for argument
+wizards/astarel/sh/sh_base_room.c line 136 :syntax error
+wizards/astarel/sh/sh_chest.c line 62 :Variable label not declared !
+wizards/astarel/sh/sh_chest.c line 62 :Return type not matching: "void "
+wizards/astarel/sh/sh_chest.c line 62 :Variable label not declared !
+wizards/astarel/sh/sh_chest.c line 237 :Must return a value for a function declared: "int "
+wizards/astarel/sh/sh_chest.c line 238 :Variable jammed not declared !
+wizards/astarel/sh/sh_chest.c line 253 :Variable current not declared !
+wizards/astarel/sh/sh_chest.c line 289 :Must return a value for a function declared: "int "
+wizards/astarel/sh/sh_chest.c line 237 :Must return a value for a function declared: "int "
+wizards/astarel/sh/sh_chest.c line 238 :Variable jammed not declared !
+wizards/astarel/sh/sh_chest.c line 253 :Variable current not declared !
+wizards/astarel/sh/sh_chest.c line 289 :Must return a value for a function declared: "int "
+wizards/astarel/sh/sh_chest.c line 238 :Variable jammed not declared !
+wizards/astarel/sh/sh_chest.c line 253 :Variable current not declared !
+wizards/astarel/sh/sh_chest.c line 289 :Must return a value for a function declared: "int "
+wizards/astarel/sh/sh_chest.c line 253 :Variable current not declared !
+wizards/astarel/sh/sh_chest.c line 289 :Must return a value for a function declared: "int "
+wizards/astarel/sh/sh_chest.c line 289 :Must return a value for a function declared: "int "
+wizards/astarel/sh/sh_chest.c line 46 :syntax error
+wizards/astarel/sh/sh_guard.c line 53 :Variable master not declared !
+wizards/astarel/sh/sh_guard.c line 56 :Bad assignment. Rhs: "mixed * "
+wizards/astarel/sh/sh_guard.c line 60 :Undefined function set_id
+wizards/astarel/sh/sh_guard.c line 124 :Bad argument 2 type to efun remove_action()
+wizards/astarel/sh/sh_guard.c line 175 :syntax error
+wizards/astarel/sh/sh_guard.c line 56 :Bad assignment. Rhs: "mixed * "
+wizards/astarel/sh/sh_guard.c line 60 :Undefined function set_id
+wizards/astarel/sh/sh_guard.c line 124 :Bad argument 2 type to efun remove_action()
+wizards/astarel/sh/sh_guard.c line 175 :syntax error
+wizards/astarel/sh/sh_guard.c line 60 :Undefined function set_id
+wizards/astarel/sh/sh_guard.c line 124 :Bad argument 2 type to efun remove_action()
+wizards/astarel/sh/sh_guard.c line 175 :syntax error
+wizards/astarel/sh/sh_guard.c line 124 :Bad argument 2 type to efun remove_action()
+wizards/astarel/sh/sh_guard.c line 175 :syntax error
+wizards/astarel/sh/sh_guard.c line 175 :syntax error
+wizards/astarel/sh/sh_guard.c line 176 :syntax error
+wizards/astarel/sh/sh_guard.c line 179 :Undefined function lover_case
+wizards/astarel/sh/sh_guard.c line 179 :Undefined function preset
+wizards/astarel/sh/sh_guard.c line 184 :syntax error
+wizards/astarel/sh/sh_guard.c line 179 :Undefined function preset
+wizards/astarel/sh/sh_guard.c line 184 :syntax error
+wizards/astarel/sh/sh_guard.c line 184 :syntax error
+wizards/astarel/sh/sh_guard.c line 67 :Bad argument number 1 to '*': "unknown "
+wizards/astarel/sh/sh_guard.c line 70 :Bad argument number 1 to '/': "unknown "
+wizards/astarel/sh/sh_guard.c line 68 :Bad argument number 1 to '*': "unknown "
+wizards/astarel/sh/sh_guard.c line 71 :Bad argument number 1 to '/': "unknown "
+wizards/astarel/sh/sh_guard.c line 69 :Bad assignment. Rhs: "unknown "
+wizards/astarel/sh/sh_guard.c line 72 :Bad assignment. Rhs: "unknown "
+wizards/astarel/sh/sh_guard.c line 77 :Bad assignment. Rhs: "unknown "
+wizards/astarel/sh/sh_base_room.c line 89 :syntax error
+wizards/astarel/sh/sh_base_room.c line 90 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 96 :syntax error
+wizards/astarel/sh/sh_main_d.c line 22 :Variable dir_temp not declared !
+wizards/astarel/eval_file.c line 2 :Undefined function function_list
+wizards/astarel/eval_file.c line 2 :syntax error
+wizards/astarel/eval_file.c line 2 :syntax error
+wizards/astarel/sh/sh_base_room.c line 348 :syntax error
+wizards/astarel/sh/sh_base_room.c line 350 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 369 :syntax error
+wizards/astarel/sh/sh_base_room.c line 376 :Must return a value for a function declared: "int "
+wizards/astarel/sh/sh_base_room.c line 386 :Must return a value for a function declared: "int "
+wizards/astarel/sh/sh_base_room.c line 396 :syntax error
+wizards/astarel/sh/sh_base_room.c line 348 :syntax error
+wizards/astarel/sh/sh_base_room.c line 350 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 369 :syntax error
+wizards/astarel/sh/sh_base_room.c line 376 :Must return a value for a function declared: "int "
+wizards/astarel/sh/sh_base_room.c line 386 :Must return a value for a function declared: "int "
+wizards/astarel/sh/sh_base_room.c line 396 :syntax error
+wizards/astarel/sh/sh_base_room.c line 348 :syntax error
+wizards/astarel/sh/sh_base_room.c line 350 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 369 :syntax error
+wizards/astarel/sh/sh_base_room.c line 376 :Must return a value for a function declared: "int "
+wizards/astarel/sh/sh_base_room.c line 386 :Must return a value for a function declared: "int "
+wizards/astarel/sh/sh_base_room.c line 396 :syntax error
+wizards/astarel/sh/sh_base_room.c line 348 :syntax error
+wizards/astarel/sh/sh_base_room.c line 350 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 369 :syntax error
+wizards/astarel/sh/sh_base_room.c line 376 :Must return a value for a function declared: "int "
+wizards/astarel/sh/sh_base_room.c line 386 :Must return a value for a function declared: "int "
+wizards/astarel/sh/sh_base_room.c line 396 :syntax error
+wizards/astarel/sh/sh_base_room.c line 348 :syntax error
+wizards/astarel/sh/sh_base_room.c line 350 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 369 :syntax error
+wizards/astarel/sh/sh_base_room.c line 376 :Must return a value for a function declared: "int "
+wizards/astarel/sh/sh_base_room.c line 386 :Must return a value for a function declared: "int "
+wizards/astarel/sh/sh_base_room.c line 396 :syntax error
+wizards/astarel/sh/sh_base_room.c line 348 :syntax error
+wizards/astarel/sh/sh_base_room.c line 350 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 369 :syntax error
+wizards/astarel/sh/sh_base_room.c line 376 :Must return a value for a function declared: "int "
+wizards/astarel/sh/sh_base_room.c line 386 :Must return a value for a function declared: "int "
+wizards/astarel/sh/sh_base_room.c line 396 :syntax error
+wizards/astarel/sh/sh_base_room.c line 348 :syntax error
+wizards/astarel/sh/sh_base_room.c line 350 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 369 :syntax error
+wizards/astarel/sh/sh_base_room.c line 376 :Must return a value for a function declared: "int "
+wizards/astarel/sh/sh_base_room.c line 386 :Must return a value for a function declared: "int "
+wizards/astarel/sh/sh_base_room.c line 396 :syntax error
+wizards/astarel/sh/sh_base_room.c line 396 :Return type not matching: "void "
+wizards/astarel/sh/sh_base_room.c line 77 :syntax error
+wizards/astarel/sh/sh_base_room.c line 84 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 86 :syntax error
+wizards/astarel/sh/sh_base_room.c line 96 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 98 :syntax error
+wizards/astarel/sh/sh_base_room.c line 106 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 77 :syntax error
+wizards/astarel/sh/sh_base_room.c line 84 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 86 :syntax error
+wizards/astarel/sh/sh_base_room.c line 96 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 98 :syntax error
+wizards/astarel/sh/sh_base_room.c line 106 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 77 :syntax error
+wizards/astarel/sh/sh_base_room.c line 84 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 86 :syntax error
+wizards/astarel/sh/sh_base_room.c line 96 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 98 :syntax error
+wizards/astarel/sh/sh_base_room.c line 106 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 78 :Variable save_room not declared !
+wizards/astarel/sh/sh_base_room.c line 78 :syntax error
+wizards/astarel/sh/sh_base_room.c line 225 :Variable GUARD not declared !
+wizards/astarel/sh/sh_base_room.c line 520 :syntax error
+wizards/astarel/sh/sh_base_room.c line 225 :Variable GUARD not declared !
+wizards/astarel/sh/sh_base_room.c line 520 :syntax error
+wizards/astarel/sh/sh_base_room.c line 521 :syntax error
+wizards/astarel/sh/sh_base_room.c line 521 :syntax error
+wizards/astarel/sh/sh_guard.c line 40 :Bad assignment. Rhs: "string * "
+wizards/astarel/sh/sh_guard.c line 56 :Variable id not declared !
+wizards/astarel/sh/sh_guard.c line 176 :syntax error
+wizards/astarel/sh/sh_guard.c line 187 :Illegal LHS
+wizards/astarel/sh/sh_guard.c line 187 :syntax error
+wizards/astarel/sh/sh_guard.c line 188 :Variable players not declared !
+wizards/astarel/sh/sh_guard.c line 40 :Bad assignment. Rhs: "string * "
+wizards/astarel/sh/sh_guard.c line 56 :Variable id not declared !
+wizards/astarel/sh/sh_guard.c line 176 :syntax error
+wizards/astarel/sh/sh_guard.c line 187 :Illegal LHS
+wizards/astarel/sh/sh_guard.c line 187 :syntax error
+wizards/astarel/sh/sh_guard.c line 188 :Variable players not declared !
+wizards/astarel/sh/sh_guard.c line 40 :Bad assignment. Rhs: "string * "
+wizards/astarel/sh/sh_guard.c line 56 :Variable id not declared !
+wizards/astarel/sh/sh_guard.c line 176 :syntax error
+wizards/astarel/sh/sh_guard.c line 187 :Illegal LHS
+wizards/astarel/sh/sh_guard.c line 187 :syntax error
+wizards/astarel/sh/sh_guard.c line 188 :Variable players not declared !
+wizards/astarel/sh/sh_guard.c line 40 :Bad assignment. Rhs: "string * "
+wizards/astarel/sh/sh_guard.c line 56 :Variable id not declared !
+wizards/astarel/sh/sh_guard.c line 176 :syntax error
+wizards/astarel/sh/sh_guard.c line 187 :Illegal LHS
+wizards/astarel/sh/sh_guard.c line 187 :syntax error
+wizards/astarel/sh/sh_guard.c line 188 :Variable players not declared !
+wizards/astarel/sh/sh_guard.c line 40 :Bad assignment. Rhs: "string * "
+wizards/astarel/sh/sh_guard.c line 176 :syntax error
+wizards/astarel/sh/sh_guard.c line 187 :Illegal LHS
+wizards/astarel/sh/sh_guard.c line 187 :syntax error
+wizards/astarel/sh/sh_guard.c line 188 :Variable players not declared !
+wizards/astarel/sh/sh_guard.c line 188 :Illegal LHS
+wizards/astarel/sh/sh_guard.c line 40 :Bad assignment. Rhs: "string * "
+wizards/astarel/sh/sh_guard.c line 176 :syntax error
+wizards/astarel/sh/sh_guard.c line 187 :Illegal LHS
+wizards/astarel/sh/sh_guard.c line 187 :syntax error
+wizards/astarel/sh/sh_guard.c line 188 :Variable players not declared !
+wizards/astarel/sh/sh_guard.c line 188 :Illegal LHS
+wizards/astarel/sh/sh_guard.c line 40 :Bad assignment. Rhs: "string * "
+wizards/astarel/sh/sh_guard.c line 235 :syntax error
+wizards/astarel/sh/sh_guard.c line 40 :Bad assignment. Rhs: "string * "
+wizards/astarel/sh/sh_guard.c line 235 :syntax error
+wizards/astarel/sh/sh_guard.c line 40 :Bad assignment. Rhs: "string * "
+wizards/astarel/sh/sh_chest.c line 180 :Variable owner not declared !
+wizards/astarel/sh/sh_base_room.c line 575 :Wrong number of arguments to guard_help
+wizards/astarel/sh/sh_base_room.c line 590 :syntax error
+wizards/astarel/sh/sh_base_room.c line 592 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 601 :syntax error
+wizards/astarel/sh/sh_base_room.c line 590 :syntax error
+wizards/astarel/sh/sh_base_room.c line 592 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 601 :syntax error
+wizards/astarel/sh/sh_base_room.c line 531 :Unrecognized inheritance modifier qualifier
+wizards/astarel/sh/sh_base_room.c line 531 :syntax error
+wizards/astarel/sh/sh_base_room.c line 531 :syntax error
+wizards/astarel/sh/sh_base_room.c line 640 :syntax error
+wizards/astarel/sh/sh_base_room.c line 640 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 640 :syntax error
+wizards/astarel/sh/sh_base_room.c line 640 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 654 :syntax error
+wizards/astarel/sh/sh_base_room.c line 654 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 658 :Too few arguments to write
+wizards/astarel/sh/sh_base_room.c line 670 :syntax error
+wizards/astarel/sh/sh_base_room.c line 678 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 678 :syntax error
+wizards/astarel/sh/sh_base_room.c line 654 :syntax error
+wizards/astarel/sh/sh_base_room.c line 654 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 658 :Too few arguments to write
+wizards/astarel/sh/sh_base_room.c line 670 :syntax error
+wizards/astarel/sh/sh_base_room.c line 678 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 678 :syntax error
+wizards/astarel/sh/sh_base_room.c line 654 :syntax error
+wizards/astarel/sh/sh_base_room.c line 654 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 658 :Too few arguments to write
+wizards/astarel/sh/sh_base_room.c line 670 :syntax error
+wizards/astarel/sh/sh_base_room.c line 678 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 678 :syntax error
+wizards/astarel/sh/sh_base_room.c line 96 :syntax error
+wizards/astarel/sh/sh_base_room.c line 106 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 108 :syntax error
+wizards/astarel/sh/sh_base_room.c line 113 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 114 :Undefined function make_items
+wizards/astarel/sh/sh_base_room.c line 115 :syntax error
+wizards/astarel/sh/sh_base_room.c line 98 :Undefined function make_items
+wizards/astarel/sh/sh_base_room.c line 114 :Function make_items undefined
+wizards/astarel/sh/sh_base_room.c line 128 :Bad assignment. Rhs: "mixed * "
+wizards/astarel/sh/sh_base_room.c line 134 :syntax error
+wizards/astarel/sh/sh_base_room.c line 134 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 136 :Undefined function make_door_descs
+wizards/astarel/sh/sh_base_room.c line 98 :Undefined function make_items
+wizards/astarel/sh/sh_base_room.c line 114 :Function make_items undefined
+wizards/astarel/sh/sh_base_room.c line 128 :Bad assignment. Rhs: "mixed * "
+wizards/astarel/sh/sh_base_room.c line 134 :syntax error
+wizards/astarel/sh/sh_base_room.c line 134 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 136 :Undefined function make_door_descs
+wizards/astarel/sh/sh_base_room.c line 132 :Bad assignment. Rhs: "mixed * "
+wizards/astarel/sh/sh_base_room.c line 138 :syntax error
+wizards/astarel/sh/sh_base_room.c line 138 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 155 :Undefined function get_door_type
+wizards/astarel/sh/sh_base_room.c line 501 :Undefined function chest_help
+wizards/astarel/sh/sh_base_room.c line 507 :Variable guards not declared !
+wizards/astarel/sh/sh_base_room.c line 132 :Bad assignment. Rhs: "mixed * "
+wizards/astarel/sh/sh_base_room.c line 138 :syntax error
+wizards/astarel/sh/sh_base_room.c line 138 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 155 :Undefined function get_door_type
+wizards/astarel/sh/sh_base_room.c line 501 :Undefined function chest_help
+wizards/astarel/sh/sh_base_room.c line 507 :Variable guards not declared !
+wizards/astarel/sh/sh_base_room.c line 155 :Undefined function get_door_type
+wizards/astarel/sh/sh_base_room.c line 501 :Undefined function chest_help
+wizards/astarel/sh/sh_base_room.c line 507 :Variable guards not declared !
+wizards/astarel/sh/sh_base_room.c line 507 :Bad assignment. Rhs: "mixed * "
+wizards/astarel/sh/sh_base_room.c line 507 :Undefined function chest_help
+wizards/astarel/sh/sh_base_room.c line 513 :Variable guards not declared !
+wizards/astarel/sh/sh_base_room.c line 513 :Bad assignment. Rhs: "mixed * "
+wizards/astarel/sh/sh_base_room.c line 507 :Undefined function chest_help
+wizards/astarel/sh/sh_base_room.c line 513 :Variable guards not declared !
+wizards/astarel/sh/sh_base_room.c line 513 :Bad assignment. Rhs: "mixed * "
+wizards/astarel/sh/sh_base_room.c line 507 :Undefined function chest_help
+wizards/astarel/sh/sh_base_room.c line 513 :Variable guards not declared !
+wizards/astarel/sh/sh_base_room.c line 513 :Bad assignment. Rhs: "mixed * "
+wizards/astarel/sh/sh_base_room.c line 513 :Variable guards not declared !
+wizards/astarel/sh/sh_base_room.c line 513 :Bad assignment. Rhs: "mixed * "
+wizards/astarel/sh/sh_base_room.c line 513 :Bad assignment. Rhs: "mixed * "
+wizards/astarel/eval_file.c line 2 :syntax error
+wizards/astarel/sh/sh_base_room.c line 134 :Bad assignment. Rhs: "mixed * "
+wizards/astarel/sh/sh_base_room.c line 140 :syntax error
+wizards/astarel/sh/sh_base_room.c line 140 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 134 :Bad assignment. Rhs: "mixed * "
+wizards/astarel/sh/sh_base_room.c line 140 :syntax error
+wizards/astarel/sh/sh_base_room.c line 140 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 134 :Bad assignment. Rhs: "mixed * "
+wizards/astarel/sh/sh_base_room.c line 140 :syntax error
+wizards/astarel/sh/sh_base_room.c line 140 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 138 :syntax error
+wizards/astarel/sh/sh_base_room.c line 138 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 147 :syntax error
+wizards/astarel/sh/sh_base_room.c line 163 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 163 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 163 :syntax error
+wizards/astarel/sh/sh_base_room.c line 175 :Variable str not declared !
+wizards/astarel/sh/sh_base_room.c line 175 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 147 :syntax error
+wizards/astarel/sh/sh_base_room.c line 163 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 163 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 163 :syntax error
+wizards/astarel/sh/sh_base_room.c line 175 :Variable str not declared !
+wizards/astarel/sh/sh_base_room.c line 175 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 158 :syntax error
+wizards/astarel/sh/sh_base_room.c line 161 :Variable str not declared !
+wizards/astarel/sh/sh_base_room.c line 165 :Variable str not declared !
+wizards/astarel/sh/sh_base_room.c line 165 :Undefined function member_aray
+wizards/astarel/sh/sh_base_room.c line 170 :Variable str not declared !
+wizards/astarel/sh/sh_base_room.c line 170 :Variable open_door not declared !
+wizards/astarel/sh/sh_base_room.c line 165 :Undefined function member_aray
+wizards/astarel/sh/sh_base_room.c line 170 :Variable open_door not declared !
+wizards/astarel/sh/sh_base_room.c line 165 :Undefined function member_aray
+wizards/astarel/sh/sh_base_room.c line 170 :Variable open_door not declared !
+wizards/astarel/sh/sh_base_room.c line 170 :Variable open_door not declared !
+wizards/astarel/sh/sh_base_room.c line 129 :Undefined function make_doors
+wizards/astarel/sh/sh_base_room.c line 146 :Variable new_room not declared !
+wizards/astarel/sh/sh_base_room.c line 148 :Variable new_room not declared !
+wizards/astarel/sh/sh_base_room.c line 148 :Variable new_room not declared !
+wizards/astarel/sh/sh_base_room.c line 148 :Variable i_temp not declared !
+wizards/astarel/sh/sh_base_room.c line 164 :Variable new_room not declared !
+wizards/astarel/sh/sh_base_room.c line 129 :Undefined function make_doors
+wizards/astarel/sh/sh_base_room.c line 146 :Variable new_room not declared !
+wizards/astarel/sh/sh_base_room.c line 148 :Variable new_room not declared !
+wizards/astarel/sh/sh_base_room.c line 148 :Variable new_room not declared !
+wizards/astarel/sh/sh_base_room.c line 148 :Variable i_temp not declared !
+wizards/astarel/sh/sh_base_room.c line 164 :Variable new_room not declared !
+wizards/astarel/sh/sh_base_room.c line 146 :Variable new_room not declared !
+wizards/astarel/sh/sh_base_room.c line 148 :Variable new_room not declared !
+wizards/astarel/sh/sh_base_room.c line 148 :Variable new_room not declared !
+wizards/astarel/sh/sh_base_room.c line 148 :Variable i_temp not declared !
+wizards/astarel/sh/sh_base_room.c line 164 :Variable new_room not declared !
+wizards/astarel/sh/sh_base_room.c line 164 :Variable type not declared !
+wizards/astarel/sh/sh_base_room.c line 146 :Variable new_room not declared !
+wizards/astarel/sh/sh_base_room.c line 148 :Variable new_room not declared !
+wizards/astarel/sh/sh_base_room.c line 148 :Variable new_room not declared !
+wizards/astarel/sh/sh_base_room.c line 148 :Variable i_temp not declared !
+wizards/astarel/sh/sh_base_room.c line 164 :Variable new_room not declared !
+wizards/astarel/sh/sh_base_room.c line 164 :Variable type not declared !
+wizards/astarel/sh/sh_base_room.c line 149 :Variable i_temp not declared !
+wizards/astarel/sh/sh_base_room.c line 165 :Variable type not declared !
+wizards/astarel/sh/sh_base_room.c line 943 :Wrong number of arguments to add_door
+wizards/astarel/sh/sh_base_room.c line 952 :Case outside switch
+wizards/astarel/sh/sh_base_room.c line 966 :syntax error
+wizards/astarel/sh/sh_base_room.c line 167 :Variable type not declared !
+wizards/astarel/sh/sh_base_room.c line 945 :Wrong number of arguments to add_door
+wizards/astarel/sh/sh_base_room.c line 954 :Case outside switch
+wizards/astarel/sh/sh_base_room.c line 968 :syntax error
+wizards/astarel/sh/sh_base_room.c line 945 :Wrong number of arguments to add_door
+wizards/astarel/sh/sh_base_room.c line 954 :Case outside switch
+wizards/astarel/sh/sh_base_room.c line 968 :syntax error
+wizards/astarel/sh/sh_base_room.c line 954 :Case outside switch
+wizards/astarel/sh/sh_base_room.c line 968 :syntax error
+wizards/astarel/eval_file.c line 4 :syntax error
+wizards/astarel/eval_file.c line 2 :syntax error
+wizards/astarel/sh/sh_guard.c line 43 :syntax error
+wizards/astarel/sh/sh_guard.c line 44 :Variable id not declared !
+wizards/astarel/sh/sh_guard.c line 44 :Illegal LHS
+wizards/astarel/sh/sh_guard.c line 66 :Illegal LHS
+wizards/astarel/sh/sh_guard.c line 66 :syntax error
+wizards/astarel/sh/sh_guard.c line 75 :Illegal LHS
+wizards/astarel/sh/sh_guard.c line 43 :syntax error
+wizards/astarel/sh/sh_guard.c line 44 :Variable id not declared !
+wizards/astarel/sh/sh_guard.c line 44 :Illegal LHS
+wizards/astarel/sh/sh_guard.c line 66 :Illegal LHS
+wizards/astarel/sh/sh_guard.c line 66 :syntax error
+wizards/astarel/sh/sh_guard.c line 75 :Illegal LHS
+wizards/astarel/sh/sh_guard.c line 43 :syntax error
+wizards/astarel/sh/sh_guard.c line 44 :Variable id not declared !
+wizards/astarel/sh/sh_guard.c line 44 :Illegal LHS
+wizards/astarel/sh/sh_guard.c line 66 :Illegal LHS
+wizards/astarel/sh/sh_guard.c line 66 :syntax error
+wizards/astarel/sh/sh_guard.c line 75 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 636 :Bad type to indexed value: "object "
+wizards/astarel/testi.c line 12 :syntax error
+wizards/astarel/testi.c line 24 :Variable str not declared !
+wizards/astarel/testi.c line 24 :Must return a value for a function declared: "string * "
+wizards/astarel/testi.c line 26 :Variable temp_array not declared !
+wizards/astarel/testi.c line 26 :Variable str not declared !
+wizards/astarel/testi.c line 27 :Variable temp_string not declared !
+wizards/astarel/testi.c line 24 :Must return a value for a function declared: "string "
+wizards/astarel/testi.c line 32 :syntax error
+wizards/astarel/testi.c line 34 :Illegal LHS
+wizards/astarel/testi.c line 38 :syntax error
+wizards/astarel/testi.c line 38 :Illegal LHS
+wizards/astarel/testi.c line 38 :Illegal LHS
+wizards/astarel/testi.c line 24 :Must return a value for a function declared: "string "
+wizards/astarel/testi.c line 32 :syntax error
+wizards/astarel/testi.c line 34 :Illegal LHS
+wizards/astarel/testi.c line 38 :syntax error
+wizards/astarel/testi.c line 38 :Illegal LHS
+wizards/astarel/testi.c line 38 :Illegal LHS
+wizards/astarel/testi.c line 25 :Must return a value for a function declared: "string "
+wizards/astarel/testi.c line 33 :syntax error
+wizards/astarel/testi.c line 35 :Illegal LHS
+wizards/astarel/testi.c line 39 :syntax error
+wizards/astarel/testi.c line 39 :Illegal LHS
+wizards/astarel/testi.c line 39 :Illegal LHS
+wizards/astarel/testi.c line 25 :Must return a value for a function declared: "string "
+wizards/astarel/testi.c line 33 :syntax error
+wizards/astarel/testi.c line 35 :Illegal LHS
+wizards/astarel/testi.c line 39 :syntax error
+wizards/astarel/testi.c line 39 :Illegal LHS
+wizards/astarel/testi.c line 39 :Illegal LHS
+wizards/astarel/testi.c line 33 :syntax error
+wizards/astarel/testi.c line 35 :Illegal LHS
+wizards/astarel/testi.c line 39 :syntax error
+wizards/astarel/testi.c line 39 :Illegal LHS
+wizards/astarel/testi.c line 39 :Illegal LHS
+wizards/astarel/testi.c line 39 :syntax error
+wizards/astarel/testi.c line 33 :syntax error
+wizards/astarel/testi.c line 35 :Illegal LHS
+wizards/astarel/testi.c line 39 :syntax error
+wizards/astarel/testi.c line 39 :Illegal LHS
+wizards/astarel/testi.c line 39 :Illegal LHS
+wizards/astarel/testi.c line 39 :syntax error
+wizards/astarel/testi.c line 39 :syntax error
+wizards/astarel/testi.c line 39 :Illegal LHS
+wizards/astarel/testi.c line 40 :Bad assignment. Rhs: "string "
+wizards/astarel/testi.c line 57 :syntax error
+wizards/astarel/testi.c line 40 :Bad assignment. Rhs: "string "
+wizards/astarel/testi.c line 57 :syntax error
+wizards/astarel/testi.c line 40 :Bad assignment. Rhs: "string "
+wizards/astarel/testi.c line 49 :syntax error
+wizards/astarel/testi.c line 40 :Bad assignment. Rhs: "string "
+wizards/astarel/testi.c line 40 :Bad assignment. Rhs: "string "
+wizards/astarel/testi.c line 40 :Bad assignment. Rhs: "string "
+wizards/astarel/sh/sh_base_room.c line 329 :syntax error
+wizards/astarel/sh/sh_base_room.c line 329 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 330 :Variable i not declared !
+wizards/astarel/sh/sh_base_room.c line 330 :Type mismatch ( unknown vs mixed ) when initializing room_id
+wizards/astarel/sh/sh_base_room.c line 330 :Missing type
+wizards/astarel/sh/sh_base_room.c line 331 :Type mismatch ( unknown vs string ) when initializing dir_temp
+wizards/astarel/sh/sh_base_room.c line 329 :syntax error
+wizards/astarel/sh/sh_base_room.c line 329 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 330 :Variable i not declared !
+wizards/astarel/sh/sh_base_room.c line 330 :Type mismatch ( unknown vs mixed ) when initializing room_id
+wizards/astarel/sh/sh_base_room.c line 330 :Missing type
+wizards/astarel/sh/sh_base_room.c line 331 :Type mismatch ( unknown vs string ) when initializing dir_temp
+wizards/astarel/sh/sh_base_room.c line 546 :syntax error
+wizards/astarel/sh/sh_base_room.c line 550 :Variable exit not declared !
+wizards/astarel/sh/sh_base_room.c line 550 :Variable path not declared !
+wizards/astarel/sh/sh_base_room.c line 509 :syntax error
+wizards/astarel/sh/sh_base_room.c line 540 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 540 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 540 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 540 :Illegal LHS
+wizards/astarel/sh/sh_base_room.c line 540 :Illegal LHS
+wizards/astarel/misc/mortar.c line 10 :syntax error
+wizards/astarel/misc/mortar.c line 54 :Variable target not declared !
+wizards/astarel/misc/mortar.c line 54 :Illegal LHS
+wizards/astarel/misc/mortar.c line 55 :Variable obs not declared !
+wizards/astarel/misc/mortar.c line 55 :Variable target_room not declared !
+wizards/astarel/misc/mortar.c line 56 :Variable obs not declared !
+wizards/astarel/misc/mortar.c line 55 :Variable obs not declared !
+wizards/astarel/misc/mortar.c line 56 :Variable obs not declared !
+wizards/astarel/misc/mortar.c line 56 :Variable obs not declared !
+wizards/astarel/misc/mortar.c line 66 :Variable obs not declared !
+wizards/astarel/misc/mortar.c line 67 :Variable obs not declared !
+wizards/astarel/misc/mortar.c line 68 :Variable obs not declared !
+wizards/astarel/misc/mortar.c line 55 :Bad assignment. Rhs: "object * "
+wizards/astarel/misc/mortar.c line 56 :Bad assignment. Rhs: "mixed * "
+wizards/astarel/misc/mortar.c line 66 :Bad argument 1 type to efun sizeof()
+wizards/astarel/misc/mortar.c line 67 :Bad type to indexed value: "object "
+wizards/astarel/misc/mortar.c line 68 :Bad type to indexed value: "object "
+wizards/astarel/misc/mortar.c line 55 :Bad assignment. Rhs: "object * "
+wizards/astarel/misc/mortar.c line 56 :Bad assignment. Rhs: "mixed * "
+wizards/astarel/misc/mortar.c line 66 :Bad argument 1 type to efun sizeof()
+wizards/astarel/misc/mortar.c line 67 :Bad type to indexed value: "object "
+wizards/astarel/misc/mortar.c line 68 :Bad type to indexed value: "object "
+wizards/astarel/eval_file.c line 2 :Variable south not declared !
+wizards/astarel/sh/sh_base_room.c line 224 :Variable dir not declared !
+wizards/astarel/sh/sh_base_room.c line 225 :Variable dir not declared !
+wizards/astarel/sh/sh_base_room.c line 226 :Variable dir not declared !
+wizards/astarel/sh/sh_base_room.c line 227 :Variable dir not declared !
+wizards/astarel/sh/sh_base_room.c line 228 :Variable dir not declared !
+wizards/astarel/sh/sh_base_room.c line 229 :Variable dir not declared !
+wizards/astarel/misc/line.c line 8 :syntax error
+wizards/astarel/misc/line.c line 9 :Illegal LHS
+wizards/astarel/eval_file.c line 2 :Newline in string
+wizards/astarel/eval_file.c line 3 :syntax error
+wizards/astarel/misc/line2.c line 30 :== always false because of different types: "int "
+wizards/astarel/misc/line2.c line 30 :                               compared to: "string "
+wizards/astarel/eval_file.c line 2 :Undefined function envinronment
+wizards/astarel/sh/sh_base_room.c line 811 :Wrong number of arguments to open_door
+wizards/astarel/sh/sh_base_room.c line 259 :Incorrect number of arguments.
+wizards/astarel/sh/sh_base_room.c line 285 :Incorrect number of arguments.
+wizards/astarel/sh/sh_base_room.c line 259 :Incorrect number of arguments.
+wizards/astarel/sh/sh_base_room.c line 285 :Incorrect number of arguments.
+wizards/astarel/sh/sh_base_room.c line 110 :Bad assignment. Rhs: "unknown "
+wizards/astarel/sh/sh_base_room.c line 161 :Bad assignment. Rhs: "unknown "
+wizards/astarel/sh/sh_base_room.c line 110 :Bad assignment. Rhs: "unknown "
+wizards/astarel/sh/sh_base_room.c line 161 :Bad assignment. Rhs: "unknown "
+wizards/astarel/sh/sh_base_room.c line 161 :Bad assignment. Rhs: "unknown "
+wizards/astarel/sh/sh_base_room.c line 110: Bad assignment ( string * vs unknown )
+wizards/astarel/sh/sh_base_room.c line 161: Bad assignment ( string vs unknown )
+wizards/astarel/sh/sh_base_room.c line 976: Wrong number of arguments to remove_door
+wizards/astarel/sh/sh_base_room.c line 161: Bad assignment ( string vs unknown )
+wizards/astarel/sh/sh_base_room.c line 976: Wrong number of arguments to remove_door
+wizards/astarel/sh/sh_base_room.c line 976: Wrong number of arguments to remove_door
+wizards/astarel/eval_file.c line 2: Variable short not declared !
+wizards/astarel/misc/sortteri.c line 7: Missing type for argument
+wizards/astarel/misc/sortteri.c line 46: Variable slot_numbe not declared !
+wizards/astarel/misc/sortteri.c line 46: syntax error
+wizards/astarel/misc/sortteri.c line 46: Illegal LHS
+wizards/astarel/misc/sortteri.c line 62: Variable SAVE_PATH not declared !
+wizards/astarel/sh/sh_guard.c line 111: syntax error
+wizards/astarel/sh/sh_guard.c line 112: syntax error
+wizards/astarel/sh/sh_guard.c line 126: Variable str not declared !
+wizards/astarel/sh/sh_guard.c line 126: Illegal LHS
+wizards/astarel/sh/sh_guard.c line 126: syntax error
+wizards/astarel/sh/sh_guard.c line 137: Variable str not declared !
+wizards/astarel/sh/sh_guard.c line 114: Undefined function 'set_spell_change'
+wizards/astarel/player.c line 2: Cannot #include 'living.h'
+wizards/astarel/player.c line 344: Variable msgout not declared !
+wizards/astarel/player.c line 345: Variable msgin not declared !
+wizards/astarel/player.c line 346: Variable mmsgout not declared !
+wizards/astarel/player.c line 347: Variable mmsgin not declared !
+wizards/astarel/player.c line 350: Variable msgout not declared !
+wizards/astarel/player.c line 712: casting a value to its own type: int 
+wizards/astarel/player.c line 824: casting a value to its own type: string 
+wizards/astarel/player.c line 824: casting a value to its own type: string 
+wizards/astarel/player.c line 3887: Missing arguments to simul_efun wizlist
+wizards/astarel/peacock2.c line 16: Illegal character (hex 5c) '\'
+wizards/astarel/peacock2.c line 16: syntax error
+wizards/astarel/peacock2.c line 16: Illegal character (hex 2e) '.'
+wizards/astarel/peacock2.c line 16: Illegal character constant
+wizards/astarel/peacock2.c line 16: Illegal character (hex 5c) '\'
+wizards/astarel/peacock2.c line 16: Newline in string
+wizards/astarel/peacock2.c line 16: Illegal character (hex 5c) '\'
+wizards/astarel/peacock2.c line 16: syntax error
+wizards/astarel/peacock2.c line 16: Illegal character (hex 5c) '\'
+wizards/astarel/peacock2.c line 16: Illegal character (hex 2e) '.'
+wizards/astarel/peacock2.c line 16: Illegal character constant
+wizards/astarel/peacock2.c line 16: Illegal character (hex 5c) '\'
+wizards/astarel/areas/beldor/mobs/orc1.c line 5: Illegal to redefine inherited variable 'short_desc'
+wizards/astarel/areas/beldor/mobs/orc1.c line 6: Illegal to redefine inherited variable 'long_desc'
+wizards/astarel/areas/beldor/mobs/orc1.c line 5: Illegal to redefine inherited variable 'short_desc'
+wizards/astarel/areas/beldor/mobs/orc1.c line 6: Illegal to redefine inherited variable 'long_desc'
+wizards/astarel/areas/beldor/mobs/orc2.c line 5: Illegal to redefine inherited variable 'short_desc'
+wizards/astarel/areas/beldor/mobs/orc2.c line 6: Illegal to redefine inherited variable 'long_desc'
+wizards/astarel/areas/beldor/mobs/animal1.c line 5: Illegal to redefine inherited variable 'short_desc'
+wizards/astarel/areas/beldor/mobs/animal1.c line 6: Illegal to redefine inherited variable 'long_desc'
+wizards/astarel/areas/beldor/mobs/orc1.c line 5: Illegal to redefine inherited variable 'short_desc'
+wizards/astarel/areas/beldor/mobs/orc1.c line 6: Illegal to redefine inherited variable 'long_desc'
+wizards/astarel/areas/beldor/mobs/orc1.c line 5: Illegal to redefine inherited variable 'short_desc'
+wizards/astarel/areas/beldor/mobs/orc1.c line 6: Illegal to redefine inherited variable 'long_desc'
+wizards/astarel/areas/beldor/mobs/orc2.c line 5: Illegal to redefine inherited variable 'short_desc'
+wizards/astarel/areas/beldor/mobs/orc2.c line 6: Illegal to redefine inherited variable 'long_desc'
+wizards/astarel/areas/beldor/mobs/animal1.c line 5: Illegal to redefine inherited variable 'short_desc'
+wizards/astarel/areas/beldor/mobs/animal1.c line 6: Illegal to redefine inherited variable 'long_desc'
+wizards/astarel/areas/beldor/mobs/orc1.c line 5: Illegal to redefine inherited variable 'short_desc'
+wizards/astarel/areas/beldor/mobs/orc1.c line 6: Illegal to redefine inherited variable 'long_desc'
+wizards/astarel/areas/beldor/mobs/orc1.c line 5: Illegal to redefine inherited variable 'short_desc'
+wizards/astarel/areas/beldor/mobs/orc1.c line 6: Illegal to redefine inherited variable 'long_desc'
+wizards/astarel/areas/beldor/mobs/orc2.c line 5: Illegal to redefine inherited variable 'short_desc'
+wizards/astarel/areas/beldor/mobs/orc2.c line 6: Illegal to redefine inherited variable 'long_desc'
+wizards/astarel/areas/beldor/mobs/animal1.c line 5: Illegal to redefine inherited variable 'short_desc'
+wizards/astarel/areas/beldor/mobs/animal1.c line 6: Illegal to redefine inherited variable 'long_desc'
+wizards/astarel/areas/beldor/mobs/orc1.c line 5: Illegal to redefine inherited variable 'short_desc'
+wizards/astarel/areas/beldor/mobs/orc1.c line 6: Illegal to redefine inherited variable 'long_desc'
+wizards/astarel/areas/beldor/mobs/orc1.c line 5: Illegal to redefine inherited variable 'short_desc'
+wizards/astarel/areas/beldor/mobs/orc1.c line 6: Illegal to redefine inherited variable 'long_desc'
+wizards/astarel/areas/beldor/mobs/orc2.c line 5: Illegal to redefine inherited variable 'short_desc'
+wizards/astarel/areas/beldor/mobs/orc2.c line 6: Illegal to redefine inherited variable 'long_desc'
+wizards/astarel/areas/beldor/mobs/animal1.c line 5: Illegal to redefine inherited variable 'short_desc'
+wizards/astarel/areas/beldor/mobs/animal1.c line 6: Illegal to redefine inherited variable 'long_desc'
+wizards/astarel/areas/beldor/mobs/orc1.c line 5: Illegal to redefine inherited variable 'short_desc'
+wizards/astarel/areas/beldor/mobs/orc1.c line 6: Illegal to redefine inherited variable 'long_desc'
+wizards/astarel/areas/beldor/mobs/orc1.c line 5: Illegal to redefine inherited variable 'short_desc'
+wizards/astarel/areas/beldor/mobs/orc1.c line 6: Illegal to redefine inherited variable 'long_desc'
+wizards/astarel/areas/beldor/mobs/orc2.c line 5: Illegal to redefine inherited variable 'short_desc'
+wizards/astarel/areas/beldor/mobs/orc2.c line 6: Illegal to redefine inherited variable 'long_desc'
+wizards/astarel/areas/beldor/mobs/animal1.c line 5: Illegal to redefine inherited variable 'short_desc'
+wizards/astarel/areas/beldor/mobs/animal1.c line 6: Illegal to redefine inherited variable 'long_desc'
+wizards/astarel/areas/beldor/mobs/orc1.c line 5: Illegal to redefine inherited variable 'short_desc'
+wizards/astarel/areas/beldor/mobs/orc1.c line 6: Illegal to redefine inherited variable 'long_desc'
+wizards/astarel/areas/beldor/mobs/orc1.c line 5: Illegal to redefine inherited variable 'short_desc'
+wizards/astarel/areas/beldor/mobs/orc1.c line 6: Illegal to redefine inherited variable 'long_desc'
+wizards/astarel/areas/beldor/mobs/orc2.c line 5: Illegal to redefine inherited variable 'short_desc'
+wizards/astarel/areas/beldor/mobs/orc2.c line 6: Illegal to redefine inherited variable 'long_desc'
+wizards/astarel/areas/beldor/mobs/animal1.c line 5: Illegal to redefine inherited variable 'short_desc'
+wizards/astarel/areas/beldor/mobs/animal1.c line 6: Illegal to redefine inherited variable 'long_desc'

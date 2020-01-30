@@ -1,0 +1,263 @@
+wizards/nipa/workroom.c line 11: Variable x not declared !
+wizards/nipa/workroom.c line 11: syntax error
+wizards/nipa/workroom.c line 17: Illegal LHS
+wizards/nipa/workroom.c line 10: Variable set_short not declared !
+wizards/nipa/workroom.c line 11: Variable $ not declared !
+wizards/nipa/workroom.c line 11: syntax error
+wizards/nipa/workroom.c line 11: Illegal LHS
+wizards/nipa/workroom.c line 11: Variable $ not declared !
+wizards/nipa/workroom.c line 11: syntax error
+wizards/nipa/workroom.c line 11: Illegal LHS
+wizards/nipa/monsteri/sprite.c line 44: syntax error
+wizards/nipa/monsteri/sprite.c line 44: syntax error
+wizards/nipa/monsteri/sprite.c line 41: syntax error
+wizards/nipa/ekuj.robe1.c line 25: Redeclaration of function reset.
+wizards/nipa/ekuj/robe1.c line 10: syntax error
+wizards/nipa/ekuj/robe1.c line 10: syntax error
+wizards/nipa/areat/area1/testihuone.c line 8: Variable short_desc not declared !
+wizards/nipa/areat/area1/testihuone.c line 9: Variable long_desc not declared !
+wizards/nipa/areat/area1/testihuone.c line 12: Variable items not declared !
+wizards/nipa/areat/area1/testihuone.c line 13: Variable items not declared !
+wizards/nipa/areat/area1/testihuone.c line 14: Variable items not declared !
+wizards/nipa/areat/area1/testihuone.c line 16: syntax error
+wizards/nipa/areat/area1/testihuone.c line 21: syntax error
+wizards/nipa/workroom.c line 45: Newline in string
+wizards/nipa/workroom.c line 46: syntax error
+wizards/nipa/workroom.c line 49: Illegal LHS
+wizards/nipa/workroom.c line 78: syntax error
+wizards/nipa/workroom.c line 57: Variable d not declared !
+wizards/nipa/workroom.c line 57: syntax error
+wizards/nipa/workroom.c line 68: Variable us not declared !
+wizards/nipa/workroom.c line 69: Variable us not declared !
+wizards/nipa/workroom.c line 70: Variable us not declared !
+wizards/nipa/workroom.c line 70: Variable us not declared !
+wizards/nipa/monsteri/hefasto.c line 19: syntax error
+wizards/nipa/monsteri/hefasto.c line 22: syntax error
+wizards/nipa/monsteri/hefasto.c line 48: Illegal LHS
+wizards/nipa/monsteri/hefasto.c line 48: syntax error
+wizards/nipa/monsteri/hefasto.c line 56: Too few arguments to clone_object
+wizards/nipa/monsteri/hefasto.c line 56: Illegal LHS
+wizards/nipa/monsteri/hefasto.c line 19: syntax error
+wizards/nipa/monsteri/hefasto.c line 22: syntax error
+wizards/nipa/monsteri/hefasto.c line 48: Illegal LHS
+wizards/nipa/monsteri/hefasto.c line 48: syntax error
+wizards/nipa/monsteri/hefasto.c line 56: Too few arguments to clone_object
+wizards/nipa/monsteri/hefasto.c line 56: Illegal LHS
+wizards/nipa/monsteri/hefasto.c line 19: syntax error
+wizards/nipa/monsteri/hefasto.c line 22: syntax error
+wizards/nipa/monsteri/hefasto.c line 48: Illegal LHS
+wizards/nipa/monsteri/hefasto.c line 48: syntax error
+wizards/nipa/monsteri/hefasto.c line 56: Too few arguments to clone_object
+wizards/nipa/monsteri/hefasto.c line 56: Illegal LHS
+wizards/nipa/monsteri/hefasto.c line 19: syntax error
+wizards/nipa/monsteri/hefasto.c line 22: syntax error
+wizards/nipa/monsteri/hefasto.c line 48: Illegal LHS
+wizards/nipa/monsteri/hefasto.c line 48: syntax error
+wizards/nipa/monsteri/hefasto.c line 56: Too few arguments to clone_object
+wizards/nipa/monsteri/hefasto.c line 56: Illegal LHS
+wizards/nipa/monsteri/hefasto.c line 19: syntax error
+wizards/nipa/monsteri/hefasto.c line 22: syntax error
+wizards/nipa/monsteri/hefasto.c line 48: Illegal LHS
+wizards/nipa/monsteri/hefasto.c line 48: syntax error
+wizards/nipa/monsteri/hefasto.c line 56: Too few arguments to clone_object
+wizards/nipa/monsteri/hefasto.c line 56: Illegal LHS
+wizards/nipa/monsteri/hefasto.c line 18: syntax error
+wizards/nipa/monsteri/hefasto.c line 21: syntax error
+wizards/nipa/monsteri/hefasto.c line 46: Illegal LHS
+wizards/nipa/monsteri/hefasto.c line 46: syntax error
+wizards/nipa/monsteri/hefasto.c line 58: Illegal LHS
+wizards/nipa/monsteri/hefasto.c line 58: Illegal LHS
+wizards/nipa/monsteri/hefasto.c line 18: syntax error
+wizards/nipa/monsteri/hefasto.c line 21: syntax error
+wizards/nipa/monsteri/hefasto.c line 46: Illegal LHS
+wizards/nipa/monsteri/hefasto.c line 46: syntax error
+wizards/nipa/monsteri/hefasto.c line 58: Illegal LHS
+wizards/nipa/monsteri/hefasto.c line 58: Illegal LHS
+wizards/nipa/monsteri/hefasto.c line 18: syntax error
+wizards/nipa/monsteri/hefasto.c line 21: syntax error
+wizards/nipa/monsteri/hefasto.c line 46: Illegal LHS
+wizards/nipa/monsteri/hefasto.c line 46: syntax error
+wizards/nipa/monsteri/hefasto.c line 58: Illegal LHS
+wizards/nipa/monsteri/hefasto.c line 58: Illegal LHS
+wizards/nipa/monsteri/hefasto.c line 18: syntax error
+wizards/nipa/monsteri/hefasto.c line 21: syntax error
+wizards/nipa/monsteri/hefasto.c line 45: Illegal LHS
+wizards/nipa/monsteri/hefasto.c line 45: syntax error
+wizards/nipa/monsteri/hefasto.c line 18: syntax error
+wizards/nipa/monsteri/hefasto.c line 21: syntax error
+wizards/nipa/monsteri/hefasto.c line 45: Illegal LHS
+wizards/nipa/monsteri/hefasto.c line 45: syntax error
+wizards/nipa/monsteri/hefasto.c line 4: syntax error
+wizards/nipa/monsteri/hefasto.c line 4: Unrecognized inheritance modifier 'chat_str'
+wizards/nipa/monsteri/hefasto.c line 4: Unrecognized inheritance modifier 'reset'
+wizards/nipa/monsteri/hefasto.c line 4: syntax error
+wizards/nipa/monsteri/hefasto.c line 18: syntax error
+wizards/nipa/monsteri/hefasto.c line 23: syntax error
+wizards/nipa/monsteri/hefasto.c line 49: Illegal LHS
+wizards/nipa/monsteri/hefasto.c line 49: syntax error
+wizards/nipa/monsteri/hefasto.c line 16: syntax error
+wizards/nipa/monsteri/hefasto.c line 21: syntax error
+wizards/nipa/monsteri/hefasto.c line 38: syntax error
+wizards/nipa/monsteri/hefasto.c line 39: syntax error
+wizards/nipa/ekuj/robe1.c line 8: Newline in string
+wizards/nipa/ekuj/robe1.c line 9: Newline in string
+wizards/nipa/ekuj/robe1.c line 10: Newline in string
+wizards/nipa/ekuj/robe1.c line 11: Newline in string
+wizards/nipa/ekuj/robe1.c line 12: Newline in string
+wizards/nipa/ekuj/robe1.c line 13: Newline in string
+wizards/nipa/ekuj/robe1.c line 20: Newline in string
+wizards/nipa/ekuj/robe1.c line 21: syntax error
+wizards/nipa/areat/torni/mosat/hefasto.c line 23: syntax error
+wizards/nipa/areat/torni/mosat/hefasto.c line 24: syntax error
+wizards/nipa/monsteri/hefatest.c line 17: syntax error
+wizards/nipa/monsteri/hefatest.c line 14: syntax error
+wizards/nipa/monsteri/hefatest.c line 17: syntax error
+wizards/nipa/monsteri/hefatest.c line 14: syntax error
+wizards/nipa/areat/torni/entrance.c line 5: Variable enter not declared !
+wizards/nipa/areat/torni/entrance.c line 5: syntax error
+wizards/nipa/areat/torni/entrance.c line 5: Illegal character (hex 2e) '.'
+wizards/nipa/areat/torni/entrance.c line 5: Newline in string
+wizards/nipa/areat/torni/entrance.c line 13: Newline in string
+wizards/nipa/areat/torni/entrance.c line 14: Newline in string
+wizards/nipa/areat/torni/entrance.c line 5: Variable enter not declared !
+wizards/nipa/areat/torni/entrance.c line 5: syntax error
+wizards/nipa/areat/torni/entrance.c line 5: Illegal character (hex 2e) '.'
+wizards/nipa/areat/torni/entrance.c line 5: Newline in string
+wizards/nipa/areat/torni/entrance.c line 24: Illegal LHS
+wizards/nipa/areat/torni/entrance.c line 24: Illegal LHS
+wizards/nipa/areat/torni/mosat/apprentice.c line 10: Newline in string
+wizards/nipa/areat/torni/mosat/apprentice.c line 11: syntax error
+wizards/nipa/areat/torni/mosat/apprentice.c line 18: Illegal character (hex 2e) '.'
+wizards/nipa/areat/torni/mosat/apprentice.c line 18: syntax error
+wizards/nipa/areat/torni/mosat/adept.c line 16: Illegal character (hex 2e) '.'
+wizards/nipa/areat/torni/mosat/adept.c line 16: syntax error
+wizards/nipa/areat/torni/mosat/battlemage.c line 19: syntax error
+wizards/nipa/areat/torni/mosat/battlemage.c line 45: Illegal LHS
+wizards/nipa/areat/torni/mosat/battlemage.c line 45: syntax error
+wizards/nipa/areat/torni/mosat/battlemage.c line 19: syntax error
+wizards/nipa/areat/torni/mosat/battlemage.c line 45: Illegal LHS
+wizards/nipa/areat/torni/mosat/battlemage.c line 45: syntax error
+wizards/nipa/areat/torni/mosat/battlemage.c line 34: Variable set not declared !
+wizards/nipa/areat/torni/mosat/battlemage.c line 34: syntax error
+wizards/nipa/areat/torni/mosat/battlemage.c line 35: syntax error
+wizards/nipa/areat/torni/mosat/battlemage.c line 48: Illegal LHS
+wizards/nipa/areat/torni/mosat/battlemage.c line 48: syntax error
+wizards/nipa/areat/torni/mosat/battlemage.c line 34: Variable set not declared !
+wizards/nipa/areat/torni/mosat/battlemage.c line 34: syntax error
+wizards/nipa/areat/torni/mosat/battlemage.c line 35: syntax error
+wizards/nipa/areat/torni/mosat/battlemage.c line 48: Illegal LHS
+wizards/nipa/areat/torni/mosat/battlemage.c line 48: syntax error
+wizards/nipa/areat/torni/mosat/battlemage.c line 34: Variable set not declared !
+wizards/nipa/areat/torni/mosat/battlemage.c line 34: syntax error
+wizards/nipa/areat/torni/mosat/battlemage.c line 35: syntax error
+wizards/nipa/areat/torni/mosat/battlemage.c line 48: Illegal LHS
+wizards/nipa/areat/torni/mosat/battlemage.c line 48: syntax error
+wizards/nipa/areat/torni/mosat/elemental.c line 18: syntax error
+wizards/nipa/areat/torni/mosat/elemental.c line 33: Illegal LHS
+wizards/nipa/areat/torni/mosat/elemental.c line 33: syntax error
+wizards/nipa/areat/torni/mosat/hefasto.c line 80: Variable More not declared !
+wizards/nipa/areat/torni/mosat/hefasto.c line 80: syntax error
+wizards/nipa/monsteri/sprite.c line 29: syntax error
+wizards/nipa/monsteri/ninni.c line 38: syntax error
+wizards/nipa/monsteri/ninni.c line 38: syntax error
+wizards/nipa/areat/torni/mosat/meleebmage.c line 29: syntax error
+wizards/nipa/eval_file.c line 2: syntax error
+wizards/nipa/eval_file.c line 2: Variable find_player not declared !
+wizards/nipa/eval_file.c line 2: syntax error
+wizards/nipa/eval_file.c line 2: Undefined function 'fin_player'
+wizards/nipa/areat/torni/huoneet/lib8.c line 12: Illegal character (hex 5c) '\'
+wizards/nipa/areat/torni/huoneet/lib8.c line 12: syntax error
+wizards/nipa/areat/torni/huoneet/lib8.c line 12: Illegal character (hex 5c) '\'
+wizards/nipa/areat/torni/huoneet/lib8.c line 12: Illegal character (hex 5c) '\'
+wizards/nipa/areat/torni/huoneet/lib8.c line 12: Illegal character (hex 5c) '\'
+wizards/nipa/areat/torni/huoneet/lib8.c line 14: Illegal LHS
+wizards/nipa/areat/torni/huoneet/lib8.c line 12: Illegal character (hex 5c) '\'
+wizards/nipa/areat/torni/huoneet/lib8.c line 12: syntax error
+wizards/nipa/areat/torni/huoneet/lib8.c line 12: Illegal character (hex 5c) '\'
+wizards/nipa/areat/torni/huoneet/lib8.c line 12: Illegal character (hex 5c) '\'
+wizards/nipa/areat/torni/huoneet/lib8.c line 12: Illegal character (hex 5c) '\'
+wizards/nipa/areat/torni/huoneet/lib8.c line 14: Illegal LHS
+wizards/nipa/areat/torni/huoneet/lib8.c line 18: Newline in string
+wizards/nipa/areat/torni/huoneet/lib8.c line 21: syntax error
+wizards/nipa/areat/torni/huoneet/lib8.c line 18: Newline in string
+wizards/nipa/areat/torni/huoneet/lib8.c line 21: syntax error
+wizards/nipa/areat/torni/huoneet/lib8.c line 11: syntax error
+wizards/nipa/areat/torni/huoneet/lib8.c line 18: Newline in string
+wizards/nipa/areat/torni/huoneet/lib8.c line 21: syntax error
+wizards/nipa/areat/torni/huoneet/lib8.c line 18: Newline in string
+wizards/nipa/areat/torni/huoneet/lib8.c line 21: syntax error
+wizards/nipa/areat/torni/huoneet/lib8.c line 18: Newline in string
+wizards/nipa/areat/torni/huoneet/lib8.c line 21: syntax error
+wizards/nipa/areat/torni/huoneet/koppi1.c line 5: Illegal to redefine global variable 'a'
+wizards/nipa/areat/torni/huoneet/koppi1.c line 5: Type mismatch ( unknown vs int ) when initializing a
+wizards/nipa/areat/torni/huoneet/koppi1.c line 5: Missing type
+wizards/nipa/areat/torni/huoneet/koppi1.c line 5: Illegal to redefine global variable 'a'
+wizards/nipa/areat/torni/huoneet/koppi1.c line 5: Type mismatch ( unknown vs int ) when initializing a
+wizards/nipa/areat/torni/huoneet/koppi1.c line 5: Missing type
+wizards/nipa/areat/torni/huoneet/koppi1.c line 5: Illegal to redefine global variable 'a'
+wizards/nipa/areat/torni/huoneet/koppi1.c line 5: Type mismatch ( unknown vs int ) when initializing a
+wizards/nipa/areat/torni/huoneet/koppi1.c line 5: Missing type
+wizards/nipa/areat/torni/huoneet/koppi1.c line 5: Illegal to redefine global variable 'a'
+wizards/nipa/areat/torni/huoneet/koppi1.c line 5: Type mismatch ( unknown vs int ) when initializing a
+wizards/nipa/areat/torni/huoneet/koppi1.c line 5: Missing type
+wizards/nipa/areat/torni/huoneet/koppi1.c line 5: Illegal to redefine global variable 'a'
+wizards/nipa/areat/torni/huoneet/koppi1.c line 5: Type mismatch ( unknown vs int ) when initializing a
+wizards/nipa/areat/torni/huoneet/koppi1.c line 5: Missing type
+wizards/nipa/areat/torni/huoneet/koppi1.c line 5: Illegal to redefine global variable 'a'
+wizards/nipa/areat/torni/huoneet/koppi1.c line 5: Type mismatch ( unknown vs int ) when initializing a
+wizards/nipa/areat/torni/huoneet/koppi1.c line 5: Missing type
+wizards/nipa/areat/torni/huoneet/koppi1.c line 5: Illegal to redefine global variable 'a'
+wizards/nipa/areat/torni/huoneet/koppi1.c line 5: Type mismatch ( unknown vs int ) when initializing a
+wizards/nipa/areat/torni/huoneet/koppi1.c line 5: Missing type
+wizards/nipa/areat/torni/huoneet/koppi1.c line 5: Illegal to redefine global variable 'a'
+wizards/nipa/areat/torni/huoneet/koppi1.c line 5: Type mismatch ( unknown vs int ) when initializing a
+wizards/nipa/areat/torni/huoneet/koppi1.c line 5: Missing type
+wizards/nipa/areat/torni/huoneet/koppi1.c line 5: Illegal to redefine global variable 'a'
+wizards/nipa/areat/torni/huoneet/koppi1.c line 5: Type mismatch ( unknown vs int ) when initializing a
+wizards/nipa/areat/torni/huoneet/koppi1.c line 5: Missing type
+wizards/nipa/areat/torni/huoneet/koppi1.c line 5: Illegal to redefine global variable 'a'
+wizards/nipa/areat/torni/huoneet/koppi1.c line 5: Type mismatch ( unknown vs int ) when initializing a
+wizards/nipa/areat/torni/huoneet/koppi1.c line 5: Missing type
+wizards/nipa/areat/torni/huoneet/koppi1.c line 5: Illegal to redefine global variable 'a'
+wizards/nipa/areat/torni/huoneet/koppi1.c line 5: Type mismatch ( unknown vs int ) when initializing a
+wizards/nipa/areat/torni/huoneet/koppi1.c line 5: Missing type
+wizards/nipa/areat/torni/huoneet/stairs1.c line 25: syntax error
+wizards/nipa/areat/torni/huoneet/stairs1.c line 25: syntax error
+wizards/nipa/areat/torni/huoneet/stairs1.c line 25: syntax error
+wizards/nipa/areat/torni/huoneet/stairs1.c line 25: syntax error
+wizards/nipa/areat/torni/huoneet/stairs1.c line 2: syntax error
+wizards/nipa/areat/torni/mosat/gavyn.c line 17: Variable set_short not declared !
+wizards/nipa/areat/torni/mosat/gavyn.c line 17: syntax error
+wizards/nipa/areat/torni/mosat/gavyn.c line 18: Variable set_long not declared !
+wizards/nipa/areat/torni/ekut/archrobe.c line 8: Newline in string
+wizards/nipa/areat/torni/ekut/archrobe.c line 9: Newline in string
+wizards/nipa/areat/torni/ekut/archrobe.c line 10: Newline in string
+wizards/nipa/areat/torni/ekut/archrobe.c line 11: syntax error
+wizards/nipa/areat/torni/ekut/archrobe.c line 17: syntax error
+wizards/nipa/workroom.c line 38: Missing 'return <value>' statement
+wizards/nipa/workroom.c line 75: Missing arguments to simul_efun filter_array
+wizards/nipa/workroom.c line 76: Missing arguments to simul_efun filter_array
+wizards/nipa/workroom.c line 38: Missing 'return <value>' statement
+wizards/nipa/workroom.c line 75: Missing arguments to simul_efun filter_array
+wizards/nipa/workroom.c line 76: Missing arguments to simul_efun filter_array
+wizards/nipa/workroom.c line 38: Missing 'return <value>' statement
+wizards/nipa/workroom.c line 75: Missing arguments to simul_efun filter_array
+wizards/nipa/workroom.c line 76: Missing arguments to simul_efun filter_array
+wizards/nipa/workroom.c line 38: Missing 'return <value>' statement
+wizards/nipa/workroom.c line 75: Missing arguments to simul_efun filter_array
+wizards/nipa/workroom.c line 76: Missing arguments to simul_efun filter_array
+wizards/nipa/workroom.c line 38: Missing 'return <value>' statement
+wizards/nipa/workroom.c line 75: Missing arguments to simul_efun filter_array
+wizards/nipa/workroom.c line 76: Missing arguments to simul_efun filter_array
+wizards/nipa/workroom.c line 38: Missing 'return <value>' statement
+wizards/nipa/workroom.c line 75: Missing arguments to simul_efun filter_array
+wizards/nipa/workroom.c line 76: Missing arguments to simul_efun filter_array
+wizards/nipa/eval_file.c line 2: syntax error
+wizards/nipa/eval_file.c line 2: Newline in string
+wizards/nipa/eval_file.c line 3: Missing 'return <value>' statement
+wizards/nipa/eval_file.c line 3: Missing 'return <value>' statement
+wizards/nipa/eval_file.c line 2: Undefined function 'start_event'
+wizards/nipa/eval_file.c line 3: Missing 'return <value>' statement
+wizards/nipa/workroom.c line 38: Missing 'return <value>' statement
+wizards/nipa/workroom.c line 75: Missing arguments to simul_efun filter_array
+wizards/nipa/workroom.c line 76: Missing arguments to simul_efun filter_array

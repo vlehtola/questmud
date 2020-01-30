@@ -1,0 +1,742 @@
+Sat Jun 22 08:15:10 2002 An old woman is cleaning the floor(strong) (/wizards/neophyte/farm/monst/woman#2970, 39) killed by Horde (42) 
+wizards/neophyte/spellfun.c line 199 :Duplicate case in line 198 and 192
+wizards/neophyte/horde.c line 555 :Variable c_magi not declared !
+wizards/neophyte/test.c line 12 :Variable ob not declared !
+wizards/neophyte/test.c line 13 :Variable ob not declared !
+wizards/neophyte/test.c line 14 :Variable ob not declared !
+wizards/neophyte/test.c line 11 :syntax error
+wizards/neophyte/test.c line 14 :Illegal LHS
+wizards/neophyte/test.c line 11 :syntax error
+wizards/neophyte/test.c line 15 :Illegal LHS
+wizards/neophyte/test.c line 11 :syntax error
+wizards/neophyte/test.c line 15 :Illegal LHS
+wizards/neophyte/test.c line 12 :Variable ob not declared !
+wizards/neophyte/test.c line 13 :Variable ob not declared !
+wizards/neophyte/test.c line 15 :Variable ob not declared !
+wizards/neophyte/freeze_corpse.c line 8 :Variable target not declared !
+wizards/neophyte/freeze_corpse.c line 14 :Too many arguments to remove_call_out
+wizards/neophyte/blink/eventmaster.c line 3 :syntax error
+wizards/neophyte/blink/eventmaster.c line 3 :Unrecognized inheritance modifier qualifier
+wizards/neophyte/blink/eventmaster.c line 3 :Unrecognized inheritance modifier qualifier
+wizards/neophyte/blink/eventmaster.c line 3 :syntax error
+wizards/neophyte/blink/eventmaster.c line 27 :syntax error
+wizards/neophyte/blink/eventmaster.c line 31 :Too few arguments to clone_object
+wizards/neophyte/blink/eventmaster.c line 31 :Illegal LHS
+wizards/neophyte/blink/eventmaster.c line 31 :syntax error
+wizards/neophyte/blink/eventmaster.c line 64 :Illegal LHS
+wizards/neophyte/blink/eventmaster.c line 65 :Too few arguments to clone_object
+wizards/neophyte/blink/eventmaster.c line 52 :syntax error
+wizards/neophyte/blink/eventmaster.c line 52 :syntax error
+wizards/neophyte/blink/eventmaster.c line 20 :syntax error
+wizards/neophyte/blink/eventmaster.c line 26 :Too few arguments to clone_object
+wizards/neophyte/blink/eventmaster.c line 26 :Illegal LHS
+wizards/neophyte/blink/eventmaster.c line 26 :syntax error
+wizards/neophyte/blink/eventmaster.c line 58 :Too few arguments to clone_object
+wizards/neophyte/blink/eventmaster.c line 58 :Illegal LHS
+wizards/neophyte/blink/eventmaster.c line 22 :syntax error
+wizards/neophyte/blink/eventmaster.c line 28 :Too few arguments to clone_object
+wizards/neophyte/blink/eventmaster.c line 28 :Illegal LHS
+wizards/neophyte/blink/eventmaster.c line 28 :syntax error
+wizards/neophyte/blink/eventmaster.c line 60 :Too few arguments to clone_object
+wizards/neophyte/blink/eventmaster.c line 60 :Illegal LHS
+wizards/neophyte/event_room.c line 57 :Variable LOGI not declared !
+wizards/neophyte/event_room.c line 58 :syntax error
+wizards/neophyte/blink/start.c line 8 :syntax error
+wizards/neophyte/blink/start.c line 10 :Must return a value for a function declared: "string "
+wizards/neophyte/blink/start.c line 13 :syntax error
+wizards/neophyte/blink/start.c line 14 :Illegal LHS
+wizards/neophyte/blink/start.c line 18 :Illegal LHS
+wizards/neophyte/event_room.c line 65 :syntax error
+wizards/neophyte/event_room.c line 65 :syntax error
+wizards/neophyte/event_room.c line 65 :syntax error
+wizards/neophyte/event_room.c line 23 :syntax error
+wizards/neophyte/event_room.c line 26 :syntax error
+wizards/neophyte/event_room.c line 62 :Variable event not declared !
+wizards/neophyte/event_room.c line 62 :Illegal LHS
+wizards/neophyte/event_room.c line 63 :Illegal LHS
+wizards/neophyte/event_room.c line 41 :Variable i not declared !
+wizards/neophyte/event_room.c line 44 :syntax error
+wizards/neophyte/blink/eventmaster.c line 60 :Too few arguments to call_other
+wizards/neophyte/blink/whip.c line 38 :syntax error
+wizards/neophyte/blink/whip.c line 39 :Variable ob not declared !
+wizards/neophyte/blink/whip.c line 40 :Variable ob not declared !
+wizards/neophyte/blink/whip.c line 41 :Variable ob not declared !
+wizards/neophyte/blink/event.c line 27 :syntax error
+wizards/neophyte/blink/start.c line 29 :Variable winner not declared !
+wizards/neophyte/blink/start.c line 30 :Variable award not declared !
+wizards/neophyte/blink/start.c line 31 :Variable winner not declared !
+wizards/neophyte/necro.c line 23 :syntax error
+wizards/neophyte/necro.c line 22 :syntax error
+wizards/neophyte/necro.c line 22 :syntax error
+wizards/neophyte/necro.c line 21 :syntax error
+wizards/neophyte/necro.c line 23 :syntax error
+wizards/neophyte/necro.c line 23 :syntax error
+wizards/neophyte/healer.c line 32 :syntax error
+wizards/neophyte/healer.c line 33 :Too few arguments to clone_object
+wizards/neophyte/healer.c line 33 :Illegal LHS
+wizards/neophyte/healer.c line 37 :syntax error
+wizards/neophyte/healer.c line 32 :syntax error
+wizards/neophyte/healer.c line 33 :Too few arguments to clone_object
+wizards/neophyte/healer.c line 33 :Illegal LHS
+wizards/neophyte/healer.c line 37 :syntax error
+wizards/neophyte/_events.c line 26 :syntax error
+wizards/neophyte/healer/start.c line 22 :Return type not matching: "void "
+wizards/neophyte/healer/start.c line 22 :Return type not matching: "void "
+wizards/neophyte/healer/event_room.c line 27 :syntax error
+wizards/neophyte/healer/event_room.c line 27 :syntax error
+wizards/neophyte/event_room.c line 27 :syntax error
+wizards/neophyte/event_room.c line 27 :syntax error
+wizards/neophyte/event_room.c line 50 :Variable str not declared !
+wizards/neophyte/event_room.c line 50 :Illegal LHS
+wizards/neophyte/event_room.c line 50 :syntax error
+wizards/neophyte/event_room.c line 62 :Variable str not declared !
+wizards/neophyte/event_room.c line 62 :Illegal LHS
+wizards/neophyte/event_room.c line 27 :syntax error
+wizards/neophyte/event_room.c line 27 :syntax error
+wizards/neophyte/event_room.c line 27 :syntax error
+wizards/neophyte/event_room.c line 27 :syntax error
+wizards/neophyte/christmas/start.c line 8 :Variable event_active not declared !
+wizards/neophyte/christmas/start.c line 14 :Variable event_active not declared !
+wizards/neophyte/christmas/start.c line 18 :Variable event_active not declared !
+wizards/neophyte/christmas/start.c line 12 :Variable ob not declared !
+wizards/neophyte/christmas/start.c line 13 :Variable ob not declared !
+wizards/neophyte/boat.c line 42 :syntax error
+wizards/neophyte/city/pub3.c line 6 :syntax error
+wizards/neophyte/city/pub3.c line 6 :Illegal LHS
+wizards/neophyte/city/pub3.c line 6 :syntax error
+wizards/neophyte/city/pub3.c line 6 :Illegal LHS
+wizards/neophyte/city/pub3.c line 6 :syntax error
+wizards/neophyte/city/pub3.c line 6 :Illegal LHS
+wizards/neophyte/free_reinc.c line 2 :syntax error
+wizards/neophyte/free_reinc.c line 3 :syntax error
+wizards/neophyte/free_reinc.c line 17 :Variable str not declared !
+wizards/neophyte/free_reinc.c line 16 :Variable str not declared !
+wizards/neophyte/free_reinc.c line 16 :Variable this_object not declared !
+wizards/neophyte/free_reinc.c line 22 :Variable ob not declared !
+wizards/neophyte/free_reinc.c line 23 :Variable i not declared !
+wizards/neophyte/free_reinc.c line 23 :Variable ob not declared !
+wizards/neophyte/free_reinc.c line 24 :Variable ob not declared !
+wizards/neophyte/free_reinc.c line 24 :Variable i not declared !
+wizards/neophyte/free_reinc.c line 24 :Variable ob not declared !
+wizards/neophyte/free_reinc.c line 36 :Variable tp not declared !
+wizards/neophyte/free_reinc.c line 37 :Variable this_player not declared !
+wizards/neophyte/free_reinc.c line 36 :Variable this_player not declared !
+wizards/neophyte/thief.c line 27 :Variable this_object not declared !
+wizards/neophyte/thief.c line 27 :syntax error
+wizards/neophyte/thief.c line 27 :syntax error
+wizards/neophyte/khietor/khietor.c line 44 :Illegal character (hex ffffffb4) '´'
+wizards/neophyte/khietor/khietor.c line 44 :syntax error
+wizards/neophyte/khietor/khietor.c line 46 :Too few arguments to clone_object
+wizards/neophyte/khietor/khietor.c line 44 :Illegal character (hex ffffffb4) '´'
+wizards/neophyte/khietor/khietor.c line 44 :syntax error
+wizards/neophyte/khietor/khietor.c line 46 :Too few arguments to clone_object
+wizards/neophyte/thief.c line 22 :Bad assignment. Rhs: "object * "
+wizards/neophyte/thief.c line 23 :Bad argument 1 type to efun sizeof()
+wizards/neophyte/thief.c line 24 :Bad type to indexed value: "object "
+wizards/neophyte/thief.c line 24 :Bad type to indexed value: "object "
+wizards/neophyte/thief.c line 26 :Bad type to indexed value: "object "
+wizards/neophyte/thief.c line 27 :Bad type to indexed value: "object "
+wizards/neophyte/thief.c line 29 :Variable cast not declared !
+wizards/neophyte/thief.c line 32 :Return type not matching: "void "
+wizards/neophyte/city/entrance.c line 14 :syntax error
+wizards/neophyte/city/entrance.c line 14 :Illegal character (hex 2e) '.'
+wizards/neophyte/city/entrance.c line 14 :Illegal character (hex 5c) '\'
+wizards/neophyte/city/entrance.c line 14 :Newline in string
+wizards/neophyte/city/entrance.c line 20 :Illegal LHS
+wizards/neophyte/city/entrance.c line 21 :syntax error
+wizards/neophyte/city/entrance.c line 14 :syntax error
+wizards/neophyte/city/entrance.c line 14 :Illegal character (hex 2e) '.'
+wizards/neophyte/city/entrance.c line 14 :Illegal character (hex 5c) '\'
+wizards/neophyte/city/entrance.c line 14 :Newline in string
+wizards/neophyte/city/entrance.c line 20 :Illegal LHS
+wizards/neophyte/city/entrance.c line 21 :syntax error
+wizards/neophyte/city/entrance.c line 14 :syntax error
+wizards/neophyte/city/entrance.c line 14 :Illegal character (hex 2e) '.'
+wizards/neophyte/city/entrance.c line 14 :Illegal character (hex 5c) '\'
+wizards/neophyte/city/entrance.c line 14 :Newline in string
+wizards/neophyte/city/entrance.c line 20 :Illegal LHS
+wizards/neophyte/city/entrance.c line 21 :syntax error
+wizards/neophyte/city/entrance.c line 14 :syntax error
+wizards/neophyte/city/entrance.c line 14 :Illegal character (hex 2e) '.'
+wizards/neophyte/city/entrance.c line 14 :Illegal character (hex 5c) '\'
+wizards/neophyte/city/entrance.c line 14 :Newline in string
+wizards/neophyte/city/entrance.c line 20 :Illegal LHS
+wizards/neophyte/city/entrance.c line 21 :syntax error
+wizards/neophyte/city/monst/armourer.c line 3 :syntax error
+wizards/neophyte/city/monst/armourer.c line 3 :Unrecognized inheritance modifier qualifier
+wizards/neophyte/city/monst/armourer.c line 3 :Unrecognized inheritance modifier qualifier
+wizards/neophyte/city/monst/armourer.c line 3 :syntax error
+wizards/neophyte/city/monst/walker.c line 58 :Variable ob not declared !
+wizards/neophyte/city/monst/walker.c line 59 :Variable ob not declared !
+wizards/neophyte/city/monst/guard.c line 48 :Variable this_player not declared !
+wizards/neophyte/khietor/khietor.c line 37 :syntax error
+wizards/neophyte/khietor/khietor.c line 39 :syntax error
+wizards/neophyte/khietor/khietor.c line 57 :Too few arguments to clone_object
+wizards/neophyte/khietor/khietor.c line 57 :Illegal LHS
+wizards/neophyte/khietor/khietor.c line 57 :syntax error
+wizards/neophyte/thief/thief.c line 30 :Bad assignment. Rhs: "object * "
+wizards/neophyte/thief/thief.c line 31 :Bad argument 1 type to efun sizeof()
+wizards/neophyte/thief/thief.c line 32 :Bad type to indexed value: "object "
+wizards/neophyte/thief/thief.c line 32 :Bad type to indexed value: "object "
+wizards/neophyte/thief/thief.c line 32 :Bad type to indexed value: "object "
+wizards/neophyte/thief/thief.c line 34 :Bad type to indexed value: "object "
+wizards/neophyte/thief/thief.c line 37 :Return type not matching: "void "
+wizards/neophyte/forest/obj/watch.c line 13 :syntax error
+wizards/neophyte/city/monst/nghost.c line 47 :syntax error
+wizards/neophyte/city/monst/nghost.c line 50 :Variable ob not declared !
+wizards/neophyte/city/monst/nghost.c line 51 :Variable i not declared !
+wizards/neophyte/city/monst/nghost.c line 51 :Variable i not declared !
+wizards/neophyte/city/monst/nghost.c line 51 :Variable ob not declared !
+wizards/neophyte/city/monst/nghost.c line 51 :Variable i not declared !
+wizards/neophyte/city/monst/nghost.c line 59 :Variable torso not declared !
+wizards/neophyte/city/monst/nghost.c line 60 :Variable gloves not declared !
+wizards/neophyte/city/monst/nghost.c line 61 :Variable legs not declared !
+wizards/neophyte/city/monst/realghost.c line 30 :Too many arguments to all_inventory
+wizards/neophyte/city/monst/realghost.c line 30 :Too few arguments to move_object
+wizards/neophyte/city/obj/crystal.c line 5 :syntax error
+wizards/neophyte/city/obj/crystal.c line 13 :syntax error
+wizards/neophyte/city/obj/crystal.c line 41 :Illegal LHS
+wizards/neophyte/city/obj/crystal.c line 42 :Variable ob not declared !
+wizards/neophyte/city/obj/crystal.c line 42 :Too few arguments to write
+wizards/neophyte/city/obj/crystal.c line 43 :syntax error
+wizards/neophyte/city/monst/kyriec.c line 22 :Variable gloves not declared !
+Sun Jun 30 22:56:35 2002 Kyriec the travelling witch archmage(strong) (/wizards/neophyte/city/monst/kyriec#35557, 38) killed by Neotest (51) 
+wizards/neophyte/city/eq/lsword.c line 17 :syntax error
+wizards/neophyte/city/house/kitchen.c line 21 :syntax error
+wizards/neophyte/city/house/kitchen.c line 39 :Illegal LHS
+wizards/neophyte/city/house/kitchen.c line 39 :Illegal LHS
+wizards/neophyte/city/monst/smithy.c line 53 :syntax error
+wizards/neophyte/city/obj/tankard.c line 28 :syntax error
+wizards/neophyte/city/obj/tankard.c line 28 :syntax error
+wizards/neophyte/eval_file.c line 2 :Variable n not declared !
+wizards/neophyte/eval_file.c line 2 :syntax error
+wizards/neophyte/city/navigator1.c line 15 :Variable door_number not declared !
+wizards/neophyte/city/graveyard/room3.c line 36 :syntax error
+wizards/neophyte/city/graveyard/room3.c line 36 :syntax error
+wizards/neophyte/city/graveyard/room3.c line 36 :syntax error
+wizards/neophyte/city/graveyard/room3.c line 36 :syntax error
+wizards/neophyte/city/general_shop.c line 4 :Variable mercantilist not declared !
+wizards/neophyte/city/general_shop.c line 5 :Variable mercantilist not declared !
+wizards/neophyte/city/general_shop.c line 6 :Variable mercantilist not declared !
+wizards/neophyte/city/general_shop.c line 4 :Variable mercantilist not declared !
+wizards/neophyte/city/general_shop.c line 5 :Variable mercantilist not declared !
+wizards/neophyte/city/general_shop.c line 6 :Variable mercantilist not declared !
+wizards/neophyte/city/monst/mercantilist.c line 23 :Variable hammer not declared !
+wizards/neophyte/city/monst/mercantilist.c line 24 :Variable hammer not declared !
+wizards/neophyte/city/monst/mercantilist.c line 26 :Variable key not declared !
+wizards/neophyte/city/monst/mercantilist.c line 27 :Variable key not declared !
+wizards/neophyte/city/monst/mercantilist.c line 56 :Variable key not declared !
+wizards/neophyte/city/monst/mercantilist.c line 79 :Variable crystal not declared !
+wizards/neophyte/city/general_shop.c line 4 :Variable mercantilist not declared !
+wizards/neophyte/city/general_shop.c line 5 :Variable mercantilist not declared !
+wizards/neophyte/city/general_shop.c line 6 :Variable mercantilist not declared !
+wizards/neophyte/city/general_shop.c line 4 :Variable cereon not declared !
+wizards/neophyte/city/general_shop.c line 5 :Variable cereon not declared !
+wizards/neophyte/city/general_shop.c line 6 :Variable cereon not declared !
+wizards/neophyte/city/general_shop.c line 4 :Variable cereon not declared !
+wizards/neophyte/city/general_shop.c line 5 :Variable cereon not declared !
+wizards/neophyte/city/general_shop.c line 6 :Variable cereon not declared !
+wizards/neophyte/city/obj/orb.c line 8 :syntax error
+wizards/neophyte/city/obj/orb.c line 15 :Too few arguments to write
+wizards/neophyte/city/obj/orb.c line 18 :syntax error
+wizards/neophyte/city/obj/orb.c line 20 :Illegal LHS
+wizards/neophyte/city/obj/orb.c line 26 :Illegal LHS
+wizards/neophyte/city/monst/mercantilist.c line 70 :Variable this_player not declared !
+wizards/neophyte/city/monst/mercantilist.c line 73 :syntax error
+wizards/neophyte/city/monst/mercantilist.c line 73 :syntax error
+Mon Jul  1 20:28:42 2002 Caulos Lowie the city smithy(strong) (/wizards/neophyte/city/monst/smithy#10018, 52) killed by Neotest (51) 
+Mon Jul  1 20:30:54 2002 Caulos Lowie the city smithy(strong) (/wizards/neophyte/city/monst/smithy#10353, 50) killed by Neotest (51) 
+wizards/neophyte/city/monst/smithy.c line 7 :syntax error
+wizards/neophyte/city/monst/smithy.c line 102 :syntax error
+wizards/neophyte/city/monst/smithy.c line 100 :syntax error
+wizards/neophyte/city/monst/mercantilist.c line 91 :Variable camu not declared !
+wizards/neophyte/city/monst/mercantilist.c line 91 :Variable camu not declared !
+wizards/neophyte/empty_potion.c line 65 :syntax error
+wizards/neophyte/empty_potion.c line 72 :syntax error
+wizards/neophyte/empty_potion.c line 85 :Illegal LHS
+wizards/neophyte/empty_potion.c line 85 :Illegal LHS
+wizards/neophyte/empty_potion.c line 85 :Illegal LHS
+wizards/neophyte/empty_potion.c line 85 :Illegal LHS
+wizards/neophyte/city/rudder3.c line 29 :illegal to inherit after defining functions
+wizards/neophyte/city/rudder3.c line 31 :Redeclaration of function reset.
+wizards/neophyte/city/rudder3.c line 43 :Redeclaration of function reset.
+wizards/neophyte/city/rudder3.c line 50 :Redeclaration of function map.
+wizards/neophyte/city/rudder3.c line 56 :Redeclaration of function map.
+wizards/neophyte/city/monst/armourer.c line 141 :syntax error
+Tue Jul  2 19:51:30 2002 Caulos Lowie the city smithy(strong) (/wizards/neophyte/city/monst/smithy#2449, 53) killed by Guard (34) 
+wizards/neophyte/tinningkit.c line 24 :syntax error
+wizards/neophyte/city/monst/armourer.c line 42 :syntax error
+wizards/neophyte/city/monst/armourer.c line 45 :Variable ob not declared !
+wizards/neophyte/city/monst/armourer.c line 46 :Variable i not declared !
+wizards/neophyte/city/monst/armourer.c line 46 :Variable i not declared !
+wizards/neophyte/city/monst/armourer.c line 46 :Variable ob not declared !
+wizards/neophyte/city/monst/armourer.c line 46 :Variable i not declared !
+wizards/neophyte/city/obj/map.c line 2 :syntax error
+wizards/neophyte/city/obj/map.c line 6 :Newline in string
+wizards/neophyte/city/obj/map.c line 7 :syntax error
+wizards/neophyte/city/obj/map.c line 28 :Variable str not declared !
+wizards/neophyte/city/obj/map.c line 28 :syntax error
+wizards/neophyte/city/monst/lasca.c line 76 :syntax error
+wizards/neophyte/city/monst/lasca.c line 79 :Too few arguments to say
+wizards/neophyte/city/monst/lasca.c line 82 :syntax error
+wizards/neophyte/sack.c line 40 :Variable local_weight not declared !
+wizards/neophyte/sack.c line 43 :Variable local_weight not declared !
+wizards/neophyte/sack.c line 16 :Variable quality not declared !
+wizards/neophyte/sack.c line 42 :syntax error
+wizards/neophyte/sack.c line 42 :Illegal LHS
+wizards/neophyte/sack.c line 16 :Variable quality not declared !
+wizards/neophyte/skinning.c line 29 :syntax error
+wizards/neophyte/skinning.c line 31 :syntax error
+Thu Jul  4 22:11:52 2002 Loxie Lowie the city armourer(strong) (/wizards/neophyte/city/monst/armourer#1561, 47) killed by Trooper (217) 
+Thu Jul  4 22:23:46 2002 Caulos Lowie the city smithy(strong) (/wizards/neophyte/city/monst/smithy#1568, 53) killed by Trooper (217) 
+Thu Jul  4 22:44:41 2002 Lasca the owner of this inn(strong) (/wizards/neophyte/city/monst/lasca#1579, 56) killed by Trooper (217) 
+Thu Jul  4 23:12:03 2002 Cereon the Mercantilist, mortal enemy of the Lowie family(strong) (/wizards/neophyte/city/monst/mercantilist#12286, 64) killed by Trooper (217) 
+Thu Jul  4 23:33:28 2002 An man is moving in the shadows(strong) (/wizards/neophyte/city/monst/fanud#12935, 45) killed by Trooper (217) 
+Thu Jul  4 23:51:38 2002 Kyriec the travelling witch archmage(strong) (/wizards/neophyte/city/monst/kyriec#12940, 40) killed by Trooper (217) 
+Fri Jul  5 00:03:30 2002 Regor the pillager and thief(strong) (/wizards/neophyte/city/monst/regor#13185, 39) killed by Trooper (217) 
+wizards/neophyte/container.c line 6 :function not defined by inheritance as specified
+wizards/neophyte/container.c line 9 :Undefined function reset
+wizards/neophyte/container.c line 42 :Redeclaration of function long.
+wizards/neophyte/container.c line 58 :Redeclaration of function long.
+wizards/neophyte/container.c line 21 :Variable _size not declared !
+wizards/neophyte/container.c line 27 :Variable _size not declared !
+wizards/neophyte/container.c line 46 :Variable _size not declared !
+wizards/neophyte/container.c line 21 :Variable _size not declared !
+wizards/neophyte/container.c line 27 :Variable _size not declared !
+wizards/neophyte/container.c line 46 :Variable _size not declared !
+wizards/neophyte/container.c line 16 :Return type not matching: "void "
+wizards/neophyte/container.c line 7 :Variable _value not declared !
+wizards/neophyte/container.c line 7 :Variable _value not declared !
+wizards/neophyte/container.c line 42 :Variable weight_ not declared !
+wizards/neophyte/container.c line 38 :syntax error
+wizards/neophyte/container.c line 30 :syntax error
+wizards/neophyte/container.c line 31 :Variable i not declared !
+wizards/neophyte/container.c line 31 :Illegal LHS
+wizards/neophyte/container.c line 59 :syntax error
+wizards/neophyte/container.c line 62 :Illegal LHS
+wizards/neophyte/container.c line 62 :syntax error
+wizards/neophyte/container.c line 41 :Variable w not declared !
+wizards/neophyte/container.c line 8 :function not defined by inheritance as specified
+wizards/neophyte/container.c line 11 :syntax error
+wizards/neophyte/container.c line 54 :syntax error
+wizards/neophyte/container.c line 57 :Illegal LHS
+wizards/neophyte/container.c line 57 :syntax error
+wizards/neophyte/container.c line 58 :Illegal LHS
+wizards/neophyte/container.c line 58 :syntax error
+wizards/neophyte/container.c line 11 :syntax error
+wizards/neophyte/container.c line 54 :syntax error
+wizards/neophyte/container.c line 57 :Illegal LHS
+wizards/neophyte/container.c line 57 :syntax error
+wizards/neophyte/container.c line 58 :Illegal LHS
+wizards/neophyte/container.c line 58 :syntax error
+wizards/neophyte/container.c line 32 :syntax error
+wizards/neophyte/container.c line 32 :syntax error
+wizards/neophyte/container.c line 41 :syntax error
+wizards/neophyte/container.c line 57 :Illegal LHS
+wizards/neophyte/container.c line 57 :syntax error
+wizards/neophyte/container.c line 58 :Illegal LHS
+wizards/neophyte/container.c line 58 :syntax error
+wizards/neophyte/container.c line 59 :Illegal LHS
+wizards/neophyte/container.c line 31 :syntax error
+wizards/neophyte/container.c line 31 :syntax error
+wizards/neophyte/container.c line 32 :Variable local_weight not declared !
+wizards/neophyte/container.c line 25 :Variable _local_weight not declared !
+wizards/neophyte/container.c line 30 :Variable _local_weight not declared !
+wizards/neophyte/container.c line 32 :Variable _local_weight not declared !
+wizards/neophyte/container.c line 51 :Variable _weight not declared !
+wizards/neophyte/container.c line 8 :Variable _local_weight not declared !
+wizards/neophyte/_neoget.c line 55 :Variable ob not declared !
+wizards/neophyte/_neoget.c line 55 :Variable ob not declared !
+wizards/neophyte/container.c line 31 :syntax error
+wizards/neophyte/container.c line 34 :Illegal LHS
+wizards/neophyte/container.c line 35 :Illegal LHS
+wizards/neophyte/container.c line 55 :Illegal LHS
+wizards/neophyte/container.c line 55 :syntax error
+wizards/neophyte/container.c line 56 :Variable ob not declared !
+wizards/neophyte/container.c line 22 :syntax error
+wizards/neophyte/container.c line 23 :Variable str not declared !
+wizards/neophyte/container.c line 23 :Illegal LHS
+wizards/neophyte/container.c line 24 :syntax error
+wizards/neophyte/container.c line 35 :syntax error
+wizards/neophyte/container.c line 38 :Illegal LHS
+wizards/neophyte/container.c line 22 :syntax error
+wizards/neophyte/container.c line 23 :Variable str not declared !
+wizards/neophyte/container.c line 23 :Illegal LHS
+wizards/neophyte/container.c line 24 :syntax error
+wizards/neophyte/container.c line 35 :syntax error
+wizards/neophyte/container.c line 38 :Illegal LHS
+wizards/neophyte/container.c line 89 :Variable label not declared !
+wizards/neophyte/container.c line 90 :Variable label not declared !
+wizards/neophyte/scroll.c line 6 :Missing type for argument
+wizards/neophyte/scroll.c line 8 :syntax error
+wizards/neophyte/scroll.c line 7 :syntax error
+wizards/neophyte/scribble.c line 9 :syntax error
+wizards/neophyte/scroll.c line 138 :Variable word1 not declared !
+wizards/neophyte/scroll.c line 138 :Variable word2 not declared !
+wizards/neophyte/scroll.c line 138 :Variable word3 not declared !
+Sat Jul  6 05:05:52 2002 Cereon the merchant, mortal enemy of the Lowie family(strong) (/wizards/neophyte/city/monst/mercantilist#17177, 62) killed by Trooper (217) 
+Sat Jul  6 05:32:05 2002 Lasca the owner of this inn(strong) (/wizards/neophyte/city/monst/lasca#17329, 55) killed by Trooper (217) 
+wizards/neophyte/literacy.c line 7 :syntax error
+wizards/neophyte/literacy.c line 8 :syntax error
+wizards/neophyte/_exs_poi_trn.c line 16 :syntax error
+wizards/neophyte/literacy.c line 23 :syntax error
+wizards/neophyte/literacy.c line 23 :syntax error
+wizards/neophyte/literacy.c line 28 :syntax error
+wizards/neophyte/light_source.c line 20 :Missing type for argument
+wizards/neophyte/light_source.c line 21 :Missing type for argument
+wizards/neophyte/light_source.c line 22 :Missing type for argument
+wizards/neophyte/light_source.c line 23 :Missing type for argument
+wizards/neophyte/light_source.c line 24 :Missing type for argument
+wizards/neophyte/light_source.c line 25 :Missing type for argument
+wizards/neophyte/light_source.c line 31 :Variable name not declared !
+wizards/neophyte/light_source.c line 54 :syntax error
+wizards/neophyte/light_source.c line 63 :Illegal LHS
+wizards/neophyte/light_source.c line 64 :Variable i not declared !
+wizards/neophyte/light_source.c line 66 :syntax error
+wizards/neophyte/light_source.c line 80 :syntax error
+wizards/neophyte/light_source.c line 54 :syntax error
+wizards/neophyte/light_source.c line 63 :Illegal LHS
+wizards/neophyte/light_source.c line 64 :Variable i not declared !
+wizards/neophyte/light_source.c line 66 :syntax error
+wizards/neophyte/light_source.c line 80 :syntax error
+wizards/neophyte/light_source.c line 85 :Illegal LHS
+wizards/neophyte/light_source.c line 66 :syntax error
+wizards/neophyte/light_source.c line 80 :syntax error
+wizards/neophyte/light_source.c line 85 :Illegal LHS
+wizards/neophyte/light_source.c line 95 :Illegal LHS
+wizards/neophyte/light_source.c line 101 :Illegal LHS
+wizards/neophyte/light_source.c line 108 :Too few arguments to remove_call_out
+wizards/neophyte/light_source.c line 66 :syntax error
+wizards/neophyte/light_source.c line 80 :syntax error
+wizards/neophyte/light_source.c line 85 :Illegal LHS
+wizards/neophyte/light_source.c line 95 :Illegal LHS
+wizards/neophyte/light_source.c line 101 :Illegal LHS
+wizards/neophyte/light_source.c line 108 :Too few arguments to remove_call_out
+wizards/neophyte/light_source.c line 91 :syntax error
+wizards/neophyte/light_source.c line 91 :syntax error
+wizards/neophyte/light_source.c line 20 :Redeclaration of function set_value.
+wizards/neophyte/light_source.c line 20 :Redeclaration of function set_value.
+wizards/neophyte/light_source.c line 62 :syntax error
+wizards/neophyte/light_source.c line 83 :Illegal LHS
+wizards/neophyte/light_source.c line 84 :syntax error
+wizards/neophyte/light_source.c line 95 :Illegal LHS
+wizards/neophyte/light_source.c line 20 :Redeclaration of function set_value.
+wizards/neophyte/light_source.c line 20 :Redeclaration of function set_value.
+wizards/neophyte/light_source.c line 62 :syntax error
+wizards/neophyte/light_source.c line 83 :Illegal LHS
+wizards/neophyte/light_source.c line 84 :syntax error
+wizards/neophyte/light_source.c line 95 :Illegal LHS
+wizards/neophyte/light_source.c line 61 :syntax error
+wizards/neophyte/light_source.c line 82 :Illegal LHS
+wizards/neophyte/light_source.c line 83 :syntax error
+wizards/neophyte/light_source.c line 94 :Illegal LHS
+wizards/neophyte/light_source.c line 95 :Too few arguments to remove_call_out
+wizards/neophyte/light_source.c line 95 :Illegal LHS
+wizards/neophyte/light_source.c line 61 :syntax error
+wizards/neophyte/light_source.c line 82 :Illegal LHS
+wizards/neophyte/light_source.c line 83 :syntax error
+wizards/neophyte/light_source.c line 94 :Illegal LHS
+wizards/neophyte/light_source.c line 95 :Too few arguments to remove_call_out
+wizards/neophyte/light_source.c line 95 :Illegal LHS
+wizards/neophyte/light_source.c line 113 :syntax error
+wizards/neophyte/light_source.c line 113 :syntax error
+wizards/neophyte/scroll.c line 98 :syntax error
+wizards/neophyte/scroll.c line 102 :Variable word3 not declared !
+wizards/neophyte/scroll.c line 104 :syntax error
+wizards/neophyte/navigation_scroll.c line 12 :Variable owner not declared !
+wizards/neophyte/navigation_scroll.c line 48 :Variable spell_words not declared !
+wizards/neophyte/navigation_scroll.c line 49 :Variable spell_words not declared !
+wizards/neophyte/navigation_scroll.c line 59 :Variable spell_words not declared !
+wizards/neophyte/navigation_scroll.c line 60 :Variable spell_words not declared !
+wizards/neophyte/navigation_scroll.c line 12 :Variable owner not declared !
+wizards/neophyte/navigation_scroll.c line 59 :syntax error
+wizards/neophyte/navigation_scroll.c line 12 :Variable owner not declared !
+wizards/neophyte/navigation_scroll.c line 59 :syntax error
+wizards/neophyte/navigation_scroll.c line 49 :syntax error
+wizards/neophyte/_exs_zzt_loc.c line 36 :syntax error
+wizards/neophyte/_exs_zzt_loc.c line 28 :syntax error
+wizards/neophyte/_exs_zzt_loc.c line 50 :Variable p_ob not declared !
+wizards/neophyte/_exs_zzt_loc.c line 51 :Variable p_ob not declared !
+wizards/neophyte/_exs_zzt_loc.c line 52 :Variable p_ob not declared !
+wizards/neophyte/_exs_zzt_loc.c line 55 :Variable p_ob not declared !
+wizards/neophyte/_exs_zzt_loc.c line 61 :syntax error
+wizards/neophyte/_exs_zzt_loc.c line 64 :Variable p_ob not declared !
+wizards/neophyte/_exs_zzt_loc.c line 61 :syntax error
+wizards/neophyte/_exs_zzt_loc.c line 74 :syntax error
+wizards/neophyte/_exs_zzt_loc.c line 74 :syntax error
+wizards/neophyte/_exs_fla_loc.c line 16 :Variable real_x not declared !
+wizards/neophyte/_exs_fla_loc.c line 16 :Variable real_y not declared !
+wizards/neophyte/literacy.c line 20 :syntax error
+wizards/neophyte/literacy.c line 24 :syntax error
+wizards/neophyte/wand.c line 112 :Variable tgt not declared !
+wizards/neophyte/wand.c line 115 :syntax error
+wizards/neophyte/wand.c line 4 :Extra ';'. Ignored.
+wizards/neophyte/_chl_bls_les.c line 37 :Variable targe2 not declared !
+wizards/neophyte/_exs_brr_huh.c line 36 :Too few arguments to implode
+wizards/neophyte/scroll_shadow.c line 16 :Variable effect not declared !
+wizards/neophyte/scroll_shadow.c line 16 :Variable effect not declared !
+wizards/neophyte/scroll_shadow.c line 16 :Variable effect not declared !
+Mon Jul 15 16:58:11 2002 Captain of the guards(strong) (/wizards/neophyte/castle/monst/captain#6400, 45) killed by Devil (171) 
+Mon Jul 15 19:56:20 2002 Cereon the merchant, mortal enemy of the Lowie family(strong) (/wizards/neophyte/city/monst/mercantilist#9541, 65) killed by Devil (171) 
+Mon Jul 15 20:17:54 2002 Xiakin the goblin king(strong) (/wizards/neophyte/city/monst/king#10446, 51) killed by Devil (171) 
+wizards/neophyte/container.c line 60 :syntax error
+wizards/neophyte/container.c line 66 :Variable ob not declared !
+wizards/neophyte/container.c line 67 :Variable list not declared !
+wizards/neophyte/container.c line 67 :Variable ob not declared !
+wizards/neophyte/container.c line 68 :Variable i not declared !
+wizards/neophyte/container.c line 68 :Variable i not declared !
+wizards/neophyte/container.c line 27 :syntax error
+wizards/neophyte/container.c line 40 :Illegal LHS
+wizards/neophyte/container.c line 53 :Illegal LHS
+wizards/neophyte/container.c line 55 :Illegal LHS
+wizards/neophyte/container.c line 57 :Illegal LHS
+wizards/neophyte/container.c line 59 :Variable i not declared !
+Tue Jul 16 14:21:22 2002 Captain of the guards(strong) (/wizards/neophyte/castle/monst/captain#931, 47) killed by Celes (173) 
+Tue Jul 16 18:32:58 2002 Cereon the merchant, mortal enemy of the Lowie family(strong) (/wizards/neophyte/city/monst/mercantilist#5574, 64) killed by Celes (173) 
+Tue Jul 16 20:54:02 2002 Zelcy the royal healer(strong) (/wizards/neophyte/castle/monst/zelcy#1165, 45) killed by Celes (173) 
+Tue Jul 16 22:35:57 2002 Pidur the king of castle(strong) (/wizards/neophyte/castle/monst/pidur#1159, 59) killed by Celes (173) 
+wizards/neophyte/identify_wand.c line 52 :Variable _charges not declared !
+wizards/neophyte/identify_wand.c line 70 :syntax error
+wizards/neophyte/identify_wand.c line 71 :Illegal LHS
+wizards/neophyte/identify_wand.c line 72 :syntax error
+wizards/neophyte/identify_wand.c line 76 :Illegal LHS
+wizards/neophyte/identify_wand.c line 77 :Illegal LHS
+wizards/neophyte/identify_wand.c line 70 :syntax error
+wizards/neophyte/identify_wand.c line 71 :Illegal LHS
+wizards/neophyte/identify_wand.c line 72 :syntax error
+wizards/neophyte/identify_wand.c line 76 :Illegal LHS
+wizards/neophyte/identify_wand.c line 77 :Illegal LHS
+wizards/neophyte/identify_wand.c line 86 :Illegal LHS
+wizards/neophyte/identify_wand.c line 73 :Variable _charges not declared !
+wizards/neophyte/identify_wand.c line 74 :Variable _can_zap not declared !
+wizards/neophyte/tshirt.c line 6 :Variable GREEN_F not declared !
+wizards/neophyte/tshirt.c line 6 :Variable OFF not declared !
+wizards/neophyte/tshirt.c line 7 :Variable PINK_F not declared !
+wizards/neophyte/weapons.c line 341 :Variable cc not declared !
+wizards/neophyte/weapons.c line 341 :syntax error
+wizards/neophyte/weapons.c line 341 :Illegal LHS
+wizards/neophyte/weapons.c line 342 :syntax error
+wizards/neophyte/weapons.c line 342 :Illegal LHS
+wizards/neophyte/weapons.c line 341 :syntax error
+wizards/neophyte/weapons.c line 341 :Illegal LHS
+wizards/neophyte/weapons.c line 342 :syntax error
+wizards/neophyte/weapons.c line 342 :Illegal LHS
+wizards/neophyte/weapons.c line 340 :syntax error
+wizards/neophyte/weapons.c line 342 :syntax error
+wizards/neophyte/weapons.c line 342 :Illegal LHS
+wizards/neophyte/weapons.c line 342 :syntax error
+wizards/neophyte/weapons.c line 342 :Illegal LHS
+wizards/neophyte/weapon_sub_types.c line 340 :Duplicate case in line 320 and 304
+wizards/neophyte/weapon.c line 462 :Redeclaration of function set_material.
+wizards/neophyte/weapon.c line 462 :Redeclaration of function set_material.
+wizards/neophyte/weapon.c line 462 :Redeclaration of function set_material.
+wizards/neophyte/weapon.c line 462 :Redeclaration of function set_material.
+wizards/neophyte/material_d.c line 19 :switch without case not supported
+wizards/neophyte/weapon.c line 100 :Redeclaration of function set_stats.
+wizards/neophyte/weapon.c line 111 :Redeclaration of function set_stats.
+wizards/neophyte/weapon.c line 454 :syntax error
+wizards/neophyte/weapon.c line 455 :syntax error
+wizards/neophyte/weapon.c line 456 :syntax error
+wizards/neophyte/weapon.c line 457 :syntax error
+wizards/neophyte/weapon.c line 458 :syntax error
+wizards/neophyte/weapon.c line 459 :syntax error
+wizards/neophyte/idw.c line 26 :syntax error
+wizards/neophyte/idw.c line 30 :syntax error
+wizards/neophyte/idw.c line 23 :syntax error
+wizards/neophyte/weapon.c line 135 :Variable c_str not declared !
+wizards/neophyte/weapon.c line 69 :Variable damage_type not declared !
+wizards/neophyte/weapon.c line 70 :Variable damage_chance not declared !
+wizards/neophyte/weapon.c line 123 :Variable damage_chance not declared !
+wizards/neophyte/weapon.c line 124 :Variable damage_type not declared !
+wizards/neophyte/weapon.c line 44 :syntax error
+wizards/neophyte/weapon.c line 49 :Illegal LHS
+wizards/neophyte/weapon.c line 54 :Variable st not declared !
+wizards/neophyte/weapon.c line 54 :Illegal LHS
+wizards/neophyte/weapon.c line 54 :syntax error
+wizards/neophyte/weapon.c line 56 :Variable nu not declared !
+wizards/neophyte/city/obj/portal.c line 20 :syntax error
+wizards/neophyte/eval_file.c line 2 :syntax error
+wizards/neophyte/eval_file.c line 2 :Variable ob not declared !
+wizards/neophyte/eval_file.c line 2 :Variable ob not declared !
+wizards/neophyte/weapon.c line 204 :syntax error
+wizards/neophyte/weapon.c line 205 :Illegal LHS
+wizards/neophyte/weapon.c line 211 :syntax error
+wizards/neophyte/weapon.c line 213 :syntax error
+wizards/neophyte/weapon.c line 236 :Illegal LHS
+wizards/neophyte/weapon.c line 236 :Illegal LHS
+wizards/neophyte/weapon.c line 203 :syntax error
+wizards/neophyte/weapon.c line 204 :Illegal LHS
+wizards/neophyte/weapon.c line 210 :syntax error
+wizards/neophyte/weapon.c line 212 :syntax error
+wizards/neophyte/weapon.c line 235 :Illegal LHS
+wizards/neophyte/weapon.c line 235 :Illegal LHS
+wizards/neophyte/weapon.c line 221 :Variable str not declared !
+wizards/neophyte/weapon.c line 221 :syntax error
+wizards/neophyte/weapon.c line 223 :Variable tmp1 not declared !
+wizards/neophyte/weapon.c line 223 :Variable tmp2 not declared !
+wizards/neophyte/weapon.c line 224 :Variable str not declared !
+wizards/neophyte/weapon.c line 224 :Variable str not declared !
+wizards/neophyte/weapon.c line 221 :Variable str not declared !
+wizards/neophyte/weapon.c line 221 :syntax error
+wizards/neophyte/weapon.c line 223 :Variable tmp1 not declared !
+wizards/neophyte/weapon.c line 223 :Variable tmp2 not declared !
+wizards/neophyte/weapon.c line 224 :Variable str not declared !
+wizards/neophyte/weapon.c line 224 :Variable str not declared !
+wizards/neophyte/weapon.c line 221 :Variable str not declared !
+wizards/neophyte/weapon.c line 221 :syntax error
+wizards/neophyte/weapon.c line 223 :Variable tmp1 not declared !
+wizards/neophyte/weapon.c line 223 :Variable tmp2 not declared !
+wizards/neophyte/weapon.c line 224 :Variable str not declared !
+wizards/neophyte/weapon.c line 224 :Variable str not declared !
+wizards/neophyte/weapon.c line 220 :Variable str not declared !
+wizards/neophyte/weapon.c line 220 :syntax error
+wizards/neophyte/weapon.c line 222 :Variable tmp1 not declared !
+wizards/neophyte/weapon.c line 222 :Variable tmp2 not declared !
+wizards/neophyte/weapon.c line 223 :Variable str not declared !
+wizards/neophyte/weapon.c line 223 :Variable str not declared !
+wizards/neophyte/weapon.c line 211 :syntax error
+wizards/neophyte/weapon.c line 235 :Illegal LHS
+wizards/neophyte/weapon.c line 235 :Illegal LHS
+wizards/neophyte/weapon.c line 235 :Illegal LHS
+wizards/neophyte/weapon.c line 257 :syntax error
+wizards/neophyte/weapon.c line 267 :Illegal LHS
+wizards/neophyte/_score.c line 17 :syntax error
+wizards/neophyte/_score.c line 17 :syntax error
+wizards/neophyte/weapon.c line 364 :Redeclaration of function query_hit_bonus.
+wizards/neophyte/weapon.c line 375 :Redeclaration of function query_hit_bonus.
+wizards/neophyte/weapon.c line 368 :Redeclaration of function query_hit_bonus.
+wizards/neophyte/weapon.c line 379 :Redeclaration of function query_hit_bonus.
+wizards/neophyte/weapon.c line 188 :Redeclaration of function query_hit_bonus.
+wizards/neophyte/weapon.c line 199 :Redeclaration of function query_hit_bonus.
+wizards/neophyte/weapon.c line 188 :Redeclaration of function query_hit_bonus.
+wizards/neophyte/weapon.c line 194 :Variable size not declared !
+wizards/neophyte/weapon.c line 197 :Redeclaration of function query_hit_bonus.
+wizards/neophyte/weapon.c line 188 :Redeclaration of function query_hit_bonus.
+wizards/neophyte/weapon.c line 198 :Redeclaration of function query_hit_bonus.
+wizards/neophyte/weapon.c line 188 :Redeclaration of function query_hit_bonus.
+wizards/neophyte/weapon.c line 198 :Redeclaration of function query_hit_bonus.
+wizards/neophyte/base_torch.c line 45 :Variable lighted not declared !
+wizards/neophyte/base_torch.c line 51 :Variable _long not declared !
+wizards/neophyte/base_torch.c line 54 :Variable _light not declared !
+wizards/neophyte/base_torch.c line 100 :syntax error
+wizards/neophyte/base_torch.c line 111 :Too few arguments to remove_call_out
+wizards/neophyte/base_torch.c line 111 :Illegal LHS
+wizards/neophyte/base_torch.c line 100 :syntax error
+wizards/neophyte/base_torch.c line 111 :Too few arguments to remove_call_out
+wizards/neophyte/base_torch.c line 111 :Illegal LHS
+wizards/neophyte/base_torch.c line 111 :syntax error
+wizards/neophyte/base_torch.c line 113 :Illegal LHS
+wizards/neophyte/base_torch.c line 100 :syntax error
+wizards/neophyte/base_torch.c line 111 :Too few arguments to remove_call_out
+wizards/neophyte/base_torch.c line 111 :Illegal LHS
+wizards/neophyte/base_torch.c line 111 :syntax error
+wizards/neophyte/base_torch.c line 113 :Illegal LHS
+wizards/neophyte/nghost.c line 69 :syntax error
+wizards/neophyte/nghost.c line 71 :Variable ob not declared !
+wizards/neophyte/nghost.c line 73 :Variable ob not declared !
+wizards/neophyte/nghost.c line 74 :Variable ob not declared !
+wizards/neophyte/nghost.c line 96 :syntax error
+wizards/neophyte/nghost.c line 105 :syntax error
+wizards/neophyte/nghost.c line 96 :syntax error
+wizards/neophyte/nghost.c line 105 :syntax error
+wizards/neophyte/nghost.c line 109 :Variable x not declared !
+wizards/neophyte/nghost.c line 109 :Variable i not declared !
+wizards/neophyte/nghost.c line 109 :Variable x not declared !
+wizards/neophyte/nghost.c line 110 :Variable x not declared !
+wizards/neophyte/nghost.c line 105 :syntax error
+wizards/neophyte/nghost.c line 108 :Variable ob not declared !
+wizards/neophyte/nghost.c line 109 :Variable x not declared !
+wizards/neophyte/nghost.c line 109 :Variable i not declared !
+wizards/neophyte/nghost.c line 109 :Variable ob not declared !
+wizards/neophyte/nghost.c line 109 :Variable x not declared !
+wizards/neophyte/nghost.c line 110 :Variable i not declared !
+wizards/neophyte/nghost.c line 111 :syntax error
+wizards/neophyte/nghost.c line 112 :Illegal LHS
+wizards/neophyte/nghost.c line 112 :syntax error
+wizards/neophyte/nghost.c line 114 :Illegal LHS
+wizards/neophyte/nghost.c line 114 :syntax error
+wizards/neophyte/nghost.c line 130 :Variable phases not declared !
+wizards/neophyte/nghost.c line 139 :Variable ob not declared !
+wizards/neophyte/nghost.c line 140 :Variable ob not declared !
+wizards/neophyte/nghost.c line 142 :Variable ob not declared !
+wizards/neophyte/mskill.c line 23 :Too few arguments to call_other
+wizards/neophyte/_pwho.c line 5 :Variable p_ob not declared !
+wizards/neophyte/_pwho.c line 17 :Variable p_ob not declared !
+wizards/neophyte/_pwho.c line 19 :Variable p_ob not declared !
+wizards/neophyte/_pwho.c line 24 :Variable p_ob not declared !
+wizards/neophyte/areat/castle/obj/bludgeon.c line 36 :syntax error
+wizards/neophyte/areat/castle/obj/bludgeon.c line 72 :syntax error
+wizards/neophyte/armour.c line 115 :Variable race_only not declared !
+wizards/neophyte/armour.c line 116 :Variable race_only not declared !
+wizards/neophyte/armour.c line 311 :Variable race_only not declared !
+wizards/neophyte/eval_file.c line 2 :Undefined function this_body
+Tue Sep 17 15:45:59 2002 An old woman is cleaning the floor(strong) (/wizards/neophyte/areat/farm/monst/woman#25409, 35) killed by Devil (147) 
+Wed Sep 18 22:49:27 2002 Cereon the merchant, mortal enemy of the Lowie family(strong) (/wizards/neophyte/city/monst/mercantilist#1259, 62) killed by Devil (153) 
+Mon Sep 30 21:00:32 2002 Regor the pillager and thief(strong) (/wizards/neophyte/city/monst/regor#5615, 39) killed by Devil (153) 
+Tue Oct  1 21:17:57 2002 Captain of the guards(strong) (/wizards/neophyte/areat/castle/monst/captain#3532, 46) killed by Devil (153) 
+Fri Oct  4 23:02:10 2002 Cereon the merchant, mortal enemy of the Lowie family(strong) (/wizards/neophyte/city/monst/mercantilist#6133, 63) killed by Devil (153) 
+Sun Oct 27 12:55:46 2002 An old woman is cleaning the floor(strong) (/wizards/neophyte/areat/farm/monst/woman#19876, 39) killed by Devil (167) 
+Fri Nov  1 21:36:43 2002 An old woman is cleaning the floor(strong) (/wizards/neophyte/areat/farm/monst/woman#10711, 36) killed by Devil (173) 
+Sun Nov  3 23:26:35 2002 Kyriec the travelling witch archmage(strong) (/wizards/neophyte/city/monst/kyriec#14607, 35) killed by Devil (170) 
+Thu Nov  7 21:47:15 2002 Captain of the guards(strong) (/wizards/neophyte/areat/castle/monst/captain#12519, 49) killed by Trooper (241) 
+Fri Nov  8 22:09:15 2002 An old woman is cleaning the floor(strong) (/wizards/neophyte/areat/farm/monst/woman#479, 37) killed by Trooper (242) 
+Mon Nov 11 19:06:12 2002 Captain of the guards(strong) (/wizards/neophyte/areat/castle/monst/captain#623, 46) killed by Trooper (242) 
+Mon Nov 11 20:04:12 2002 Zelcy the royal healer(strong) (/wizards/neophyte/areat/castle/monst/zelcy#744, 45) killed by Trooper (242) 
+Wed Nov 13 21:03:57 2002 Captain of the guards(strong) (/wizards/neophyte/areat/castle/monst/captain#15569, 49) killed by Devil (184) 
+Sat Nov 16 13:27:48 2002 Captain of the guards(strong) (/wizards/neophyte/areat/castle/monst/captain#5088, 45) killed by Devil (184) 
+wizards/neophyte/city/temple/temple6.c line 11 :syntax error
+Tue Jan 14 21:01:49 2003 An old woman is cleaning the floor(strong) (/wizards/neophyte/areat/farm/monst/woman#18077, 39) killed by Demon (15) 
+Thu Jan 23 20:41:28 2003 Lasca the owner of this inn(strong) (/wizards/neophyte/city/monst/lasca#10892, 55) killed by Demon (19) 
+Thu Jan 23 20:49:04 2003 Kyriec the travelling witch archmage(strong) (/wizards/neophyte/city/monst/kyriec#11098, 37) killed by Demon (20) 
+Thu Jan 23 20:57:18 2003 Hring the high priest(strong) (/wizards/neophyte/city/monst/hring#11180, 30) killed by Demon (20) 
+Fri Jan 24 01:01:20 2003 Captain of the guards(strong) (/wizards/neophyte/areat/castle/monst/captain#14833, 47) killed by Demon (29) 
+Sat Jan 25 14:31:26 2003 Captain of the guards(strong) (/wizards/neophyte/areat/castle/monst/captain#4745, 47) killed by Demon (37) 
+Sat Jan 25 16:24:04 2003 Pidur the king of castle(strong) (/wizards/neophyte/areat/castle/monst/pidur#5062, 64) killed by Demon (39) 
+Sat Jan 25 16:46:14 2003 Zelcy the royal healer(strong) (/wizards/neophyte/areat/castle/monst/zelcy#5067, 45) killed by Demon (39) 
+Sun Jan 26 04:06:59 2003 Cereon the merchant, mortal enemy of the Lowie family(strong) (/wizards/neophyte/city/monst/mercantilist#41926, 62) killed by Demon (24) 
+Sun Jan 26 04:09:43 2003 An man is moving in the shadows(strong) (/wizards/neophyte/city/monst/fanud#41916, 40) killed by Demon (42) 
+Sun Jan 26 23:58:12 2003 Captain of the guards(strong) (/wizards/neophyte/areat/castle/monst/captain#11345, 45) killed by Demon (44) 
+Mon Jan 27 00:04:44 2003 Zelcy the royal healer(strong) (/wizards/neophyte/areat/castle/monst/zelcy#17080, 45) killed by Demon (44) 
+Mon Jan 27 00:06:34 2003 Pidur the king of castle(strong) (/wizards/neophyte/areat/castle/monst/pidur#17073, 59) killed by Demon (36) 
+Tue Feb 18 21:35:11 2003 Cereon the merchant, mortal enemy of the Lowie family(strong) (/wizards/neophyte/city/monst/mercantilist#2017, 60) killed by Devil (184) 
+Sun May  4 19:34:07 2003 Captain of the guards(strong) (/wizards/neophyte/areat/castle/monst/captain#5312, 46) killed by Drakhor (160) 
+Tue Jun 10 22:06:11 2003 Cereon the merchant, mortal enemy of the Lowie family(strong) (/wizards/neophyte/city/monst/mercantilist#28110, 64) killed by Drakhor (208) 
+Sat Jun 14 19:43:50 2003 Cereon the merchant, mortal enemy of the Lowie family(strong) (/wizards/neophyte/city/monst/mercantilist#5252, 60) killed by Drakhor (208) 
+Sun Jun 15 18:25:35 2003 Cereon the merchant, mortal enemy of the Lowie family(strong) (/wizards/neophyte/city/monst/mercantilist#1544, 65) killed by Drakhor (209) 
+Wed Jun 18 17:55:17 2003 Cereon the merchant, mortal enemy of the Lowie family(strong) (/wizards/neophyte/city/monst/mercantilist#10058, 60) killed by Drakhor (209) 
+Thu Jun 19 00:17:32 2003 Regor the pillager and thief(strong) (/wizards/neophyte/city/monst/regor#18217, 40) killed by Drakhor (209) 
+Mon Jul 14 18:35:57 2003 Cereon the merchant, mortal enemy of the Lowie family(strong) (/wizards/neophyte/city/monst/mercantilist#7286, 60) killed by Drakhor (216) 
+Thu Jul 17 10:12:08 2003 Loxie Lowie the city armourer(strong) (/wizards/neophyte/city/monst/armourer#15322, 47) killed by Drakhor (217) 
+Thu Jul 17 10:30:16 2003 Caulos Lowie the city smithy(strong) (/wizards/neophyte/city/monst/smithy#15309, 53) killed by Drakhor (217) 
+Sat Aug 30 22:11:46 2003 Cereon the merchant, mortal enemy of the Lowie family(strong) (/wizards/neophyte/city/monst/mercantilist#3931, 63) killed by Bloodstorm (170) 
+Wed Sep 10 14:59:09 2003 Captain of the guards(strong) (/wizards/neophyte/areat/castle/monst/captain#412, 46) killed by Drakhor (239) 
+Mon Nov 10 20:32:08 2003 Captain of the guards(strong) (/wizards/neophyte/areat/castle/monst/captain#13681, 49) killed by Bloodstorm (178) 
+Sun Nov 16 04:12:39 2003 Captain of the guards(strong) (/wizards/neophyte/areat/castle/monst/captain#29431, 49) killed by Maria (100) 
+Sun Nov 16 05:46:52 2003 Cereon the merchant, mortal enemy of the Lowie family(strong) (/wizards/neophyte/city/monst/mercantilist#32265, 64) killed by Bloodstorm (199) 
+Sun Feb  1 01:13:47 2004 Cereon the merchant, mortal enemy of the Lowie family(strong) (/wizards/neophyte/city/monst/mercantilist#2575, 64) killed by Celes (160) 
+Sun Feb  1 01:34:41 2004 Hring the high priest(strong) (/wizards/neophyte/city/monst/hring#3781, 30) killed by Celes (160) 
+Sun Feb  1 01:43:13 2004 An man is moving in the shadows(strong) (/wizards/neophyte/city/monst/fanud#4546, 40) killed by Celes (160) 
+Sun Mar  7 15:04:48 2004 Cereon the merchant, mortal enemy of the Lowie family(strong) (/wizards/neophyte/city/monst/mercantilist#24095, 63) killed by Jenny (186) 
+Sun Mar  7 21:40:54 2004 Captain of the guards(strong) (/wizards/neophyte/areat/castle/monst/captain#48862, 49) killed by Jenny (186) 
+Sun Mar  7 21:46:47 2004 Zelcy the royal healer(strong) (/wizards/neophyte/areat/castle/monst/zelcy#49213, 45) killed by Jenny (186) 
+Sun Mar  7 21:49:11 2004 Pidur the king of castle(strong) (/wizards/neophyte/areat/castle/monst/pidur#49206, 63) killed by Jenny (186) 
+Sun Mar 14 00:41:21 2004 Kyriec the travelling witch archmage(strong) (/wizards/neophyte/city/monst/kyriec#88818, 38) killed by Jenny (211) 
+Sun Mar 14 00:49:15 2004 Hring the high priest(strong) (/wizards/neophyte/city/monst/hring#89195, 30) killed by Bloodstorm (200) 
+Sun Mar 14 14:39:11 2004 An man is moving in the shadows(strong) (/wizards/neophyte/city/monst/fanud#38178, 45) killed by Bloodstorm (200) 
+Tue Mar 30 23:13:20 2004 Captain of the guards(strong) (/wizards/neophyte/areat/castle/monst/captain#60548, 45) killed by Kaappi (157) 
+Wed Mar 31 14:53:34 2004 Loxie Lowie the city armourer(strong) (/wizards/neophyte/city/monst/armourer#14699, 47) killed by Golthar (145) 
+Thu Apr  1 21:50:57 2004 Loxie Lowie the city armourer(strong) (/wizards/neophyte/city/monst/armourer#26188, 46) killed by Kaappi (158) 
+Fri May 14 11:47:01 2004 Loxie Lowie the city armourer(strong) (/wizards/neophyte/city/monst/armourer#6503, 49) killed by Reaper (185) 
+Wed May 19 15:24:05 2004 Captain of the guards(strong) (/wizards/neophyte/areat/castle/monst/captain#15623, 47) killed by Reaper (202) 
+Thu May 20 22:59:54 2004 Regor the pillager and thief(strong) (/wizards/neophyte/city/monst/regor#41043, 40) killed by Reaper (205) 
+wizards/neophyte/city/monst/nghost.c line 173 :syntax error
+wizards/neophyte/city/monst/nghost.c line 177 :Variable i not declared !
+wizards/neophyte/city/monst/nghost.c line 177 :Illegal LHS
+wizards/neophyte/city/monst/nghost.c line 173 :syntax error
+wizards/neophyte/city/monst/nghost.c line 177 :Variable i not declared !
+wizards/neophyte/city/monst/nghost.c line 177 :Illegal LHS
+wizards/neophyte/city/monst/nghost.c line 173 :syntax error
+wizards/neophyte/city/monst/nghost.c line 177 :Variable i not declared !
+wizards/neophyte/city/monst/nghost.c line 177 :Illegal LHS
+wizards/neophyte/city/monst/nghost.c line 165 :syntax error
+wizards/neophyte/city/monst/nghost.c line 165 :syntax error

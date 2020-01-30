@@ -1,0 +1,25 @@
+wizards/onarion/eval_file.c line 2 :Variable this_pl not declared !
+wizards/onarion/eval_file.c line 2 :syntax error
+wizards/onarion/eval_file.c line 2 :Too many arguments to present
+wizards/onarion/eval_file.c line 2 :syntax error
+wizards/onarion/eval_file.c line 2 :Too many arguments to present
+wizards/onarion/eval_file.c line 2 :syntax error
+wizards/onarion/eval_file.c line 2 :syntax error
+wizards/onarion/eval_file.c line 2 :Undefined function uptime
+wizards/onarion/eval_file.c line 2 :Undefined function uptime
+wizards/onarion/eval_file.c line 2 :Undefined function uptime
+wizards/onarion/eval_file.c line 2 :Undefined function uptime
+wizards/onarion/eval_file.c line 2 :Undefined function uptime
+wizards/onarion/eval_file.c line 2 :Undefined function uptime
+wizards/onarion/eval_file.c line 2 :syntax error
+wizards/onarion/eval_file.c line 2 :Undefined function uptime
+wizards/onarion/eval_file.c line 2 :Undefined function query_numbers
+wizards/onarion/eval_file.c line 2 :Undefined function call_call_other
+wizards/onarion/test.c line 8 :syntax error
+wizards/onarion/test.c line 10 :syntax error
+wizards/onarion/tower/monsters/redappr.c line 58: Missing arguments to simul_efun command
+wizards/onarion/tower/monsters/redappr.c line 70: Missing arguments to simul_efun command
+wizards/onarion/tower/monsters/tutor.c line 3: Illegal to redefine inherited variable 'money'
+wizards/onarion/tower/monsters/tutor.c line 3: Illegal to redefine inherited variable 'money'
+wizards/onarion/tower/monsters/tutor.c line 3: Illegal to redefine inherited variable 'money'
+wizards/onarion/tower/monsters/tutor.c line 3: Illegal to redefine inherited variable 'money'

@@ -1,0 +1,17 @@
+19:33 Celtron <fiz>: no pistä sinne palloon että
+19:34 Celtron <fiz>: #define SNOWBALL_D "filename tähän"
+19:34 Celtron <fiz>: snowball_hits(object target) {
+19:34 Celtron <fiz>: SNOWBALL_D->count_hits(this_player(), target);
+19:35 Celtron <fiz>: sitten count_hitsin teet sinne toiseen objektiin
+19:36 Celtron <fiz>: eli jokanen pallo callaa yhtä laskijaobjua
+19:36 Luminarc <fiz>: ah.. selvitti huomattavasti :)
+19:37 Celtron <fiz>: joka muistaa sitten vaikka että montako kertaa 
+pelaaja A
+on osunu tai montako kertaa pelaajaan A on osuttu jne
+19:37 Luminarc <fiz>: mutta eikös sitten mee kaikkien playereitten osumat
+yhteen fileen
+19:37 Celtron <fiz>: joo siis se yks obju rakentaa databasen niistä 
+osumista
+19:37 Luminarc <fiz>: nod.. helpotti huomattavasti :)
+19:37 Celtron <fiz>: tai siis sille ilmotetaan ne kaikki ja voit tehdä 
+niillä

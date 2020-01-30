@@ -1,0 +1,422 @@
+wizards/neophyte/castle/entrance Typo Irmeli
+Lots
+wizards/neophyte/castle/entrance Typo Irmeli
+in front ei front
+wizards/neophyte/castle/entrance Typo Irmeli
+that = which leads to the castle
+wizards/neophyte/castle/entrance Typo Irmeli
+eka puhut gatesta ja sit ihan vika sana on monikossa eli -s
+wizards/neophyte/castle/gateway Typo Irmeli
+kaikkiin huoneisiin jotka on sisällä niin set_not_out(1-3); 1 on pimeetä 2 hämärää ja 3 täys valaistus
+wizards/neophyte/castle/gateway Typo Irmeli
+piste puuttuu perästä ja pidempi desci
+wizards/neophyte/castle/gateway Typo Irmeli
+set_alias("guard"); niin voi laittaa guardin tgt kans ja kerro minkänäkönen toi guardi on ei mitäse tekee pelkästään
+wizards/neophyte/castle/gateway Typo Irmeli
+tässähän on väärä guardi täs huonees
+wizards/neophyte/castle/rest1 Typo Irmeli
+monsuille vois laittaa set_level(35+random(3)); tai jotain vastaavaa ettei noi olis ihan samankokosii kaikki, muute jengi asuu tääl
+wizards/neophyte/castle/rest1 Typo Irmeli
+piste perään jo yks rivi descii viel ainaki
+wizards/neophyte/castle/inside2 Typo Irmeli
+Kuulostaa tyhmältä toi that huge tower, ja in front ei front!
+wizards/neophyte/castle/stairs Typo Irmeli
+is = are
+wizards/neophyte/castle/tower1 Typo Irmeli
+ther ?
+wizards/neophyte/castle/tower1 Typo Irmeli
+joo täälön kaikki noi descit _pikkasen_ lyhyitä
+wizards/neophyte/castle/tower2 Typo Irmeli
+pisteet puuttuu taas lopusta
+wizards/neophyte/castle/inside1 Bug Nigel
+no target at capitain ..
+wizards/neophyte/castle/towerg8 Typo Torspo
+desc
+wizards/neophyte/castle/towerg8 Typo Torspo
+... arriveD ... In here is a small window which gives a good view of the near valley.
+wizards/neophyte/forest/room1 Typo Irmeli
+The trees IN here
+wizards/neophyte/forest/room1 Typo Irmeli
+on the top of the treeS
+wizards/neophyte/forest/room1 Typo Irmeli
+brancheS
+wizards/neophyte/forest/room4 Typo Irmeli
+laita tahan vaik et tuollon southis joku cave
+wizards/neophyte/forest/room4 Typo Irmeli
+niin tulis vaha eri descii
+wizards/neophyte/forest/cave1 Typo Irmeli
+look at dripstone a = the
+wizards/neophyte/forest/cave2 Typo Irmeli
+that it dont be a weak = it's not weak.
+wizards/neophyte/forest/room17 Typo Irmeli
+tallon joka roomis melki samat descit --> area_ohjeissa sanotaan ettei sais olla celtroni ei tuu hyvaksyy :)
+wizards/neophyte/forest/field5 Typo Irmeli
+mother rabbit = She have a white fur, and little dangled ears = She HAS a white fur and a little dangled ears.
+wizards/neophyte/forest/room9 Typo Irmeli
+it can be listened for hours. kuulostaa tyhmalta vois vaik laittaa et that you would listen the singing for hours.
+wizards/neophyte/forest/room9 Typo Irmeli
+fisherman Maybe it's because of the hard work, what the fishermen must do for their living.
+wizards/neophyte/forest/room12 Typo Irmeli
+fisherman Fisher taps his pipe = piste puuttuu
+wizards/neophyte/forest/house1 Typo Irmeli
+a man cleaning fishing equipment piste puuttuu saysta
+wizards/neophyte/forest/house1 Typo Irmeli
+fiplace
+wizards/neophyte/forest/house1 Typo Irmeli
+at = on
+wizards/neophyte/forest/room8 Typo Irmeli
+mikas toi obj dirri o
+wizards/neophyte/forest/room8 Typo Irmeli
+seon set_animal(1); tiia sit mikaero siina o
+wizards/neophyte/forest/room4 Typo Duncan
+From here the path starts going to different directions.
+wizards/neophyte/forest/cave2 Typo Duncan
+It looks rather young, but somehow you get feeling that it isen't weak
+wizards/neophyte/forest/cave2 Typo Duncan
+bear toi askenenki oli beari It has a brown
+wizards/neophyte/forest/room15 Typo Duncan
+it's
+wizards/neophyte/forest/room15 Typo Duncan
+vaiha toi surely johonki toiseen sanaan
+wizards/neophyte/forest/room17 Typo Duncan
+in your eyes ?
+wizards/neophyte/forest/field1 Typo Duncan
+-here tai sit in here
+wizards/neophyte/forest/field1 Typo Duncan
+rabbit piste ekaan riviin
+wizards/neophyte/forest/room8 Typo Duncan
+chance = change ja start starts
+wizards/neophyte/forest/room9 Typo Duncan
+fisherman work, what the vali fishermen
+wizards/neophyte/forest/room12 Typo Duncan
+blow in here, making the beach very nice
+wizards/neophyte/forest/room12 Typo Duncan
+The sand is gold-coloured
+wizards/neophyte/forest/house1 Typo Duncan
+A man cleaning fishning equipment --> Man isolla ja piste pois lopusta
+wizards/neophyte/forest/room1 Typo Torspo
+Tee noil otuksil tai branchil tai molemmil itemit.
+wizards/neophyte/forest/room4 Typo Torspo
+from -> From. starts going -> vanders to different locations.
+wizards/neophyte/forest/room4 Idea Torspo
+Tost lahteest vois juua jos jaksat teha.
+wizards/neophyte/forest/room4 Typo Torspo
+A small spring is... -> There's a small spring just...
+wizards/neophyte/forest/room4 Typo Torspo
+Spring -> Fresh and clear water flow from the spring.
+wizards/neophyte/forest/room15 Typo Torspo
+then -> than.
+wizards/neophyte/forest/room15 Typo Torspo
+maybe its -> maybe it has. is a full of -> helliin toi 'a'.
+wizards/neophyte/forest/room17 Typo Torspo
+Lait vaik 'There are lots of different bushes here and the all grow near the path.
+wizards/neophyte/forest/room17 Typo Torspo
+Far to the east can be seen a e
+wizards/neophyte/forest/room17 Typo Torspo
+Far to the east can be seen a hay field. Jopas.
+wizards/neophyte/forest/field1 Typo Torspo
+... colour of the plants ...
+wizards/neophyte/forest/field1 Typo Torspo
+... can be seen hopping and running everywhere in here.
+wizards/neophyte/forest/field5 Typo Torspo
+Piste uupuu lopust.
+wizards/neophyte/forest/field5 Typo Torspo
+Holes -> There's something shimmering in one of the holes. Tee kans 'hole' itemi.
+wizards/neophyte/forest/hole Typo Torspo
+You are inside the small hole. There are lots of small tunnels going to different directions from here.
+wizards/neophyte/forest/hole Typo Torspo
+Kello: made of gold. A small ...
+wizards/neophyte/forest/field1 Typo Torspo
+Bushes: furher --> further.
+wizards/neophyte/forest/field5 Typo Torspo
+One of the holeS looks A lot bigger and there is something shimmering in there.
+wizards/neophyte/forest/hole Typo Torspo
+You are inside the small hole. There are lots of tunnels going ...
+wizards/neophyte/forest/room5 Typo Torspo
+Trees in here are a lot smaller and ...
+wizards/neophyte/forest/room5 Typo Torspo
+maybe it's because of the sandy ground which sure isn't a perfect growing base.
+wizards/neophyte/forest/room5 Typo Torspo
+Tees lisaa descei.
+wizards/neophyte/castle/inside1 Typo Tekari
+In captains desc: He is wearing the/a belt... to achieve king status
+wizards/neophyte/castle/gateway Typo Tekari
+in gate's desc:the rusty gate is opened
+wizards/neophyte/castle/inside1 Typo Tekari
+small corridors are leading to different...
+wizards/neophyte/forest/room1 Typo Torspo
+almost
+wizards/neophyte/forest/cave2 Typo Torspo
+which scares _you_ a little (?)
+wizards/neophyte/forest/cave4 Typo Torspo
+There are lots of different bones of fishes and animals on the ground.
+wizards/neophyte/forest/cave4 Typo Torspo
+Ton roaring soundin vois kuopata johonki tast roomist.
+wizards/neophyte/forest/cave5 Typo Torspo
+Vois alottaa jotenki 'This is the bottom of the cave.' tms
+wizards/neophyte/forest/cave5 Typo Torspo
+Small drops of water flow from the ceiling and some leaves cover the ground. This looks like...
+wizards/neophyte/forest/cave3 Typo Torspo
+Noi bearien descit vois uusia. Jotain vaik niitten koosta, varista, yleensaki karhuist tjsp.
+wizards/neophyte/forest/room7 Typo Torspo
+This is a sandy path to the beach. There are no more trees here, only small bushes are growing in the sand.
+wizards/neophyte/forest/cave2 Typo Torspo
+It has a brown fur...
+wizards/neophyte/forest/field5 Typo Torspo
+This is the center of the hay field.
+wizards/neophyte/forest/field5 Typo Torspo
+Ground is full of small holes which seem to be dug by animals.
+wizards/neophyte/forest/field5 Typo Torspo
+Hole: One of the holes looks a lot bigger than others and there is something shimmering in it.
+wizards/neophyte/forest/field5 Typo Torspo
+and little dangled ears. ...is looking after little bunnies.
+wizards/neophyte/forest/room6 Typo Torspo
+Stunted trees grow all around you, they even form a little forest around here. The view is quite ugly. /* tai jotenki tohon suuntaan */
+wizards/neophyte/forest/room5 Typo Torspo
+are a lot smaller
+wizards/neophyte/forest/room8 Typo Torspo
+There are only couple of wisps growing here. ... A beach opens in front of you.
+wizards/neophyte/forest/cave1 Typo Torspo
+which lead deeper
+wizards/neophyte/forest/field5 Typo Torspo
+Pilkku veke tosta aitipupusta.
+wizards/neophyte/forest/house1 Typo Torspo
+Kun tolle on antanu sen klokun niin vois poistaa chatin. Turhaan se sita enaa whinee. Jos haluut estaa sen illuabusen ni voit fiksaa kans mut seon oma valintas.
+wizards/neophyte/forest/cave3 Typo Tekari
+awful, not awfull
+wizards/neophyte/forest/room12 Typo Tekari
+blows
+wizards/neophyte/forest/room12 Typo Tekari
+listen to the singing...
+wizards/neophyte/forest/room15 Typo Tekari
+look at path----> than before
+wizards/neophyte/forest/room5 Typo Tekari
+isn't, not isen't
+wizards/neophyte/forest/room4 Typo Ahma
+You are at a crossing of the paths. In here the paths starts <- -s
+/wizards/neophyte/farm/room1 Typo Neophyte
+jep
+/wizards/neophyte/farm/room1 Typo Torspo
+a typical entrance to a farm.
+/wizards/neophyte/farm/room1 Typo Torspo
+made _of_
+/wizards/neophyte/farm/room1 Typo Torspo
+logs is attached to farms fence and muddy road goes inside the courtyard.
+/wizards/neophyte/farm/room1 Typo Torspo
+courtyard
+/wizards/neophyte/farm/room1 Typo Torspo
+There are small pools of dirty water, lots of horses' footsteps and wagon trails on the road.
+/wizards/neophyte/farm/room1 Typo Torspo
+Lots of apple trees grown in here with different...
+/wizards/neophyte/farm/room2 Typo Torspo
+build->built, countyard->courtyard
+/wizards/neophyte/farm/room2 Typo Torspo
+made _of_ red bricks... smoke _is_ rising from it.
+/wizards/neophyte/farm/room2 Typo Torspo
+A windows -> Windows.
+/wizards/neophyte/farm/room2 Typo Torspo
+Ja toi "looks like there are...." puis.
+/wizards/neophyte/farm/house Typo Torspo
+deleria->Deleria
+/wizards/neophyte/farm/house Typo Torspo
+furnishing
+/wizards/neophyte/farm/house Typo Torspo
+vipa pilkku pois
+/wizards/neophyte/farm/house Typo Torspo
+belonging -> owned by
+/wizards/neophyte/farm/house Typo Torspo
+Holes: 'gnawer' ? ..maked->made..
+/wizards/neophyte/farm/house Typo Torspo
+if(!woman): There is nobody you can offer help to.
+/wizards/neophyte/farm/floor1 Typo Torspo
+Vipa pilkku pois.
+/wizards/neophyte/farm/wall3 Typo Torspo
+mouse: ..and its sharp teeth are...
+/wizards/neophyte/farm/wall3 Typo Torspo
+holes: A small -> Small..
+/wizards/neophyte/farm/wall3 Typo Torspo
+The rats and mouses have damaged the base of this house and lots of sawdust covers the floor.
+/wizards/neophyte/farm/wall3 Typo Torspo
+tunnels: A small-> Small tunnels which have been gnawed...
+/wizards/neophyte/farm/floor1 Typo Torspo
+lmouse: its sharp teeth are.
+/wizards/neophyte/farm/house Typo Torspo
+As you give last hit to mouse, a small trapdoor opens _in_ front of you and someone pulls you back up!
+/wizards/neophyte/farm/house Typo Torspo
+Woman says: 'Thank you somemuch for your help!' --> so much
+/wizards/neophyte/farm/room4 Typo Torspo
+..courtyard.. ..There are apple and cherry trees around this area. Their blossoms look nice and bees are collecting honey from them.
+/wizards/neophyte/farm/room3 Typo Torspo
+There are lots of small pliiplaa in the front of the coops.
+/wizards/neophyte/farm/room5 Typo Torspo
+The floor is covered with large holes, chicken shit and small piles of grain.
+/wizards/neophyte/farm/room5 Typo Torspo
+Chicken start to peck -> starts to peck
+/wizards/neophyte/farm/room5 Typo Torspo
+There's a small log in the middle of the coop. Chickens' nests are built on it.
+/wizards/neophyte/farm/room5 Typo Torspo
+Uuh. Chickens' nests have been built on it.
+/wizards/neophyte/farm/room2 Typo Torspo
+built center -> built in center
+/wizards/neophyte/farm/room3 Typo Torspo
+Lots of small barrels full of grain and water have been placed in front of the coops.
+/wizards/neophyte/farm/room5 Typo Torspo
+chicken's -> chickens'
+/wizards/neophyte/farm/room5 Typo Torspo
+are built -> have been built
+/wizards/neophyte/farm/room9 Typo Torspo
+Samakun room5.
+/wizards/neophyte/farm/room5 Typo Torspo
+a white chicken
+/wizards/neophyte/farm/room5 Typo Torspo
+rooster: It has a white -> It has white. little -> quite. red waggle -> a red waggle.
+/wizards/neophyte/farm/room6 Typo Torspo
+Cow: A Cow -> A cow.
+/wizards/neophyte/farm/room6 Typo Torspo
+The ground looks almost naked as everything but some small spots of grass have been eaten.
+/wizards/neophyte/farm/room6 Typo Torspo
+is built _in_ all corners... stop cows fleeing -> prevent cows from fleeing
+/wizards/neophyte/farm/room10 Typo Torspo
+short -> sort of ?
+/wizards/neophyte/farm/room10 Typo Torspo
+A small bucket (full) of water is _in_ front... ..near that are several piles..
+/wizards/neophyte/farm/room10 Typo Torspo
+stallion -> set_alias("stallion")
+/wizards/neophyte/farm/room8 Typo Torspo
+Smell inside here -> Smell in here
+/wizards/neophyte/farm/room8 Typo Torspo
+Toi 'you' pyllyyn.
+/wizards/neophyte/farm/room8 Typo Torspo
+Pig: Pig skin -> Pigs skin
+/wizards/neophyte/farm/room4 Typo Torspo
+trees: beautifull -> beautiful
+/wizards/neophyte/farm/room3 Typo Torspo
+Barrels: The barrels are filled with grain and water, food for chickens.
+/wizards/neophyte/farm/room7 Typo Torspo
+Fence: build -> built
+/wizards/neophyte/farm/room2 Typo Torspo
+Chimney: A chimney is built on the roof. A lot of smoke is coming from it.
+/wizards/neophyte/farm/house Typo Piikki
+l at hole -> Maybe some gnawer have maked these holes.. have _made_
+/wizards/neophyte/farm/house Typo Oaycrin
+when looking at holes it says Maybe some gnawer have maked these holes...I think it should be make these holes...
+/wizards/neophyte/farm/house Typo Celtron
+maked -> made
+/wizards/neophyte/castle/workroom Idea Trooper
+rescue skill vois uncon memberin ottaa reppuskaa
+/wizards/neophyte/castle/hall Idea Trooper
+pistäkääs se.. kyo brr rhj jht mikälie poistamaan myös unstun.. jossei jo poista... sit semmonen vaa jollekki eku monsulle ni pop
+/wizards/neophyte/castle/workroom Idea Trooper
+consider skillille hieman säätöö.. se ei oo enää käytännöllinen isoissa monsuissa
+/wizards/neophyte/farm/room11 Idea Trooper
+rangereihin skilli horsemanship? ei kuluis eptä yhtää ja ehkä jotai muutaki plussa... ehkä ... charge rush about tupla damage? tai sit meleeseen damagee lisää tai jotai.... mut idea kummiski ei suoraa /dev/nullii! :P
+/wizards/neophyte/forest/house1 Bug Descad
+giving golden watch to man doesnt give qp. atleast i didnt get and tried several times.
+/wizards/neophyte/city/den/entrance Typo Duncan
+hurry, vois olla RUSH myos
+/wizards/neophyte/city/den/entrance Typo Duncan
+la table isnt .--> isn't
+/wizards/neophyte/city/den/room5 Typo Duncan
+like that it dont finished. --> taitaa olla jaany lause kesken jotenki!
+/wizards/neophyte/city/den/room5 Typo Duncan
+remind vois olla myos resemble
+/wizards/neophyte/city/den/room5 Typo Duncan
+lookki objui vois teha, bones torch esim
+/wizards/neophyte/city/den/room2 Typo Duncan
+samat tahan
+/wizards/neophyte/city/den/room4 Typo Duncan
+slightly IN better --> toi in ainaki pois betterin vois vaihtaa johonki toiseen sanaan...
+/wizards/neophyte/city/den/room4 Typo Duncan
+its --> it's
+/wizards/neophyte/city/den/room4 Typo Duncan
+which is laid --> which is covering esim
+/wizards/neophyte/city/den/room4 Typo Duncan
+carpet ja torches lookki tms
+/wizards/neophyte/city/den/room3 Typo Duncan
+Wolfrider --> to be An ordinary wolf, ton an vois lisaa siihe
+/wizards/neophyte/city/den/room3 Typo Duncan
+Wolfrider --> constanly ---> CONSTANTLY t: puuttuu
+/wizards/neophyte/city/den/room3 Typo Duncan
+Wolfrider ---> On the wolf seems toi koko lause sukkaa pitais olla sanajarjestys toisin esim Something/Someone seem to be sitting on the wolf and watching....
+/wizards/neophyte/city/den/room6 Typo Duncan
+cave wall --> cave walls are tms
+/wizards/neophyte/city/den/room6 Typo Duncan
+Caves --> oot kayttany Cavern aikasemmi sen vois muutta caverns ts
+/wizards/neophyte/city/den/room6 Typo Duncan
+Melbo --> wolf is actualy --> actually
+/wizards/neophyte/city/den/room6 Typo Duncan
+Melbo --> intelligence --> intelligent
+/wizards/neophyte/city/den/room6 Typo Duncan
+melbo --> doesn't
+/wizards/neophyte/city/den/room6 Typo Duncan
+King ---> is a king of the goblins--> is The king
+/wizards/neophyte/city/den/room6 Typo Duncan
+king --> doesn't taas, A average -> an average
+/wizards/neophyte/city/den/room6 Typo Duncan
+gdagger.c Which have --> has ---> doesnt --> doesn't --> 2* that sana toinen pois ainaki, --> start --> starts
+/wizards/neophyte/city/den/room6 Typo Duncan
+gdagger.c toi stunni tulee liian useesti, tosin monsujen inner str estaa sen aika usein
+/wizards/neophyte/castle/towerg4 Idea Trooper
++hit avoid jos size o pieni
+/wizards/neophyte/castle/towerg4 Idea Trooper
+semmonen skilli jolla figut voisivat nähdä paljon niie skillit tekee damaa =P joku easy tai very easy, offensive estimancy
+/wizards/neophyte/castle/towerg10 Idea Trooper
+koska tämän hetken tremeä voi käyttää vain pelaajien tappamiseen, niin ehdottaisin että, se tehtäis ekuun käytännölliseksi, se läpäisis physical resistin ...
+/wizards/neophyte/farm/house Idea Trooper
+ton consider skillin vois tunee nii et vois vertailla iha isojaki mosia ku ... Your limited knowledge can't figure out everything about this ability. tuota pukkaa :P
+/wizards/neophyte/farm/room7 Idea Trooper
+hmmh... oispa melkeen että exprate ei vois nousta/tippua yli 10% (kymmentä) siitä alkuperäisestä... ni ei tuu tommosia niinku dwarf oli... 65 tms :P
+/wizards/neophyte/city/gpost Typo Duncan
+walls are painting - painted tms
+/wizards/neophyte/city/gpost Typo Duncan
+a simple mat
+/wizards/neophyte/city/gpost Typo Duncan
+-a couple +of
+/wizards/neophyte/city/gpost Typo Duncan
+tired guard . puuttuu
+/wizards/neophyte/city/gpost Typo Duncan
+tired guard pidempi desc
+/wizards/neophyte/city/armour_shop Typo Duncan
+armourer HE
+/wizards/neophyte/city/weapon_shop Typo Duncan
+smithille vois teha hammerin plus echottaa jotain BANGIA
+/wizards/neophyte/city/amber1 Typo Duncan
+Ge ?
+/wizards/neophyte/city/weapon_shop Typo Walla
+we left with hurry and forged to extinguish
+/wizards/neophyte/city/graveyard/tomb Typo Walla
+coffing = coffin cemeteryssa (dun/neo) (tombissa)
+/wizards/neophyte/city/graveyard/tomb Typo Walla
+sama lause, the lid is broke.. uupuu n lopusta, lid is broken
+/wizards/neophyte/city/pub Typo Hemies
+When I asked from Lasca about his sword, says Powerfull... Should probably be powerful :)
+/wizards/neophyte/city/pub Typo Hemies
+Huoh... We have couple of customars -> customers maybe ? :) *wink wink*
+/wizards/neophyte/city/temple/temple1 Typo Hemies
+colourful -> colorful/colourful :)
+/wizards/neophyte/city/general_shop Typo Hemies
+Amulet of embadded powers -> Amulet of embedded powers
+/wizards/neophyte/city/armour_shop Typo Hemies
+She sure doesn't look an usual armourer. -> She surely doesn't look like a usual armourer.
+/wizards/neophyte/city/weapon_shop Typo Hemies
+Check loxie
+/wizards/neophyte/city/anchor3 Idea Trooper
+hinulle joku skilli joka laskis spellcostia hieman... ehkäs 10% yhteesä tms... koska, ekuttaes ei hinuil riitä spt mitenkää.. ei oo enää maagit jotka joutuu regeen va hinut :P
+/wizards/neophyte/city/graveyard/tomb Idea Trooper
+pitäskö distanttia hiema tunee.. se hinuu 200..... siis tappi hinul joka o lvl 180  about
+/wizards/neophyte/city/pub Typo Oaycrin
+Lasca says: 'We have couple of customars that come to here sleep almost every night.
+/wizards/neophyte/areat/farm/room7 Bug Neophyte
+drop noeq vois droppaa kaikki eika vaan armoureita/wepoja
+/wizards/neophyte/areat/castle/towerg5 Idea Devil
+myyntikojut tanne!!!!!!
+/wizards/neophyte/forest/room14 Idea Neophyte
+necroille vois tehda jonkun nakosen ruumiinkuljetusvaunun tyyliin floating disc
+/wizards/neophyte/areat/castle/towerg10 Idea Devil
+Bloodstorm {fin}: eiks ois vaan paras että joka viikko kaikki liidit resettaa ja sitten ne saa ottaa takas jos vaan haluu(toteuttakaa TOI) !!!!!!!!!!!!!!!!!
+/wizards/neophyte/areat/castle/rest1 Idea Devil
+toi on kyllä turha tune ettei vasemman käden vepasta voi tulla speccua
+/wizards/neophyte/areat/farm/house Bug Ab
+Woman says: 'Thank you so much for your help! (no quest points)
+/wizards/neophyte/areat/farm/room11 Typo Granny
+in this room is a monster called "A strongly build horse is drinking water". It should read "a strongly built horse is drinking water"

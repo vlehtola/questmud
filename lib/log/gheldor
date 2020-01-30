@@ -1,0 +1,25 @@
+wizards/gheldor/events/guglah/event_ob.c line 35 :Bad argument 1 type to efun sizeof()
+wizards/gheldor/events/guglah/event_ob.c line 35 :syntax error
+wizards/gheldor/events/guglah/event_ob.c line 36 :Illegal LHS
+wizards/gheldor/events/guglah/event_ob.c line 36 :syntax error
+wizards/gheldor/events/guglah/event_ob.c line 46 :Illegal LHS
+wizards/gheldor/events/guglah/event_ob.c line 49 :Illegal LHS
+wizards/gheldor/events/guglah/event_ob.c line 35 :syntax error
+wizards/gheldor/events/guglah/event_ob.c line 36 :Illegal LHS
+wizards/gheldor/events/guglah/event_ob.c line 36 :syntax error
+wizards/gheldor/events/guglah/event_ob.c line 46 :Illegal LHS
+wizards/gheldor/events/guglah/event_ob.c line 49 :Illegal LHS
+wizards/gheldor/events/guglah/event_ob.c line 53 :syntax error
+wizards/gheldor/events/guglah/event_ob.c line 35 :syntax error
+wizards/gheldor/events/guglah/event_ob.c line 36 :Illegal LHS
+wizards/gheldor/events/guglah/event_ob.c line 36 :syntax error
+wizards/gheldor/events/guglah/event_ob.c line 46 :Illegal LHS
+wizards/gheldor/events/guglah/event_ob.c line 49 :Illegal LHS
+wizards/gheldor/events/guglah/event_ob.c line 53 :syntax error
+wizards/gheldor/eq/ghat.c line 14: Newline in string
+wizards/gheldor/eq/ghat.c line 16: syntax error
+wizards/gheldor/eq/ghat.c line 25: Illegal LHS
+wizards/gheldor/eq/ghat.c line 25: syntax error
+wizards/gheldor/eq/ghat.c line 36: Illegal LHS
+wizards/gheldor/eq/ghat.c line 40: Illegal LHS
+wizards/gheldor/workroom.c line 32: Missing arguments to simul_efun filter_array

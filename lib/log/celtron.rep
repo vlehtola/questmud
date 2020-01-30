@@ -1,0 +1,158 @@
+wizards/celtron/workroom Bug Celtron
+hordelta tippuu kadet ja jalat kriteista
+wizards/celtron/workroom Bug Celtron
+jos partyssa on 3 ja siita lahtee 1, ni party status nayttaa xp/min/mbr raten silleen etta siina partyssa ois vielakin 3 ukkoa vaikka siina on vaan 2.
+wizards/celtron/maze/6 Bug Piikki
+noi combat messut.. jos on pimeeta, ni "somene" tulee vaan normaaleis iskuis.. kaikis muis tulee se oikee targetti
+wizards/celtron/workroom Bug Celtron
+freee expaa katoo reincissa, jos reincaa yli 1g free expaa paalla
+wizards/celtron/maze/hall Idea Drude
+okay, so besides 'enter pentagram' also another entrance exists which has to do with the challenge of the pool and that maze but i could use another real hint to find that maze and it's entrance ...
+wizards/celtron/maze/spider1 Bug Uffo
+tää on kait joku bugi... mä menin tänne jonnekin missä on näitä spidereitä ja sit ku yritän west ni se sanoo spider blocks your way ja jos yritän mätkiä niitä se sanoo vaa ja toistaa sitä kokoajan "you are in the back rank and unable to attack" <- mitä meinaa? ja sitte ku heitän quit ni se sanoo että cannot quit while in combat - uffo
+wizards/celtron/workroom Bug Celtron
+tellissa ei toimaa nimi capseilla
+wizards/celtron/workroom Bug Celtron
+traitroomin descissa number -> trait
+wizards/celtron/workroom Bug Celtron
+pkill logiin vois iskee huoneenki
+wizards/celtron/maze/spider5 Idea Trooper
+peer/enhanced peer
+wizards/celtron/maze/1 Idea Trooper
+Thing that makes player hit himself should be recoded
+wizards/celtron/maze/6 Idea Trooper
+heal all spell
+wizards/celtron/sinrad/guard_hq Bug Drude
+i've just been able to solo sinrad .. okay it takes some time but it is possible .. fine that's no problem but HE SHOULD NOT BE 50M!! maybe something like at most 5M is better
+wizards/celtron/workroom Bug Celtron
+test
+wizards/celtron/workroom Bug Celtron
+test2
+wizards/celtron/workroom Bug Celtron
+testaus
+wizards/celtron/workroom Bug Celtron
+Ab {fin}: ku tossa lukee etta has not accepted reinc from you.
+wizards/celtron/workroom Bug Celtron
+Ab {fin}: silti reincaa
+wizards/celtron/workroom Bug Celtron
+khaland reinc != player reinc ?!  remove_ghost(0,.. ) syynä?
+wizards/celtron/workroom Bug Celtron
+snoopesto masteriin
+wizards/celtron/workroom Bug Celtron
+ept loppu, attacker_ob, monsu ei viela alottanu, pitais stoppaa fightti.
+wizards/celtron/maze/spider6 Idea Trooper
+aanestys koppi tanne..... vois aanestaa jotai tyhmia asioita
+wizards/celtron/maze/spider6 Idea Trooper
+ekuja jotka antaa lightia... tai infraa
+wizards/celtron/maze/necro/7 Bug Drude
+man .. this is incredible .. in a party we needed about 3 hours to kill this hriak guy here ... mainly because he heals so fast .. and then he's worth only 4.5M ?? more like 6M i would say!
+wizards/celtron/maze/spider3 Bug Drude
+here after killing three spiders I got: Dark shape of Mutilated head of A brown cave spider, Dark shape of A huge pool of blood covering the ground, Dark shape of A right leg and Dark shape of A small amount of blood lying on the ground
+wizards/celtron/maze/spider2 Bug Drude
+here four mobs: A dark figure of A black cave spider
+wizards/celtron/maze/spider2 Bug Drude
+ah, okay someone changed A on my keyboard :(*
+wizards/celtron/maze/spider2 Bug Drude
+and he changed it from a to b :(
+wizards/celtron/maze/6 Idea Trooper
+notebookki
+wizards/celtron/workroom Bug Celtron
+kuolleena tulee expaa jos on partyssa ja muut tekee
+wizards/celtron/maze/6 Idea Trooper
+peer.....
+wizards/celtron/maze/8 Idea Trooper
+sana kirja... dictionary
+wizards/celtron/sinrad/guard_hq Bug Drude
+i think i've found a bug with sinrad .. if you stun him then he stops fighting for a very long time .. so he doesn't seem to recover from stun
+wizards/celtron/maze/6 Idea Trooper
+Make this mud as good as bat and as hard as bat... :P
+wizards/celtron/workroom Idea Celtron
+huoneisiin set_water(1-5) komento.. 1 vähän kostea, 5 täynnä vettä - jos on liikaa vettä ei voi camppaa, jotain muutaki vaikutusta
+wizards/celtron/maze/spider3 Bug Piikki
+jotenki battle bugaa.. välillä ku tappelee kahta monsua vastaan ja toinen kuolee ni toinen lopettaa lyömisen
+wizards/celtron/maze/spider2 Bug Zapda
+& abuse & coTM
+wizards/celtron/maze/6 Bug Dooyee
+lantern
+wizards/celtron/maze/spider3 Idea Dooyee
+pitäs pystyy scannaamaan jokasta monsua jonka kanssa tappelee. esim scan all
+wizards/celtron/maze/spider6 Idea Trooper
+moving mirrors :P
+wizards/celtron/field/plains#4307 Idea Tekari
+make hpregen more dependant on eq
+/wizards/celtron/maze/spider1 Idea Trooper
+inmud komento jolla vois värjätä tekstejä niin et ne näkyis itelle sillä värin... vois esim nimiä värjätä jnejne
+/wizards/celtron/maze/spider3 Typo Trooper
+on
+/wizards/celtron/maze/spider1 Idea Trooper
+... 10 more command slots? plz :)
+/wizards/celtron/workroom Idea Celtron
+optional fumble effect: spmax is reduced for some time.
+/wizards/celtron/maze/spider2 Idea Dar
+isompi expbonus ku o yli 30 pelaajaa
+/wizards/celtron/maze/spider3 Idea Rag
+invoke ethereal mana should work all the time to save sp's
+/wizards/celtron/maze/spider1 Idea Jenny
+Party reset command and Alko to city
+/wizards/celtron/workroom Typo Celtron
+maked -> made
+/wizards/celtron/workroom Bug Celtron
+130.233.26.60
+/wizards/celtron/workroom Bug Celtron
+Tekari tells you 'heavy weight antaa sensitivee'
+/wizards/celtron/workroom Idea Celtron
+00:43 Torspo <arch>: Toi ois rok jos niille vois antaa kaikki rahansa niin ne laskis menee! Sit vois abusaa niin ettei kanna rahnaa mukan.
+/wizards/celtron/workroom Idea Celtron
+00:44 Celtron <arch>: tai silleen, että jos ei oo n rahaa mukana ni sitten ne hyökkää enivei
+/wizards/celtron/maze/spider7 Idea Trooper
+figuille joku ... taistelun aloitus skilli, ei vois käyttää kuin taistelun alus
+/wizards/celtron/maze/spider5 Idea Trooper
+Korjatkaas toi clan kill ja klaanit yleensä... ei oo oikee ideaa tehä niit ku ei toimi :P nyt niitä oiski jo useampi ni vois jotai tappaakki.. ja creation cost vakioksi... 100-200k
+/wizards/celtron/maze/spider4 Idea Jenny
+party forcefollow command
+/wizards/celtron/maze/spider2 Idea Trooper
+Bleedistä jotai hyötyä, siihen semmonen et vois todella vuotaa se toinen kuivii.. ei se täl hetkel tee mitää :P pari damagee vaa mut jos tekis ees ... n. 30damaa tai jopa enemmä, tai sit pitäs bandages skillil parantaa se, rangereista vois vaikka saada sen
+/wizards/celtron/maze/spider4 Idea Jenny
+lol and laf emote
+/wizards/celtron/sinrad/guard_hq Typo Tekari
+should read: dug in rockmade building.
+/wizards/celtron/field/plains#8213 Bug Girion
+I get 'You are feeling hungry' even tho' I eat all corpses
+/wizards/celtron/field/plains#5690 Idea James
+eating corpses could remove hunger
+/wizards/celtron/field/plains#5690 Idea James
+orcs could see in the dark as they normally do
+/wizards/celtron/cemetary/grave#1651 Bug Gorth
+undeadit
+/wizards/celtron/cemetary/grave#1651 Bug Gorth
+ehe ;)
+/wizards/celtron/cemetary/grave#2172 Bug Merak
+wraith does no specials, lich starts new spell b4 prev casting is completed
+/wizards/celtron/cemetary/grave#2172 Bug Merak
+horde cannot leave necromancer guild area(cemetary)
+/wizards/celtron/cemetary/grass#2435 Bug Merak
+ignore that chaincast.. lichs spells just wont do dam
+/wizards/celtron/cemetary/grass#2435 Bug Merak
+horde doesn't protect against aggro mobs
+/wizards/celtron/cemetary/grass#1395 Bug Hemies
+My horde refuses to get out from this graveyard. Fix it.
+/wizards/celtron/cemetary/grass#1395 Bug Hemies
+Monsters also start hitting me from behind the Horde if I've casted an offensive spell.
+/wizards/celtron/workroom Bug Celtron
+horde follows player to the hell. necroguild needs more helpfiles also
+/wizards/celtron/workroom Bug Celtron
+necrohorde ei tule mukana ambush huoneeseen
+/wizards/celtron/maze/necro/6 Bug Celes
+Hriak's ghosts
+/wizards/celtron/maze/necro/6 Bug Celes
+Hriak's ghosts has little typo... A ghost appears from nowhere.-> feed ghost with sword -> You throw sword towards the ghost and they both disappear.... what both? there were only 1 ghost in room
+/wizards/celtron/maze/4 Bug Jenny
+aggr mobs dont attack invis player when he turns visible in room
+/wizards/celtron/maze/necro/6 Idea Jenny
+replenish sp spell
+/wizards/celtron/field/plains#16123 Bug Cedar
+Suddenly you can see through Jenny's eyes -> You are not powerful enough to look through jenny's eyes.
+/wizards/celtron/maze/necro/6 Idea Trooper
+endurance vois laskee joidenki skillien sp costia, esim create scrollin ja scribblen, ja muidenki skillien mitkä vie manaa, ni siitä ois hyötyä maageillekki
+/wizards/celtron/workroom Bug Celtron
+bug bugs

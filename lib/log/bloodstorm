@@ -1,0 +1,11 @@
+wizards/bloodstorm/eval_file.c line 2: Undefined function 'move_player'
+wizards/bloodstorm/eval_file.c line 2: Bad argument number 1 to '-': "object "
+wizards/bloodstorm/eval_file.c line 2: Bad argument 1 type to efun read_file()
+wizards/bloodstorm/eval_file.c line 2: Bad argument 1 type to efun read_file()
+wizards/bloodstorm/eval_file.c line 2: Undefined function 'run'
+wizards/bloodstorm/eval_file.c line 2: Undefined function 'event_activate'
+wizards/bloodstorm/eval_file.c line 2: Undefined function 'run_event'
+wizards/bloodstorm/eval_file.c line 2: Undefined function 'run_event'
+wizards/bloodstorm/eval_file.c line 2: Bad argument 1 type to efun read_file()
+wizards/bloodstorm/eval_file.c line 2: Too many arguments to write
+wizards/bloodstorm/eval_file.c line 2: Bad argument 1 type to efun read_file()

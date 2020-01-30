@@ -1,0 +1,952 @@
+Mon Dec  8 22:51:15 2003 A sturdy looking jailguard(strong) (/wizards/jenny/city/guards/jailguard#196, 100) killed by Cyborn (90) 
+wizards/jenny/mainstr5.c line 3 :syntax error
+wizards/jenny/eval_file.c line 2 :Undefined function ed_start
+wizards/jenny/eval_file.c line 2 :Undefined function ed_start
+wizards/jenny/eval_file.c line 2 :Undefined function thisplayer
+wizards/jenny/eval_file.c line 2 :syntax error
+wizards/jenny/eval_file.c line 2 :syntax error
+wizards/jenny/eval_file.c line 2 :Too many arguments to this_player
+wizards/jenny/eval_file.c line 2 :Too many arguments to this_player
+wizards/jenny/eval_file.c line 2 :syntax error
+wizards/jenny/eval_file.c line 2 :syntax error
+wizards/jenny/eval_file.c line 2 :syntax error
+wizards/jenny/eval_file.c line 2 :Too many arguments to this_player
+wizards/jenny/eval_file.c line 2 :Too many arguments to this_player
+wizards/jenny/eval_file.c line 2 :Variable axes not declared !
+wizards/jenny/eval_file.c line 2 :syntax error
+wizards/jenny/eval_file.c line 2 :syntax error
+wizards/jenny/huane.c line 3 :Illegal character (hex 17) ''
+wizards/jenny/huane.c line 3 :syntax error
+wizards/jenny/huane.c line 8 :syntax error
+wizards/jenny/huane.c line 7 :syntax error
+wizards/jenny/huane.c line 5 :syntax error
+wizards/jenny/huane.c line 6 :Variable set_long not declared !
+wizards/jenny/huane.c line 7 :syntax error
+wizards/jenny/huane.c line 5 :Variable set_short not declared !
+wizards/jenny/huane.c line 6 :Variable set_long not declared !
+wizards/jenny/eval_file.c line 2 :syntax error
+wizards/jenny/eval_file.c line 2 :syntax error
+wizards/jenny/eval_file.c line 2 :syntax error
+wizards/jenny/joululakki.c line 23 :syntax error
+wizards/jenny/joululakki.c line 23 :syntax error
+wizards/jenny/joululakki.c line 16 :Newline in string
+wizards/jenny/joululakki.c line 17 :syntax error
+wizards/jenny/eval_file.c line 2 :Variable head not declared !
+wizards/jenny/eval_file.c line 2 :Variable head not declared !
+wizards/jenny/eval_file.c line 2 :Variable head not declared !
+wizards/jenny/eval_file.c line 2 :Variable slots not declared !
+wizards/jenny/eval_file.c line 2 :Variable slot_head not declared !
+wizards/jenny/eval_file.c line 2 :syntax error
+wizards/jenny/events/battle/master.c line 14 :syntax error
+wizards/jenny/eval_file.c line 2 :syntax error
+wizards/jenny/events/battle/master.c line 30 :syntax error
+wizards/jenny/events/battle/master.c line 33 :syntax error
+wizards/jenny/events/battle/master.c line 33 :syntax error
+wizards/jenny/events/battle/master.c line 33 :syntax error
+wizards/jenny/events/battle/master.c line 33 :syntax error
+wizards/jenny/events/battle/master.c line 33 :syntax error
+wizards/jenny/events/battle/master.c line 33 :syntax error
+wizards/jenny/events/battle/master.c line 1 :Unrecognized inheritance modifier qualifier
+wizards/jenny/events/battle/master.c line 1 :Unrecognized inheritance modifier qualifier
+wizards/jenny/events/battle/master.c line 35 :syntax error
+wizards/jenny/events/battle/master.c line 2 :syntax error
+wizards/jenny/events/battle/master.c line 33 :syntax error
+wizards/jenny/events/battle/master.c line 35 :syntax error
+wizards/jenny/events/battle/master.c line 46 :syntax error
+wizards/jenny/events/battle/master.c line 52 :Illegal character (hex 5c) '\'
+wizards/jenny/events/battle/master.c line 52 :syntax error
+wizards/jenny/events/battle/master.c line 52 :Newline in string
+wizards/jenny/events/battle/master.c line 54 :Illegal LHS
+wizards/jenny/events/battle/master.c line 54 :syntax error
+wizards/jenny/events/battle/master.c line 55 :Illegal LHS
+wizards/jenny/eval_file.c line 2 :syntax error
+wizards/jenny/eval_file.c line 2 :syntax error
+wizards/jenny/eval_file.c line 2 :syntax error
+wizards/jenny/events/battle/entrance.c line 15 :function not defined by inheritance as specified
+wizards/jenny/events/battle/event_ob.c line 19 :syntax error
+wizards/jenny/events/battle/event_ob.c line 22 :Variable dead not declared !
+wizards/jenny/events/battle/event_ob.c line 24 :Variable winner not declared !
+wizards/jenny/events/battle/event_ob.c line 32 :Variable dead not declared !
+wizards/jenny/events/battle/event_ob.c line 34 :Variable dead not declared !
+wizards/jenny/eval_file.c line 2 :Newline in string
+wizards/jenny/eval_file.c line 3 :syntax error
+wizards/jenny/events/battle/event_ob.c line 23 :Variable winner not declared !
+wizards/jenny/events/battle/event_ob.c line 31 :Variable dead not declared !
+wizards/jenny/eval_file.c line 2 :syntax error
+wizards/jenny/eval_file.c line 2 :syntax error
+wizards/jenny/eval_file.c line 2 :Newline in string
+wizards/jenny/eval_file.c line 2 :syntax error
+wizards/jenny/eval_file.c line 2 :syntax error
+wizards/jenny/eval_file.c line 2 :Variable fire not declared !
+wizards/jenny/_resists.c line 6 :syntax error
+wizards/jenny/_resists.c line 6 :syntax error
+wizards/jenny/_resists.c line 6 :syntax error
+wizards/jenny/_resists.c line 15 :Variable i not declared !
+wizards/jenny/_resists.c line 20 :syntax error
+wizards/jenny/_resists.c line 20 :syntax error
+wizards/jenny/_resists.c line 20 :syntax error
+wizards/jenny/_resists.c line 20 :syntax error
+wizards/jenny/_resists.c line 20 :syntax error
+Tue Dec 16 18:01:36 2003 Happy looking lord called Gorim(strong) (/wizards/jenny/linnake/mosut/gorim#17819, 69) killed by Bloodstorm (180) 
+wizards/jenny/eval_file.c line 2 :syntax error
+wizards/jenny/eval_file.c line 2 :syntax error
+wizards/jenny/eval_file.c line 2 :Newline in string
+wizards/jenny/eval_file.c line 3 :syntax error
+wizards/jenny/eval_file.c line 2 :Newline in string
+wizards/jenny/eval_file.c line 3 :syntax error
+wizards/jenny/eval_file.c line 2 :Undefined function query_number
+wizards/jenny/eval_file.c line 2 :syntax error
+wizards/jenny/hriak/maze/monsters/test.c line 71 :Variable str not declared !
+wizards/jenny/hriak/maze/monsters/test.c line 71 :syntax error
+wizards/jenny/hriak/maze/monsters/test.c line 75 :Variable str not declared !
+wizards/jenny/hriak/maze/monsters/test.c line 75 :Variable tmp not declared !
+wizards/jenny/hriak/maze/monsters/test.c line 75 :Variable tmp2 not declared !
+wizards/jenny/hriak/maze/monsters/test.c line 76 :Variable ob not declared !
+wizards/jenny/eval_file.c line 2 :Variable read not declared !
+wizards/jenny/eval_file.c line 2 :syntax error
+wizards/jenny/eval_file.c line 2 :syntax error
+wizards/jenny/_worth.c line 36 :Variable worthi_jarkevasti not declared !
+wizards/jenny/_worth.c line 36 :Variable worthi_jarkevasti not declared !
+wizards/jenny/_worth.c line 36 :Variable worthi_jarkevasti not declared !
+wizards/jenny/_worth.c line 36 :Variable worthi not declared !
+wizards/jenny/dar_amu.c line 7 :Variable OFF not declared !
+wizards/jenny/dar_amu.c line 17 :syntax error
+wizards/jenny/eval_file.c line 2 :Variable d not declared !
+wizards/jenny/eval_file.c line 2 :syntax error
+wizards/jenny/eval_file.c line 2 :Variable last not declared !
+wizards/jenny/eval_file.c line 2 :syntax error
+wizards/jenny/kepakko.c line 1 :syntax error
+wizards/jenny/kepakko.c line 2 :Illegal character (hex 18) ''
+wizards/jenny/kepakko.c line 2 :syntax error
+wizards/jenny/kepakko.c line 2 :Unrecognized inheritance modifier qualifier
+wizards/jenny/kepakko.c line 2 :Unrecognized inheritance modifier qualifier
+wizards/jenny/kepakko.c line 2 :syntax error
+wizards/jenny/eval_file.c line 2 :syntax error
+wizards/jenny/eval_file.c line 2 :syntax error
+wizards/jenny/armoury.c line 65 :syntax error
+wizards/jenny/armoury.c line 66 :Illegal LHS
+wizards/jenny/armoury.c line 66 :syntax error
+wizards/jenny/armoury.c line 72 :Illegal LHS
+wizards/jenny/armoury.c line 72 :syntax error
+wizards/jenny/armoury.c line 65 :syntax error
+wizards/jenny/armoury.c line 66 :Illegal LHS
+wizards/jenny/armoury.c line 66 :syntax error
+wizards/jenny/armoury.c line 72 :Illegal LHS
+wizards/jenny/armoury.c line 72 :syntax error
+wizards/jenny/armoury.c line 65 :syntax error
+wizards/jenny/armoury.c line 66 :Illegal LHS
+wizards/jenny/armoury.c line 66 :syntax error
+wizards/jenny/armoury.c line 72 :Illegal LHS
+wizards/jenny/armoury.c line 72 :syntax error
+wizards/jenny/eval_file.c line 2 :Variable cs not declared !
+Sun Feb  1 02:28:14 2004 A mysterious looking man(strong) (/wizards/jenny/gnael/mosut/man, 53) killed by Celes (160) 
+Sun Feb  1 02:41:10 2004 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 25) killed by Celes (160) 
+Sun Feb  1 03:05:36 2004 Beledor Blodimskin, owner of the mansion(strong) (/wizards/jenny/gnael/mosut/beledor#6376, 49) killed by Celes (160) 
+Sun Feb  1 03:59:37 2004 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#8073, 57) killed by Celes (160) 
+wizards/jenny/adept_cleric.c line 154 :Newline in string
+wizards/jenny/adept_cleric.c line 155 :syntax error
+wizards/jenny/adept_cleric.c line 157 :Newline in string
+wizards/jenny/adept_cleric.c line 158 :syntax error
+wizards/jenny/adept_cleric.c line 160 :Newline in string
+wizards/jenny/adept_cleric.c line 161 :syntax error
+wizards/jenny/events/battle/master.c line 34 :Illegal character (hex 10) ''
+wizards/jenny/events/battle/master.c line 34 :syntax error
+wizards/jenny/events/battle/master.c line 39 :syntax error
+wizards/jenny/events/battle/master.c line 54 :Illegal LHS
+wizards/jenny/events/battle/master.c line 54 :syntax error
+wizards/jenny/events/battle/master.c line 55 :Illegal LHS
+wizards/jenny/events/battle/event_ob.c line 23 :Variable winner not declared !
+wizards/jenny/events/battle/event_ob.c line 31 :Variable dead not declared !
+wizards/jenny/appr_cleric.c line 42 :syntax error
+Thu Feb 26 20:49:50 2004 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 26) killed by Jenny (154) 
+Mon Mar  1 13:50:24 2004 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#12481, 57) killed by Jenny (163) 
+Thu Mar  4 01:31:31 2004 Dreia, the queen of Roxen(strong) (/wizards/jenny/linnake/mosut/queen#563, 61) killed by Bloodstorm (176) 
+Thu Mar  4 02:39:09 2004 August IV, the king of Roxen(strong) (/wizards/jenny/linnake/mosut/poika_august#556, 78) killed by Jenny (175) 
+Thu Mar  4 02:46:39 2004 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#4114, 57) killed by Bloodstorm (176) 
+Thu Mar  4 05:31:18 2004 Gorgola, The mighty chief of bandits(strong) (/wizards/jenny/events/robbers/gorgola#1040, 91) killed by Jenny (175) 
+Fri Mar  5 01:35:53 2004 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#496, 57) killed by Jenny (185) 
+Fri Mar  5 04:06:26 2004 Dreia, the queen of Roxen(strong) (/wizards/jenny/linnake/mosut/queen#558, 69) killed by Jenny (185) 
+Sat Mar  6 01:26:01 2004 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#783, 57) killed by Bloodstorm (176) 
+Sun Mar  7 16:10:00 2004 Dreia, the queen of Roxen(strong) (/wizards/jenny/linnake/mosut/queen#27031, 78) killed by Jenny (186) 
+Sun Mar  7 17:09:46 2004 August IV, the king of Roxen(strong) (/wizards/jenny/linnake/mosut/poika_august#27024, 92) killed by Jenny (186) 
+Wed Mar 10 00:19:52 2004 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 19) killed by Trooper (145) 
+Fri Mar 12 20:10:03 2004 Dreia, the queen of Roxen(strong) (/wizards/jenny/linnake/mosut/queen#59146, 70) killed by Bloodstorm (200) 
+Sat Mar 13 22:31:42 2004 Durand the pacifist is here, moaning in his misery(strong) (/wizards/jenny/linnake/mosut/durand#821, 81) killed by Jenny (211) 
+Sat Mar 13 23:03:44 2004 Lucius Dagonus, oldest of Dagonus brothers(strong) (/wizards/jenny/linnake/mosut/lucius#77790, 82) killed by Jenny (211) 
+Sat Mar 13 23:12:24 2004 Happy looking lord called Gorim(strong) (/wizards/jenny/linnake/mosut/gorim#1008, 68) killed by Jenny (211) 
+Sun Mar 14 14:03:51 2004 Beledor Blodimskin, owner of the mansion(strong) (/wizards/jenny/gnael/mosut/beledor#33348, 43) killed by Trooper (205) 
+Sun Mar 14 23:17:55 2004 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#34746, 57) killed by Jenny (219) 
+Sun Mar 14 23:23:33 2004 Durand the pacifist is here, moaning in his misery(strong) (/wizards/jenny/linnake/mosut/durand#481, 81) killed by Jenny (219) 
+Mon Mar 15 22:42:33 2004 August IV, the king of Roxen(strong) (/wizards/jenny/linnake/mosut/poika_august#2121, 94) killed by Jenny (219) 
+Tue Mar 16 00:52:56 2004 Durand the pacifist is here, moaning in his misery(strong) (/wizards/jenny/linnake/mosut/durand#2150, 86) killed by Jenny (219) 
+Tue Mar 16 14:46:12 2004 Alconte, the legendary warrior(strong) (/wizards/jenny/linnake/mosut/alconte#10887, 83) killed by Jenny (219) 
+Tue Mar 16 18:42:00 2004 Dreia, the queen of Roxen(strong) (/wizards/jenny/linnake/mosut/queen#37414, 72) killed by Trooper (209) 
+Tue Mar 16 23:23:33 2004 Lucius Dagonus, oldest of Dagonus brothers(strong) (/wizards/jenny/linnake/mosut/lucius#59179, 81) killed by Jenny (220) 
+Wed Mar 17 02:47:40 2004 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#1255, 57) killed by Jenny (220) 
+Mon Mar 22 16:54:24 2004 Dreia, the queen of Roxen(strong) (/wizards/jenny/linnake/mosut/queen#17246, 71) killed by Jenny (222) 
+Mon Mar 22 17:10:22 2004 August IV, the king of Roxen(strong) (/wizards/jenny/linnake/mosut/poika_august#17240, 94) killed by Jenny (222) 
+Mon Mar 22 18:42:10 2004 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#15286, 57) killed by Jenny (222) 
+Mon Mar 22 19:22:19 2004 Rewalah, Captain of the jailguards(strong) (/wizards/jenny/linnake/mosut/rewalah#30974, 88) killed by Jenny (222) 
+Thu Mar 25 23:58:24 2004 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 28) killed by Bloodstorm (232) 
+Fri Mar 26 18:11:22 2004 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 17) killed by Bloodstorm (233) 
+Fri Mar 26 18:47:00 2004 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 23) killed by Bloodstorm (233) 
+Fri Mar 26 22:11:07 2004 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 19) killed by Bloodstorm (233) 
+Fri Mar 26 22:27:33 2004 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 29) killed by Bloodstorm (234) 
+Fri Mar 26 22:43:07 2004 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 19) killed by Bloodstorm (234) 
+Fri Mar 26 22:55:13 2004 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 15) killed by Bloodstorm (234) 
+Sat Mar 27 17:55:03 2004 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 23) killed by Bloodstorm (234) 
+Sat Mar 27 18:15:30 2004 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 34) killed by Bloodstorm (234) 
+Sat Mar 27 18:36:15 2004 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 29) killed by Bloodstorm (234) 
+Sat Mar 27 18:47:01 2004 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 22) killed by Bloodstorm (234) 
+Sun Mar 28 17:12:02 2004 A strange looking woman is boiling something(strong) (/wizards/jenny/mehta/mosut/woman#27674, 40) killed by Nightscale (127) 
+Sun Mar 28 20:14:06 2004 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 21) killed by Bloodstorm (234) 
+Sun Mar 28 21:27:44 2004 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 16) killed by Bloodstorm (234) 
+Sun Mar 28 21:39:04 2004 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 17) killed by Bloodstorm (234) 
+Sun Mar 28 21:53:41 2004 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 15) killed by Bloodstorm (234) 
+Sun Mar 28 22:11:13 2004 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 22) killed by Bloodstorm (234) 
+Sun Mar 28 22:24:29 2004 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 25) killed by Bloodstorm (234) 
+Sun Mar 28 22:38:00 2004 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 15) killed by Bloodstorm (234) 
+Mon Mar 29 22:05:59 2004 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 19) killed by Aleksi (112) 
+Tue Mar 30 18:21:29 2004 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 28) killed by Bloodstorm (234) 
+Tue Mar 30 18:26:51 2004 Beledor Blodimskin, owner of the mansion(strong) (/wizards/jenny/gnael/mosut/beledor#32558, 48) killed by Celes (143) 
+Tue Mar 30 18:47:39 2004 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 18) killed by Bloodstorm (234) 
+Wed Mar 31 14:39:19 2004 Feleodor Brogotuknik, the captain of guards(strong) (/wizards/jenny/gnael/mosut/feleodor#15371, 68) killed by Kaappi (157) 
+Sat Apr  3 23:10:35 2004 Durand the pacifist is here, moaning in his misery(strong) (/wizards/jenny/linnake/mosut/durand#3594, 93) killed by Jenny (249) 
+Sun Apr  4 00:31:42 2004 Lucius Dagonus, oldest of Dagonus brothers(strong) (/wizards/jenny/linnake/mosut/lucius#3644, 86) killed by Bloodstorm (243) 
+Sun Apr  4 03:42:21 2004 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 16) killed by Bloodstorm (243) 
+Sun May  2 20:56:10 2004 A mysterious looking man(strong) (/wizards/jenny/gnael/mosut/man, 53) killed by Reaper (161) 
+Sat May 15 16:54:26 2004 Happy looking lord called Gorim(strong) (/wizards/jenny/linnake/mosut/gorim#26323, 57) killed by Reaper (193) 
+Sun May 16 00:06:51 2004 Durand the pacifist is here, moaning in his misery(strong) (/wizards/jenny/linnake/mosut/durand#40720, 87) killed by Reaper (195) 
+Fri May 21 12:59:21 2004 Clubbah, a HUGE cave troll(strong) (/wizards/jenny/mehta/mosut/troll#16954, 65) killed by Reaper (205) 
+Sat May 22 18:24:45 2004 A mysterious looking man(strong) (/wizards/jenny/gnael/mosut/man, 53) killed by Bloodstorm (194) 
+Sat May 22 18:37:35 2004 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#27817, 63) killed by Reaper (205) 
+Sat May 22 18:45:02 2004 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#28359, 72) killed by Reaper (205) 
+Sat May 22 18:55:50 2004 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#28793, 75) killed by Reaper (205) 
+Sat May 22 20:43:23 2004 Mondasa the Half-God, The Bane Of The World(strong) (/wizards/jenny/gnael/mosut/mondasa#29426, 103) killed by Reaper (205) 
+Sun May 30 15:07:33 2004 Durand the pacifist is here, moaning in his misery(strong) (/wizards/jenny/linnake/mosut/durand#21447, 86) killed by Reaper (253) 
+Sun May 30 15:35:34 2004 Happy looking lord called Gorim(strong) (/wizards/jenny/linnake/mosut/gorim#26127, 58) killed by Reaper (253) 
+Mon May 31 17:43:49 2004 Clubbah, a HUGE cave troll(strong) (/wizards/jenny/mehta/mosut/troll#26323, 65) killed by Reaper (255) 
+Wed Jun  2 14:10:16 2004 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 17) killed by Aleksi (146) 
+Thu Jun 10 14:18:35 2004 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 23) killed by Aleksi (154) 
+Wed Jul  7 14:15:23 2004 A strange looking woman is boiling something(strong) (/wizards/jenny/mehta/mosut/woman#3709, 40) killed by Glyco (131) 
+Wed Jul  7 17:23:53 2004 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 16) killed by Bloodstorm (295) 
+Sat Jul 10 22:16:51 2004 A mysterious looking man(strong) (/wizards/jenny/gnael/mosut/man, 53) killed by Reaper (346) 
+Wed Jul 14 18:23:18 2004 Lucius Dagonus, oldest of Dagonus brothers(strong) (/wizards/jenny/linnake/mosut/lucius#12720, 85) killed by Reaper (346) 
+Wed Jul 14 20:16:42 2004 Alconte, the legendary warrior(strong) (/wizards/jenny/linnake/mosut/alconte#21412, 80) killed by Reaper (346) 
+Sun Jul 18 19:02:00 2004 Feleodor Brogotuknik, the captain of guards(strong) (/wizards/jenny/gnael/mosut/feleodor#8908, 68) killed by Reaper (347) 
+Sun Jul 18 19:14:30 2004 A mysterious looking man(strong) (/wizards/jenny/gnael/mosut/man, 54) killed by Reaper (347) 
+Sun Jul 18 19:43:50 2004 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#9755, 60) killed by Reaper (347) 
+Sun Jul 18 20:37:04 2004 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#10127, 71) killed by Reaper (347) 
+Sun Jul 18 21:00:11 2004 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#10972, 81) killed by Reaper (347) 
+Mon Jul 19 20:50:06 2004 A mysterious looking man(strong) (/wizards/jenny/gnael/mosut/man, 51) killed by Reaper (347) 
+Mon Jul 19 21:14:52 2004 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#26078, 64) killed by Reaper (347) 
+Mon Jul 19 21:33:18 2004 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#26977, 71) killed by Reaper (347) 
+Mon Jul 19 22:24:39 2004 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#27691, 78) killed by Reaper (347) 
+Thu Jul 22 13:16:26 2004 A mysterious looking man(strong) (/wizards/jenny/gnael/mosut/man, 59) killed by Reaper (347) 
+Thu Jul 22 13:34:16 2004 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#11491, 61) killed by Reaper (347) 
+Thu Jul 22 13:49:41 2004 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#12115, 77) killed by Reaper (347) 
+Thu Jul 22 14:44:04 2004 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#13125, 76) killed by Reaper (347) 
+Thu Jul 22 15:07:19 2004 Mondasa the Half-God, The Bane Of The World(strong) (/wizards/jenny/gnael/mosut/mondasa#14309, 103) killed by Reaper (347) 
+Thu Jul 22 17:38:36 2004 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 15) killed by Granny (68) 
+Sat Jul 24 22:02:16 2004 Happy looking lord called Gorim(strong) (/wizards/jenny/linnake/mosut/gorim#20959, 60) killed by Reaper (349) 
+Sun Aug  1 20:29:32 2004 A strange looking woman is boiling something(strong) (/wizards/jenny/mehta/mosut/woman#7062, 40) killed by Stryfe (126) 
+Thu Aug  5 09:09:41 2004 Happy looking lord called Gorim(strong) (/wizards/jenny/linnake/mosut/gorim#4450, 68) killed by Jin (171) 
+wizards/jenny/city/jail/jailroom.c line 171: Missing arguments to simul_efun log_file
+wizards/jenny/city/jail/jailroom.c line 171: Missing arguments to simul_efun log_file
+wizards/jenny/city/jail/jailroom.c line 171: Missing arguments to simul_efun log_file
+wizards/jenny/city/jail/jailroom.c line 171: Missing arguments to simul_efun log_file
+wizards/jenny/city/jail/jailroom.c line 171: Missing arguments to simul_efun log_file
+wizards/jenny/city/jail/jailroom.c line 171: Missing arguments to simul_efun log_file
+wizards/jenny/city/jail/jailroom.c line 171: Missing arguments to simul_efun log_file
+wizards/jenny/city/jail/jailroom.c line 171: Missing arguments to simul_efun log_file
+wizards/jenny/city/jail/jailroom.c line 171: Missing arguments to simul_efun log_file
+wizards/jenny/city/jail/jailroom.c line 171: Missing arguments to simul_efun log_file
+wizards/jenny/city/jail/jailroom.c line 171: Missing arguments to simul_efun log_file
+wizards/jenny/city/jail/jailroom.c line 171: Missing arguments to simul_efun log_file
+wizards/jenny/city/jail/jailroom.c line 171: Missing arguments to simul_efun log_file
+wizards/jenny/city/jail/jailroom.c line 171: Missing arguments to simul_efun log_file
+wizards/jenny/city/jail/jailroom.c line 171: Missing arguments to simul_efun log_file
+wizards/jenny/city/jail/jailroom.c line 171: Missing arguments to simul_efun log_file
+wizards/jenny/city/jail/jailroom.c line 171: Missing arguments to simul_efun log_file
+wizards/jenny/city/jail/jailroom.c line 171: Missing arguments to simul_efun log_file
+wizards/jenny/city/jail/jailroom.c line 171: Missing arguments to simul_efun log_file
+wizards/jenny/city/jail/jailroom.c line 171: Missing arguments to simul_efun log_file
+wizards/jenny/city/jail/jailroom.c line 171: Missing arguments to simul_efun log_file
+wizards/jenny/city/jail/jailroom.c line 171: Missing arguments to simul_efun log_file
+wizards/jenny/city/jail/jailroom.c line 171: Missing arguments to simul_efun log_file
+Mon Sep 06 14:09:23 2004 Clubbah, a HUGE cave troll(strong) (/wizards/jenny/mehta/mosut/troll#11462, 65) killed by Reaper (349) 
+Wed Sep 08 22:47:19 2004 Happy looking lord called Gorim(strong) (/wizards/jenny/linnake/mosut/gorim#17585, 73) killed by Reaper (355) 
+Fri Sep 10 17:50:01 2004 Durand the pacifist is here, moaning in his misery(strong) (/wizards/jenny/linnake/mosut/durand#14733, 82) killed by Reaper (355) 
+Fri Sep 10 21:25:41 2004 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#22254, 57) killed by Reaper (355) 
+Sat Sep 11 19:25:58 2004 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#14730, 57) killed by Reaper (355) 
+Thu Sep 16 03:11:21 2004 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#46607, 57) killed by Reaper (357) 
+Thu Sep 16 03:22:28 2004 August IV, the king of Roxen(strong) (/wizards/jenny/linnake/mosut/poika_august#72658, 75) killed by Reaper (357) 
+Thu Sep 16 03:33:44 2004 Dreia, the queen of Roxen(strong) (/wizards/jenny/linnake/mosut/queen#72664, 75) killed by Reaper (357) 
+Thu Sep 16 20:33:31 2004 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 20) killed by Bloodstorm (284) 
+Thu Sep 16 20:47:56 2004 A mysterious looking man(strong) (/wizards/jenny/gnael/mosut/man, 52) killed by Bloodstorm (284) 
+Sat Sep 18 02:56:30 2004 Beledor Blodimskin, owner of the mansion(strong) (/wizards/jenny/gnael/mosut/beledor#52427, 44) killed by Elric (132) 
+Sat Sep 18 02:58:12 2004 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 15) killed by Elric (132) 
+Wed Sep 22 12:22:39 2004 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#11168, 57) killed by Reaper (361) 
+Wed Sep 22 13:05:06 2004 August IV, the king of Roxen(strong) (/wizards/jenny/linnake/mosut/poika_august#12090, 88) killed by Reaper (361) 
+Wed Sep 22 13:21:09 2004 Dreia, the queen of Roxen(strong) (/wizards/jenny/linnake/mosut/queen#12097, 81) killed by Reaper (361) 
+Wed Sep 22 13:42:55 2004 Durand the pacifist is here, moaning in his misery(strong) (/wizards/jenny/linnake/mosut/durand#17865, 93) killed by Reaper (361) 
+Wed Sep 22 14:01:12 2004 A mysterious looking man(strong) (/wizards/jenny/gnael/mosut/man, 61) killed by Reaper (361) 
+Wed Sep 22 14:14:16 2004 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#21241, 61) killed by Reaper (361) 
+Wed Sep 22 14:25:30 2004 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#21662, 93) killed by Reaper (361) 
+Wed Sep 22 14:48:15 2004 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#22385, 83) killed by Reaper (361) 
+Wed Sep 22 15:53:37 2004 Mondasa the Half-God, The Bane Of The World(strong) (/wizards/jenny/gnael/mosut/mondasa#24169, 103) killed by Reaper (361) 
+Thu Sep 23 11:28:06 2004 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#5529, 57) killed by Reaper (361) 
+Thu Sep 23 11:49:46 2004 Rewalah, Captain of the jailguards(strong) (/wizards/jenny/linnake/mosut/rewalah#5765, 92) killed by Reaper (361) 
+Thu Sep 23 12:10:03 2004 Alconte, the legendary warrior(strong) (/wizards/jenny/linnake/mosut/alconte#8358, 72) killed by Reaper (361) 
+Thu Sep 23 12:30:01 2004 Clubbah, a HUGE cave troll(strong) (/wizards/jenny/mehta/mosut/troll#9993, 86) killed by Reaper (361) 
+Thu Sep 30 05:29:54 2004 A strange looking woman is boiling something(strong) (/wizards/jenny/mehta/mosut/woman#107382, 40) killed by Madk (130) 
+Fri Oct 01 05:38:15 2004 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 29) killed by Madk (130) 
+Mon Oct 04 18:19:18 2004 Clubbah, a HUGE cave troll(strong) (/wizards/jenny/mehta/mosut/troll#50660, 65) killed by Jin (217) 
+Mon Oct 04 18:37:00 2004 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#53203, 57) killed by Jin (217) 
+Tue Oct 05 19:15:16 2004 Happy looking lord called Gorim(strong) (/wizards/jenny/linnake/mosut/gorim#54405, 61) killed by Kaappi (160) 
+Wed Oct 06 20:53:23 2004 A strange looking woman is boiling something(strong) (/wizards/jenny/mehta/mosut/woman#57534, 40) killed by Exslayer (126) 
+Fri Oct 08 19:32:55 2004 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#50173, 57) killed by Celes (177) 
+Fri Oct 08 19:55:38 2004 Rewalah, Captain of the jailguards(strong) (/wizards/jenny/linnake/mosut/rewalah#51346, 89) killed by Celes (177) 
+Sun Oct 10 23:41:52 2004 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 18) killed by Gravius (143) 
+Tue Oct 12 11:09:20 2004 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 26) killed by Madk (145) 
+Tue Oct 12 16:21:40 2004 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 21) killed by Gravius (143) 
+Tue Oct 12 16:40:19 2004 Beledor Blodimskin, owner of the mansion(strong) (/wizards/jenny/gnael/mosut/beledor#6850, 47) killed by Gravius (143) 
+Mon Oct 18 22:38:51 2004 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 17) killed by Exslayer (134) 
+Tue Oct 19 20:55:44 2004 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 27) killed by Exslayer (134) 
+Sat Oct 30 15:36:08 2004 A strange looking woman is boiling something(strong) (/wizards/jenny/mehta/mosut/woman#3967, 40) killed by Gravius (126) 
+Fri Nov 19 21:27:15 2004 Clubbah, a HUGE cave troll(strong) (/wizards/jenny/mehta/mosut/troll#30311, 65) killed by Yodin (138) 
+Fri Nov 19 21:31:55 2004 A strange looking woman is boiling something(strong) (/wizards/jenny/mehta/mosut/woman#30967, 40) killed by Yodin (138) 
+Fri Nov 19 21:42:35 2004 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#31486, 57) killed by Yodin (138) 
+Sun Nov 21 10:01:18 2004 Clubbah, a HUGE cave troll(strong) (/wizards/jenny/mehta/mosut/troll#1208, 65) killed by Celes (195) 
+Wed Nov 24 11:56:21 2004 Clubbah, a HUGE cave troll(strong) (/wizards/jenny/mehta/mosut/troll#8633, 65) killed by Golthar (229) 
+Mon Nov 29 15:45:24 2004 Happy looking lord called Gorim(strong) (/wizards/jenny/linnake/mosut/gorim#20506, 52) killed by Golthar (239) 
+Tue Nov 30 15:57:01 2004 Clubbah, a HUGE cave troll(strong) (/wizards/jenny/mehta/mosut/troll#19642, 65) killed by Golthar (239) 
+Wed Dec 01 18:34:48 2004 August IV, the king of Roxen(strong) (/wizards/jenny/linnake/mosut/poika_august#17966, 77) killed by Celes (216) 
+Wed Dec 01 19:00:01 2004 Dreia, the queen of Roxen(strong) (/wizards/jenny/linnake/mosut/queen#17973, 82) killed by Celes (216) 
+Wed Dec 01 19:10:19 2004 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#8804, 57) killed by Celes (216) 
+Wed Dec 01 20:28:59 2004 Rewalah, Captain of the jailguards(strong) (/wizards/jenny/linnake/mosut/rewalah#20218, 89) killed by Celes (216) 
+Fri Dec 03 16:39:52 2004 August IV, the king of Roxen(strong) (/wizards/jenny/linnake/mosut/poika_august#9597, 77) killed by Celes (216) 
+Fri Dec 03 17:04:27 2004 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#19472, 57) killed by Celes (216) 
+Sat Dec 04 09:09:33 2004 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#748, 57) killed by Celes (216) 
+Sat Dec 04 09:54:40 2004 Rewalah, Captain of the jailguards(strong) (/wizards/jenny/linnake/mosut/rewalah#1159, 86) killed by Golthar (239) 
+Sat Dec 11 23:41:55 2004 A mysterious looking man(strong) (/wizards/jenny/gnael/mosut/man, 59) killed by Celes (217) 
+Sat Dec 11 23:52:38 2004 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 26) killed by Celes (217) 
+Sun Dec 12 00:05:22 2004 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#55857, 62) killed by Celes (218) 
+Sun Dec 12 00:11:50 2004 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#56064, 69) killed by Celes (218) 
+Sun Dec 12 00:24:35 2004 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#56249, 76) killed by Celes (218) 
+Mon Dec 13 01:57:31 2004 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 22) killed by Madk (144) 
+Tue Dec 14 04:05:33 2004 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#55951, 57) killed by Jin (241) 
+Tue Dec 14 04:46:16 2004 Happy looking lord called Gorim(strong) (/wizards/jenny/linnake/mosut/gorim#56964, 65) killed by Jin (241) 
+Wed Dec 15 02:29:54 2004 A strange looking woman is boiling something(strong) (/wizards/jenny/mehta/mosut/woman#18295, 40) killed by Madk (144) 
+Thu Dec 16 01:23:21 2004 Happy looking lord called Gorim(strong) (/wizards/jenny/linnake/mosut/gorim#45857, 58) killed by Madk (156) 
+Thu Dec 16 01:47:09 2004 Beledor Blodimskin, owner of the mansion(strong) (/wizards/jenny/gnael/mosut/beledor#47297, 43) killed by Madk (156) 
+Thu Dec 16 02:16:06 2004 Feleodor Brogotuknik, the captain of guards(strong) (/wizards/jenny/gnael/mosut/feleodor#2387, 68) killed by Madk (156) 
+Fri Dec 17 11:53:31 2004 Clubbah, a HUGE cave troll(strong) (/wizards/jenny/mehta/mosut/troll#2448, 65) killed by Golthar (243) 
+Sun Dec 19 14:11:42 2004 Durand the pacifist is here, moaning in his misery(strong) (/wizards/jenny/linnake/mosut/durand#5893, 81) killed by Golthar (243) 
+Sat Jan 01 20:55:23 2005 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 17) killed by Oaycrin (131) 
+Sat Jan 08 19:28:24 2005 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 27) killed by Golthar (256) 
+Sat Jan 08 19:41:39 2005 A mysterious looking man(strong) (/wizards/jenny/gnael/mosut/man, 57) killed by Golthar (256) 
+Sat Jan 08 19:50:31 2005 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#23601, 64) killed by Golthar (256) 
+Sat Jan 08 20:02:58 2005 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#23726, 75) killed by Golthar (256) 
+Sun Jan 09 19:25:57 2005 Feleodor Brogotuknik, the captain of guards(strong) (/wizards/jenny/gnael/mosut/feleodor#23127, 68) killed by Madk (158) 
+Wed Jan 12 19:38:03 2005 Happy looking lord called Gorim(strong) (/wizards/jenny/linnake/mosut/gorim#39673, 61) killed by Golthar (256) 
+Sat Jan 15 08:11:02 2005 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 21) killed by Madk (155) 
+Fri Jan 21 02:37:48 2005 A mysterious looking man(strong) (/wizards/jenny/gnael/mosut/man, 58) killed by Ntg (172) 
+Fri Jan 21 03:04:34 2005 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#47710, 55) killed by Madk (179) 
+Fri Jan 21 03:22:21 2005 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#47811, 74) killed by Madk (179) 
+Fri Jan 21 04:09:06 2005 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#48092, 82) killed by Madk (179) 
+Fri Jan 21 17:23:44 2005 Alconte, the legendary warrior(strong) (/wizards/jenny/linnake/mosut/alconte#2888, 75) killed by Madk (180) 
+Fri Jan 21 19:01:31 2005 Clubbah, a HUGE cave troll(strong) (/wizards/jenny/mehta/mosut/troll#20028, 65) killed by Ntg (172) 
+Mon Jan 24 18:10:55 2005 Alconte, the legendary warrior(strong) (/wizards/jenny/linnake/mosut/alconte#28962, 71) killed by Celes (228) 
+Mon Jan 24 18:27:34 2005 Durand the pacifist is here, moaning in his misery(strong) (/wizards/jenny/linnake/mosut/durand#29378, 82) killed by Celes (228) 
+Mon Jan 24 18:53:54 2005 Lucius Dagonus, oldest of Dagonus brothers(strong) (/wizards/jenny/linnake/mosut/lucius#30004, 83) killed by Celes (228) 
+Wed Jan 26 16:03:02 2005 Clubbah, a HUGE cave troll(strong) (/wizards/jenny/mehta/mosut/troll#19011, 65) killed by Golthar (257) 
+Fri Jan 28 12:29:44 2005 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 26) killed by Ntg (177) 
+Tue Feb 01 23:41:11 2005 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 26) killed by Atw (136) 
+Sun Feb 06 21:59:51 2005 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#26053, 57) killed by Kaappi (242) 
+Mon Feb 07 08:26:20 2005 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#1574, 57) killed by Kaappi (242) 
+Tue Feb 08 08:24:08 2005 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#2201, 57) killed by Kaappi (244) 
+Wed Feb 09 12:16:22 2005 A mysterious looking man(strong) (/wizards/jenny/gnael/mosut/man, 50) killed by Kaappi (247) 
+Wed Feb 09 12:44:09 2005 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#8742, 62) killed by Kaappi (247) 
+Wed Feb 09 13:45:47 2005 Clubbah, a HUGE cave troll(strong) (/wizards/jenny/mehta/mosut/troll#10591, 65) killed by Kaappi (247) 
+Thu Feb 10 09:26:18 2005 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#3372, 57) killed by Kaappi (249) 
+Fri Feb 11 18:33:00 2005 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#14139, 57) killed by Madk (122) 
+Fri Feb 11 19:16:38 2005 Rewalah, Captain of the jailguards(strong) (/wizards/jenny/linnake/mosut/rewalah#14367, 88) killed by Ntg (109) 
+Fri Feb 11 22:10:49 2005 Lucius Dagonus, oldest of Dagonus brothers(strong) (/wizards/jenny/linnake/mosut/lucius#21251, 82) killed by Kaappi (265) 
+Fri Feb 11 22:34:27 2005 Alconte, the legendary warrior(strong) (/wizards/jenny/linnake/mosut/alconte#21998, 70) killed by Kaappi (265) 
+Sat Feb 12 13:01:38 2005 Lucius Dagonus, oldest of Dagonus brothers(strong) (/wizards/jenny/linnake/mosut/lucius#1249, 77) killed by Kaappi (265) 
+Sun Feb 13 10:00:05 2005 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 26) killed by Kaappi (265) 
+Sun Feb 13 10:09:32 2005 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#3384, 55) killed by Kaappi (265) 
+Sun Feb 13 10:16:48 2005 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#3485, 76) killed by Kaappi (265) 
+Sun Feb 13 10:28:40 2005 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#3626, 77) killed by Kaappi (265) 
+Sun Feb 13 10:50:39 2005 Feleodor Brogotuknik, the captain of guards(strong) (/wizards/jenny/gnael/mosut/feleodor#3879, 90) killed by Kaappi (265) 
+Sun Feb 13 11:08:15 2005 A mysterious looking man(strong) (/wizards/jenny/gnael/mosut/man, 57) killed by Kaappi (265) 
+Sun Feb 13 11:19:45 2005 Beledor Blodimskin, owner of the mansion(strong) (/wizards/jenny/gnael/mosut/beledor#3304, 47) killed by Kaappi (265) 
+Sun Feb 13 17:06:10 2005 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#12499, 57) killed by Kaappi (265) 
+Sun Feb 13 17:46:43 2005 Rewalah, Captain of the jailguards(strong) (/wizards/jenny/linnake/mosut/rewalah#12609, 93) killed by Kaappi (265) 
+Sun Feb 13 23:26:10 2005 Clubbah, a HUGE cave troll(strong) (/wizards/jenny/mehta/mosut/troll#19140, 65) killed by Kaappi (265) 
+Thu Feb 17 12:04:48 2005 A mysterious looking man(strong) (/wizards/jenny/gnael/mosut/man, 57) killed by Golthar (278) 
+Thu Feb 17 12:21:43 2005 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#6068, 63) killed by Golthar (278) 
+Thu Feb 17 12:26:19 2005 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#6129, 70) killed by Golthar (278) 
+Thu Feb 17 12:32:03 2005 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#6212, 78) killed by Golthar (278) 
+Thu Feb 17 13:02:06 2005 Mondasa the Half-God, The Bane Of The World(strong) (/wizards/jenny/gnael/mosut/mondasa#6356, 104) killed by Golthar (278) 
+Fri Feb 18 07:54:08 2005 A mysterious looking man(strong) (/wizards/jenny/gnael/mosut/man, 52) killed by Kaappi (266) 
+Fri Feb 18 08:23:14 2005 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#1317, 64) killed by Golthar (278) 
+Fri Feb 18 08:26:56 2005 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#1420, 70) killed by Golthar (278) 
+Fri Feb 18 08:34:19 2005 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#1470, 82) killed by Golthar (278) 
+Sat Feb 19 20:53:17 2005 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#20565, 56) killed by Kaappi (267) 
+Sat Feb 19 20:59:00 2005 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#20858, 74) killed by Kaappi (267) 
+Sat Feb 19 21:08:46 2005 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#21049, 76) killed by Kaappi (267) 
+Sat Feb 19 22:32:04 2005 Mondasa the Half-God, The Bane Of The World(strong) (/wizards/jenny/gnael/mosut/mondasa#21552, 104) killed by Kaappi (267) 
+Mon Feb 21 22:38:38 2005 August IV, the king of Roxen(strong) (/wizards/jenny/linnake/mosut/poika_august#10624, 96) killed by Kaappi (267) 
+Mon Feb 21 22:45:48 2005 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#21489, 57) killed by Kaappi (267) 
+Mon Feb 21 23:19:25 2005 Rewalah, Captain of the jailguards(strong) (/wizards/jenny/linnake/mosut/rewalah#21550, 85) killed by Kaappi (267) 
+Tue Feb 22 10:32:54 2005 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#1863, 57) killed by Kaappi (268) 
+Tue Feb 22 10:37:48 2005 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#2249, 76) killed by Kaappi (268) 
+Tue Feb 22 10:48:52 2005 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#2367, 81) killed by Kaappi (268) 
+Fri Feb 25 18:52:57 2005 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#7721, 64) killed by Kaappi (271) 
+Fri Feb 25 19:10:36 2005 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#7854, 70) killed by Kaappi (271) 
+Fri Feb 25 19:30:53 2005 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#8148, 82) killed by Kaappi (271) 
+Wed Mar 02 08:34:51 2005 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#3239, 57) killed by Kaappi (280) 
+Wed Mar 02 08:39:45 2005 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#3342, 68) killed by Kaappi (280) 
+Wed Mar 02 08:47:27 2005 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#3424, 75) killed by Kaappi (280) 
+Wed Mar 02 09:24:12 2005 August IV, the king of Roxen(strong) (/wizards/jenny/linnake/mosut/poika_august#3731, 90) killed by Kaappi (280) 
+Wed Mar 02 09:34:02 2005 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#4592, 57) killed by Kaappi (280) 
+Wed Mar 02 09:55:09 2005 Dreia, the queen of Roxen(strong) (/wizards/jenny/linnake/mosut/queen#3737, 80) killed by Ntg (159) 
+Thu Mar 03 07:42:26 2005 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#1017, 57) killed by Kaappi (280) 
+Thu Mar 03 10:24:16 2005 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#2190, 63) killed by Kaappi (280) 
+Thu Mar 03 10:28:57 2005 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#2364, 70) killed by Kaappi (280) 
+Thu Mar 03 10:41:35 2005 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#2473, 84) killed by Kaappi (280) 
+Thu Mar 03 11:47:35 2005 August IV, the king of Roxen(strong) (/wizards/jenny/linnake/mosut/poika_august#921, 95) killed by Kaappi (280) 
+Fri Mar 04 21:40:25 2005 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#8971, 57) killed by Kaappi (280) 
+Fri Mar 04 22:44:44 2005 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#9572, 61) killed by Kaappi (280) 
+Fri Mar 04 22:48:20 2005 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#10040, 70) killed by Kaappi (280) 
+Fri Mar 04 23:12:01 2005 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#10094, 83) killed by Kaappi (280) 
+Fri Mar 04 23:58:46 2005 Mondasa the Half-God, The Bane Of The World(strong) (/wizards/jenny/gnael/mosut/mondasa#10616, 103) killed by Kaappi (280) 
+Sat Mar 05 00:36:51 2005 Rewalah, Captain of the jailguards(strong) (/wizards/jenny/linnake/mosut/rewalah#9070, 93) killed by Ntg (159) 
+Sat Apr 02 16:09:48 2005 A strange looking woman is boiling something(strong) (/wizards/jenny/mehta/mosut/woman#3330, 40) killed by Golthar (304) 
+Mon Jul 25 13:31:04 2005 Feleodor Brogotuknik, the captain of guards(strong) (/wizards/jenny/gnael/mosut/feleodor#5510, 68) killed by Kaappi (284) 
+Wed Aug 17 06:56:56 2005 Beledor Blodimskin, owner of the mansion(strong) (/wizards/jenny/gnael/mosut/beledor#2720, 44) killed by Kodomachi (97) 
+Wed Aug 17 06:58:06 2005 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 20) killed by Kodomachi (97) 
+Thu Aug 18 07:17:44 2005 Beledor Blodimskin, owner of the mansion(strong) (/wizards/jenny/gnael/mosut/beledor#2888, 42) killed by Kodomachi (74) 
+Thu Aug 18 10:34:05 2005 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#9425, 57) killed by Kodomachi (86) 
+Sun Sep 11 14:17:08 2005 Clubbah, a HUGE cave troll(strong) (/wizards/jenny/mehta/mosut/troll#4925, 65) killed by Ntg (200) 
+Sat Sep 17 12:47:42 2005 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 18) killed by Ntg (201) 
+Sat Sep 17 12:54:02 2005 Beledor Blodimskin, owner of the mansion(strong) (/wizards/jenny/gnael/mosut/beledor#4061, 44) killed by Ntg (201) 
+Sat Sep 17 17:00:57 2005 A strange looking woman is boiling something(strong) (/wizards/jenny/mehta/mosut/woman#9986, 40) killed by Moonshdw (140) 
+Mon Sep 19 00:53:17 2005 A strange looking woman is boiling something(strong) (/wizards/jenny/mehta/mosut/woman#17197, 40) killed by Elric (133) 
+Fri Sep 30 01:36:52 2005 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 16) killed by Moonshdw (117) 
+Mon Oct 10 17:37:50 2005 Feleodor Brogotuknik, the captain of guards(strong) (/wizards/jenny/gnael/mosut/feleodor#20617, 68) killed by Ntg (229) 
+Tue Oct 11 14:44:59 2005 A strange looking woman is boiling something(strong) (/wizards/jenny/mehta/mosut/woman#9608, 40) killed by Moonshdw (133) 
+Thu Oct 13 06:59:16 2005 A strange looking woman is boiling something(strong) (/wizards/jenny/mehta/mosut/woman#727, 40) killed by Elric (129) 
+Fri Oct 14 15:57:13 2005 Happy looking lord called Gorim(strong) (/wizards/jenny/linnake/mosut/gorim#11949, 56) killed by Moonshdw (149) 
+Sun Oct 16 23:18:22 2005 A strange looking woman is boiling something(strong) (/wizards/jenny/mehta/mosut/woman#23386, 40) killed by Moonshdw (156) 
+Tue Oct 18 00:13:20 2005 A strange looking woman is boiling something(strong) (/wizards/jenny/mehta/mosut/woman#16496, 40) killed by Elric (159) 
+Tue Oct 18 18:17:38 2005 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 28) killed by Glyco (161) 
+Thu Oct 20 03:20:54 2005 Happy looking lord called Gorim(strong) (/wizards/jenny/linnake/mosut/gorim#47928, 61) killed by Moonshdw (173) 
+Thu Oct 20 04:03:20 2005 Beledor Blodimskin, owner of the mansion(strong) (/wizards/jenny/gnael/mosut/beledor#50502, 41) killed by Chrom (142) 
+Thu Oct 20 04:04:38 2005 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 28) killed by Moonshdw (173) 
+Thu Oct 20 19:05:32 2005 Happy looking lord called Gorim(strong) (/wizards/jenny/linnake/mosut/gorim#8803, 56) killed by Moonshdw (174) 
+Sat Oct 22 22:41:20 2005 A strange looking woman is boiling something(strong) (/wizards/jenny/mehta/mosut/woman#17201, 53) killed by Moonshdw (174) 
+Mon Oct 31 20:14:57 2005 A strange looking woman is boiling something(strong) (/wizards/jenny/mehta/mosut/woman#27700, 40) killed by Elric (208) 
+Tue Nov 01 02:16:22 2005 Durand the pacifist is here, moaning in his misery(strong) (/wizards/jenny/linnake/mosut/durand#38456, 88) killed by Elric (209) 
+wizards/jenny/hriak/maze/monsters/mummy_bak.c line 3: Illegal to redefine inherited variable 'limbs'
+wizards/jenny/hriak/maze/monsters/mummy.c line 3: Illegal to redefine inherited variable 'limbs'
+wizards/jenny/events/battle/master.c line 35: casting a value to its own type: int 
+wizards/jenny/hriak/maze/monsters/mummy_bak.c line 3: Illegal to redefine inherited variable 'limbs'
+wizards/jenny/hriak/maze/monsters/mummy.c line 3: Illegal to redefine inherited variable 'limbs'
+wizards/jenny/hriak/maze/monsters/mummy_bak.c line 3: Illegal to redefine inherited variable 'limbs'
+wizards/jenny/hriak/maze/monsters/mummy.c line 3: Illegal to redefine inherited variable 'limbs'
+wizards/jenny/hriak/maze/monsters/mummy_bak.c line 3: Illegal to redefine inherited variable 'limbs'
+wizards/jenny/hriak/maze/monsters/mummy.c line 3: Illegal to redefine inherited variable 'limbs'
+wizards/jenny/hriak/maze/monsters/mummy_bak.c line 3: Illegal to redefine inherited variable 'limbs'
+wizards/jenny/hriak/maze/monsters/mummy.c line 3: Illegal to redefine inherited variable 'limbs'
+Thu Nov 24 12:47:40 2005 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 24) killed by Moonshdw (178) 
+Sat Nov 26 19:08:29 2005 Alconte, the legendary warrior(strong) (/wizards/jenny/linnake/mosut/alconte#33613, 79) killed by Ntg (242) 
+Sun Nov 27 16:58:56 2005 A mysterious looking man(strong) (/wizards/jenny/gnael/mosut/man, 51) killed by Ntg (242) 
+Sun Nov 27 17:18:14 2005 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#19743, 57) killed by Ntg (242) 
+Sun Nov 27 18:26:04 2005 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#20242, 104) killed by Ntg (242) 
+Sun Nov 27 18:57:13 2005 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#23165, 83) killed by Ntg (242) 
+Mon Nov 28 14:28:02 2005 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#10119, 57) killed by Golthar (293) 
+Mon Nov 28 14:44:48 2005 Rewalah, Captain of the jailguards(strong) (/wizards/jenny/linnake/mosut/rewalah#10275, 91) killed by Golthar (293) 
+Mon Nov 28 15:01:41 2005 Durand the pacifist is here, moaning in his misery(strong) (/wizards/jenny/linnake/mosut/durand#10055, 91) killed by Golthar (293) 
+Mon Nov 28 15:21:29 2005 Lucius Dagonus, oldest of Dagonus brothers(strong) (/wizards/jenny/linnake/mosut/lucius#10075, 81) killed by Golthar (293) 
+Mon Nov 28 22:35:59 2005 A mysterious looking man(strong) (/wizards/jenny/gnael/mosut/man, 55) killed by Golthar (293) 
+Mon Nov 28 22:52:36 2005 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#25839, 59) killed by Golthar (293) 
+Mon Nov 28 22:56:44 2005 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#26247, 77) killed by Golthar (293) 
+Mon Nov 28 23:04:26 2005 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#26374, 76) killed by Golthar (293) 
+Tue Nov 29 11:22:34 2005 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#2944, 57) killed by Golthar (293) 
+Tue Nov 29 11:28:24 2005 A mysterious looking man(strong) (/wizards/jenny/gnael/mosut/man, 55) killed by Golthar (293) 
+Tue Nov 29 11:45:53 2005 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#3654, 59) killed by Golthar (293) 
+Tue Nov 29 11:58:35 2005 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#3710, 78) killed by Golthar (293) 
+Tue Nov 29 12:09:53 2005 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#3962, 79) killed by Golthar (293) 
+Thu Dec 08 15:15:03 2005 A strange looking woman is boiling something(strong) (/wizards/jenny/mehta/mosut/woman#4981, 40) killed by Moonshdw (179) 
+Sat Dec 10 18:49:56 2005 Feleodor Brogotuknik, the captain of guards(strong) (/wizards/jenny/gnael/mosut/feleodor#8125, 68) killed by Ntg (269) 
+Fri Dec 23 18:45:04 2005 Feleodor Brogotuknik, the captain of guards(strong) (/wizards/jenny/gnael/mosut/feleodor#5752, 68) killed by Ntg (274) 
+Sat Dec 24 00:04:00 2005 Happy looking lord called Gorim(strong) (/wizards/jenny/linnake/mosut/gorim#11417, 53) killed by Ntg (275) 
+Sun Dec 25 14:23:41 2005 Feleodor Brogotuknik, the captain of guards(strong) (/wizards/jenny/gnael/mosut/feleodor#7215, 68) killed by Ntg (275) 
+Sun Dec 25 20:43:40 2005 A mysterious looking man(strong) (/wizards/jenny/gnael/mosut/man, 55) killed by Ntg (275) 
+Sun Dec 25 21:05:51 2005 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#16229, 58) killed by Ntg (275) 
+Sun Dec 25 21:15:03 2005 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#16485, 75) killed by Ntg (275) 
+Sun Dec 25 21:48:04 2005 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#16915, 81) killed by Ntg (275) 
+Sun Dec 25 22:25:01 2005 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#19234, 57) killed by Ntg (275) 
+Sun Dec 25 23:21:01 2005 Rewalah, Captain of the jailguards(strong) (/wizards/jenny/linnake/mosut/rewalah#19548, 85) killed by Ntg (275) 
+Mon Dec 26 15:02:17 2005 A mysterious looking man(strong) (/wizards/jenny/gnael/mosut/man, 56) killed by Ntg (275) 
+Mon Dec 26 15:11:27 2005 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#4080, 57) killed by Ntg (275) 
+Mon Dec 26 15:16:35 2005 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#4187, 69) killed by Ntg (275) 
+Mon Dec 26 15:33:08 2005 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#4299, 75) killed by Ntg (275) 
+Tue Dec 27 00:17:54 2005 Feleodor Brogotuknik, the captain of guards(strong) (/wizards/jenny/gnael/mosut/feleodor#16369, 68) killed by Ntg (270) 
+Tue Dec 27 22:03:23 2005 Alconte, the legendary warrior(strong) (/wizards/jenny/linnake/mosut/alconte#15298, 73) killed by Ntg (270) 
+Thu Dec 29 12:41:07 2005 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#5953, 60) killed by Kaappi (296) 
+Thu Dec 29 12:55:05 2005 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#6021, 78) killed by Kaappi (296) 
+Thu Dec 29 13:06:26 2005 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#6384, 80) killed by Kaappi (296) 
+Thu Dec 29 13:58:41 2005 Mondasa the Half-God, The Bane Of The World(strong) (/wizards/jenny/gnael/mosut/mondasa#6681, 104) killed by Kaappi (296) 
+Thu Dec 29 17:30:27 2005 A happy looking baker(strong) (/wizards/jenny/gnael/mosut/baker#15551, 60) killed by Ntg (270) 
+Fri Dec 30 13:44:20 2005 Feleodor Brogotuknik, the captain of guards(strong) (/wizards/jenny/gnael/mosut/feleodor#4873, 68) killed by Kaappi (296) 
+Sat Dec 31 11:05:46 2005 Clubbah, a HUGE cave troll(strong) (/wizards/jenny/mehta/mosut/troll#4842, 65) killed by Ntg (269) 
+Mon Jan 02 13:03:25 2006 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 15) killed by Moonshdw (183) 
+Sat Jan 07 13:31:53 2006 August IV, the king of Roxen(strong) (/wizards/jenny/linnake/mosut/poika_august#3910, 81) killed by Golthar (293) 
+Sat Jan 07 13:38:07 2006 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#5189, 57) killed by Golthar (293) 
+Sat Jan 07 14:06:14 2006 Rewalah, Captain of the jailguards(strong) (/wizards/jenny/linnake/mosut/rewalah#5322, 87) killed by Golthar (293) 
+Wed Jan 11 17:53:24 2006 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 29) killed by Ntg (282) 
+Thu Jan 12 03:17:52 2006 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 23) killed by Ntg (282) 
+Thu Jan 12 08:27:02 2006 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 15) killed by Ntg (272) 
+Fri Jan 13 06:55:02 2006 Feleodor Brogotuknik, the captain of guards(strong) (/wizards/jenny/gnael/mosut/feleodor#1119, 68) killed by Ntg (272) 
+Sat Jan 14 13:17:49 2006 Lucius Dagonus, oldest of Dagonus brothers(strong) (/wizards/jenny/linnake/mosut/lucius#5781, 78) killed by Ntg (272) 
+Sat Jan 28 20:36:35 2006 Feleodor Brogotuknik, the captain of guards(strong) (/wizards/jenny/gnael/mosut/feleodor#14781, 68) killed by Ntg (301) 
+Sun Feb 12 18:11:49 2006 A strange looking woman is boiling something(strong) (/wizards/jenny/mehta/mosut/woman#17170, 40) killed by Elric (180) 
+Mon Feb 20 19:04:15 2006 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 23) killed by Elric (230) 
+Mon Feb 27 19:50:30 2006 August IV, the king of Roxen(strong) (/wizards/jenny/linnake/mosut/poika_august#14038, 84) killed by Elric (238) 
+Mon Feb 27 20:12:19 2006 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#17117, 57) killed by Elric (238) 
+Mon Feb 27 20:31:51 2006 Dreia, the queen of Roxen(strong) (/wizards/jenny/linnake/mosut/queen#14044, 80) killed by Elric (238) 
+Mon Feb 27 21:04:24 2006 Rewalah, Captain of the jailguards(strong) (/wizards/jenny/linnake/mosut/rewalah#17344, 90) killed by Elric (238) 
+Mon Mar 06 18:20:51 2006 A mysterious looking man(strong) (/wizards/jenny/gnael/mosut/man, 60) killed by Elric (262) 
+Mon Mar 06 18:50:01 2006 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#11887, 64) killed by Elric (262) 
+Mon Mar 06 20:12:57 2006 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#12574, 78) killed by Elric (262) 
+Mon Mar 06 20:21:42 2006 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#14177, 77) killed by Elric (262) 
+Mon Mar 06 21:50:31 2006 Mondasa the Half-God, The Bane Of The World(strong) (/wizards/jenny/gnael/mosut/mondasa#14610, 104) killed by Elric (262) 
+Sat Jun 24 17:29:27 2006 Happy looking lord called Gorim(strong) (/wizards/jenny/linnake/mosut/gorim#5774, 58) killed by Reaper (195) 
+Sat Jun 24 17:52:14 2006 Alconte, the legendary warrior(strong) (/wizards/jenny/linnake/mosut/alconte#5979, 75) killed by Reaper (195) 
+Sat Jun 24 18:38:45 2006 Lucius Dagonus, oldest of Dagonus brothers(strong) (/wizards/jenny/linnake/mosut/lucius#6460, 79) killed by Reaper (195) 
+Sun Jul 16 18:21:22 2006 Clubbah, a HUGE cave troll(strong) (/wizards/jenny/mehta/mosut/troll#3948, 65) killed by Bloodstorm (243) 
+Sat Jul 29 19:56:36 2006 August IV, the king of Roxen(strong) (/wizards/jenny/linnake/mosut/poika_august#4144, 88) killed by Reaper (238) 
+Sat Jul 29 20:23:49 2006 Dreia, the queen of Roxen(strong) (/wizards/jenny/linnake/mosut/queen#4151, 83) killed by Reaper (238) 
+Sat Jul 29 20:59:31 2006 Durand the pacifist is here, moaning in his misery(strong) (/wizards/jenny/linnake/mosut/durand#5897, 80) killed by Reaper (238) 
+Sun Jul 30 23:34:29 2006 Durand the pacifist is here, moaning in his misery(strong) (/wizards/jenny/linnake/mosut/durand#1152, 84) killed by Reaper (238) 
+Mon Jul 31 01:01:07 2006 Lucius Dagonus, oldest of Dagonus brothers(strong) (/wizards/jenny/linnake/mosut/lucius#3169, 81) killed by Reaper (238) 
+Mon Jul 31 01:12:03 2006 A mysterious looking man(strong) (/wizards/jenny/gnael/mosut/man, 59) killed by Reaper (238) 
+Mon Jul 31 01:19:27 2006 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#4182, 61) killed by Reaper (238) 
+Mon Jul 31 01:26:26 2006 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#4249, 68) killed by Reaper (238) 
+Mon Jul 31 01:32:58 2006 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#4335, 75) killed by Bloodstorm (243) 
+Mon Jul 31 02:11:19 2006 Mondasa the Half-God, The Bane Of The World(strong) (/wizards/jenny/gnael/mosut/mondasa#4542, 104) killed by Reaper (238) 
+Tue Aug 01 04:50:36 2006 Feleodor Brogotuknik, the captain of guards(strong) (/wizards/jenny/gnael/mosut/feleodor#19762, 68) killed by Ntg (290) 
+Tue Aug 01 05:25:47 2006 Clubbah, a HUGE cave troll(strong) (/wizards/jenny/mehta/mosut/troll#19664, 65) killed by Ntg (290) 
+Wed Aug 02 20:03:21 2006 A mysterious looking man(strong) (/wizards/jenny/gnael/mosut/man, 59) killed by Bloodstorm (243) 
+Wed Aug 02 20:17:50 2006 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#5178, 59) killed by Bloodstorm (243) 
+Wed Aug 02 22:27:14 2006 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#5330, 79) killed by Bloodstorm (243) 
+Wed Aug 02 23:02:19 2006 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#8647, 78) killed by Reaper (238) 
+Wed Aug 02 23:28:28 2006 Mondasa the Half-God, The Bane Of The World(strong) (/wizards/jenny/gnael/mosut/mondasa#8938, 103) killed by Reaper (238) 
+Thu Aug 03 00:41:21 2006 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#13301, 57) killed by Reaper (238) 
+Thu Aug 03 01:17:46 2006 Rewalah, Captain of the jailguards(strong) (/wizards/jenny/linnake/mosut/rewalah#13553, 85) killed by Reaper (238) 
+Fri Aug 04 10:37:30 2006 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 21) killed by Elric (300) 
+Sun Aug 06 14:15:50 2006 A strange looking woman is boiling something(strong) (/wizards/jenny/mehta/mosut/woman#3131, 40) killed by Elric (289) 
+Sun Aug 06 16:15:46 2006 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 27) killed by Elric (245) 
+Wed Aug 09 13:34:16 2006 A strange looking woman is boiling something(strong) (/wizards/jenny/mehta/mosut/woman#3199, 40) killed by Elric (286) 
+Thu Aug 10 09:52:54 2006 Happy looking lord called Gorim(strong) (/wizards/jenny/linnake/mosut/gorim#5117, 56) killed by Elric (286) 
+Thu Aug 10 14:16:26 2006 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 18) killed by Bloodstorm (99) 
+Sun Sep 24 20:43:42 2006 A strange looking woman is boiling something(strong) (/wizards/jenny/mehta/mosut/woman#4147, 40) killed by Nightwish (163) 
+Mon Sep 25 11:38:06 2006 A strange looking woman is boiling something(strong) (/wizards/jenny/mehta/mosut/woman#507, 40) killed by Nightwish (163) 
+Thu Oct 19 18:58:35 2006 A strange looking woman is boiling something(strong) (/wizards/jenny/mehta/mosut/woman#2068, 40) killed by Nightwish (176) 
+Thu Oct 26 09:44:07 2006 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 28) killed by Ntg (309) 
+Wed Nov 15 14:22:39 2006 Feleodor Brogotuknik, the captain of guards(strong) (/wizards/jenny/gnael/mosut/feleodor#1695, 68) killed by Nightwish (162) 
+Thu Nov 16 13:29:28 2006 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#4070, 57) killed by Nightwish (164) 
+Sun Nov 19 17:58:56 2006 A mysterious looking man(strong) (/wizards/jenny/gnael/mosut/man, 61) killed by Ntg (290) 
+Sun Nov 19 18:12:06 2006 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#8673, 61) killed by Ntg (290) 
+Sun Nov 19 18:20:08 2006 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#8835, 76) killed by Ntg (290) 
+Sun Nov 19 18:43:31 2006 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#9006, 79) killed by Ntg (290) 
+Thu Nov 23 14:33:28 2006 A mysterious looking man(strong) (/wizards/jenny/gnael/mosut/man, 50) killed by Ntg (297) 
+Thu Nov 23 14:45:52 2006 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#1256, 55) killed by Ntg (297) 
+Thu Nov 23 14:55:50 2006 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#1334, 75) killed by Ntg (297) 
+Thu Nov 23 15:10:09 2006 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#1455, 82) killed by Ntg (297) 
+Thu Nov 23 16:21:08 2006 Mondasa the Half-God, The Bane Of The World(strong) (/wizards/jenny/gnael/mosut/mondasa#1722, 104) killed by Madk (169) 
+Fri Dec 08 17:02:04 2006 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 29) killed by Devil (178) 
+Fri Dec 22 13:46:18 2006 A strange looking woman is boiling something(strong) (/wizards/jenny/mehta/mosut/woman#2690, 40) killed by Nightwish (169) 
+Wed Dec 27 19:22:35 2006 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 29) killed by Nightwish (170) 
+Fri Dec 29 00:11:15 2006 A strange looking woman is boiling something(strong) (/wizards/jenny/mehta/mosut/woman#40325, 40) killed by Elric (303) 
+Sat Jan 06 14:39:16 2007 A strange looking woman is boiling something(strong) (/wizards/jenny/mehta/mosut/woman#7055, 40) killed by Elric (303) 
+Sat Jan 06 17:56:08 2007 Happy looking lord called Gorim(strong) (/wizards/jenny/linnake/mosut/gorim#12306, 76) killed by Elric (303) 
+Tue Feb 20 17:58:15 2007 Alconte, the legendary warrior(strong) (/wizards/jenny/linnake/mosut/alconte#14135, 73) killed by Devil (187) 
+Tue Feb 20 19:42:28 2007 Lucius Dagonus, oldest of Dagonus brothers(strong) (/wizards/jenny/linnake/mosut/lucius#16450, 79) killed by Devil (187) 
+Mon Feb 26 13:20:45 2007 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 16) killed by Nightwish (178) 
+Mon May 21 14:38:46 2007 A strange looking woman is boiling something(strong) (/wizards/jenny/mehta/mosut/woman#958, 40) killed by Elric (400) 
+Fri May 25 10:06:28 2007 Happy looking lord called Gorim(strong) (/wizards/jenny/linnake/mosut/gorim#2553, 63) killed by Elric (400) 
+Fri May 25 10:16:56 2007 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#2769, 57) killed by Elric (400) 
+Sat May 26 18:16:38 2007 Clubbah, a HUGE cave troll(strong) (/wizards/jenny/mehta/mosut/troll#11620, 65) killed by Elric (400) 
+Mon Jun 04 21:34:21 2007 Durand the pacifist is here, moaning in his misery(strong) (/wizards/jenny/linnake/mosut/durand#1498, 86) killed by Elric (400) 
+Fri Jun 29 00:58:18 2007 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 15) killed by Nightwish (183) 
+Fri Jun 29 01:02:44 2007 Beledor Blodimskin, owner of the mansion(strong) (/wizards/jenny/gnael/mosut/beledor#25118, 41) killed by Nightwish (183) 
+Mon Jul 09 14:53:56 2007 A strange looking woman is boiling something(strong) (/wizards/jenny/mehta/mosut/woman#1995, 40) killed by Nightwish (185) 
+Wed Jul 11 15:39:27 2007 Beledor Blodimskin, owner of the mansion(strong) (/wizards/jenny/gnael/mosut/beledor#4110, 58) killed by Nightwish (190) 
+Wed Jul 11 15:41:39 2007 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 17) killed by Nightwish (190) 
+Thu Jul 12 12:45:26 2007 Clubbah, a HUGE cave troll(strong) (/wizards/jenny/mehta/mosut/troll#1105, 65) killed by Nightwish (190) 
+Thu Jul 12 13:47:01 2007 A strange looking woman is boiling something(strong) (/wizards/jenny/mehta/mosut/woman#2198, 40) killed by Nightwish (190) 
+Fri Jul 13 13:33:07 2007 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#1921, 57) killed by Nightwish (190) 
+Fri Jul 13 15:48:28 2007 A strange looking woman is boiling something(strong) (/wizards/jenny/mehta/mosut/woman#5800, 40) killed by Olsma (159) 
+Sat Jul 14 20:51:30 2007 A strange looking woman is boiling something(strong) (/wizards/jenny/mehta/mosut/woman#2739, 40) killed by Nightwish (190) 
+Sat Jul 14 23:40:52 2007 Clubbah, a HUGE cave troll(strong) (/wizards/jenny/mehta/mosut/troll#2888, 65) killed by Nightwish (190) 
+Wed Jul 25 20:42:50 2007 A strange looking woman is boiling something(strong) (/wizards/jenny/mehta/mosut/woman#25593, 40) killed by Nightwish (185) 
+Mon Aug 20 02:43:06 2007 A strange looking woman is boiling something(strong) (/wizards/jenny/mehta/mosut/woman#32478, 40) killed by Nightwish (220) 
+Wed Aug 22 19:37:43 2007 A strange looking woman is boiling something(strong) (/wizards/jenny/mehta/mosut/woman#8625, 40) killed by Nightwish (220) 
+Fri Aug 24 06:47:26 2007 A strange looking woman is boiling something(strong) (/wizards/jenny/mehta/mosut/woman#304, 40) killed by Nightwish (224) 
+Wed Sep 26 17:47:18 2007 A strange looking woman is boiling something(strong) (/wizards/jenny/mehta/mosut/woman#4057, 40) killed by Olsma (178) 
+Fri Sep 28 11:53:25 2007 Beledor Blodimskin, owner of the mansion(strong) (/wizards/jenny/gnael/mosut/beledor#14617, 41) killed by Olsma (178) 
+Fri Sep 28 11:56:43 2007 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 23) killed by Olsma (178) 
+Tue Oct 09 12:49:49 2007 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 25) killed by Olsma (178) 
+Tue Oct 16 18:35:12 2007 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 19) killed by Hemies (146) 
+Sun Oct 21 14:05:29 2007 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 27) killed by Alardolath (100) 
+Tue Oct 23 21:56:13 2007 Lucius Dagonus, oldest of Dagonus brothers(strong) (/wizards/jenny/linnake/mosut/lucius#23233, 82) killed by Devil (193) 
+Sun Nov 04 15:23:43 2007 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 19) killed by Olsma (61) 
+Wed Dec 19 02:53:16 2007 August IV, the king of Roxen(strong) (/wizards/jenny/linnake/mosut/poika_august#38545, 89) killed by Bloodstorm (285) 
+Wed Dec 19 21:12:49 2007 August IV, the king of Roxen(strong) (/wizards/jenny/linnake/mosut/poika_august#27124, 86) killed by Bloodstorm (285) 
+Wed Dec 19 21:31:33 2007 Dreia, the queen of Roxen(strong) (/wizards/jenny/linnake/mosut/queen#27130, 82) killed by Bloodstorm (285) 
+Wed Dec 19 21:43:00 2007 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#31987, 57) killed by Bloodstorm (285) 
+Wed Dec 19 22:11:30 2007 Rewalah, Captain of the jailguards(strong) (/wizards/jenny/linnake/mosut/rewalah#32432, 94) killed by Bloodstorm (285) 
+Thu Dec 20 00:08:49 2007 Alconte, the legendary warrior(strong) (/wizards/jenny/linnake/mosut/alconte#36867, 79) killed by Bloodstorm (285) 
+Thu Dec 20 00:25:11 2007 Clubbah, a HUGE cave troll(strong) (/wizards/jenny/mehta/mosut/troll#37482, 65) killed by Bloodstorm (285) 
+Sun Dec 23 20:05:32 2007 A mysterious looking man(strong) (/wizards/jenny/gnael/mosut/man, 54) killed by Bloodstorm (285) 
+Sun Dec 23 20:19:10 2007 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#23284, 61) killed by Bloodstorm (285) 
+Sun Dec 23 20:26:48 2007 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#23468, 74) killed by Bloodstorm (285) 
+Sun Dec 23 20:38:39 2007 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#23886, 81) killed by Bloodstorm (285) 
+Sun Dec 23 21:05:23 2007 Mondasa the Half-God, The Bane Of The World(strong) (/wizards/jenny/gnael/mosut/mondasa#24249, 104) killed by Bloodstorm (285) 
+Thu Dec 27 13:49:56 2007 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 17) killed by Laeh (79) 
+Sun Dec 30 04:20:34 2007 August IV, the king of Roxen(strong) (/wizards/jenny/linnake/mosut/poika_august#23272, 84) killed by Bloodstorm (286) 
+Thu Jan 03 20:44:25 2008 Gorgola, The mighty chief of bandits(strong) (/wizards/jenny/events/robbers/gorgola#59713, 100) killed by Bloodstorm (286) 
+Fri Jan 04 19:49:14 2008 August IV, the king of Roxen(strong) (/wizards/jenny/linnake/mosut/poika_august#19160, 96) killed by Bloodstorm (286) 
+Fri Jan 04 20:42:25 2008 Dreia, the queen of Roxen(strong) (/wizards/jenny/linnake/mosut/queen#19167, 88) killed by Bloodstorm (286) 
+Fri Jan 04 21:26:38 2008 Durand the pacifist is here, moaning in his misery(strong) (/wizards/jenny/linnake/mosut/durand#19204, 90) killed by Bloodstorm (286) 
+Sun Jan 06 01:57:13 2008 A strange looking woman is boiling something(strong) (/wizards/jenny/mehta/mosut/woman#27036, 40) killed by Ozmala (172) 
+Sun Jan 06 23:49:16 2008 A mysterious looking man(strong) (/wizards/jenny/gnael/mosut/man, 56) killed by Bloodstorm (286) 
+Sun Jan 06 23:57:14 2008 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#47795, 57) killed by Bloodstorm (286) 
+Mon Jan 07 00:00:38 2008 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#47840, 76) killed by Bloodstorm (286) 
+Mon Jan 07 00:05:52 2008 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#47915, 83) killed by Bloodstorm (286) 
+Mon Jan 07 00:42:31 2008 Mondasa the Half-God, The Bane Of The World(strong) (/wizards/jenny/gnael/mosut/mondasa#48047, 104) killed by Bloodstorm (286) 
+Mon Jan 07 01:06:33 2008 August IV, the king of Roxen(strong) (/wizards/jenny/linnake/mosut/poika_august#49503, 80) killed by Bloodstorm (286) 
+Mon Jan 07 01:24:30 2008 Dreia, the queen of Roxen(strong) (/wizards/jenny/linnake/mosut/queen#49510, 86) killed by Bloodstorm (286) 
+Mon Jan 07 01:32:46 2008 Lucius Dagonus, oldest of Dagonus brothers(strong) (/wizards/jenny/linnake/mosut/lucius#70565, 83) killed by Bloodstorm (286) 
+Mon Jan 07 01:42:52 2008 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#86205, 57) killed by Bloodstorm (286) 
+Mon Jan 07 02:13:35 2008 Rewalah, Captain of the jailguards(strong) (/wizards/jenny/linnake/mosut/rewalah#98527, 86) killed by Bloodstorm (286) 
+Mon Jan 07 03:45:27 2008 Durand the pacifist is here, moaning in his misery(strong) (/wizards/jenny/linnake/mosut/durand#85812, 84) killed by Bloodstorm (286) 
+Thu Jan 10 15:41:06 2008 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 16) killed by Ntg (140) 
+Sat Jan 12 23:40:45 2008 A mysterious looking man(strong) (/wizards/jenny/gnael/mosut/man, 55) killed by Devil (222) 
+Sun Jan 13 17:24:17 2008 Clubbah, a HUGE cave troll(strong) (/wizards/jenny/mehta/mosut/troll#305659, 65) killed by Devil (223) 
+Sun Jan 13 17:46:57 2008 A mysterious looking man(strong) (/wizards/jenny/gnael/mosut/man, 61) killed by Ozmala (197) 
+Sun Jan 13 18:05:09 2008 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#306302, 59) killed by Devil (223) 
+Sun Jan 13 18:10:03 2008 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#307676, 69) killed by Devil (223) 
+Sun Jan 13 18:16:03 2008 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#308050, 78) killed by Devil (223) 
+Sun Jan 13 21:43:16 2008 Mondasa the Half-God, The Bane Of The World(strong) (/wizards/jenny/gnael/mosut/mondasa#309926, 104) killed by Devil (223) 
+Mon Jan 14 19:41:15 2008 A mysterious looking man(strong) (/wizards/jenny/gnael/mosut/man, 51) killed by Devil (223) 
+Mon Jan 14 19:51:11 2008 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#23457, 58) killed by Devil (223) 
+Mon Jan 14 19:59:48 2008 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#23715, 73) killed by Devil (223) 
+Mon Jan 14 21:56:50 2008 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#24242, 77) killed by Devil (223) 
+Mon Jan 14 22:40:13 2008 Mondasa the Half-God, The Bane Of The World(strong) (/wizards/jenny/gnael/mosut/mondasa#27594, 104) killed by Devil (223) 
+Mon Jan 14 23:54:19 2008 Alconte, the legendary warrior(strong) (/wizards/jenny/linnake/mosut/alconte#21014, 70) killed by Devil (223) 
+Tue Jan 15 21:46:07 2008 A mysterious looking man(strong) (/wizards/jenny/gnael/mosut/man, 52) killed by Devil (223) 
+Tue Jan 15 21:58:24 2008 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#303563, 64) killed by Devil (223) 
+Tue Jan 15 22:03:30 2008 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#303671, 73) killed by Devil (223) 
+Tue Jan 15 22:16:00 2008 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#303784, 83) killed by Devil (223) 
+Tue Jan 15 23:02:03 2008 Mondasa the Half-God, The Bane Of The World(strong) (/wizards/jenny/gnael/mosut/mondasa#304243, 103) killed by Devil (223) 
+Tue Jan 15 23:33:06 2008 August IV, the king of Roxen(strong) (/wizards/jenny/linnake/mosut/poika_august#274499, 79) killed by Devil (223) 
+Tue Jan 15 23:51:08 2008 Dreia, the queen of Roxen(strong) (/wizards/jenny/linnake/mosut/queen#274506, 77) killed by Devil (223) 
+Wed Jan 16 00:06:43 2008 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#307607, 57) killed by Devil (223) 
+Wed Jan 16 00:59:16 2008 Rewalah, Captain of the jailguards(strong) (/wizards/jenny/linnake/mosut/rewalah#307627, 92) killed by Olsma (185) 
+Sat Jan 19 15:16:43 2008 Alconte, the legendary warrior(strong) (/wizards/jenny/linnake/mosut/alconte#13231, 78) killed by Devil (223) 
+Sat Jan 19 22:26:19 2008 August IV, the king of Roxen(strong) (/wizards/jenny/linnake/mosut/poika_august#13166, 79) killed by Olsma (185) 
+Sat Jan 19 23:04:13 2008 Dreia, the queen of Roxen(strong) (/wizards/jenny/linnake/mosut/queen#13172, 86) killed by Devil (223) 
+Sun Jan 20 00:13:55 2008 Durand the pacifist is here, moaning in his misery(strong) (/wizards/jenny/linnake/mosut/durand#26308, 87) killed by Devil (223) 
+Sun Jan 20 14:32:34 2008 Lucius Dagonus, oldest of Dagonus brothers(strong) (/wizards/jenny/linnake/mosut/lucius#567, 78) killed by Devil (223) 
+Sun Jan 20 14:54:43 2008 August IV, the king of Roxen(strong) (/wizards/jenny/linnake/mosut/poika_august#510, 76) killed by Devil (223) 
+Sun Jan 20 15:08:43 2008 Dreia, the queen of Roxen(strong) (/wizards/jenny/linnake/mosut/queen#517, 77) killed by Devil (223) 
+Sun Jan 20 15:13:25 2008 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#8533, 57) killed by Devil (223) 
+Sun Jan 20 15:41:48 2008 Rewalah, Captain of the jailguards(strong) (/wizards/jenny/linnake/mosut/rewalah#8731, 89) killed by Devil (223) 
+Sun Jan 20 16:00:10 2008 A mysterious looking man(strong) (/wizards/jenny/gnael/mosut/man, 55) killed by Devil (223) 
+Sun Jan 20 16:07:22 2008 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#12133, 55) killed by Devil (223) 
+Sun Jan 20 16:12:18 2008 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#12498, 69) killed by Devil (223) 
+Sun Jan 20 16:18:07 2008 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#13019, 80) killed by Devil (223) 
+Sun Jan 20 17:01:14 2008 Mondasa the Half-God, The Bane Of The World(strong) (/wizards/jenny/gnael/mosut/mondasa#13536, 104) killed by Devil (223) 
+Thu Jan 24 10:59:59 2008 Durand the pacifist is here, moaning in his misery(strong) (/wizards/jenny/linnake/mosut/durand#872, 84) killed by Alardolath (242) 
+Thu Jan 24 11:08:27 2008 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#2324, 57) killed by Alardolath (242) 
+Thu Jan 24 11:41:18 2008 Rewalah, Captain of the jailguards(strong) (/wizards/jenny/linnake/mosut/rewalah#2517, 86) killed by Alardolath (242) 
+Thu Jan 24 12:08:23 2008 August IV, the king of Roxen(strong) (/wizards/jenny/linnake/mosut/poika_august#814, 80) killed by Alardolath (242) 
+Thu Jan 24 13:03:50 2008 Dreia, the queen of Roxen(strong) (/wizards/jenny/linnake/mosut/queen#819, 87) killed by Alardolath (242) 
+Thu Jan 24 18:40:41 2008 Clubbah, a HUGE cave troll(strong) (/wizards/jenny/mehta/mosut/troll#16576, 65) killed by Alardolath (243) 
+Fri Jan 25 10:14:07 2008 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#13891, 57) killed by Alardolath (243) 
+Fri Jan 25 11:25:09 2008 A mysterious looking man(strong) (/wizards/jenny/gnael/mosut/man, 52) killed by Alardolath (243) 
+Fri Jan 25 11:42:09 2008 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#17424, 62) killed by Alardolath (243) 
+Fri Jan 25 11:51:27 2008 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#18143, 68) killed by Alardolath (243) 
+Fri Jan 25 12:06:28 2008 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#18450, 84) killed by Alardolath (243) 
+Fri Jan 25 12:47:00 2008 Rewalah, Captain of the jailguards(strong) (/wizards/jenny/linnake/mosut/rewalah#14118, 92) killed by Alardolath (243) 
+Fri Jan 25 13:05:57 2008 August IV, the king of Roxen(strong) (/wizards/jenny/linnake/mosut/poika_august#13466, 84) killed by Alardolath (243) 
+Fri Jan 25 14:44:13 2008 Durand the pacifist is here, moaning in his misery(strong) (/wizards/jenny/linnake/mosut/durand#13731, 86) killed by Alardolath (243) 
+Fri Jan 25 15:08:36 2008 Alconte, the legendary warrior(strong) (/wizards/jenny/linnake/mosut/alconte#13777, 75) killed by Alardolath (243) 
+Fri Jan 25 17:48:46 2008 Lucius Dagonus, oldest of Dagonus brothers(strong) (/wizards/jenny/linnake/mosut/lucius#13759, 77) killed by Alardolath (243) 
+Fri Jan 25 21:05:26 2008 Dreia, the queen of Roxen(strong) (/wizards/jenny/linnake/mosut/queen#13473, 79) killed by Alardolath (243) 
+Fri Jan 25 23:52:48 2008 Mondasa the Half-God, The Bane Of The World(strong) (/wizards/jenny/gnael/mosut/mondasa#19673, 103) killed by Alardolath (243) 
+Sat Jan 26 10:31:05 2008 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#1424, 57) killed by Alardolath (243) 
+Sat Jan 26 11:13:34 2008 Rewalah, Captain of the jailguards(strong) (/wizards/jenny/linnake/mosut/rewalah#1553, 89) killed by Alardolath (243) 
+Sat Jan 26 11:30:56 2008 Alconte, the legendary warrior(strong) (/wizards/jenny/linnake/mosut/alconte#761, 81) killed by Alardolath (243) 
+Sat Jan 26 11:51:37 2008 Lucius Dagonus, oldest of Dagonus brothers(strong) (/wizards/jenny/linnake/mosut/lucius#743, 85) killed by Alardolath (243) 
+Sat Jan 26 12:05:21 2008 Durand the pacifist is here, moaning in his misery(strong) (/wizards/jenny/linnake/mosut/durand#721, 88) killed by Alardolath (243) 
+Sat Jan 26 12:49:12 2008 August IV, the king of Roxen(strong) (/wizards/jenny/linnake/mosut/poika_august#620, 94) killed by Madk (122) 
+Sat Jan 26 13:14:17 2008 Dreia, the queen of Roxen(strong) (/wizards/jenny/linnake/mosut/queen#626, 88) killed by Alardolath (243) 
+Sat Jan 26 14:44:09 2008 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#14379, 61) killed by Ntg (209) 
+Sat Jan 26 14:49:33 2008 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#14589, 78) killed by Alardolath (243) 
+Sat Jan 26 14:54:55 2008 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#14999, 76) killed by Alardolath (243) 
+Sat Jan 26 16:21:19 2008 Mondasa the Half-God, The Bane Of The World(strong) (/wizards/jenny/gnael/mosut/mondasa#15315, 103) killed by Alardolath (243) 
+Sun Jan 27 08:44:54 2008 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#582, 57) killed by Alardolath (243) 
+Sun Jan 27 09:25:17 2008 Rewalah, Captain of the jailguards(strong) (/wizards/jenny/linnake/mosut/rewalah#1250, 92) killed by Alardolath (243) 
+Sun Jan 27 09:42:11 2008 August IV, the king of Roxen(strong) (/wizards/jenny/linnake/mosut/poika_august#506, 76) killed by Alardolath (243) 
+Sun Jan 27 10:04:09 2008 Lucius Dagonus, oldest of Dagonus brothers(strong) (/wizards/jenny/linnake/mosut/lucius#1011, 79) killed by Alardolath (243) 
+Mon Feb 04 21:18:18 2008 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 29) killed by Alardolath (104) 
+Tue Feb 05 21:22:21 2008 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 15) killed by Ntg (123) 
+Sun Feb 10 23:12:25 2008 Happy looking lord called Gorim(strong) (/wizards/jenny/linnake/mosut/gorim#36931, 54) killed by Olsma (219) 
+Thu Feb 14 14:23:35 2008 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 19) killed by Ntg (227) 
+Fri Feb 15 10:31:24 2008 Alconte, the legendary warrior(strong) (/wizards/jenny/linnake/mosut/alconte#3691, 83) killed by Olsma (229) 
+Fri Feb 15 15:38:37 2008 A strange looking woman is boiling something(strong) (/wizards/jenny/mehta/mosut/woman#29574, 40) killed by Elric (400) 
+Sun Feb 17 16:01:38 2008 A mysterious looking man(strong) (/wizards/jenny/gnael/mosut/man, 59) killed by Olsma (229) 
+Sun Feb 17 16:10:56 2008 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#13090, 58) killed by Olsma (229) 
+Sun Feb 17 16:21:04 2008 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#13096, 68) killed by Olsma (229) 
+Sun Feb 17 16:46:15 2008 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#14411, 80) killed by Olsma (229) 
+Mon Feb 18 12:29:24 2008 A mysterious looking man(strong) (/wizards/jenny/gnael/mosut/man, 51) killed by Olsma (229) 
+Wed Feb 20 10:37:05 2008 A mysterious looking man(strong) (/wizards/jenny/gnael/mosut/man, 60) killed by Olsma (229) 
+Wed Feb 20 10:47:27 2008 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#2192, 64) killed by Olsma (229) 
+Wed Feb 20 11:42:07 2008 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#2301, 75) killed by Olsma (229) 
+Fri Feb 22 14:40:01 2008 A mysterious looking man(strong) (/wizards/jenny/gnael/mosut/man, 51) killed by Olsma (229) 
+Fri Feb 22 14:53:24 2008 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#19742, 56) killed by Olsma (229) 
+Fri Feb 22 15:05:58 2008 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#20528, 69) killed by Olsma (229) 
+Fri Feb 22 15:31:13 2008 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#21488, 81) killed by Olsma (229) 
+Fri Feb 22 17:37:56 2008 Mondasa the Half-God, The Bane Of The World(strong) (/wizards/jenny/gnael/mosut/mondasa#23548, 103) killed by Olsma (229) 
+Fri Feb 22 18:56:45 2008 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 18) killed by Alardolath (213) 
+Sat Feb 23 15:51:09 2008 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#29711, 57) killed by Celes (251) 
+Sat Feb 23 16:01:10 2008 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#30104, 75) killed by Celes (251) 
+Sat Feb 23 16:21:18 2008 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#30669, 76) killed by Celes (251) 
+Sat Feb 23 17:12:21 2008 Mondasa the Half-God, The Bane Of The World(strong) (/wizards/jenny/gnael/mosut/mondasa#31460, 103) killed by Celes (251) 
+Sat Feb 23 18:41:39 2008 August IV, the king of Roxen(strong) (/wizards/jenny/linnake/mosut/poika_august#32682, 90) killed by Celes (251) 
+Sat Feb 23 18:45:55 2008 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#35204, 57) killed by Celes (251) 
+Sat Feb 23 19:26:20 2008 Rewalah, Captain of the jailguards(strong) (/wizards/jenny/linnake/mosut/rewalah#35335, 86) killed by Celes (251) 
+Sun Feb 24 12:44:08 2008 Clubbah, a HUGE cave troll(strong) (/wizards/jenny/mehta/mosut/troll#10452, 65) killed by Ntg (243) 
+Sun Feb 24 22:44:19 2008 A mysterious looking man(strong) (/wizards/jenny/gnael/mosut/man, 57) killed by Ntg (243) 
+Sun Feb 24 23:06:56 2008 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#52608, 59) killed by Ntg (243) 
+Sun Feb 24 23:13:22 2008 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#53088, 71) killed by Ntg (243) 
+Sun Feb 24 23:41:09 2008 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#53402, 79) killed by Ntg (243) 
+Tue Mar 04 19:59:48 2008 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 23) killed by Atw (122) 
+Fri Mar 07 16:29:07 2008 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#2137, 64) killed by Alardolath (249) 
+Fri Mar 07 16:34:36 2008 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#27017, 74) killed by Alardolath (249) 
+Fri Mar 07 16:38:56 2008 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#27326, 75) killed by Alardolath (249) 
+Fri Mar 07 17:23:27 2008 Mondasa the Half-God, The Bane Of The World(strong) (/wizards/jenny/gnael/mosut/mondasa#27574, 103) killed by Alardolath (249) 
+Fri Mar 07 17:47:25 2008 August IV, the king of Roxen(strong) (/wizards/jenny/linnake/mosut/poika_august#1566, 77) killed by Alardolath (249) 
+Fri Mar 07 18:00:39 2008 Dreia, the queen of Roxen(strong) (/wizards/jenny/linnake/mosut/queen#1571, 78) killed by Alardolath (249) 
+Fri Mar 07 18:04:40 2008 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#33456, 57) killed by Alardolath (249) 
+Fri Mar 07 18:22:24 2008 Rewalah, Captain of the jailguards(strong) (/wizards/jenny/linnake/mosut/rewalah#33698, 88) killed by Alardolath (249) 
+Sat Mar 08 01:12:11 2008 Gorgola, The mighty chief of bandits(strong) (/wizards/jenny/events/robbers/gorgola#49161, 100) killed by Alardolath (250) 
+Sat Mar 08 11:08:26 2008 August IV, the king of Roxen(strong) (/wizards/jenny/linnake/mosut/poika_august#1348, 92) killed by Alardolath (250) 
+Sat Mar 08 11:13:20 2008 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#9684, 57) killed by Alardolath (250) 
+Sat Mar 08 11:38:06 2008 Rewalah, Captain of the jailguards(strong) (/wizards/jenny/linnake/mosut/rewalah#9912, 90) killed by Alardolath (250) 
+Sat Mar 08 18:14:41 2008 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#25563, 58) killed by Alardolath (250) 
+Sat Mar 08 18:19:25 2008 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#26235, 74) killed by Alardolath (250) 
+Sat Mar 08 18:26:17 2008 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#26684, 82) killed by Alardolath (250) 
+Sat Mar 08 19:44:09 2008 Mondasa the Half-God, The Bane Of The World(strong) (/wizards/jenny/gnael/mosut/mondasa#27295, 104) killed by Alardolath (250) 
+Sun Mar 09 01:08:25 2008 Gorgola, The mighty chief of bandits(strong) (/wizards/jenny/events/robbers/gorgola#35353, 100) killed by Alardolath (250) 
+Sat Apr 05 22:29:53 2008 Gorgola, The mighty chief of bandits(strong) (/wizards/jenny/events/robbers/gorgola#23704, 100) killed by Ntg (291) 
+Tue Apr 08 09:29:37 2008 Lucius Dagonus, oldest of Dagonus brothers(strong) (/wizards/jenny/linnake/mosut/lucius#1406, 78) killed by Ntg (291) 
+Tue Apr 08 10:49:41 2008 Durand the pacifist is here, moaning in his misery(strong) (/wizards/jenny/linnake/mosut/durand#2514, 84) killed by Ntg (291) 
+Tue Apr 08 17:59:58 2008 A mysterious looking man(strong) (/wizards/jenny/gnael/mosut/man, 57) killed by Ntg (291) 
+Tue Apr 08 18:08:54 2008 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#19088, 64) killed by Ntg (291) 
+Fri Apr 25 14:44:13 2008 Alconte, the legendary warrior(strong) (/wizards/jenny/linnake/mosut/alconte#3648, 72) killed by Olsma (230) 
+Sat Apr 26 13:03:49 2008 Clubbah, a HUGE cave troll(strong) (/wizards/jenny/mehta/mosut/troll#6114, 65) killed by Olsma (230) 
+Fri May 02 18:31:57 2008 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 15) killed by Golthar (346) 
+Sat May 03 09:17:26 2008 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#6075, 57) killed by Golthar (347) 
+Sat May 03 10:53:10 2008 Rewalah, Captain of the jailguards(strong) (/wizards/jenny/linnake/mosut/rewalah#6176, 89) killed by Golthar (347) 
+Thu May 08 15:14:01 2008 August IV, the king of Roxen(strong) (/wizards/jenny/linnake/mosut/poika_august#6281, 75) killed by Atw (172) 
+Thu May 08 15:29:31 2008 Dreia, the queen of Roxen(strong) (/wizards/jenny/linnake/mosut/queen#6288, 76) killed by Ntg (297) 
+Thu May 08 15:36:27 2008 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#7449, 57) killed by Atw (172) 
+Mon May 12 00:22:01 2008 A mysterious looking man(strong) (/wizards/jenny/gnael/mosut/man, 50) killed by Olsma (230) 
+Mon May 12 00:33:39 2008 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#7340, 60) killed by Olsma (230) 
+Mon May 12 00:39:01 2008 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#7576, 72) killed by Olsma (230) 
+Mon May 12 01:04:29 2008 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#7705, 76) killed by Olsma (230) 
+Mon May 12 16:09:56 2008 Lucius Dagonus, oldest of Dagonus brothers(strong) (/wizards/jenny/linnake/mosut/lucius#5333, 79) killed by Olsma (230) 
+Tue May 13 14:33:08 2008 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#6900, 57) killed by Ntg (297) 
+Tue May 13 14:38:10 2008 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#7028, 68) killed by Ntg (297) 
+Tue May 13 14:42:44 2008 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#7099, 81) killed by Ntg (297) 
+Tue May 13 15:17:39 2008 Mondasa the Half-God, The Bane Of The World(strong) (/wizards/jenny/gnael/mosut/mondasa#7399, 104) killed by Ntg (297) 
+Wed May 14 18:42:29 2008 Happy looking lord called Gorim(strong) (/wizards/jenny/linnake/mosut/gorim#6812, 60) killed by Olsma (230) 
+Thu May 15 14:36:29 2008 Alconte, the legendary warrior(strong) (/wizards/jenny/linnake/mosut/alconte#4600, 81) killed by Olsma (230) 
+Thu May 22 22:50:30 2008 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#22085, 57) killed by Oaycrin (188) 
+Thu May 22 23:47:33 2008 Lucius Dagonus, oldest of Dagonus brothers(strong) (/wizards/jenny/linnake/mosut/lucius#21751, 82) killed by Olsma (230) 
+Fri May 23 01:50:18 2008 August IV, the king of Roxen(strong) (/wizards/jenny/linnake/mosut/poika_august#21772, 85) killed by Shadowman (107) 
+Fri May 23 02:09:10 2008 Dreia, the queen of Roxen(strong) (/wizards/jenny/linnake/mosut/queen#21778, 77) killed by Olsma (230) 
+Fri May 23 17:37:17 2008 A mysterious looking man(strong) (/wizards/jenny/gnael/mosut/man, 57) killed by Olsma (230) 
+Mon May 26 18:29:40 2008 A mysterious looking man(strong) (/wizards/jenny/gnael/mosut/man, 52) killed by Olsma (230) 
+Mon May 26 18:36:16 2008 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#17375, 59) killed by Olsma (230) 
+Mon May 26 18:46:59 2008 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#17434, 71) killed by Olsma (230) 
+Mon May 26 19:00:23 2008 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#17706, 78) killed by Olsma (230) 
+Mon May 26 20:15:05 2008 Mondasa the Half-God, The Bane Of The World(strong) (/wizards/jenny/gnael/mosut/mondasa#18207, 103) killed by Shadowman (135) 
+Thu Aug 07 13:33:45 2008 Happy looking lord called Gorim(strong) (/wizards/jenny/linnake/mosut/gorim#7643, 50) killed by Shadowman (175) 
+Thu Aug 14 22:40:39 2008 Alconte, the legendary warrior(strong) (/wizards/jenny/linnake/mosut/alconte#18489, 76) killed by Alardolath (267) 
+Mon Sep 01 21:16:19 2008 Durand the pacifist is here, moaning in his misery(strong) (/wizards/jenny/linnake/mosut/durand#31944, 92) killed by Alardolath (267) 
+Mon Sep 01 21:52:38 2008 Lucius Dagonus, oldest of Dagonus brothers(strong) (/wizards/jenny/linnake/mosut/lucius#35496, 85) killed by Alardolath (267) 
+Wed Sep 03 16:10:50 2008 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#14385, 57) killed by Golthar (368) 
+Wed Sep 03 17:51:53 2008 Rewalah, Captain of the jailguards(strong) (/wizards/jenny/linnake/mosut/rewalah#15152, 87) killed by Golthar (368) 
+Fri Sep 05 10:00:59 2008 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#4394, 57) killed by Golthar (368) 
+Fri Sep 05 11:10:16 2008 August IV, the king of Roxen(strong) (/wizards/jenny/linnake/mosut/poika_august#1081, 79) killed by Golthar (368) 
+Fri Sep 05 12:19:26 2008 Rewalah, Captain of the jailguards(strong) (/wizards/jenny/linnake/mosut/rewalah#4526, 93) killed by Golthar (368) 
+Fri Sep 05 12:43:06 2008 Dreia, the queen of Roxen(strong) (/wizards/jenny/linnake/mosut/queen#1086, 82) killed by Golthar (368) 
+Fri Sep 05 13:52:44 2008 Alconte, the legendary warrior(strong) (/wizards/jenny/linnake/mosut/alconte#12016, 82) killed by Golthar (368) 
+Fri Sep 05 14:44:23 2008 A mysterious looking man(strong) (/wizards/jenny/gnael/mosut/man, 61) killed by Golthar (368) 
+Fri Sep 05 14:58:13 2008 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#15573, 62) killed by Golthar (368) 
+Fri Sep 05 15:08:34 2008 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#15916, 70) killed by Golthar (368) 
+Fri Sep 05 15:27:50 2008 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#16399, 84) killed by Golthar (368) 
+Sat Sep 06 07:53:25 2008 A mysterious looking man(strong) (/wizards/jenny/gnael/mosut/man, 57) killed by Golthar (368) 
+Sat Sep 06 08:09:57 2008 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#1588, 56) killed by Golthar (368) 
+Sat Sep 06 08:43:16 2008 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#2042, 68) killed by Golthar (368) 
+Sat Sep 06 08:51:28 2008 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#2592, 79) killed by Golthar (368) 
+Sat Sep 06 09:32:51 2008 Mondasa the Half-God, The Bane Of The World(strong) (/wizards/jenny/gnael/mosut/mondasa#2878, 104) killed by Golthar (368) 
+Sat Sep 13 02:31:22 2008 Durand the pacifist is here, moaning in his misery(strong) (/wizards/jenny/linnake/mosut/durand#81943, 79) killed by Ntg (387) 
+Sat Sep 13 12:42:51 2008 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#14602, 57) killed by Ntg (388) 
+Sat Sep 13 12:48:23 2008 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#14947, 78) killed by Ntg (388) 
+Sat Sep 13 12:54:41 2008 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#15375, 82) killed by Ntg (388) 
+Sat Sep 13 17:12:09 2008 Durand the pacifist is here, moaning in his misery(strong) (/wizards/jenny/linnake/mosut/durand#31654, 82) killed by Ntg (388) 
+Sun Sep 14 00:04:36 2008 Mondasa the Half-God, The Bane Of The World(strong) (/wizards/jenny/gnael/mosut/mondasa#15848, 103) killed by Ntg (388) 
+Sun Sep 14 13:36:42 2008 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#25937, 57) killed by Ntg (388) 
+Sun Sep 14 13:57:25 2008 Rewalah, Captain of the jailguards(strong) (/wizards/jenny/linnake/mosut/rewalah#26162, 92) killed by Ntg (388) 
+Sun Sep 14 14:26:13 2008 August IV, the king of Roxen(strong) (/wizards/jenny/linnake/mosut/poika_august#25752, 99) killed by Ntg (388) 
+Sun Sep 14 14:48:06 2008 Dreia, the queen of Roxen(strong) (/wizards/jenny/linnake/mosut/queen#25759, 84) killed by Ntg (388) 
+Fri Sep 26 23:25:02 2008 Lucius Dagonus, oldest of Dagonus brothers(strong) (/wizards/jenny/linnake/mosut/lucius#64103, 80) killed by Ntg (400) 
+Fri Sep 26 23:33:52 2008 Alconte, the legendary warrior(strong) (/wizards/jenny/linnake/mosut/alconte#64574, 82) killed by Madk (155) 
+Sat Sep 27 19:23:36 2008 Lucius Dagonus, oldest of Dagonus brothers(strong) (/wizards/jenny/linnake/mosut/lucius#11781, 84) killed by Ntg (400) 
+Fri Oct 03 19:31:48 2008 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 28) killed by Laeh (152) 
+Sat Oct 11 01:16:07 2008 Gorgola, The mighty chief of bandits(strong) (/wizards/jenny/events/robbers/gorgola#28462, 100) killed by Golthar (400) 
+Sat Oct 11 11:15:42 2008 A mysterious looking man(strong) (/wizards/jenny/gnael/mosut/man, 54) killed by Golthar (400) 
+Sat Oct 11 11:25:03 2008 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#3607, 62) killed by Golthar (400) 
+Sat Oct 11 11:26:45 2008 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 26) killed by Laeh (164) 
+Sat Oct 11 11:35:39 2008 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#3853, 79) killed by Golthar (400) 
+Sat Oct 11 12:01:48 2008 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#4587, 75) killed by Golthar (400) 
+Sat Oct 11 17:18:45 2008 Mondasa the Half-God, The Bane Of The World(strong) (/wizards/jenny/gnael/mosut/mondasa#5702, 104) killed by Golthar (400) 
+wizards/jenny/linnake/mosut/iska_august.c line 60: Variable chat_str not declared !
+wizards/jenny/linnake/mosut/iska_august.c line 61: Variable chat_str not declared !
+wizards/jenny/linnake/mosut/iska_august.c line 62: Variable chat_str not declared !
+wizards/jenny/linnake/mosut/iska_august.c line 64: Variable chat_str not declared !
+wizards/jenny/linnake/mosut/iska_august.c line 61: Variable chat_str not declared !
+wizards/jenny/linnake/mosut/iska_august.c line 62: Variable chat_str not declared !
+wizards/jenny/linnake/mosut/iska_august.c line 63: Variable chat_str not declared !
+wizards/jenny/linnake/mosut/iska_august.c line 65: Variable chat_str not declared !
+Thu Oct 23 18:17:21 2008 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#3127, 56) killed by Ntg (400) 
+Thu Oct 23 18:22:50 2008 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#3182, 70) killed by Ntg (400) 
+Thu Oct 23 18:31:26 2008 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#3234, 83) killed by Ntg (400) 
+Thu Oct 23 22:29:01 2008 Gorgola, The mighty chief of bandits(strong) (/wizards/jenny/events/robbers/gorgola#4440, 100) killed by Ntg (400) 
+Fri Oct 24 19:12:28 2008 Beledor Blodimskin, owner of the mansion(strong) (/wizards/jenny/gnael/mosut/beledor#5338, 46) killed by Ntg (400) 
+Fri Oct 24 19:14:22 2008 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 21) killed by Ntg (400) 
+Sat Oct 25 20:15:27 2008 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 25) killed by Manzku (121) 
+Mon Oct 27 12:31:19 2008 Durand the pacifist is here, moaning in his misery(strong) (/wizards/jenny/linnake/mosut/durand#3808, 82) killed by Ntg (400) 
+Sat Nov 08 19:45:00 2008 Gorgola, The mighty chief of bandits(strong) (/wizards/jenny/events/robbers/gorgola#5892, 100) killed by Ntg (400) 
+Sat Nov 08 20:00:22 2008 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#10987, 60) killed by Ntg (400) 
+Sat Nov 08 20:08:10 2008 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#11360, 75) killed by Ntg (400) 
+Sat Nov 08 20:15:19 2008 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#11462, 84) killed by Ntg (400) 
+Sat Nov 08 20:47:07 2008 Mondasa the Half-God, The Bane Of The World(strong) (/wizards/jenny/gnael/mosut/mondasa#11804, 104) killed by Ntg (400) 
+Mon Nov 10 20:27:21 2008 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#13559, 57) killed by Ntg (400) 
+Wed Nov 12 16:31:37 2008 Lucius Dagonus, oldest of Dagonus brothers(strong) (/wizards/jenny/linnake/mosut/lucius#13338, 77) killed by Ntg (400) 
+Fri Nov 14 17:43:34 2008 August IV, the king of Roxen(strong) (/wizards/jenny/linnake/mosut/poika_august#8589, 87) killed by Ntg (400) 
+Mon Nov 24 11:47:04 2008 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 26) killed by Hemu (47) 
+Sat Nov 29 19:07:06 2008 Lucius Dagonus, oldest of Dagonus brothers(strong) (/wizards/jenny/linnake/mosut/lucius#14083, 82) killed by Ozmala (235) 
+Sun Nov 30 17:41:15 2008 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#15655, 57) killed by Ntg (400) 
+Sun Nov 30 22:28:37 2008 Durand the pacifist is here, moaning in his misery(strong) (/wizards/jenny/linnake/mosut/durand#19366, 93) killed by Laeh (203) 
+Thu Dec 04 14:30:01 2008 Clubbah, a HUGE cave troll(strong) (/wizards/jenny/mehta/mosut/troll#7163, 65) killed by Ozmala (249) 
+Thu Dec 04 14:45:45 2008 A mysterious looking man(strong) (/wizards/jenny/gnael/mosut/man, 59) killed by Ozmala (249) 
+Thu Dec 04 14:53:57 2008 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#7956, 57) killed by Ozmala (249) 
+Thu Dec 04 14:58:27 2008 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#8064, 78) killed by Ozmala (249) 
+Thu Dec 04 15:19:06 2008 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#8162, 84) killed by Ozmala (249) 
+Thu Dec 04 20:52:06 2008 Mondasa the Half-God, The Bane Of The World(strong) (/wizards/jenny/gnael/mosut/mondasa#8808, 103) killed by Laeh (203) 
+Sun Dec 07 22:05:21 2008 August IV, the king of Roxen(strong) (/wizards/jenny/linnake/mosut/poika_august#6427, 90) killed by Ozmala (250) 
+Sun Dec 07 22:20:29 2008 Dreia, the queen of Roxen(strong) (/wizards/jenny/linnake/mosut/queen#6432, 77) killed by Ozmala (250) 
+Sun Dec 07 22:34:05 2008 Alconte, the legendary warrior(strong) (/wizards/jenny/linnake/mosut/alconte#8697, 82) killed by Laeh (203) 
+Mon Dec 08 20:40:30 2008 A mysterious looking man(strong) (/wizards/jenny/gnael/mosut/man, 52) killed by Ozmala (250) 
+Mon Dec 08 20:46:34 2008 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#7924, 57) killed by Ozmala (250) 
+Mon Dec 08 20:50:52 2008 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#8018, 68) killed by Ozmala (250) 
+Mon Dec 08 20:58:10 2008 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#8113, 77) killed by Ozmala (250) 
+Mon Dec 08 22:15:02 2008 Mondasa the Half-God, The Bane Of The World(strong) (/wizards/jenny/gnael/mosut/mondasa#8459, 103) killed by Laeh (203) 
+Sat Jan 17 20:47:17 2009 Happy looking lord called Gorim(strong) (/wizards/jenny/linnake/mosut/gorim#17361, 72) killed by Alardolath (361) 
+Sun Jan 18 13:54:26 2009 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 27) killed by Terror (236) 
+Sat Jan 31 12:22:18 2009 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#9660, 64) killed by Alardolath (435) 
+Sat Jan 31 12:29:12 2009 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#9867, 68) killed by Alardolath (435) 
+Sat Jan 31 12:41:02 2009 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#10044, 81) killed by Alardolath (435) 
+Sat Jan 31 16:14:15 2009 Mondasa the Half-God, The Bane Of The World(strong) (/wizards/jenny/gnael/mosut/mondasa#13088, 103) killed by Alardolath (436) 
+Wed Apr 01 22:13:55 2009 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#10526, 57) killed by Ntg (558) 
+Wed Jun 03 20:22:23 2009 Lucius Dagonus, oldest of Dagonus brothers(strong) (/wizards/jenny/linnake/mosut/lucius#2619, 80) killed by Terror (408) 
+Wed Jun 03 20:44:40 2009 Durand the pacifist is here, moaning in his misery(strong) (/wizards/jenny/linnake/mosut/durand#2856, 86) killed by Terror (408) 
+Mon Jun 15 19:37:01 2009 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#1804, 57) killed by Terror (408) 
+Mon Jun 15 20:39:43 2009 Rewalah, Captain of the jailguards(strong) (/wizards/jenny/linnake/mosut/rewalah#1873, 92) killed by Terror (408) 
+Thu Jul 09 19:21:45 2009 A mysterious looking man(strong) (/wizards/jenny/gnael/mosut/man, 52) killed by Ntg (558) 
+Mon Jan 25 21:14:54 2010 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#2260, 60) killed by Ntg (558) 
+Wed Jan 27 19:02:33 2010 Alconte, the legendary warrior(strong) (/wizards/jenny/linnake/mosut/alconte#6282, 72) killed by Ntg (558) 
+Thu Feb 04 16:39:03 2010 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#1605, 63) killed by Ntg (558) 
+Thu Feb 04 16:46:57 2010 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#1688, 76) killed by Ntg (558) 
+Thu Feb 04 16:54:28 2010 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#1771, 77) killed by Ntg (558) 
+Sun Feb 07 18:58:47 2010 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#3194, 57) killed by Ntg (558) 
+Sun Feb 07 19:09:55 2010 Rewalah, Captain of the jailguards(strong) (/wizards/jenny/linnake/mosut/rewalah#3291, 88) killed by Ntg (558) 
+Tue Mar 16 20:58:47 2010 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#23165, 57) killed by Ntg (558) 
+Tue Mar 16 21:09:05 2010 Rewalah, Captain of the jailguards(strong) (/wizards/jenny/linnake/mosut/rewalah#23356, 87) killed by Ntg (558) 
+Tue Mar 23 16:24:50 2010 Dreia, the queen of Roxen(strong) (/wizards/jenny/linnake/mosut/queen#331, 86) killed by Ntg (558) 
+Tue Mar 23 16:26:38 2010 August IV, the king of Roxen(strong) (/wizards/jenny/linnake/mosut/poika_august#323, 98) killed by Alardolath (558) 
+Tue Mar 23 16:31:24 2010 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#17943, 57) killed by Alardolath (558) 
+Tue Apr 13 18:16:41 2010 Beledor Blodimskin, owner of the mansion(strong) (/wizards/jenny/gnael/mosut/beledor#21623, 44) killed by Koff (203) 
+Tue Apr 13 18:21:09 2010 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 16) killed by Koff (203) 
+Wed Sep 08 17:23:07 2010 Alconte, the legendary warrior(strong) (/wizards/jenny/linnake/mosut/alconte#3832, 83) killed by Ntg (558) 
+Fri Sep 17 23:44:29 2010 A strange looking woman is boiling something(strong) (/wizards/jenny/mehta/mosut/woman#10965, 40) killed by Elric (558) 
+wizards/jenny/mehta/rojut/bone.c line 34: Missing 'return <value>' statement
+Mon Oct 04 20:46:14 2010 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#18783, 57) killed by Terror (491) 
+Mon Oct 04 21:14:20 2010 August IV, the king of Roxen(strong) (/wizards/jenny/linnake/mosut/poika_august#8840, 91) killed by Alardolath (558) 
+Mon Oct 04 21:27:58 2010 Rewalah, Captain of the jailguards(strong) (/wizards/jenny/linnake/mosut/rewalah#19349, 88) killed by Alardolath (558) 
+Sat Oct 16 13:19:58 2010 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#2615, 61) killed by Ntg (558) 
+Sat Oct 16 13:24:46 2010 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#2687, 74) killed by Ntg (558) 
+Sat Oct 16 13:29:46 2010 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#2752, 76) killed by Ntg (558) 
+wizards/jenny/gnael/rojut/heart.c line 32: Missing 'return <value>' statement
+Sat Oct 16 14:16:44 2010 Mondasa the Half-God, The Bane Of The World(strong) (/wizards/jenny/gnael/mosut/mondasa#2814, 103) killed by Ntg (558) 
+wizards/jenny/mehta/rojut/bone.c line 34: Missing 'return <value>' statement
+wizards/jenny/mehta/rojut/bone.c line 34: Missing 'return <value>' statement
+wizards/jenny/mehta/rojut/bone.c line 34: Missing 'return <value>' statement
+wizards/jenny/gnael/rojut/heart.c line 32: Missing 'return <value>' statement
+Tue Oct 26 13:32:52 2010 Lucius Dagonus, oldest of Dagonus brothers(strong) (/wizards/jenny/linnake/mosut/lucius#5924, 83) killed by Terror (558) 
+Wed Oct 27 19:11:09 2010 Dreia, the queen of Roxen(strong) (/wizards/jenny/linnake/mosut/queen#3098, 84) killed by Hemies (171) 
+wizards/jenny/mehta/rojut/bone.c line 34: Missing 'return <value>' statement
+wizards/jenny/mehta/rojut/bone.c line 34: Missing 'return <value>' statement
+Thu Jun 02 01:20:40 2011 August IV, the king of Roxen(strong) (/wizards/jenny/linnake/mosut/poika_august#32607, 76) killed by Devil (185) 
+Thu Jun 02 01:55:13 2011 Dreia, the queen of Roxen(strong) (/wizards/jenny/linnake/mosut/queen#32614, 87) killed by Koff (558) 
+Thu Jun 02 02:04:01 2011 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#34319, 57) killed by Koff (558) 
+Thu Jun 02 02:41:37 2011 Rewalah, Captain of the jailguards(strong) (/wizards/jenny/linnake/mosut/rewalah#34432, 90) killed by Koff (558) 
+Thu Jun 02 03:22:51 2011 Durand the pacifist is here, moaning in his misery(strong) (/wizards/jenny/linnake/mosut/durand#35143, 91) killed by Koff (558) 
+Thu Jun 02 03:45:15 2011 Alconte, the legendary warrior(strong) (/wizards/jenny/linnake/mosut/alconte#28570, 79) killed by Koff (558) 
+Thu Jun 02 18:31:26 2011 Lucius Dagonus, oldest of Dagonus brothers(strong) (/wizards/jenny/linnake/mosut/lucius#6353, 82) killed by Devil (185) 
+Sun Jun 05 17:42:40 2011 Happy looking lord called Gorim(strong) (/wizards/jenny/linnake/mosut/gorim#2531, 69) killed by Koff (558) 
+Sun Jun 05 17:57:22 2011 Lucius Dagonus, oldest of Dagonus brothers(strong) (/wizards/jenny/linnake/mosut/lucius#2703, 78) killed by Koff (558) 
+Fri Sep 16 16:56:43 2011 Durand the pacifist is here, moaning in his misery(strong) (/wizards/jenny/linnake/mosut/durand#4086, 79) killed by Terror (558) 
+Sun Sep 18 16:28:07 2011 Lucius Dagonus, oldest of Dagonus brothers(strong) (/wizards/jenny/linnake/mosut/lucius#1178, 85) killed by Terror (558) 
+Wed Sep 21 10:36:40 2011 August IV, the king of Roxen(strong) (/wizards/jenny/linnake/mosut/poika_august#438, 83) killed by Terror (558) 
+Wed Sep 21 10:58:18 2011 Dreia, the queen of Roxen(strong) (/wizards/jenny/linnake/mosut/queen#445, 80) killed by Terror (558) 
+Thu Sep 22 07:55:34 2011 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#973, 57) killed by Terror (555) 
+Thu Sep 22 08:12:54 2011 Rewalah, Captain of the jailguards(strong) (/wizards/jenny/linnake/mosut/rewalah#1071, 92) killed by Terror (555) 
+Sat Oct 01 15:03:27 2011 Alconte, the legendary warrior(strong) (/wizards/jenny/linnake/mosut/alconte#1849, 82) killed by Terror (558) 
+wizards/jenny/gnael/rojut/heart.c line 32: Missing 'return <value>' statement
+Wed Dec 28 10:37:22 2011 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 23) killed by Terror (558) 
+Wed Dec 28 10:38:48 2011 Beledor Blodimskin, owner of the mansion(strong) (/wizards/jenny/gnael/mosut/beledor#1867, 45) killed by Terror (558) 
+Sat Jan 07 22:38:01 2012 Lucius Dagonus, oldest of Dagonus brothers(strong) (/wizards/jenny/linnake/mosut/lucius#5094, 83) killed by Ntg (558) 
+Mon Jan 09 19:25:36 2012 Dreia, the queen of Roxen(strong) (/wizards/jenny/linnake/mosut/queen#11058, 78) killed by Madk (184) 
+Wed Jan 11 17:46:46 2012 A dark robed ogre-mage named Gflaefg(strong) (/wizards/jenny/gnael/mosut/ogre_mage#4417, 55) killed by Ntg (558) 
+Wed Jan 11 17:52:26 2012 Neramaia, the mean looking vampire(undead) (strong) (/wizards/jenny/gnael/mosut/neramaia#4485, 78) killed by Ntg (558) 
+Wed Jan 11 17:56:20 2012 Bilidrim, the vicious looking dark elf(strong) (/wizards/jenny/gnael/mosut/bilidrim#4562, 78) killed by Ntg (558) 
+wizards/jenny/gnael/rojut/heart.c line 32: Missing 'return <value>' statement
+Wed Jan 11 18:31:56 2012 Mondasa the Half-God, The Bane Of The World(strong) (/wizards/jenny/gnael/mosut/mondasa#4651, 103) killed by Ntg (558) 
+Thu Jan 12 19:46:58 2012 Durand the pacifist is here, moaning in his misery(strong) (/wizards/jenny/linnake/mosut/durand#1374, 79) killed by Ntg (558) 
+Thu Jan 12 20:42:44 2012 Captain's elite guard is standing here(strong) (/wizards/jenny/linnake/mosut/elite_guard#3865, 57) killed by Ntg (558) 
+Thu Mar 29 21:13:53 2012 A strange looking woman is boiling something(strong) (/wizards/jenny/mehta/mosut/woman#24541, 40) killed by Elric (558) 
+Mon Apr 02 12:03:03 2012 Beledor Blodimskin, owner of the mansion(strong) (/wizards/jenny/gnael/mosut/beledor#1029, 41) killed by Elric (558) 
+Mon Apr 02 12:03:41 2012 Geremod the brave is guarding the basements(strong) (/wizards/jenny/gnael/mosut/geremod, 17) killed by Elric (558) 
+Mon Apr 02 12:31:01 2012 Feleodor Brogotuknik, the captain of guards(strong) (/wizards/jenny/gnael/mosut/feleodor#1583, 68) killed by Elric (558) 

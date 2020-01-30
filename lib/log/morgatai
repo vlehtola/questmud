@@ -1,0 +1,8 @@
+wizards/morgatai/eval_file.c line 2 :syntax error
+wizards/morgatai/eval_file.c line 2 :Illegal character (hex ffffffe4) 'ä'
+wizards/morgatai/eval_file.c line 2 :syntax error
+wizards/morgatai/eval_file.c line 2 :Illegal character (hex ffffffe4) 'ä'
+wizards/morgatai/eval_file.c line 2 :Variable moonstar not declared !
+wizards/morgatai/eval_file.c line 2 :syntax error
+wizards/morgatai/eval_file.c line 2 :syntax error
+wizards/morgatai/eval_file.c line 2 :Variable healer not declared !

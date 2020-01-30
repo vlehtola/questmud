@@ -1,0 +1,27 @@
+wizards/tiergon/eq/eldstaff.c line 9 :syntax error
+wizards/tiergon/dungeon/monsters/bclord.c line 35 :Variable number_of_fighter not declared !
+wizards/tiergon/eq/eldstaff.c line 9 :syntax error
+wizards/tiergon/eq/eldstaff.c line 9 :syntax error
+wizards/tiergon/dungeon/monsters/qminer.c line 40 :Variable this_player not declared !
+wizards/tiergon/dungeon/monsters/qminer.c line 40 :Variable this_player not declared !
+wizards/tiergon/dungeon/monsters/qminer.c line 40 :Variable this_player not declared !
+wizards/tiergon/dungeon/monsters/qminer.c line 40 :Variable this_player not declared !
+wizards/tiergon/dungeon/monsters/qminer.c line 49 :syntax error
+wizards/tiergon/dungeon/monsters/qminer.c line 47 :syntax error
+wizards/tiergon/dungeon/monsters/qminer.c line 47 :syntax error
+wizards/tiergon/dungeon/monsters/bclord.c line 35 :Variable number_of_fighter not declared !
+wizards/tiergon/workroom.c line 8 :syntax error
+wizards/tiergon/workroom.c line 10 :syntax error
+wizards/tiergon/workroom.c line 21 :Illegal LHS
+wizards/tiergon/workroom.c line 21 :Illegal LHS
+wizards/tiergon/workroom.c line 21 :Illegal LHS
+wizards/tiergon/workroom.c line 21 :syntax error
+wizards/tiergon/workroom.c line 5 :syntax error
+wizards/tiergon/workroom.c line 21 :Illegal LHS
+wizards/tiergon/workroom.c line 21 :Illegal LHS
+wizards/tiergon/workroom.c line 21 :Illegal LHS
+wizards/tiergon/workroom.c line 21 :syntax error
+wizards/tiergon/dungeon/monsters/qminertst.c line 49: syntax error
+wizards/tiergon/dungeon/monsters/qminertst.c line 49: syntax error
+wizards/tiergon/dungeon/monsters/qminertst.c line 49: syntax error
+wizards/tiergon/dungeon/monsters/qminertst.c line 49: syntax error

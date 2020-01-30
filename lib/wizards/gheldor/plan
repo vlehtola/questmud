@@ -1,0 +1,100 @@
+  Witch
+
+Kilta perustuu suurimmaks osaks potioneihin, muutama hyˆkk‰ys spelli,
+pieni protti, ja sitten muutamia specialei.
+
+Potions: 
+
+1 skilli tuntee herbit %-mukaan (herbej‰ outworldist‰ maaston mukaan)
+
+1 skilli tekee potikat, mutta pit‰‰ olla resepti kirjassa. Reseptit
+monsuilta (niinku scrollit). Reseptej‰ voi vaan lukea skillill‰, ett‰
+pystyy ymm‰rt‰m‰‰n mit‰ mˆmmˆj‰ s‰ sinne pataan laitat ku teet potikoita
+
+Pit‰‰ olla pata miss‰ teh‰ (ehk‰ joku summon pata spelli, toimii vaan 
+ulkohuoneissa). Potioneissa itess‰‰n ei ole mit‰‰n labellei niinku
+zombassa (A potion of wisdom (43)), vaan ne on eriv‰risi‰ ja niit‰ vois
+ehk‰ ite labellaa. Potikan teon pystyy fumblaamaan (esim vahingossa liikaa
+jotain herbi‰ tai v‰‰r‰‰ herbi‰!) vaikutus positiivinen tai negatiivinen..
+eli siis saattaa boostaa sit‰ potikkaa (hyvin pieni mahdollisuus) tai sitten
+teh‰ siit‰ ihan paskan. Ehk‰ myˆs vaativimmissa potikoissa pit‰s olla viel‰
+jotain verta / elimi‰, niit‰ taas pystyis hankkimaan corpseista witchien
+guildi itemill‰ / tai subi, joku rituaali puukko. Potikat olis nosave tietty.
+
+Jos juo liikaa potikoita, ni ne sekottuu sun mahassa tms, ep‰vakaat vaikutukset
+..esim jos sul on tarpeeks aineksia sun mahassa mit‰ tarvitaan poisoniin, ni
+saatat kuolla tms.
+
+Killan spelli systeemi perustuis kolmeen eri "luokkaan".. niinku clerruilla
+on cast minor, lesser ja major.. 3 viimeist‰ tavua muuttuu. Witcheil olis
+vaan 2 damage type‰.. fire ja cold, mut eri tavut ku mageilla kuitenki
+
+cast curse:
+
+  Player curse - ei kest‰ hirveen kauaa, joku 7-10 min, -50% all stats
+                 ei voi quittaa ettei vaikutus h‰vi‰
+
+  Lesser monster curse - kest‰‰ ~10min, -50% str, save throw 1/2
+
+  Greater monster curse - kest‰‰ max 5 min, -30% (ehk‰ v‰hemm‰n?)
+                          all skills, save throw 1/2, ei voi heitt‰‰
+                          samaan aikaan ku Lesser curse
+
+  Item curse - ei voi removaa EQua, statit v‰henee (ehk‰ jopa neg?), itemist‰
+               tulee nosave, cursen voi poistaa witchi spellill‰, tai potikalla(?)
+
+cast vortex:
+
+  Fire ja Ice protit, k‰ytet‰‰n niiden tavujen kanssa.
+  Fire vortex protektii icea jonku verran, muita pikkasen, fire‰ ei yht‰‰n
+  katoo daman mukana hiljalleen, voi recastaa vaikka viel‰ p‰‰ll‰, mutta ei 
+  vahvista maxia enemp‰‰ kuitenkaan
+
+  Ice vortex sama, mutta toistep‰in.. (eli protektaa fire‰, ei ice‰)
+
+cast item: 
+
+  k‰ytet‰‰n viimesen‰ tavuna.. esim cast witch craft, cast curse, cast item
+
+cast enchant:
+
+  3 eri enchanttia.. weapon, armour, ??
+
+cast hallucination:
+
+  1 hallucination: pelaaja n‰kee harhoja, on vainoharhanen.. 
+
+  2 charm: ??
+
+  3 disguise??
+
+cast remove:
+
+  pystyy removee witchi spellien vaikutuksia.. k‰ytet‰‰n viimesen‰
+  esim cast witch craft, cast curse, cast remove.. ei toimi kaikkiin tms
+
+enemp‰‰ en oo uskaltanu miettii, koska jos ette tykk‰‰ ideasta, ni sit olis
+turhaan miettiny.. feel free to flame, n‰‰ on vaan ehdotuksia, muutoksia
+otetaan mielell‰‰n vastaan..
+
+
+Potikka lista (_KESKENERƒNEN_ muutama esimerkki)
+
+-Statit (str,dex,con,int,wis)
+-Stun res
+-Avoid death
+-Poison
+-Remove poison
+-Heal
+-Heavy weight
+-Mana
+-Regen?
+-Remove curse
+-Curse
+
+
+
+
+   -+Siki
+
+

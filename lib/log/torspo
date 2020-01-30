@@ -1,0 +1,373 @@
+wizards/torspo/areat/gnomes/monsters/beast1.c line 14 :syntax error
+wizards/torspo/areat/gnomes/monsters/beast1.c line 14 :syntax error
+wizards/torspo/areat/gnomes/monsters/beast1.c line 14 :Illegal character (hex 2e) '.'
+wizards/torspo/areat/gnomes/monsters/beast1.c line 14 :Illegal character (hex 5c) '\'
+wizards/torspo/areat/gnomes/monsters/beast1.c line 14 :Newline in string
+wizards/torspo/areat/gnomes/hills26.c line 18 :syntax error
+wizards/torspo/areat/gnomes/hills26.c line 19 :Illegal LHS
+wizards/torspo/areat/gnomes/hills26.c line 20 :syntax error
+wizards/torspo/areat/ogre/monsters/ogre1.c line 4 :Variable l not declared !
+wizards/torspo/areat/ogre/monsters/ogre1.c line 5 :syntax error
+wizards/torspo/areat/ogre/monsters/ogre1.c line 8 :Variable l not declared !
+wizards/torspo/areat/ogre/monsters/ogre1.c line 10 :syntax error
+wizards/torspo/areat/ogre/monsters/ogre1.c line 10 :Illegal LHS
+wizards/torspo/areat/ogre/monsters/ogre1.c line 11 :syntax error
+wizards/torspo/areat/ogre/monsters/ogre1.c line 4 :Variable l not declared !
+wizards/torspo/areat/ogre/monsters/ogre1.c line 5 :syntax error
+wizards/torspo/areat/ogre/monsters/ogre1.c line 8 :Variable l not declared !
+wizards/torspo/areat/ogre/monsters/ogre1.c line 9 :Variable l not declared !
+wizards/torspo/areat/ogre/monsters/ogre1.c line 28 :Variable weapon not declared !
+wizards/torspo/areat/ogre/monsters/ogre1.c line 29 :Variable weapon not declared !
+wizards/torspo/areat/ogre/monsters/ogre1.c line 7 :Variable l not declared !
+wizards/torspo/areat/ogre/monsters/ogre1.c line 8 :Variable l not declared !
+wizards/torspo/areat/ogre/monsters/ogre1.c line 9 :Variable l not declared !
+wizards/torspo/areat/ogre/monsters/ogre1.c line 5 :function not defined by inheritance as specified
+wizards/torspo/areat/ogre/monsters/ogre1.c line 4 :function not defined by inheritance as specified
+wizards/torspo/areat/ogre/monsters/ogre1.c line 6 :syntax error
+wizards/torspo/areat/ogre/monsters/ogre1.c line 6 :Illegal LHS
+wizards/torspo/areat/ogre/monsters/ogre1.c line 7 :Variable l not declared !
+wizards/torspo/areat/ogre/monsters/ogre1.c line 8 :Variable l not declared !
+wizards/torspo/areat/ogre/monsters/ogre1.c line 5 :function not defined by inheritance as specified
+wizards/torspo/areat/ogre/monsters/ogre1.c line 5 :function not defined by inheritance as specified
+wizards/torspo/areat/ogre/monsters/ogre1.c line 10 :syntax error
+wizards/torspo/areat/ogre/monsters/ogre1.c line 28 :Too few arguments to clone_object
+wizards/torspo/areat/ogre/monsters/ogre1.c line 28 :Illegal LHS
+wizards/torspo/areat/ogre/monsters/ogre1.c line 28 :syntax error
+wizards/torspo/areat/ogre/monsters/ogre1.c line 36 :Illegal LHS
+wizards/torspo/areat/ogre/monsters/ogre1.c line 36 :syntax error
+wizards/torspo/areat/ogre/monsters/ogre1.c line 10 :syntax error
+wizards/torspo/areat/ogre/monsters/ogre1.c line 28 :Too few arguments to clone_object
+wizards/torspo/areat/ogre/monsters/ogre1.c line 28 :Illegal LHS
+wizards/torspo/areat/ogre/monsters/ogre1.c line 28 :syntax error
+wizards/torspo/areat/ogre/monsters/ogre1.c line 36 :Illegal LHS
+wizards/torspo/areat/ogre/monsters/ogre1.c line 36 :syntax error
+wizards/torspo/areat/ogre/monsters/ogre11.c line 4 :function not defined by inheritance as specified
+wizards/torspo/areat/ogre/monsters/ogre11.c line 34 :Variable attacker_ob not declared !
+wizards/torspo/areat/ogre/monsters/ogre11.c line 36 :Variable attacker_ob not declared !
+wizards/torspo/areat/ogre/monsters/ogre11.c line 4 :function not defined by inheritance as specified
+wizards/torspo/areat/ogre/monsters/ogre11.c line 34 :Variable attacker_ob not declared !
+wizards/torspo/areat/ogre/monsters/ogre11.c line 36 :Variable attacker_ob not declared !
+wizards/torspo/areat/ogre/monsters/ogre11.c line 4 :function not defined by inheritance as specified
+wizards/torspo/areat/ogre/monsters/ogre11.c line 34 :Variable attacker_ob not declared !
+wizards/torspo/areat/ogre/monsters/ogre11.c line 36 :Variable attacker_ob not declared !
+wizards/torspo/areat/ogre/monsters/ogre11.c line 4 :function not defined by inheritance as specified
+wizards/torspo/areat/ogre/monsters/ogre11.c line 34 :Variable attacker_ob not declared !
+wizards/torspo/areat/ogre/monsters/ogre11.c line 36 :Variable attacker_ob not declared !
+wizards/torspo/areat/ogre/monsters/ogre11.c line 4 :function not defined by inheritance as specified
+wizards/torspo/areat/ogre/monsters/ogre11.c line 34 :Variable attacker_ob not declared !
+wizards/torspo/areat/ogre/monsters/ogre11.c line 36 :Variable attacker_ob not declared !
+wizards/torspo/areat/ogre/monsters/ogre11.c line 5 :function not defined by inheritance as specified
+wizards/torspo/areat/ogre/monsters/ogre11.c line 35 :Variable attacker_ob not declared !
+wizards/torspo/areat/ogre/monsters/ogre11.c line 37 :Variable attacker_ob not declared !
+wizards/torspo/areat/ogre/monsters/ogre11.c line 40 :illegal to inherit after defining functions
+wizards/torspo/areat/ogre/monsters/ogre11.c line 41 :illegal to inherit after defining functions
+wizards/torspo/areat/ogre/monsters/ogre11.c line 41 :illegal to inherit after defining functions
+wizards/torspo/areat/ogre/monsters/ogre11.c line 41 :illegal to inherit after defining functions
+Sun Jun  3 17:56:22 2001 Huge, ancient crab (wizards/torspo/areat/ogre/monsters/crab#3366, 80) killed by Trooper (105) (Terror, Trooper, Tekari, Frotz)
+Mon Jun  4 22:15:03 2001 Huge, ancient crab (wizards/torspo/areat/ogre/monsters/crab#20701, 80) killed by Trooper (106) (Moonstar, Trooper, Coil, Terror)
+Tue Jun  5 19:41:37 2001 Huge, ancient crab (wizards/torspo/areat/ogre/monsters/crab#5582, 80) killed by Tekari (108) (Tekari, Frotz, Terror, Trooper, Coil)
+Thu Jul 26 17:53:06 2001 Tahn'garth, the king of ogres (wizards/torspo/areat/ogre/monsters/king#10416, 73) killed by Trooper (151) (Trooper, Ab, Rehti)
+Fri Jul 27 23:38:21 2001 Huge, ancient crab (wizards/torspo/areat/ogre/monsters/crab#5780, 80) killed by Rehti (102) (Trooper, Ab, Rehti)
+wizards/torspo/areat/gnomes/cave9.c line 16 :syntax error
+wizards/torspo/areat/gnomes/cave9.c line 19 :Illegal LHS
+wizards/torspo/areat/gnomes/cave9.c line 16 :syntax error
+wizards/torspo/areat/gnomes/cave9.c line 19 :Illegal LHS
+Tue Aug 14 16:04:29 2001 Ogre training master (wizards/torspo/areat/ogre/monsters/master#22958, 62) killed by Bloodstorm (72) (Jenny, Bloodstorm, Garuda)
+wizards/torspo/lukko.c line 8 :syntax error
+wizards/torspo/lukko.c line 12 :syntax error
+wizards/torspo/lukko.c line 8 :syntax error
+wizards/torspo/lukko.c line 12 :syntax error
+wizards/torspo/lukko.c line 8 :syntax error
+wizards/torspo/lukko.c line 16 :syntax error
+wizards/torspo/lukko.c line 8 :syntax error
+wizards/torspo/lukko.c line 17 :syntax error
+wizards/torspo/areat/gnomes/cave9.c line 16 :syntax error
+wizards/torspo/areat/gnomes/cave9.c line 19 :Illegal LHS
+wizards/torspo/areat/gnomes/cave9.c line 16 :syntax error
+wizards/torspo/areat/gnomes/cave9.c line 19 :Illegal LHS
+wizards/torspo/areat/gnomes/city1.c line 11 :Variable lond_desc not declared !
+wizards/torspo/areat/gnomes/monsters/child1.c line 18 :syntax error
+wizards/torspo/areat/gnomes/city5.c line 2 :syntax error
+wizards/torspo/areat/gnomes/city6.c line 4 :syntax error
+wizards/torspo/areat/gnomes/city6.c line 6 :syntax error
+wizards/torspo/areat/gnomes/city6.c line 10 :syntax error
+wizards/torspo/areat/gnomes/city6.c line 13 :syntax error
+wizards/torspo/areat/gnomes/city6.c line 13 :syntax error
+wizards/torspo/areat/gnomes/monsters/citizen3.c line 13 :syntax error
+wizards/torspo/areat/gnomes/monsters/citizen3.c line 19 :Illegal LHS
+wizards/torspo/areat/gnomes/monsters/citizen3.c line 19 :syntax error
+wizards/torspo/areat/gnomes/monsters/citizen3.c line 13 :syntax error
+wizards/torspo/areat/gnomes/monsters/citizen3.c line 19 :Illegal LHS
+wizards/torspo/areat/gnomes/monsters/citizen3.c line 19 :syntax error
+wizards/torspo/areat/gnomes/monsters/citizen3.c line 20 :Variable armour not declared !
+wizards/torspo/areat/gnomes/hills06.c line 16 :syntax error
+wizards/torspo/areat/gnomes/hills06.c line 16 :Illegal LHS
+wizards/torspo/areat/gnomes/hills27.c line 4 :syntax error
+wizards/torspo/areat/gnomes/hills27.c line 4 :syntax error
+wizards/torspo/areat/gnomes/hills26.c line 17 :syntax error
+wizards/torspo/areat/gnomes/hills26.c line 19 :Illegal LHS
+wizards/torspo/areat/gnomes/hills26.c line 20 :syntax error
+wizards/torspo/areat/gnomes/hills27.c line 4 :syntax error
+wizards/torspo/areat/gnomes/hills27.c line 4 :syntax error
+wizards/torspo/areat/gnomes/monsters/hero.c line 4 :syntax error
+wizards/torspo/areat/gnomes/monsters/hero.c line 23 :Variable chat_str not declared !
+wizards/torspo/areat/gnomes/monsters/hero.c line 23 :Newline in string
+wizards/torspo/areat/gnomes/monsters/hero.c line 24 :syntax error
+wizards/torspo/areat/gnomes/monsters/hero.c line 27 :Too few arguments to clone_object
+wizards/torspo/areat/gnomes/monsters/hero.c line 27 :Illegal LHS
+wizards/torspo/areat/gnomes/monsters/hero.c line 4 :syntax error
+wizards/torspo/areat/gnomes/monsters/hero.c line 23 :Variable chat_str not declared !
+wizards/torspo/areat/gnomes/monsters/hero.c line 24 :Variable chat_str not declared !
+wizards/torspo/areat/gnomes/monsters/hero.c line 25 :Variable chat_str not declared !
+wizards/torspo/areat/gnomes/monsters/hero.c line 26 :syntax error
+wizards/torspo/areat/gnomes/monsters/hero.c line 27 :Illegal LHS
+wizards/torspo/areat/gnomes/monsters/hero.c line 4 :syntax error
+wizards/torspo/areat/gnomes/monsters/hero.c line 23 :Variable chat_str not declared !
+wizards/torspo/areat/gnomes/monsters/hero.c line 24 :Variable chat_str not declared !
+wizards/torspo/areat/gnomes/monsters/hero.c line 25 :Variable chat_str not declared !
+wizards/torspo/areat/gnomes/monsters/hero.c line 26 :syntax error
+wizards/torspo/areat/gnomes/monsters/hero.c line 28 :Illegal LHS
+wizards/torspo/areat/gnomes/monsters/hero.c line 4 :syntax error
+wizards/torspo/areat/gnomes/monsters/hero.c line 23 :Variable chat_str not declared !
+wizards/torspo/areat/gnomes/monsters/hero.c line 24 :Variable chat_str not declared !
+wizards/torspo/areat/gnomes/monsters/hero.c line 25 :Variable chat_str not declared !
+wizards/torspo/areat/gnomes/monsters/hero.c line 26 :Variable chat_str not declared !
+wizards/torspo/areat/gnomes/monsters/hero.c line 28 :Variable armour not declared !
+wizards/torspo/areat/gnomes/monsters/hero.c line 60 :Variable q not declared !
+wizards/torspo/areat/gnomes/monsters/hero.c line 7 :syntax error
+wizards/torspo/areat/gnomes/monsters/hero.c line 23 :Variable q not declared !
+wizards/torspo/areat/gnomes/monsters/hero.c line 60 :Variable q not declared !
+wizards/torspo/areat/gnomes/monsters/hero.c line 8 :syntax error
+wizards/torspo/areat/gnomes/monsters/hero.c line 23 :Variable q not declared !
+wizards/torspo/areat/gnomes/monsters/hero.c line 60 :Variable q not declared !
+wizards/torspo/areat/gnomes/monsters/hero.c line 60 :Variable q not declared !
+wizards/torspo/areat/gnomes/monsters/hero.c line 60 :Variable q not declared !
+wizards/torspo/areat/gnomes/monsters/hero.c line 61 :Variable q not declared !
+wizards/torspo/areat/gnomes/monsters/hero.c line 60 :Variable q not declared !
+wizards/torspo/areat/gnomes/monsters/hero.c line 60 :Variable q not declared !
+wizards/torspo/areat/gnomes/monsters/hero.c line 60 :Variable q not declared !
+wizards/torspo/areat/gnomes/monsters/hero.c line 6 :syntax error
+wizards/torspo/areat/gnomes/monsters/hero.c line 22 :Variable q not declared !
+wizards/torspo/areat/gnomes/monsters/hero.c line 59 :Variable q not declared !
+wizards/torspo/areat/gnomes/hills27.c line 4 :syntax error
+wizards/torspo/areat/gnomes/hills27.c line 4 :syntax error
+wizards/torspo/areat/gnomes/hills27.c line 19 :syntax error
+wizards/torspo/areat/gnomes/hills27.c line 19 :syntax error
+Thu Aug 23 15:28:30 2001 Ogre training master (wizards/torspo/areat/ogre/monsters/master#12316, 64) killed by Rehti (139) (Trooper, Rehti, Rag)
+wizards/torspo/areat/gnomes/monsters/hero.c line 55 :Variable chat_str not declared !
+wizards/torspo/areat/gnomes/monsters/hero.c line 56 :Variable chat_str not declared !
+wizards/torspo/areat/gnomes/monsters/hero.c line 57 :Variable chat_str not declared !
+wizards/torspo/areat/gnomes/hills03.c line 10 :syntax error
+Thu Aug 30 23:06:41 2001 Huge, ancient crab (wizards/torspo/areat/ogre/monsters/crab#21568, 80) killed by Ahma (145) (Terror, Tekari, Ahma)
+Sat Sep  1 15:35:07 2001 Ogre training master (wizards/torspo/areat/ogre/monsters/master#21567, 60) killed by Ahma (146) (Tekari, Ahma)
+wizards/torspo/tuning/ilana.c line 61 :syntax error
+wizards/torspo/tuning/ilana.c line 60 :Too few arguments to tell_room
+wizards/torspo/tuning/ilana.c line 64 :Too few arguments to tell_room
+wizards/torspo/tuning/ilana.c line 73 :Too few arguments to tell_room
+wizards/torspo/testmonster.c line 4 :syntax error
+wizards/torspo/testmonster.c line 16 :Variable weapon not declared !
+wizards/torspo/testmonster.c line 17 :Variable weapon not declared !
+wizards/torspo/testmonster.c line 1 :Unrecognized inheritance modifier qualifier
+wizards/torspo/testmonster.c line 1 :Unrecognized inheritance modifier qualifier
+wizards/torspo/testmonster.c line 1 :syntax error
+wizards/torspo/testmonster.c line 3 :Unrecognized inheritance modifier qualifier
+wizards/torspo/testmonster.c line 3 :Unrecognized inheritance modifier qualifier
+wizards/torspo/testmonster.c line 3 :syntax error
+wizards/torspo/testmonster.c line 3 :Unrecognized inheritance modifier qualifier
+wizards/torspo/testmonster.c line 3 :Unrecognized inheritance modifier qualifier
+wizards/torspo/testmonster.c line 3 :syntax error
+Mon Sep 24 21:28:55 2001 Tahn'garth, the king of ogres (/wizards/torspo/areat/ogre/monsters/king#39059, 73) killed by Ahma (192) (Terror, Ahma, )
+wizards/torspo/guild/potion/green.c line 5 :Variable used not declared !
+wizards/torspo/guild/potion/green.c line 8 :Variable used not declared !
+wizards/torspo/guild/potion/green.c line 15 :syntax error
+wizards/torspo/guild/potion/green.c line 15 :syntax error
+wizards/torspo/guild/potion/green.c line 25 :syntax error
+wizards/torspo/guild/potion/green.c line 10 :Variable used not declared !
+wizards/torspo/guild/potion/green.c line 11 :Variable used not declared !
+wizards/torspo/guild/potion/green.c line 16 :Variable used not declared !
+wizards/torspo/guild/potion/green.c line 20 :Variable used not declared !
+wizards/torspo/guild/potion/green.c line 28 :Variable used not declared !
+wizards/torspo/guild/potion/green.c line 33 :Variable used not declared !
+wizards/torspo/guild/potion/green.c line 10 :Variable used not declared !
+wizards/torspo/guild/potion/green.c line 11 :Variable used not declared !
+wizards/torspo/guild/potion/green.c line 16 :Variable used not declared !
+wizards/torspo/guild/potion/green.c line 20 :Variable used not declared !
+wizards/torspo/guild/potion/green.c line 28 :Variable used not declared !
+wizards/torspo/guild/potion/green.c line 33 :Variable used not declared !
+wizards/torspo/guild/potion/1_poison.c line 40 :syntax error
+wizards/torspo/guild/potion/1_poison.c line 55 :syntax error
+wizards/torspo/guild/potion/1_poison.c line 55 :syntax error
+wizards/torspo/guild/potion/1_poison.c line 55 :syntax error
+wizards/torspo/guild/potion/1_poison.c line 56 :Too many arguments to write
+wizards/torspo/guild/potion/1_poison.c line 58 :syntax error
+wizards/torspo/guild/potion/1_poison.c line 56 :Too many arguments to write
+wizards/torspo/guild/potion/1_poison.c line 55 :Variable i not declared !
+wizards/torspo/guild/potion/1_poison.c line 55 :Variable i not declared !
+wizards/torspo/guild/potion/1_poison.c line 55 :Variable ob not declared !
+wizards/torspo/guild/potion/1_poison.c line 55 :Variable i not declared !
+wizards/torspo/guild/potion/1_poison.c line 55 :Variable ob not declared !
+wizards/torspo/guild/potion/1_poison.c line 55 :Variable i not declared !
+wizards/torspo/guild/potion/1_poison.c line 55 :Variable i not declared !
+wizards/torspo/guild/potion/1_poison.c line 55 :Variable i not declared !
+wizards/torspo/guild/potion/1_poison.c line 55 :Variable ob not declared !
+wizards/torspo/guild/potion/1_poison.c line 55 :Variable i not declared !
+wizards/torspo/guild/potion/1_poison.c line 55 :Variable ob not declared !
+wizards/torspo/guild/potion/1_poison.c line 55 :Variable i not declared !
+wizards/torspo/guild/potion/1_poison.c line 55 :Variable ob not declared !
+wizards/torspo/guild/potion/1_poison.c line 56 :Variable i not declared !
+wizards/torspo/guild/potion/1_poison.c line 56 :Variable i not declared !
+wizards/torspo/guild/potion/1_poison.c line 56 :Variable ob not declared !
+wizards/torspo/guild/potion/1_poison.c line 56 :Variable i not declared !
+wizards/torspo/guild/potion/1_poison.c line 56 :Variable ob not declared !
+wizards/torspo/guild/potion/1_poison.c line 55 :Variable ob not declared !
+wizards/torspo/guild/potion/1_poison.c line 58 :syntax error
+wizards/torspo/guild/potion/1_poison.c line 55 :Variable ob not declared !
+wizards/torspo/guild/potion/1_poison.c line 58 :Type mismatch ( unknown vs object * ) when initializing ob
+wizards/torspo/guild/potion/1_poison.c line 58 :Missing type
+wizards/torspo/guild/potion/1_poison.c line 55 :Variable ob not declared !
+wizards/torspo/guild/potion/1_poison.c line 61 :syntax error
+wizards/torspo/guild/potion/effects/1_poison_effect.c line 14 :syntax error
+wizards/torspo/guild/potion/effects/1_poison_effect.c line 14 :Illegal LHS
+wizards/torspo/guild/potion/effects/1_poison_effect.c line 18 :syntax error
+wizards/torspo/guild/potion/effects/1_poison_effect.c line 18 :Illegal LHS
+wizards/torspo/guild/potion/effects/1_poison_effect.c line 31 :syntax error
+wizards/torspo/guild/potion/effects/1_poison_effect.c line 31 :Illegal LHS
+wizards/torspo/guild/potion/1_poison.c line 49 :Variable poison not declared !
+wizards/torspo/guild/potion/1_poison.c line 50 :Variable poison not declared !
+wizards/torspo/guild/potion/1_poison.c line 49 :Variable effect not declared !
+wizards/torspo/guild/potion/1_poison.c line 49 :syntax error
+wizards/torspo/guild/potion/1_poison.c line 54 :Illegal LHS
+wizards/torspo/guild/potion/1_poison.c line 55 :Too few arguments to clone_object
+wizards/torspo/guild/potion/1_poison.c line 55 :Illegal LHS
+wizards/torspo/guild/potion/1_poison.c line 55 :syntax error
+wizards/torspo/guild/potion/1_poison.c line 49 :Variable effect not declared !
+wizards/torspo/guild/potion/1_poison.c line 49 :syntax error
+wizards/torspo/guild/potion/1_poison.c line 54 :Illegal LHS
+wizards/torspo/guild/potion/1_poison.c line 55 :Too few arguments to clone_object
+wizards/torspo/guild/potion/1_poison.c line 55 :Illegal LHS
+wizards/torspo/guild/potion/1_poison.c line 55 :syntax error
+wizards/torspo/guild/potion/1_poison.c line 49 :syntax error
+wizards/torspo/guild/potion/1_poison.c line 54 :Illegal LHS
+wizards/torspo/guild/potion/1_poison.c line 55 :Too few arguments to clone_object
+wizards/torspo/guild/potion/1_poison.c line 55 :Illegal LHS
+wizards/torspo/guild/potion/1_poison.c line 55 :syntax error
+wizards/torspo/guild/potion/1_poison.c line 64 :Illegal LHS
+wizards/torspo/guild/potion/1_poison.c line 49 :syntax error
+wizards/torspo/guild/potion/1_poison.c line 54 :Illegal LHS
+wizards/torspo/guild/potion/1_poison.c line 55 :Too few arguments to clone_object
+wizards/torspo/guild/potion/1_poison.c line 55 :Illegal LHS
+wizards/torspo/guild/potion/1_poison.c line 55 :syntax error
+wizards/torspo/guild/potion/1_poison.c line 64 :Illegal LHS
+wizards/torspo/guild/potion/1_poison.c line 49 :syntax error
+wizards/torspo/guild/potion/1_poison.c line 54 :Illegal LHS
+wizards/torspo/guild/potion/1_poison.c line 55 :Too few arguments to clone_object
+wizards/torspo/guild/potion/1_poison.c line 55 :Illegal LHS
+wizards/torspo/guild/potion/1_poison.c line 55 :syntax error
+wizards/torspo/guild/potion/1_poison.c line 64 :Illegal LHS
+wizards/torspo/guild/potion/1_poison.c line 49 :syntax error
+wizards/torspo/guild/potion/1_poison.c line 54 :Illegal LHS
+wizards/torspo/guild/potion/1_poison.c line 55 :Too few arguments to clone_object
+wizards/torspo/guild/potion/1_poison.c line 55 :Illegal LHS
+wizards/torspo/guild/potion/1_poison.c line 55 :syntax error
+wizards/torspo/guild/potion/1_poison.c line 64 :Illegal LHS
+wizards/torspo/guild/potion/1_poison.c line 49 :syntax error
+wizards/torspo/guild/potion/1_poison.c line 54 :Illegal LHS
+wizards/torspo/guild/potion/1_poison.c line 55 :Too few arguments to clone_object
+wizards/torspo/guild/potion/1_poison.c line 55 :Illegal LHS
+wizards/torspo/guild/potion/1_poison.c line 55 :syntax error
+wizards/torspo/guild/potion/1_poison.c line 64 :Illegal LHS
+wizards/torspo/guild/potion/1_poison.c line 49 :syntax error
+wizards/torspo/guild/potion/1_poison.c line 54 :Illegal LHS
+wizards/torspo/guild/potion/1_poison.c line 55 :Too few arguments to clone_object
+wizards/torspo/guild/potion/1_poison.c line 55 :Illegal LHS
+wizards/torspo/guild/potion/1_poison.c line 55 :syntax error
+wizards/torspo/guild/potion/1_poison.c line 49 :syntax error
+wizards/torspo/guild/potion/1_poison.c line 54 :Illegal LHS
+wizards/torspo/guild/potion/1_poison.c line 55 :Too few arguments to clone_object
+wizards/torspo/guild/potion/1_poison.c line 55 :Illegal LHS
+wizards/torspo/guild/potion/1_poison.c line 55 :syntax error
+wizards/torspo/guild/potion/1_poison.c line 3 :Type mismatch ( unknown vs object ) when initializing effect
+wizards/torspo/guild/potion/1_poison.c line 3 :Missing type
+wizards/torspo/guild/potion/1_poison.c line 49 :Variable effect not declared !
+wizards/torspo/guild/potion/1_poison.c line 49 :Variable effect not declared !
+wizards/torspo/guild/potion/effects/1_poison_effect.c line 4 :syntax error
+wizards/torspo/guild/potion/effects/1_poison_effect.c line 5 :syntax error
+wizards/torspo/stuff/flagon.c line 31 :syntax error
+wizards/torspo/tuning/far.c line 57 :syntax error
+wizards/torspo/tuning/far.c line 57 :syntax error
+wizards/torspo/tuning/far.c line 57 :syntax error
+Sun Feb 10 23:34:44 2002 Ogre training master (/wizards/torspo/areat/ogre/monsters/master#1242, 62) killed by Devil (102) (Devil, Sepiroth, Moonstar)
+wizards/torspo/areat/addon_farm/room13.c line 4 :Variable short_desc not declared !
+wizards/torspo/areat/addon_farm/room13.c line 5 :Variable long_desc not declared !
+wizards/torspo/areat/addon_farm/room13.c line 12 :Variable items not declared !
+wizards/torspo/areat/addon_farm/room13.c line 13 :Variable items not declared !
+wizards/torspo/areat/addon_farm/room13.c line 14 :Variable items not declared !
+wizards/torspo/areat/addon_farm/room13.c line 15 :Variable items not declared !
+Sun Mar 10 18:19:57 2002 Ogre training master (/wizards/torspo/areat/ogre/monsters/master#6747, 61) killed by Jenny (178) (Devil, Jenny, Ozmolokki)
+wizards/torspo/areat/gnomes/monsters/hero.c line 49 :Variable i not declared !
+wizards/torspo/areat/gnomes/monsters/hero.c line 62 :syntax error
+wizards/torspo/areat/gnomes/monsters/hero.c line 62 :syntax error
+wizards/torspo/stuff/flagon.c line 31 :syntax error
+Sun May 26 00:52:56 2002 Tahn'garth, the king of ogres(strong) (/wizards/torspo/areat/ogre/monsters/king#49629, 74) killed by Celes (127) (Golthar, Celes, , Jenny)
+wizards/torspo/crappah/the_ring.c line 18 :syntax error
+wizards/torspo/crappah/the_ring.c line 23 :syntax error
+wizards/torspo/crappah/the_ring.c line 25 :Illegal LHS
+wizards/torspo/crappah/the_ring.c line 20 :Variable str not declared !
+wizards/torspo/crappah/the_ring.c line 20 :syntax error
+wizards/torspo/crappah/the_ring.c line 22 :Variable death not declared !
+wizards/torspo/crappah/the_ring.c line 25 :syntax error
+wizards/torspo/crappah/the_ring.c line 21 :syntax error
+wizards/torspo/crappah/the_ring.c line 23 :Variable death not declared !
+wizards/torspo/crappah/the_ring.c line 26 :syntax error
+wizards/torspo/crappah/the_ring.c line 21 :syntax error
+wizards/torspo/crappah/the_ring.c line 23 :Variable death not declared !
+wizards/torspo/crappah/the_ring.c line 26 :syntax error
+wizards/torspo/crappah/the_ring.c line 21 :syntax error
+wizards/torspo/crappah/the_ring.c line 23 :Variable death not declared !
+wizards/torspo/crappah/the_ring.c line 26 :syntax error
+Mon Jun 10 17:38:43 2002 Ogre training master(strong) (/wizards/torspo/areat/ogre/monsters/master#29178, 60) killed by Devil (154) 
+wizards/torspo/crappah/the_ring.c line 15 :syntax error
+wizards/torspo/crappah/the_ring.c line 15 :syntax error
+wizards/torspo/crappah/the_ring.c line 15 :Too many arguments to this_player
+wizards/torspo/crappah/the_ring.c line 15 :syntax error
+wizards/torspo/crappah/the_ring.c line 15 :Too many arguments to this_player
+wizards/torspo/crappah/the_ring.c line 15 :syntax error
+wizards/torspo/crappah/the_ring.c line 9 :Illegal character (hex 5c) '\'
+wizards/torspo/crappah/the_ring.c line 9 :syntax error
+wizards/torspo/crappah/the_ring.c line 9 :Illegal character (hex 5c) '\'
+wizards/torspo/crappah/the_ring.c line 9 :syntax error
+Fri Jan 24 18:05:45 2003 Ogre training master(strong) (/wizards/torspo/areat/ogre/monsters/master#17911, 62) killed by Demon (37) 
+Sun Jan 26 05:04:53 2003 Huge, ancient crab(strong) (/wizards/torspo/areat/ogre/monsters/crab#4233, 80) killed by Demon (42) 
+Sun Sep 14 16:19:25 2003 Tahn'garth, the king of ogres(strong) (/wizards/torspo/areat/ogre/monsters/king#1175, 73) killed by Drakhor (242) 
+Sun Sep 14 16:38:49 2003 Ogre training master(strong) (/wizards/torspo/areat/ogre/monsters/master#1375, 64) killed by Drakhor (242) 
+wizards/torspo/workroom.c line 9 :syntax error
+wizards/torspo/workroom.c line 9 :Illegal LHS
+wizards/torspo/workroom.c line 9 :syntax error
+wizards/torspo/workroom.c line 9 :Illegal LHS
+wizards/torspo/workroom.c line 9 :syntax error
+wizards/torspo/workroom.c line 9 :Illegal LHS
+wizards/torspo/stuff/flagon.c line 31 :syntax error
+Thu Sep 16 04:57:08 2004 Huge, ancient crab(strong) (/wizards/torspo/areat/ogre/monsters/crab#74626, 80) killed by Madk (95) 
+Fri Dec 17 16:36:35 2004 Ogre training master(strong) (/wizards/torspo/areat/ogre/monsters/master#11552, 61) killed by Golthar (243) 
+wizards/torspo/examples/quest_monster2.c line 24: Variable this_object not declared !
+wizards/torspo/examples/quest_monster2.c line 24: syntax error
+wizards/torspo/examples/quest_monster2.c line 25: Illegal LHS
+wizards/torspo/examples/quest_monster2.c line 25: syntax error
+wizards/torspo/examples/quest_monster2.c line 24: Variable this_object not declared !
+wizards/torspo/examples/quest_monster2.c line 24: syntax error
+wizards/torspo/examples/quest_monster2.c line 25: Illegal LHS
+wizards/torspo/examples/quest_monster2.c line 25: syntax error
+wizards/torspo/examples/quest_monster2.c line 24: Variable this_object not declared !
+wizards/torspo/examples/quest_monster2.c line 24: syntax error
+wizards/torspo/examples/quest_monster2.c line 25: Illegal LHS
+wizards/torspo/examples/quest_monster2.c line 25: syntax error
+wizards/torspo/examples/quest_monster2.c line 24: Variable this_object not declared !
+wizards/torspo/examples/quest_monster2.c line 24: syntax error
+wizards/torspo/examples/quest_monster2.c line 25: Illegal LHS
+wizards/torspo/examples/quest_monster2.c line 25: syntax error
+Sat Nov 12 04:08:21 2005 Huge, ancient crab(strong) (/wizards/torspo/areat/ogre/monsters/crab#26559, 80) killed by Atw (74) 
+Thu Aug 23 15:48:35 2007 Ogre training master(strong) (/wizards/torspo/areat/ogre/monsters/master#4219, 61) killed by Nightwish (222) 
+Sat Sep 13 11:35:55 2008 Tahn'garth, the king of ogres(strong) (/wizards/torspo/areat/ogre/monsters/king#9417, 72) killed by Ntg (387) 
+Sat Nov 08 14:31:03 2008 Huge, ancient crab(strong) (/wizards/torspo/areat/ogre/monsters/crab#4337, 80) killed by Madk (171) 
+Sat Nov 08 14:38:13 2008 Tahn'garth, the king of ogres(strong) (/wizards/torspo/areat/ogre/monsters/king#4529, 72) killed by Ntg (400) 
+Sat Nov 08 14:55:50 2008 Ogre training master(strong) (/wizards/torspo/areat/ogre/monsters/master#4744, 64) killed by Ntg (400) 

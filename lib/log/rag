@@ -1,0 +1,1834 @@
+wizards/rag/elf/room2.c line 18 :Newline in string
+wizards/rag/elf/room2.c line 20 :syntax error
+wizards/rag/elf/room2.c line 20 :Illegal LHS
+wizards/rag/elf/room2.c line 21 :syntax error
+wizards/rag/elf/room2.c line 18 :Newline in string
+wizards/rag/elf/room2.c line 20 :syntax error
+wizards/rag/elf/room2.c line 20 :Illegal LHS
+wizards/rag/elf/room2.c line 21 :syntax error
+wizards/rag/workroom.c line 5 :syntax error
+wizards/rag/workroom.c line 5 :Newline in string
+wizards/rag/workroom.c line 11 :Illegal LHS
+wizards/rag/workroom.c line 11 :Illegal LHS
+wizards/rag/workroom.c line 11 :Illegal LHS
+wizards/rag/workroom.c line 11 :syntax error
+wizards/rag/workroom.c line 6 :syntax error
+wizards/rag/workroom.c line 6 :Newline in string
+wizards/rag/workroom.c line 12 :Illegal LHS
+wizards/rag/workroom.c line 12 :Illegal LHS
+wizards/rag/workroom.c line 12 :Illegal LHS
+wizards/rag/workroom.c line 12 :syntax error
+wizards/rag/test/testroom.c line 16 :syntax error
+wizards/rag/test/testroom.c line 16 :Illegal character (hex 2e) '.'
+wizards/rag/test/testroom.c line 16 :Illegal character (hex 5c) '\'
+wizards/rag/test/testroom.c line 16 :Newline in string
+wizards/rag/test/crown.c line 11 :Newline in string
+wizards/rag/test/sword.c line 6 :Variable damage not declared !
+wizards/rag/test/sword.c line 7 :Variable hit not declared !
+wizards/rag/test/sword.c line 6 :Variable damage not declared !
+wizards/rag/test/sword.c line 7 :Variable hit not declared !
+wizards/rag/elf/eq/wcloak.c line 11 :Newline in string
+wizards/rag/elf/eq/wcloak.c line 12 :syntax error
+wizards/rag/test/test2.c line 17 :syntax error
+wizards/rag/test/test2.c line 17 :Illegal LHS
+wizards/rag/test/test2.c line 25 :syntax error
+wizards/rag/test/test2.c line 17 :syntax error
+wizards/rag/test/test2.c line 17 :Illegal LHS
+wizards/rag/test/test2.c line 25 :syntax error
+wizards/rag/test/test2.c line 17 :syntax error
+wizards/rag/test/test2.c line 17 :Illegal LHS
+wizards/rag/test/test2.c line 25 :syntax error
+wizards/rag/test/test2.c line 17 :syntax error
+wizards/rag/test/test2.c line 17 :Illegal LHS
+wizards/rag/test/test2.c line 25 :syntax error
+wizards/rag/test/test2.c line 15 :syntax error
+wizards/rag/test/test2.c line 17 :Illegal LHS
+wizards/rag/test/test2.c line 33 :syntax error
+wizards/rag/test/test2.c line 15 :syntax error
+wizards/rag/test/test2.c line 17 :Illegal LHS
+wizards/rag/test/test2.c line 33 :syntax error
+wizards/rag/test/test2.c line 15 :syntax error
+wizards/rag/test/test2.c line 17 :Illegal LHS
+wizards/rag/test/test2.c line 33 :syntax error
+wizards/rag/elf/w_f6.c line 18 :syntax error
+wizards/rag/elf/w_f6.c line 20 :syntax error
+wizards/rag/elf/w_f6.c line 18 :syntax error
+wizards/rag/elf/w_f6.c line 20 :syntax error
+wizards/rag/elf/w_f7.c line 2 :Unrecognized inheritance modifier qualifier
+wizards/rag/elf/w_f7.c line 2 :Unrecognized inheritance modifier qualifier
+wizards/rag/elf/w_f7.c line 2 :syntax error
+wizards/rag/elf/w_f7.c line 2 :Unrecognized inheritance modifier qualifier
+wizards/rag/elf/w_f7.c line 2 :Unrecognized inheritance modifier qualifier
+wizards/rag/elf/w_f7.c line 2 :syntax error
+wizards/rag/elf/eq/wcloak.c line 6 :Variable WHITE_F not declared !
+wizards/rag/elf/eq/wcloak.c line 6 :Variable OFF not declared !
+wizards/rag/elf/monsters/orc.c line 34 :Variable a_char_str not declared !
+wizards/rag/elf/monsters/orc.c line 35 :Variable a_char_str not declared !
+wizards/rag/elf/monsters/orc.c line 34 :Variable a_char_str not declared !
+wizards/rag/elf/monsters/orc.c line 35 :Variable a_char_str not declared !
+wizards/rag/elf/monsters/orc.c line 32 :Variable a_chat_str not declared !
+wizards/rag/elf/monsters/orc.c line 33 :Variable a_chat_str not declared !
+wizards/rag/elf/monsters/orc.c line 34 :Variable a_chat_str not declared !
+wizards/rag/elf/monsters/orc.c line 35 :Variable a_chat_str not declared !
+wizards/rag/elf/monsters/orc.c line 37 :Variable a_chat_str not declared !
+wizards/rag/elf/monsters/celebmir.c line 50 :syntax error
+wizards/rag/elf/monsters/celebmir.c line 50 :Illegal LHS
+wizards/rag/elf/monsters/celebmir.c line 50 :Variable i not declared !
+wizards/rag/elf/monsters/celebmir.c line 50 :Variable i not declared !
+wizards/rag/elf/monsters/celebmir.c line 51 :Variable i not declared !
+wizards/rag/celebmir.c line 54 :syntax error
+wizards/rag/celebmir.c line 55 :syntax error
+wizards/rag/celebmir.c line 56 :syntax error
+wizards/rag/elf/eq/dagger.c line 7 :syntax error
+wizards/rag/elf/eq/belt.c line 9 :Newline in string
+wizards/rag/elf/eq/belt.c line 10 :syntax error
+wizards/rag/elf/w_f5.c line 5 :function not defined by inheritance as specified
+wizards/rag/elf/w_f5.c line 18 :syntax error
+wizards/rag/elf/w_f5.c line 14 :Newline in string
+wizards/rag/elf/w_f4.c line 13 :Newline in string
+wizards/rag/elf/monsters/orc.c line 40 :syntax error
+wizards/rag/elf/w_c2.c line 18 :Variable ob not declared !
+wizards/rag/elf/w_c2.c line 19 :Variable ob not declared !
+wizards/rag/elf/w_c2.c line 24 :Newline in string
+wizards/rag/elf/w_c2.c line 25 :syntax error
+wizards/rag/elf/w_c2.c line 18 :syntax error
+wizards/rag/elf/w_c2.c line 19 :Illegal LHS
+wizards/rag/elf/w_a1.c line 14 :Variable door_number not declared !
+wizards/rag/elf/w_a1.c line 15 :Variable door_number not declared !
+wizards/rag/elf/w_a1.c line 16 :Variable door_number not declared !
+wizards/rag/elf/w_a1.c line 17 :Variable door_number not declared !
+wizards/rag/elf/w_a1.c line 18 :Variable door_number not declared !
+wizards/rag/elf/w_a1.c line 19 :Variable door_number not declared !
+wizards/rag/elf/w_a1.c line 14 :syntax error
+wizards/rag/elf/w_a1.c line 14 :Illegal LHS
+wizards/rag/elf/w_a1.c line 15 :Variable door_number not declared !
+wizards/rag/elf/w_a1.c line 16 :Variable door_number not declared !
+wizards/rag/elf/w_a1.c line 17 :Variable door_number not declared !
+wizards/rag/elf/w_a1.c line 18 :Variable door_number not declared !
+wizards/rag/elf/orcroom.c line 13 :Variable door_number not declared !
+wizards/rag/elf/orcroom.c line 14 :Variable door_number not declared !
+wizards/rag/elf/orcroom.c line 15 :Variable door_number not declared !
+wizards/rag/elf/orcroom.c line 16 :Variable door_number not declared !
+wizards/rag/elf/orcroom.c line 17 :Variable door_number not declared !
+wizards/rag/elf/orcroom.c line 18 :Variable door_number not declared !
+wizards/rag/elf/orcroom.c line 13 :Variable door_number not declared !
+wizards/rag/elf/orcroom.c line 14 :Variable door_number not declared !
+wizards/rag/elf/orcroom.c line 15 :Variable door_number not declared !
+wizards/rag/elf/orcroom.c line 16 :Variable door_number not declared !
+wizards/rag/elf/orcroom.c line 17 :Variable door_number not declared !
+wizards/rag/elf/orcroom.c line 18 :Variable door_number not declared !
+wizards/rag/elf/orcroom.c line 13 :Variable door_number not declared !
+wizards/rag/elf/orcroom.c line 13 :Variable door_number not declared !
+wizards/rag/elf/orcroom.c line 13 :Variable door_number not declared !
+wizards/rag/elf/objects/key.c line 15 :syntax error
+wizards/rag/elf/objects/key.c line 15 :syntax error
+wizards/rag/elf/objects/key.c line 15 :syntax error
+wizards/rag/elf/monsters/gabrash.c line 17 :Newline in string
+wizards/rag/elf/monsters/gabrash.c line 18 :Newline in string
+wizards/rag/elf/weapons/morningstar.c line 7 :Newline in string
+wizards/rag/elf/weapons/morningstar.c line 11 :syntax error
+wizards/rag/elf/weapons/morningstar.c line 7 :Newline in string
+wizards/rag/elf/weapons/morningstar.c line 11 :syntax error
+wizards/rag/elf/weapons/morningstar.c line 7 :Newline in string
+wizards/rag/elf/weapons/morningstar.c line 11 :syntax error
+wizards/rag/elf/w_b3.c line 20 :syntax error
+wizards/rag/elf/orcroom.c line 7 :Variable monster not declared !
+wizards/rag/elf/orcroom.c line 11 :Variable monster not declared !
+wizards/rag/elf/orcroom.c line 17 :Variable monster not declared !
+wizards/rag/elf/monsters/troll_b.c line 35 :Variable attack not declared !
+wizards/rag/elf/monsters/troll_b.c line 35 :Variable attack not declared !
+wizards/rag/elf/monsters/celebmir.c line 118 :Newline in string
+wizards/rag/elf/monsters/celebmir.c line 119 :syntax error
+wizards/rag/elf/e_g1.c line 17 :Discontinued case label list range, line 11 by line 12
+wizards/rag/elf/e_g1.c line 17 :Duplicate case in line 12 and 0
+wizards/rag/elf/e_g2.c line 17 :Discontinued case label list range, line 11 by line 12
+wizards/rag/elf/e_g2.c line 17 :Duplicate case in line 12 and 0
+wizards/rag/eval_file.c line 2 :Newline in string
+wizards/rag/eval_file.c line 3 :syntax error
+wizards/rag/eval_file.c line 2 :Variable this_player not declared !
+wizards/rag/eval_file.c line 2 :Variable this_player not declared !
+wizards/rag/eval_file.c line 2 :Variable this_player not declared !
+wizards/rag/eval_file.c line 2 :Variable this_player not declared !
+wizards/rag/eval_file.c line 2 :Variable this_player not declared !
+wizards/rag/eval_file.c line 2 :Variable users not declared !
+wizards/rag/eval_file.c line 2 :Bad assignment. Rhs: "string "
+wizards/rag/eval_file.c line 2 :Illegal character constant
+wizards/rag/eval_file.c line 2 :syntax error
+wizards/rag/eval_file.c line 2 :Undefined function random_name
+wizards/rag/eval_file.c line 2 :syntax error
+wizards/rag/eval_file.c line 2 :syntax error
+wizards/rag/eval_file.c line 2 :Undefined function wiz_list
+wizards/rag/eval_file.c line 2 :Too few arguments to get_extra_wizinfo
+wizards/rag/elf/monsters/salin.c line 18 :syntax error
+wizards/rag/elf/monsters/salin.c line 24 :Illegal LHS
+wizards/rag/elf/monsters/salin.c line 24 :syntax error
+wizards/rag/elf/monsters/salin.c line 28 :Too few arguments to clone_object
+wizards/rag/elf/monsters/salin.c line 28 :Illegal LHS
+wizards/rag/elf/monsters/salin.c line 28 :syntax error
+wizards/rag/elf/monsters/salin.c line 41 :Variable chat_str not declared !
+wizards/rag/elf/monsters/salin.c line 42 :Variable chat_str not declared !
+wizards/rag/elf/monsters/salin.c line 43 :Variable chat_str not declared !
+wizards/rag/elf/monsters/salin.c line 44 :Variable chat_str not declared !
+wizards/rag/elf/monsters/salin.c line 45 :Variable chat_str not declared !
+wizards/rag/elf/monsters/salin.c line 48 :Variable chat_str not declared !
+wizards/rag/elf/monsters/angdal.c line 18 :syntax error
+wizards/rag/elf/monsters/angdal.c line 25 :Illegal LHS
+wizards/rag/elf/monsters/angdal.c line 25 :syntax error
+wizards/rag/elf/monsters/angdal.c line 32 :Illegal LHS
+wizards/rag/elf/monsters/angdal.c line 32 :syntax error
+wizards/rag/elf/monsters/angdal.c line 36 :syntax error
+wizards/rag/elf/u_d3.c line 23 :syntax error
+wizards/rag/elf/u_d3.c line 23 :Illegal LHS
+wizards/rag/elf/u_d3.c line 24 :syntax error
+wizards/rag/elf/e_e6.c line 30 :syntax error
+wizards/rag/elf/e_e6.c line 31 :Variable i not declared !
+wizards/rag/elf/e_e6.c line 32 :Variable i not declared !
+wizards/rag/elf/e_e6.c line 33 :Variable i not declared !
+wizards/rag/elf/e_e6.c line 60 :syntax error
+wizards/rag/elf/monsters/e_e6.c line 60 :syntax error
+wizards/rag/elf/monsters/ghost.c line 12 :syntax error
+wizards/rag/elf/monsters/ghost.c line 17 :Illegal LHS
+wizards/rag/elf/monsters/ghost.c line 17 :syntax error
+wizards/rag/elf/monsters/ghost.c line 18 :Illegal LHS
+wizards/rag/elf/monsters/ghost.c line 19 :Illegal LHS
+wizards/rag/elf/monsters/ghost.c line 12 :syntax error
+wizards/rag/elf/monsters/ghost.c line 17 :Illegal LHS
+wizards/rag/elf/monsters/ghost.c line 17 :syntax error
+wizards/rag/elf/monsters/ghost.c line 18 :Illegal LHS
+wizards/rag/elf/monsters/ghost.c line 19 :Illegal LHS
+wizards/rag/elf/monsters/finlos.c line 28 :syntax error
+wizards/rag/elf/eq/amulet.c line 15 :syntax error
+wizards/rag/elf/eq/amulet.c line 15 :syntax error
+wizards/rag/elf/eq/amulet.c line 15 :syntax error
+wizards/rag/elf/eq/amulet.c line 15 :syntax error
+wizards/rag/elf/eq/amulet.c line 15 :syntax error
+wizards/rag/elf/monsters/celebmir.c line 91 :Variable char_str not declared !
+wizards/rag/elf/monsters/celebmir.c line 91 :syntax error
+wizards/rag/elf/monsters/celebmir.c line 91 :syntax error
+wizards/rag/elf/bottom.c line 23 :syntax error
+wizards/rag/elf/bottom.c line 23 :Illegal LHS
+Mon Mar 31 23:46:25 2003 Gabrash the orcish commander is planning a battle(strong) (/wizards/rag/elf/monsters/gabrash#3124, 44) killed by Bloodstorm (115) 
+wizards/rag/eval_file.c line 2 :Variable rag not declared !
+wizards/rag/ruins/ruins_s.c line 9 :syntax error
+wizards/rag/ruins/ruins_s.c line 15 :Illegal LHS
+wizards/rag/ruins/ruins_s.c line 16 :syntax error
+wizards/rag/work2.c line 11 :Undefined function query_unidle
+wizards/rag/work2.c line 25 :syntax error
+wizards/rag/work2.c line 29 :Variable str not declared !
+wizards/rag/work2.c line 30 :Variable str not declared !
+wizards/rag/work2.c line 32 :Variable us not declared !
+wizards/rag/work2.c line 33 :Variable ob not declared !
+wizards/rag/work2.c line 33 :Variable ob not declared !
+wizards/rag/work2.c line 33 :Variable ob not declared !
+wizards/rag/work2.c line 34 :Variable ob not declared !
+wizards/rag/work2.c line 34 :Variable ob not declared !
+wizards/rag/work2.c line 36 :Variable ob not declared !
+wizards/rag/work2.c line 37 :Variable ob not declared !
+wizards/rag/work2.c line 34 :Variable is not declared !
+wizards/rag/work2.c line 34 :Variable is not declared !
+wizards/rag/work2.c line 34 :Variable is not declared !
+wizards/rag/work2.c line 37 :syntax error
+wizards/rag/work2.c line 38 :Illegal LHS
+wizards/rag/work2.c line 39 :syntax error
+wizards/rag/work2.c line 40 :Illegal LHS
+wizards/rag/work2.c line 47 :syntax error
+wizards/rag/workroom.c line 67 :Variable wiz not declared !
+wizards/rag/workroom.c line 67 :Variable wiz not declared !
+wizards/rag/ruins/ruins_s.c line 26 :syntax error
+wizards/rag/ruins/ruins_s.c line 26 :Illegal LHS
+wizards/rag/eval_file.c line 2 :Variable this_player not declared !
+wizards/rag/eval_file.c line 2 :syntax error
+wizards/rag/eval_file.c line 2 :Newline in string
+wizards/rag/eval_file.c line 3 :syntax error
+wizards/rag/ruins/ruins_e.c line 38 :syntax error
+wizards/rag/workroom.c line 81 :syntax error
+wizards/rag/workroom.c line 82 :Illegal LHS
+wizards/rag/workroom.c line 90 :syntax error
+wizards/rag/workroom.c line 81 :syntax error
+wizards/rag/workroom.c line 82 :Illegal LHS
+wizards/rag/workroom.c line 83 :Illegal LHS
+wizards/rag/workroom.c line 90 :syntax error
+wizards/rag/workroom.c line 82 :syntax error
+wizards/rag/workroom.c line 82 :syntax error
+wizards/rag/test/guilds2.c line 45 :Variable bonus not declared !
+wizards/rag/test/guilds2.c line 49 :Variable bonus not declared !
+wizards/rag/ruins/shack.c line 14 :syntax error
+wizards/rag/ruins/shack.c line 15 :Illegal LHS
+wizards/rag/ruins/shack.c line 15 :Illegal LHS
+wizards/rag/ruins/shack.c line 16 :syntax error
+wizards/rag/ruins/shack.c line 19 :Newline in string
+wizards/rag/ruins/shack.c line 21 :syntax error
+wizards/rag/ruins/shack.c line 14 :syntax error
+wizards/rag/ruins/shack.c line 15 :Illegal LHS
+wizards/rag/ruins/shack.c line 15 :Illegal LHS
+wizards/rag/ruins/shack.c line 16 :syntax error
+wizards/rag/ruins/shack.c line 19 :Illegal LHS
+wizards/rag/ruins/shack.c line 19 :Illegal LHS
+wizards/rag/ruins/shack.c line 14 :syntax error
+wizards/rag/ruins/shack.c line 15 :Illegal LHS
+wizards/rag/ruins/shack.c line 15 :Illegal LHS
+wizards/rag/ruins/shack.c line 16 :syntax error
+wizards/rag/ruins/shack.c line 19 :Illegal LHS
+wizards/rag/ruins/shack.c line 19 :Illegal LHS
+wizards/rag/ruins/shack.c line 14 :syntax error
+wizards/rag/ruins/shack.c line 15 :Illegal LHS
+wizards/rag/ruins/shack.c line 15 :Illegal LHS
+wizards/rag/ruins/shack.c line 16 :syntax error
+wizards/rag/ruins/shack.c line 19 :Illegal LHS
+wizards/rag/ruins/shack.c line 19 :Illegal LHS
+wizards/rag/eval_file.c line 2 :Variable this_player not declared !
+Mon Apr  7 17:58:28 2003 Gabrash the orcish commander is planning a battle(strong) (/wizards/rag/elf/monsters/gabrash#6949, 44) killed by Drakhor (126) 
+wizards/rag/ruins/ruins_sw.c line 11 :syntax error
+wizards/rag/ruins/ruins_sw.c line 11 :Illegal LHS
+wizards/rag/ruins/ruins_sw.c line 12 :syntax error
+wizards/rag/ruins/ruins_sw.c line 20 :Newline in string
+wizards/rag/ruins/ruins_sw.c line 11 :syntax error
+wizards/rag/ruins/ruins_sw.c line 11 :Illegal LHS
+wizards/rag/ruins/ruins_sw.c line 12 :syntax error
+wizards/rag/ruins/ruins_sw.c line 20 :Newline in string
+wizards/rag/ruins/ruins_sw.c line 20 :Newline in string
+wizards/rag/ruins/ruins_sw.c line 21 :syntax error
+wizards/rag/ruins/ruins_sw.c line 21 :syntax error
+wizards/rag/ruins/ruins_sw.c line 21 :Illegal character (hex 2e) '.'
+wizards/rag/ruins/ruins_sw.c line 21 :Illegal character (hex 5c) '\'
+wizards/rag/ruins/ruins_sw.c line 21 :Newline in string
+wizards/rag/ruins/ruins_sw.c line 22 :Too many arguments to clone_object
+wizards/rag/ruins/ruins_sw.c line 22 :Too few arguments to move_object
+wizards/rag/ruins/shack.c line 35 :Newline in string
+wizards/rag/ruins/shack.c line 36 :syntax error
+wizards/rag/ruins/shack.c line 35 :syntax error
+wizards/rag/ruins/shack.c line 35 :syntax error
+wizards/rag/ruins/shack.c line 35 :syntax error
+wizards/rag/test/blackjack.c line 99 :syntax error
+wizards/rag/test/blackjack.c line 13 :syntax error
+wizards/rag/test/blackjack.c line 21 :syntax error
+wizards/rag/test/blackjack.c line 22 :Illegal LHS
+wizards/rag/test/blackjack.c line 36 :Illegal LHS
+wizards/rag/test/blackjack.c line 36 :syntax error
+wizards/rag/test/blackjack.c line 40 :Illegal LHS
+wizards/rag/test/blackjack.c line 132 :Variable name not declared !
+wizards/rag/misc/blackjack.c line 151 :syntax error
+wizards/rag/misc/blackjack.c line 158 :Illegal LHS
+wizards/rag/misc/blackjack.c line 158 :syntax error
+wizards/rag/misc/blackjack.c line 163 :Illegal LHS
+wizards/rag/misc/blackjack.c line 163 :Illegal LHS
+wizards/rag/misc/blackjack.c line 163 :Illegal LHS
+wizards/rag/misc/blackjack.c line 114 :Variable names not declared !
+wizards/rag/misc/blackjack.c line 118 :Variable names not declared !
+wizards/rag/misc/blackjack.c line 118 :Variable o not declared !
+wizards/rag/misc/blackjack.c line 160 :Variable ob not declared !
+wizards/rag/misc/blackjack.c line 161 :Variable ob not declared !
+wizards/rag/misc/blackjack.c line 164 :Variable ob not declared !
+wizards/rag/misc/blackjack.c line 174 :syntax error
+wizards/rag/misc/blackjack.c line 177 :Variable i not declared !
+wizards/rag/misc/blackjack.c line 178 :Variable i not declared !
+wizards/rag/misc/blackjack.c line 160 :Variable ob not declared !
+wizards/rag/misc/blackjack.c line 161 :Variable ob not declared !
+wizards/rag/misc/blackjack.c line 164 :Variable ob not declared !
+wizards/rag/misc/blackjack.c line 220 :Newline in string
+wizards/rag/misc/blackjack.c line 221 :syntax error
+wizards/rag/misc/blackjack.c line 221 :syntax error
+wizards/rag/misc/blackjack.c line 136 :Variable a not declared !
+wizards/rag/misc/blackjack.c line 137 :Variable a not declared !
+wizards/rag/misc/blackjack.c line 140 :Variable ob not declared !
+wizards/rag/misc/blackjack.c line 141 :Variable ob not declared !
+wizards/rag/misc/blackjack.c line 144 :Variable ob not declared !
+wizards/rag/misc/blackjack.c line 259 :syntax error
+wizards/rag/misc/blackjack.c line 261 :Variable i not declared !
+wizards/rag/misc/blackjack.c line 262 :Variable pl not declared !
+wizards/rag/misc/blackjack.c line 263 :Variable size not declared !
+wizards/rag/misc/blackjack.c line 263 :Variable pl not declared !
+wizards/rag/misc/blackjack.c line 264 :Variable i not declared !
+wizards/rag/misc/blackjack.c line 186 :syntax error
+wizards/rag/misc/blackjack.c line 189 :Variable i not declared !
+wizards/rag/misc/blackjack.c line 190 :Variable i not declared !
+wizards/rag/misc/blackjack.c line 191 :Variable i not declared !
+wizards/rag/misc/blackjack.c line 192 :Variable i not declared !
+wizards/rag/misc/blackjack.c line 193 :Variable i not declared !
+wizards/rag/misc/blackjack.c line 28 :Newline in string
+wizards/rag/misc/blackjack.c line 29 :syntax error
+wizards/rag/misc/blackjack.c line 29 :syntax error
+wizards/rag/misc/blackjack.c line 57 :Variable value not declared !
+wizards/rag/misc/blackjack.c line 58 :Variable value not declared !
+wizards/rag/misc/blackjack.c line 278 :Variable name not declared !
+wizards/rag/misc/blackjack.c line 46 :Too few arguments to call_out
+wizards/rag/misc/blackjack.c line 55 :Variable siz not declared !
+wizards/rag/misc/blackjack.c line 57 :Variable siz not declared !
+wizards/rag/misc/blackjack.c line 58 :syntax error
+wizards/rag/misc/blackjack.c line 60 :Illegal LHS
+wizards/rag/misc/blackjack.c line 60 :syntax error
+wizards/rag/misc/blackjack.c line 52 :syntax error
+wizards/rag/misc/blackjack.c line 53 :Illegal LHS
+wizards/rag/misc/blackjack.c line 53 :syntax error
+wizards/rag/misc/blackjack.c line 64 :Illegal LHS
+wizards/rag/misc/blackjack.c line 64 :syntax error
+wizards/rag/misc/blackjack.c line 80 :Illegal LHS
+wizards/rag/eval_file.c line 2 :Variable this_player not declared !
+wizards/rag/misc/blackjack.c line 52 :Newline in string
+wizards/rag/misc/blackjack.c line 53 :syntax error
+wizards/rag/misc/blackjack.c line 55 :syntax error
+wizards/rag/ruins/ruins_e.c line 43 :syntax error
+wizards/rag/misc/blackjack.c line 111 :syntax error
+wizards/rag/misc/blackjack.c line 119 :Illegal LHS
+wizards/rag/misc/blackjack.c line 119 :syntax error
+wizards/rag/misc/blackjack.c line 135 :Illegal LHS
+wizards/rag/misc/blackjack.c line 135 :syntax error
+wizards/rag/misc/blackjack.c line 136 :Variable us not declared !
+wizards/rag/misc/blackjack.c line 243 :syntax error
+wizards/rag/misc/blackjack.c line 245 :syntax error
+wizards/rag/misc/blackjack.c line 246 :syntax error
+wizards/rag/misc/blackjack.c line 251 :Illegal LHS
+wizards/rag/misc/blackjack.c line 251 :syntax error
+wizards/rag/misc/blackjack.c line 252 :Illegal LHS
+wizards/rag/misc/blackjack.c line 245 :syntax error
+wizards/rag/misc/blackjack.c line 245 :Illegal LHS
+wizards/rag/misc/blackjack.c line 245 :syntax error
+wizards/rag/misc/blackjack.c line 245 :Illegal LHS
+wizards/rag/misc/blackjack.c line 245 :syntax error
+wizards/rag/misc/blackjack.c line 245 :Illegal LHS
+wizards/rag/misc/blackjack.c line 245 :syntax error
+wizards/rag/misc/blackjack.c line 245 :Illegal LHS
+wizards/rag/misc/blackjack.c line 243 :syntax error
+wizards/rag/misc/blackjack.c line 245 :Illegal LHS
+wizards/rag/misc/blackjack.c line 245 :syntax error
+wizards/rag/misc/blackjack.c line 246 :syntax error
+wizards/rag/misc/blackjack.c line 247 :syntax error
+wizards/rag/misc/blackjack.c line 252 :Illegal LHS
+wizards/rag/misc/blackjack.c line 102 :syntax error
+wizards/rag/misc/blackjack.c line 108 :Illegal LHS
+wizards/rag/misc/blackjack.c line 108 :syntax error
+wizards/rag/misc/blackjack.c line 115 :Illegal LHS
+wizards/rag/misc/blackjack.c line 115 :syntax error
+wizards/rag/misc/blackjack.c line 116 :Illegal LHS
+wizards/rag/misc/blackjack.c line 32 :syntax error
+wizards/rag/misc/blackjack.c line 38 :Illegal LHS
+wizards/rag/misc/blackjack.c line 52 :Too few arguments to write
+wizards/rag/misc/blackjack.c line 56 :Too few arguments to write
+wizards/rag/misc/blackjack.c line 59 :syntax error
+wizards/rag/misc/blackjack.c line 64 :Illegal LHS
+wizards/rag/misc/blackjack.c line 32 :syntax error
+wizards/rag/misc/blackjack.c line 38 :Illegal LHS
+wizards/rag/misc/blackjack.c line 52 :Too few arguments to write
+wizards/rag/misc/blackjack.c line 56 :Too few arguments to write
+wizards/rag/misc/blackjack.c line 59 :syntax error
+wizards/rag/misc/blackjack.c line 64 :Illegal LHS
+wizards/rag/misc/blackjack.c line 36 :syntax error
+wizards/rag/misc/blackjack.c line 42 :Illegal LHS
+wizards/rag/misc/blackjack.c line 56 :Too few arguments to write
+wizards/rag/misc/blackjack.c line 60 :Too few arguments to write
+wizards/rag/misc/blackjack.c line 63 :syntax error
+wizards/rag/misc/blackjack.c line 68 :Illegal LHS
+wizards/rag/misc/blackjack.c line 36 :syntax error
+wizards/rag/misc/blackjack.c line 42 :Illegal LHS
+wizards/rag/misc/blackjack.c line 56 :Too few arguments to write
+wizards/rag/misc/blackjack.c line 60 :Too few arguments to write
+wizards/rag/misc/blackjack.c line 63 :syntax error
+wizards/rag/misc/blackjack.c line 68 :Illegal LHS
+wizards/rag/misc/blackjack.c line 36 :syntax error
+wizards/rag/misc/blackjack.c line 42 :Illegal LHS
+wizards/rag/misc/blackjack.c line 56 :Too few arguments to write
+wizards/rag/misc/blackjack.c line 60 :Too few arguments to write
+wizards/rag/misc/blackjack.c line 63 :syntax error
+wizards/rag/misc/blackjack.c line 68 :Illegal LHS
+wizards/rag/misc/blackjack.c line 37 :syntax error
+wizards/rag/misc/blackjack.c line 43 :Illegal LHS
+wizards/rag/misc/blackjack.c line 57 :Too few arguments to write
+wizards/rag/misc/blackjack.c line 61 :Too few arguments to write
+wizards/rag/misc/blackjack.c line 64 :syntax error
+wizards/rag/misc/blackjack.c line 69 :Illegal LHS
+wizards/rag/misc/blackjack.c line 35 :syntax error
+wizards/rag/misc/blackjack.c line 36 :Illegal LHS
+wizards/rag/misc/blackjack.c line 37 :syntax error
+wizards/rag/misc/blackjack.c line 43 :Illegal LHS
+wizards/rag/misc/blackjack.c line 45 :syntax error
+wizards/rag/misc/blackjack.c line 64 :syntax error
+wizards/rag/misc/blackjack.c line 35 :syntax error
+wizards/rag/misc/blackjack.c line 41 :Illegal LHS
+wizards/rag/misc/blackjack.c line 55 :Too few arguments to write
+wizards/rag/misc/blackjack.c line 59 :Too few arguments to write
+wizards/rag/misc/blackjack.c line 62 :syntax error
+wizards/rag/misc/blackjack.c line 67 :Illegal LHS
+wizards/rag/misc/blackjack.c line 111 :Variable le1 not declared !
+wizards/rag/misc/blackjack.c line 112 :Variable le2 not declared !
+wizards/rag/misc/blackjack.c line 113 :Variable le1 not declared !
+wizards/rag/misc/blackjack.c line 113 :Variable le1 not declared !
+wizards/rag/misc/blackjack.c line 113 :Variable le2 not declared !
+wizards/rag/misc/blackjack.c line 113 :Variable le2 not declared !
+wizards/rag/misc//bj_addon.c line 15 :Undefined function query_subcard
+wizards/rag/misc//bj_addon.c line 17 :Undefined function query_family
+wizards/rag/misc//bj_addon.c line 70 :Variable F_RED not declared !
+wizards/rag/ruins/ruins_sw.c line 49 :Newline in string
+wizards/rag/ruins/ruins_sw.c line 50 :syntax error
+wizards/rag/ruins/ruins_sw.c line 49 :Newline in string
+wizards/rag/ruins/ruins_sw.c line 50 :syntax error
+wizards/rag/misc/blackjack.c line 440 :syntax error
+wizards/rag/misc/blackjack.c line 491 :Illegal LHS
+wizards/rag/misc/blackjack.c line 491 :Illegal LHS
+wizards/rag/misc/blackjack.c line 491 :Illegal LHS
+wizards/rag/misc/blackjack.c line 491 :syntax error
+wizards/rag/misc/blackjack.c line 492 :Illegal LHS
+wizards/rag/letter.c line 11 :syntax error
+wizards/rag/misc/blackjack.c line 445 :Newline in string
+wizards/rag/misc/blackjack.c line 446 :syntax error
+wizards/rag/misc/blackjack.c line 446 :syntax error
+wizards/rag/misc/blackjack.c line 447 :syntax error
+wizards/rag/misc/blackjack.c line 503 :Illegal LHS
+wizards/rag/misc/blackjack.c line 503 :Illegal LHS
+wizards/rag/misc/blackjack.c line 503 :Illegal LHS
+wizards/rag/misc/blackjack.c line 503 :Illegal LHS
+wizards/rag/misc/blackjack.c line 447 :syntax error
+wizards/rag/misc/blackjack.c line 503 :Illegal LHS
+wizards/rag/misc/blackjack.c line 503 :Illegal LHS
+wizards/rag/misc/blackjack.c line 503 :Illegal LHS
+wizards/rag/misc/blackjack.c line 503 :Illegal LHS
+wizards/rag/misc/blackjack.c line 503 :syntax error
+wizards/rag/misc/blackjack.c line 447 :syntax error
+wizards/rag/misc/blackjack.c line 503 :Illegal LHS
+wizards/rag/misc/blackjack.c line 503 :Illegal LHS
+wizards/rag/misc/blackjack.c line 503 :Illegal LHS
+wizards/rag/misc/blackjack.c line 503 :Illegal LHS
+wizards/rag/misc/blackjack.c line 503 :syntax error
+wizards/rag/misc/blackjack.c line 451 :syntax error
+wizards/rag/misc/blackjack.c line 503 :Illegal LHS
+wizards/rag/misc/blackjack.c line 503 :Illegal LHS
+wizards/rag/misc/blackjack.c line 503 :Illegal LHS
+wizards/rag/misc/blackjack.c line 503 :syntax error
+wizards/rag/misc/blackjack.c line 504 :Illegal LHS
+wizards/rag/misc/blackjack.c line 188 :syntax error
+wizards/rag/misc/blackjack.c line 203 :Illegal LHS
+wizards/rag/misc/blackjack.c line 203 :syntax error
+wizards/rag/misc/blackjack.c line 214 :Illegal LHS
+wizards/rag/misc/blackjack.c line 214 :syntax error
+wizards/rag/misc/blackjack.c line 223 :Illegal LHS
+wizards/rag/misc/blackjack.c line 506 :Variable str not declared !
+wizards/rag/misc/blackjack.c line 507 :Variable str not declared !
+wizards/rag/misc/blackjack.c line 508 :Variable str not declared !
+wizards/rag/misc/blackjack.c line 510 :Variable str not declared !
+wizards/rag/misc/blackjack.c line 511 :Variable str not declared !
+wizards/rag/misc/blackjack.c line 513 :Variable pl not declared !
+wizards/rag/misc/blackjack.c line 516 :syntax error
+wizards/rag/misc/blackjack.c line 516 :Illegal LHS
+wizards/rag/misc/blackjack.c line 517 :Illegal LHS
+wizards/rag/misc/blackjack.c line 535 :Illegal LHS
+wizards/rag/misc/blackjack.c line 535 :Illegal LHS
+wizards/rag/misc/blackjack.c line 535 :Illegal LHS
+wizards/rag/misc/blackjack.c line 517 :syntax error
+wizards/rag/misc/blackjack.c line 535 :Illegal LHS
+wizards/rag/misc/blackjack.c line 535 :Illegal LHS
+wizards/rag/misc/blackjack.c line 535 :Illegal LHS
+wizards/rag/misc/blackjack.c line 535 :Illegal LHS
+wizards/rag/misc/blackjack.c line 535 :Illegal LHS
+wizards/rag/misc/blackjack.c line 564 :Variable us not declared !
+wizards/rag/misc/blackjack.c line 564 :Variable i not declared !
+wizards/rag/misc/blackjack.c line 565 :Variable us not declared !
+wizards/rag/misc/blackjack.c line 565 :Variable i not declared !
+wizards/rag/misc/blackjack.c line 566 :Variable us not declared !
+wizards/rag/misc/blackjack.c line 566 :Variable i not declared !
+wizards/rag/misc/blackjack.c line 565 :Variable us not declared !
+wizards/rag/misc/blackjack.c line 565 :Variable i not declared !
+wizards/rag/misc/blackjack.c line 566 :Variable us not declared !
+wizards/rag/misc/blackjack.c line 566 :Variable i not declared !
+wizards/rag/misc/blackjack.c line 325 :Variable names not declared !
+wizards/rag/misc/blackjack.c line 325 :Variable o not declared !
+wizards/rag/test/blackjack.c line 232 :Newline in string
+wizards/rag/test/blackjack.c line 233 :syntax error
+wizards/rag/test/blackjack.c line 233 :Illegal LHS
+wizards/rag/test/blackjack.c line 234 :Illegal LHS
+wizards/rag/test/blackjack.c line 235 :Illegal LHS
+wizards/rag/test/blackjack.c line 236 :Illegal LHS
+wizards/rag/test/blackjack.c line 231 :Variable tmp not declared !
+wizards/rag/test/blackjack.c line 232 :Variable tmp not declared !
+wizards/rag/test/blackjack.c line 232 :Variable tmp not declared !
+wizards/rag/test/blackjack.c line 233 :Variable tmp not declared !
+wizards/rag/test/blackjack.c line 243 :syntax error
+wizards/rag/test/blackjack.c line 231 :Variable tmp not declared !
+wizards/rag/test/blackjack.c line 232 :Variable tmp not declared !
+wizards/rag/test/blackjack.c line 232 :Variable tmp not declared !
+wizards/rag/test/blackjack.c line 233 :Variable tmp not declared !
+wizards/rag/ruins/ruins_w.c line 24 :syntax error
+wizards/rag/ruins/shack.c line 44 :Newline in string
+wizards/rag/ruins/shack.c line 45 :syntax error
+wizards/rag/ruins/church2.c line 22 :syntax error
+wizards/rag/ruins/church2.c line 25 :syntax error
+wizards/rag/ruins/church2.c line 22 :syntax error
+wizards/rag/ruins/church2.c line 25 :syntax error
+wizards/rag/ruins/library.c line 17 :syntax error
+wizards/rag/ruins/library.c line 17 :syntax error
+wizards/rag/ruins/church4.c line 31 :syntax error
+wizards/rag/ruins/church3.c line 5 :syntax error
+wizards/rag/ruins/church3.c line 31 :syntax error
+wizards/rag/ruins/church3.c line 33 :Variable this_player not declared !
+wizards/rag/ruins/church3.c line 34 :Variable this_player not declared !
+wizards/rag/ruins/mon/priest.c line 57 :Too many arguments to clone_object
+wizards/rag/ruins/mon/priest.c line 57 :syntax error
+wizards/rag/ruins/mon/priest.c line 53 :syntax error
+wizards/rag/ruins/priest.c line 53 :syntax error
+wizards/rag/ruins/mon/priest.c line 53 :syntax error
+wizards/rag/ruins/mon/demon.c line 14 :syntax error
+wizards/rag/ruins/obj/scroll.c line 37 :syntax error
+wizards/rag/ruins/obj/scroll.c line 38 :Newline in string
+wizards/rag/ruins/obj/scroll.c line 37 :syntax error
+wizards/rag/ruins/mon/priest.c line 56 :Variable q not declared !
+wizards/rag/ruins/church3.c line 52 :Variable RED not declared !
+wizards/rag/ruins/church3.c line 48 :function not defined by inheritance as specified
+wizards/rag/ruins/dark5.c line 39 :syntax error
+wizards/rag/ruins/obj/cross.c line 6 :Newline in string
+wizards/rag/ruins/obj/book.c line 14 :syntax error
+wizards/rag/ruins/dark6.c line 33 :Newline in string
+wizards/rag/ruins/dark6.c line 34 :syntax error
+wizards/rag/ruins/dark6.c line 36 :Illegal LHS
+wizards/rag/ruins/dark6.c line 38 :Newline in string
+wizards/rag/ruins/dark6.c line 33 :Newline in string
+wizards/rag/ruins/dark6.c line 34 :syntax error
+wizards/rag/ruins/dark6.c line 36 :Illegal LHS
+wizards/rag/ruins/dark6.c line 38 :Newline in string
+wizards/rag/ruins/dark6.c line 62 :syntax error
+wizards/rag/ruins/dark6.c line 99 :syntax error
+wizards/rag/ruins/dark6.c line 103 :syntax error
+wizards/rag/ruins/mon/librarian.c line 44 :Variable this_player not declared !
+wizards/rag/ruins/mon/librarian.c line 45 :syntax error
+wizards/rag/ruins/mon/librarian.c line 47 :syntax error
+wizards/rag/ruins/mon/librarian.c line 45 :syntax error
+wizards/rag/ruins/mon/librarian.c line 47 :syntax error
+wizards/rag/test/testroom.c line 9 :Variable m2 not declared !
+wizards/rag/test/testroom.c line 10 :Variable m2 not declared !
+wizards/rag/test/testroom.c line 11 :Variable m2 not declared !
+wizards/rag/test/testroom.c line 9 :Variable m2 not declared !
+wizards/rag/test/testroom.c line 10 :Variable m2 not declared !
+wizards/rag/test/testroom.c line 11 :Variable m2 not declared !
+wizards/rag/test/testroom.c line 9 :Variable m2 not declared !
+wizards/rag/test/testroom.c line 10 :Variable m2 not declared !
+wizards/rag/test/testroom.c line 11 :Variable m2 not declared !
+wizards/rag/test/testroom.c line 9 :Variable m2 not declared !
+wizards/rag/test/testroom.c line 10 :Variable m2 not declared !
+wizards/rag/test/testroom.c line 11 :Variable m2 not declared !
+wizards/rag/ruins/eq/sbarms.c line 3 :syntax error
+wizards/rag/ruins/obj/soul.c line 4 :Newline in string
+wizards/rag/ruins/obj/soul.c line 4 :Newline in string
+wizards/rag/test/monster.c line 18 :Variable room not declared !
+wizards/rag/test/monster.c line 31 :syntax error
+wizards/rag/test/monster.c line 34 :syntax error
+wizards/rag/test/monster.c line 29 :syntax error
+wizards/rag/test/fall.c line 21 :Newline in string
+wizards/rag/test/fall.c line 22 :syntax error
+wizards/rag/test/monster.c line 18 :syntax error
+wizards/rag/test/fall.c line 21 :syntax error
+wizards/rag/test/fall.c line 19 :syntax error
+wizards/rag/test/fall.c line 27 :syntax error
+wizards/rag/ruins/mon/priest.c line 165 :syntax error
+wizards/rag/ruins/mon/priest.c line 187 :Illegal LHS
+wizards/rag/ruins/mon/priest.c line 188 :syntax error
+wizards/rag/ruins/eq/burn_sword.c line 20 :Variable wieldyd_by not declared !
+wizards/rag/ruins/mon/dust.c line 14 :syntax error
+wizards/rag/ruins/mon/dust.c line 15 :Illegal LHS
+wizards/rag/ruins/mon/dust.c line 15 :syntax error
+wizards/rag/ruins/mon/dust.c line 17 :syntax error
+wizards/rag/ruins/mon/dust.c line 14 :syntax error
+wizards/rag/ruins/mon/dust.c line 15 :Illegal LHS
+wizards/rag/ruins/mon/dust.c line 15 :syntax error
+wizards/rag/ruins/mon/dust.c line 17 :syntax error
+wizards/rag/eval_file.c line 2 :Bad argument 2 type to efun present()
+wizards/rag/eval_file.c line 2 :Bad argument 2 type to efun present()
+wizards/rag/eval_file.c line 2 :syntax error
+wizards/rag/ruins/mon/paladin.c line 30 :syntax error
+wizards/rag/ruins/mon/paladin.c line 49 :Variable tmp2 not declared !
+wizards/rag/ruins/mon/priest.c line 190 :syntax error
+wizards/rag/ruins/mon/priest.c line 190 :Illegal character (hex 2e) '.'
+wizards/rag/ruins/mon/priest.c line 190 :Illegal character (hex 5c) '\'
+wizards/rag/ruins/mon/priest.c line 190 :Newline in string
+wizards/rag/ruins/mon/priest.c line 194 :Variable master not declared !
+wizards/rag/ruins/church3.c line 18 :Newline in string
+wizards/rag/ruins/church3.c line 50 :syntax error
+wizards/rag/ruins/church3.c line 18 :Newline in string
+wizards/rag/ruins/church3.c line 50 :syntax error
+wizards/rag/ruins/tunnel4.c line 29 :Newline in string
+wizards/rag/ruins/tunnel4.c line 33 :syntax error
+wizards/rag/ruins/tunnel4.c line 33 :Illegal LHS
+wizards/rag/ruins/tunnel4.c line 35 :syntax error
+wizards/rag/ruins/tunnel4.c line 16 :Newline in string
+wizards/rag/ruins/tunnel4.c line 18 :syntax error
+wizards/rag/ruins/tunnel4.c line 18 :Illegal LHS
+wizards/rag/ruins/tunnel4.c line 19 :syntax error
+wizards/rag/ruins/tunnel3.c line 30 :Newline in string
+wizards/rag/ruins/tunnel3.c line 31 :syntax error
+wizards/rag/eval_file.c line 2 :Variable this_object not declared !
+wizards/rag/misc/calm.c line 6 :Newline in string
+wizards/rag/misc/calm.c line 8 :syntax error
+wizards/rag/misc/calm.c line 8 :Illegal LHS
+wizards/rag/misc/calm.c line 9 :syntax error
+wizards/rag/ruins/tunnel4.c line 59 :syntax error
+wizards/rag/ruins/tunnel4.c line 63 :syntax error
+wizards/rag/ruins/tunnel4.c line 67 :Illegal LHS
+wizards/rag/ruins/tunnel4.c line 106 :syntax error
+wizards/rag/ruins/tunnel4.c line 107 :syntax error
+wizards/rag/ruins/tunnel4.c line 125 :Illegal LHS
+wizards/rag/ruins/tunnel4.c line 65 :syntax error
+wizards/rag/ruins/tunnel4.c line 74 :syntax error
+wizards/rag/ruins/tunnel4.c line 106 :syntax error
+wizards/rag/ruins/tunnel4.c line 107 :syntax error
+wizards/rag/ruins/tunnel4.c line 125 :Illegal LHS
+wizards/rag/ruins/tunnel4.c line 125 :syntax error
+wizards/rag/ruins/tunnel4.c line 144 :syntax error
+wizards/rag/ruins/tunnel4.c line 143 :syntax error
+wizards/rag/ruins/tunnel4.c line 144 :Variable lich not declared !
+wizards/rag/ruins/tunnel4.c line 145 :syntax error
+wizards/rag/ruins/tunnel4.c line 145 :syntax error
+wizards/rag/ruins/tunnel4.c line 82 :Redeclaration of function event1.
+wizards/rag/ruins/tunnel4.c line 88 :Redeclaration of function event1.
+wizards/rag/ruins/tunnel4.c line 117 :Newline in string
+wizards/rag/ruins/tunnel4.c line 118 :syntax error
+wizards/rag/ruins/tunnel4.c line 117 :Newline in string
+wizards/rag/ruins/tunnel4.c line 118 :syntax error
+wizards/rag/ruins/tunnel4.c line 132 :Variable this_player not declared !
+wizards/rag/misc/varjo.c line 9 :Variable GREEN not declared !
+wizards/rag/eval_file.c line 2 :syntax error
+wizards/rag/misc/amulet.c line 64 :Variable tmp not declared !
+wizards/rag/misc/amulet.c line 51 :syntax error
+wizards/rag/misc/amulet.c line 51 :syntax error
+wizards/rag/misc/amulet.c line 51 :syntax error
+wizards/rag/eval_file.c line 2 :syntax error
+wizards/rag/eval_file.c line 2 :Variable varjo not declared !
+wizards/rag/eval_file.c line 2 :syntax error
+wizards/rag/eval_file.c line 2 :Newline in string
+wizards/rag/eval_file.c line 2 :syntax error
+wizards/rag/eval_file.c line 2 :Variable varjo not declared !
+wizards/rag/eval_file.c line 2 :Variable varjo not declared !
+wizards/rag/misc/varjo.c line 8 :syntax error
+wizards/rag/misc/varjo.c line 8 :Newline in string
+wizards/rag/misc/varjo.c line 10 :Variable wiz_short not declared !
+wizards/rag/eval_file.c line 2 :Variable x not declared !
+wizards/rag/eval_file.c line 2 :Variable y not declared !
+wizards/rag/event/map.c line 8 :Variable x not declared !
+wizards/rag/event/map.c line 8 :Variable y not declared !
+wizards/rag/event/questmaster.c line 38 :Newline in string
+wizards/rag/event/questmaster.c line 39 :syntax error
+wizards/rag/event/questmaster.c line 39 :Illegal LHS
+wizards/rag/event/questmaster.c line 39 :syntax error
+wizards/rag/event/map.c line 10 :syntax error
+wizards/rag/event/map.c line 18 :Illegal LHS
+wizards/rag/event/map.c line 18 :syntax error
+wizards/rag/event/master.c line 53 :syntax error
+wizards/rag/event/master.c line 55 :Variable MAP not declared !
+wizards/rag/event/master.c line 55 :Variable MAP not declared !
+wizards/rag/event/master.c line 60 :syntax error
+wizards/rag/event/master.c line 62 :syntax error
+wizards/rag/event/map.c line 13 :function not defined by inheritance as specified
+wizards/rag/event/map.c line 18 :Variable ENV not declared !
+wizards/rag/event/master.c line 79 :syntax error
+wizards/rag/event/master.c line 103 :syntax error
+wizards/rag/event/map.c line 41 :syntax error
+wizards/rag/event/master.c line 10 :syntax error
+wizards/rag/event/master.c line 102 :Variable running not declared !
+wizards/rag/event/master.c line 105 :Variable running not declared !
+wizards/rag/event/master.c line 78 :syntax error
+wizards/rag/event/master.c line 80 :syntax error
+wizards/rag/event/master.c line 81 :syntax error
+wizards/rag/event/master.c line 81 :syntax error
+wizards/rag/event/master.c line 81 :syntax error
+wizards/rag/event/map.c line 71 :syntax error
+wizards/rag/event/master.c line 110 :Variable sintr not declared !
+wizards/rag/event/master.c line 110 :Variable points not declared !
+wizards/rag/event/master.c line 111 :syntax error
+wizards/rag/event/master.c line 115 :Variable points not declared !
+wizards/rag/event/master.c line 122 :Variable i not declared !
+wizards/rag/event/master.c line 122 :Variable i not declared !
+wizards/rag/event/map.c line 19 :syntax error
+wizards/rag/event/map.c line 20 :syntax error
+wizards/rag/event/map.c line 19 :syntax error
+wizards/rag/event/map.c line 20 :syntax error
+wizards/rag/event/master.c line 99 :syntax error
+wizards/rag/ruins/tunnel4.c line 126 :Variable player not declared !
+wizards/rag/eval_file.c line 2 :Variable this_player not declared !
+wizards/rag/eval_file.c line 2 :Bad type of argument used for range: "object "
+wizards/rag/eval_file.c line 2 :syntax error
+wizards/rag/eval_file.c line 2 :Newline in string
+wizards/rag/eval_file.c line 3 :syntax error
+wizards/rag/_walk.c line 96 :syntax error
+wizards/rag/_walk.c line 96 :syntax error
+wizards/rag/_walk.c line 97 :syntax error
+wizards/rag/_walk.c line 28 :syntax error
+wizards/rag/_walk.c line 32 :Illegal LHS
+wizards/rag/_walk.c line 32 :Illegal LHS
+wizards/rag/_walk.c line 35 :syntax error
+wizards/rag/_walk.c line 37 :Illegal LHS
+wizards/rag/_walk.c line 37 :Illegal LHS
+wizards/rag/_NW.c line 3 :syntax error
+wizards/rag/cmds/_S.c line 7 :syntax error
+wizards/rag/misc/onehand.c line 71 :syntax error
+wizards/rag/misc/onehand.c line 72 :syntax error
+wizards/rag/misc/onehand.c line 73 :syntax error
+wizards/rag/misc/onehand.c line 74 :syntax error
+wizards/rag/misc/onehand.c line 75 :Illegal LHS
+wizards/rag/misc/onehand.c line 75 :Illegal LHS
+wizards/rag/misc/onehand.c line 82 :syntax error
+wizards/rag/misc/onehand.c line 86 :Illegal LHS
+wizards/rag/misc/onehand.c line 86 :Illegal LHS
+wizards/rag/misc/onehand.c line 86 :Illegal LHS
+wizards/rag/misc/onehand.c line 86 :Illegal LHS
+wizards/rag/misc/onehand.c line 92 :syntax error
+wizards/rag/misc/onehand.c line 95 :syntax error
+wizards/rag/misc/onehand.c line 107 :Illegal LHS
+wizards/rag/event/master.c line 50 :syntax error
+wizards/rag/event/master.c line 66 :Variable ob not declared !
+wizards/rag/event/master.c line 66 :Illegal LHS
+wizards/rag/event/master.c line 67 :Variable pl not declared !
+wizards/rag/event/master.c line 67 :Illegal LHS
+wizards/rag/event/master.c line 67 :syntax error
+wizards/rag/event/master.c line 50 :syntax error
+wizards/rag/event/master.c line 50 :Illegal LHS
+wizards/rag/event/master.c line 66 :Variable ob not declared !
+wizards/rag/event/master.c line 66 :Illegal LHS
+wizards/rag/event/master.c line 67 :Variable pl not declared !
+wizards/rag/event/master.c line 67 :Illegal LHS
+wizards/rag/event/minimap.c line 12 :syntax error
+wizards/rag/event/minimap.c line 12 :Illegal LHS
+wizards/rag/event/minimap.c line 26 :Undefined function abs
+wizards/rag/event/minimap.c line 26 :Function abs undefined
+wizards/rag/event/minimap.c line 26 :Wrong number of arguments to abs
+wizards/rag/event/minimap.c line 26 :Bad type of index: "unknown "
+wizards/rag/event/minimap.c line 26 :Undefined function abs
+wizards/rag/event/minimap.c line 26 :Function abs undefined
+wizards/rag/event/minimap.c line 26 :Wrong number of arguments to abs
+wizards/rag/event/minimap.c line 26 :Bad type of index: "unknown "
+wizards/rag/event/minimap.c line 31 :Function abs undefined
+wizards/rag/event/minimap.c line 31 :Wrong number of arguments to abs
+wizards/rag/event/minimap.c line 44 :Variable OFF not declared !
+wizards/rag/event/master.c line 51 :syntax error
+wizards/rag/event/master.c line 67 :Variable str not declared !
+wizards/rag/event/master.c line 67 :Illegal LHS
+wizards/rag/event/master.c line 67 :syntax error
+wizards/rag/event/master.c line 68 :Illegal LHS
+wizards/rag/event/master.c line 68 :syntax error
+Sat Jun 14 18:40:20 2003 Angdal sits here meditating(strong) (/wizards/rag/elf/monsters/angdal#3874, 51) killed by Drakhor (208) 
+wizards/rag/_fdrop.c line 9 :syntax error
+wizards/rag/eval_file.c line 2 :syntax error
+Sun Jun 15 20:47:48 2003 Celebmir, master bard and royal advisor(strong) (/wizards/rag/elf/monsters/celebmir#2047, 55) killed by Drakhor (209) 
+Sun Jun 15 20:55:22 2003 Finlos sits here reading a book(strong) (/wizards/rag/elf/monsters/finlos#2081, 53) killed by Drakhor (209) 
+wizards/rag/monster2.c line 27 :Cannot #include living.h
+wizards/rag/monster2.c line 94 :Variable is_npc not declared !
+wizards/rag/monster2.c line 99 :Variable combat_tactic not declared !
+wizards/rag/monster2.c line 168 :Variable name not declared !
+wizards/rag/monster2.c line 182 :Variable name not declared !
+wizards/rag/monster2.c line 187 :Variable name not declared !
+wizards/rag/monster2.c line 27 :Cannot #include obj/living.h
+wizards/rag/monster2.c line 94 :Variable is_npc not declared !
+wizards/rag/monster2.c line 99 :Variable combat_tactic not declared !
+wizards/rag/monster2.c line 168 :Variable name not declared !
+wizards/rag/monster2.c line 182 :Variable name not declared !
+wizards/rag/monster2.c line 187 :Variable name not declared !
+wizards/rag/monster2.c line 27 :Cannot #include obj/living.h
+wizards/rag/monster2.c line 94 :Variable is_npc not declared !
+wizards/rag/monster2.c line 99 :Variable combat_tactic not declared !
+wizards/rag/monster2.c line 168 :Variable name not declared !
+wizards/rag/monster2.c line 182 :Variable name not declared !
+wizards/rag/monster2.c line 187 :Variable name not declared !
+wizards/rag/monster2.c line 583 :syntax error
+wizards/rag/monster.c line 27 :Cannot #include living.h
+wizards/rag/monster.c line 94 :Variable is_npc not declared !
+wizards/rag/monster.c line 99 :Variable combat_tactic not declared !
+wizards/rag/monster.c line 168 :Variable name not declared !
+wizards/rag/monster.c line 182 :Variable name not declared !
+wizards/rag/monster.c line 187 :Variable name not declared !
+wizards/rag/monster.c line 27 :Cannot #include living.h
+wizards/rag/monster.c line 94 :Variable is_npc not declared !
+wizards/rag/monster.c line 99 :Variable combat_tactic not declared !
+wizards/rag/monster.c line 168 :Variable name not declared !
+wizards/rag/monster.c line 182 :Variable name not declared !
+wizards/rag/monster.c line 187 :Variable name not declared !
+wizards/rag/monster2.c line 560 :syntax error
+wizards/rag/monster2.c line 560 :Illegal LHS
+wizards/rag/give.c line 4 :function not defined by inheritance as specified
+wizards/rag/ruins/church3.c line 53 :syntax error
+wizards/rag/ruins/church3.c line 57 :Too few arguments to clone_object
+wizards/rag/ruins/church3.c line 58 :syntax error
+wizards/rag/ruins/church3.c line 64 :Illegal character (hex 2e) '.'
+wizards/rag/ruins/church3.c line 64 :Illegal character (hex 5c) '\'
+wizards/rag/ruins/church3.c line 64 :Newline in string
+wizards/rag/ruins/church3.c line 53 :syntax error
+wizards/rag/ruins/church3.c line 57 :Too few arguments to clone_object
+wizards/rag/ruins/church3.c line 58 :syntax error
+wizards/rag/ruins/church3.c line 64 :Illegal character (hex 2e) '.'
+wizards/rag/ruins/church3.c line 64 :Illegal character (hex 5c) '\'
+wizards/rag/ruins/church3.c line 64 :Newline in string
+wizards/rag/ruins/church3.c line 53 :syntax error
+wizards/rag/ruins/church3.c line 57 :Too few arguments to clone_object
+wizards/rag/ruins/church3.c line 58 :syntax error
+wizards/rag/ruins/church3.c line 64 :Illegal character (hex 2e) '.'
+wizards/rag/ruins/church3.c line 64 :Illegal character (hex 5c) '\'
+wizards/rag/ruins/church3.c line 64 :Newline in string
+wizards/rag/ruins/church3.c line 53 :syntax error
+wizards/rag/ruins/church3.c line 57 :Too few arguments to clone_object
+wizards/rag/ruins/church3.c line 58 :syntax error
+wizards/rag/ruins/church3.c line 64 :Illegal character (hex 2e) '.'
+wizards/rag/ruins/church3.c line 64 :Illegal character (hex 5c) '\'
+wizards/rag/ruins/church3.c line 64 :Newline in string
+wizards/rag/ruins/church3.c line 53 :syntax error
+wizards/rag/ruins/church3.c line 57 :Too few arguments to clone_object
+wizards/rag/ruins/church3.c line 58 :syntax error
+wizards/rag/ruins/church3.c line 64 :Illegal character (hex 2e) '.'
+wizards/rag/ruins/church3.c line 64 :Illegal character (hex 5c) '\'
+wizards/rag/ruins/church3.c line 64 :Newline in string
+wizards/rag/ruins/church3.c line 64 :syntax error
+wizards/rag/ruins/church3.c line 64 :Illegal character (hex 2e) '.'
+wizards/rag/ruins/church3.c line 64 :Illegal character (hex 5c) '\'
+wizards/rag/ruins/church3.c line 64 :Newline in string
+Sun Jun 29 19:57:56 2003 Gabrash the orcish commander is planning a battle(strong) (/wizards/rag/elf/monsters/gabrash#12780, 44) killed by Celes (127) 
+wizards/rag/event/master.c line 68 :Variable scores not declared !
+wizards/rag/_count.c line 20 :Illegal character constant
+wizards/rag/_count.c line 21 :syntax error
+wizards/rag/_count.c line 22 :Illegal LHS
+wizards/rag/_count.c line 22 :syntax error
+wizards/rag/_count.c line 24 :syntax error
+wizards/rag/_count.c line 24 :Illegal LHS
+wizards/rag/event/master.c line 72 :syntax error
+wizards/rag/event/event_room.c line 100 :Variable event not declared !
+wizards/rag/event/start.c line 19 :Newline in string
+wizards/rag/event/start.c line 20 :syntax error
+wizards/rag/event/start.c line 19 :Newline in string
+wizards/rag/event/start.c line 20 :syntax error
+wizards/rag/event/start.c line 19 :Newline in string
+wizards/rag/event/start.c line 20 :syntax error
+wizards/rag/event/start.c line 19 :Newline in string
+wizards/rag/event/start.c line 20 :syntax error
+wizards/rag/event/start.c line 19 :Newline in string
+wizards/rag/event/start.c line 20 :syntax error
+wizards/rag/event/start.c line 19 :Newline in string
+wizards/rag/event/start.c line 20 :syntax error
+wizards/rag/ruins/mon/bloodwind.c line 23 :syntax error
+Tue Jul 15 15:42:39 2003 General Bloodwind is here overseeing the training(strong) (/wizards/rag/ruins/mon/bloodwind#3251, 64) killed by Drakhor (216) 
+wizards/rag/misc/testmonster.c line 20 :syntax error
+wizards/rag/misc/_monster.c line 4 :Variable arg not declared !
+wizards/rag/misc/_monster.c line 4 :Variable arg not declared !
+wizards/rag/misc/_monster.c line 9 :Variable arg not declared !
+wizards/rag/misc/_monster.c line 10 :syntax error
+wizards/rag/misc/_monster.c line 10 :syntax error
+wizards/rag/misc/monster.c line 27 :Cannot #include living.h
+wizards/rag/misc/monster.c line 94 :Variable is_npc not declared !
+wizards/rag/misc/monster.c line 99 :Variable combat_tactic not declared !
+wizards/rag/misc/monster.c line 168 :Variable name not declared !
+wizards/rag/misc/monster.c line 182 :Variable name not declared !
+wizards/rag/misc/monster.c line 187 :Variable name not declared !
+wizards/rag/event/event_room.c line 103 :Variable event not declared !
+wizards/rag/event/event_room.c line 76 :syntax error
+wizards/rag/event/event_room.c line 90 :Illegal LHS
+wizards/rag/event/event_room.c line 90 :syntax error
+wizards/rag/event/event_room.c line 91 :Illegal LHS
+wizards/rag/event/event_room.c line 91 :syntax error
+wizards/rag/event/event_room.c line 103 :Illegal LHS
+wizards/rag/event/event_room.c line 103 :Variable i not declared !
+wizards/rag/event/event_room.c line 103 :Variable i not declared !
+wizards/rag/event/event_room.c line 103 :Variable i not declared !
+wizards/rag/event/event_room.c line 104 :Variable i not declared !
+wizards/rag/event/event_room.c line 105 :Variable i not declared !
+wizards/rag/event/event_room.c line 81 :Variable event not declared !
+wizards/rag/event/event_room.c line 120 :syntax error
+wizards/rag/event/start.c line 9 :Newline in string
+wizards/rag/event/start.c line 10 :syntax error
+wizards/rag/event/start.c line 17 :Illegal LHS
+wizards/rag/event/start.c line 18 :Too few arguments to clone_object
+wizards/rag/event/start.c line 19 :syntax error
+wizards/rag/event/start.c line 25 :Illegal LHS
+wizards/rag/test/test2.c line 44 :Variable o not declared !
+wizards/rag/test/test2.c line 45 :Variable QUEST_D not declared !
+wizards/rag/test/test2.c line 48 :syntax error
+wizards/rag/test/test2.c line 50 :syntax error
+wizards/rag/test/test2.c line 50 :syntax error
+wizards/rag/test/test2.c line 57 :syntax error
+wizards/rag/test/player.c line 2 :Cannot #include living.h
+wizards/rag/test/player.c line 256 :Variable msgout not declared !
+wizards/rag/test/player.c line 257 :Variable msgin not declared !
+wizards/rag/test/player.c line 258 :Variable mmsgout not declared !
+wizards/rag/test/player.c line 259 :Variable mmsgin not declared !
+wizards/rag/test/player.c line 262 :Variable msgout not declared !
+wizards/rag/ruumi.c line 1 :Newline in string
+wizards/rag/ruumi.c line 2 :syntax error
+wizards/rag/ruumi.c line 31 :Newline in string
+wizards/rag/ruumi.c line 33 :syntax error
+wizards/rag/ruumi.c line 40 :Illegal LHS
+wizards/rag/ruumi.c line 40 :Illegal LHS
+wizards/rag/ruumi.c line 40 :Illegal LHS
+wizards/rag/ruumi.c line 40 :syntax error
+wizards/rag/eval_file.c line 2 :Illegal character constant
+wizards/rag/eval_file.c line 2 :Bad argument 1 type to efun sizeof()
+wizards/rag/eval_file.c line 2 :syntax error
+wizards/rag/monster.c line 27 :Cannot #include living.h
+wizards/rag/monster.c line 94 :Variable is_npc not declared !
+wizards/rag/monster.c line 99 :Variable combat_tactic not declared !
+wizards/rag/monster.c line 168 :Variable name not declared !
+wizards/rag/monster.c line 183 :Variable name not declared !
+wizards/rag/monster.c line 188 :Variable name not declared !
+wizards/rag/eval_file.c line 2 :syntax error
+wizards/rag/eval_file.c line 2 :Bad argument 1 type to efun sizeof()
+wizards/rag/test/nalle.c line 16 :Variable this_object not declared !
+wizards/rag/player.c line 2 :Cannot #include living.h
+wizards/rag/player.c line 257 :Variable msgout not declared !
+wizards/rag/player.c line 258 :Variable msgin not declared !
+wizards/rag/player.c line 259 :Variable mmsgout not declared !
+wizards/rag/player.c line 260 :Variable mmsgin not declared !
+wizards/rag/player.c line 263 :Variable msgout not declared !
+wizards/rag/living.c line 661 :syntax error
+wizards/rag/living.c line 672 :Illegal LHS
+wizards/rag/living.c line 672 :syntax error
+wizards/rag/living.c line 689 :syntax error
+wizards/rag/living.c line 694 :Variable number_of_hits not declared !
+wizards/rag/living.c line 694 :Illegal LHS
+wizards/rag/monster.c line 27 :Cannot #include living.h
+wizards/rag/monster.c line 94 :Variable is_npc not declared !
+wizards/rag/monster.c line 99 :Variable combat_tactic not declared !
+wizards/rag/monster.c line 168 :Variable name not declared !
+wizards/rag/monster.c line 183 :Variable name not declared !
+wizards/rag/monster.c line 188 :Variable name not declared !
+wizards/rag/monster.c line 1058 :Variable this_object not declared !
+wizards/rag/monster.c line 1058 :syntax error
+wizards/rag/monster.c line 1063 :Illegal LHS
+wizards/rag/monster.c line 1063 :syntax error
+wizards/rag/monster.c line 1064 :Illegal LHS
+wizards/rag/monster.c line 1065 :Illegal LHS
+wizards/rag/monster.c line 1058 :syntax error
+wizards/rag/monster.c line 1063 :Illegal LHS
+wizards/rag/monster.c line 1063 :syntax error
+wizards/rag/monster.c line 1064 :Illegal LHS
+wizards/rag/monster.c line 1065 :Illegal LHS
+wizards/rag/monster.c line 1065 :syntax error
+wizards/rag/combat.c line 21 :syntax error
+wizards/rag/combat.c line 21 :Illegal LHS
+wizards/rag/combat.c line 281 :Newline in string
+wizards/rag/combat.c line 282 :syntax error
+wizards/rag/combat.c line 282 :Illegal LHS
+wizards/rag/combat.c line 282 :syntax error
+wizards/rag/party.c line 622 :syntax error
+wizards/rag/party.c line 637 :Illegal LHS
+wizards/rag/party.c line 637 :syntax error
+wizards/rag/party.c line 638 :Illegal LHS
+wizards/rag/party.c line 647 :Variable x not declared !
+wizards/rag/party.c line 647 :Variable y not declared !
+wizards/rag/party.c line 273 :syntax error
+wizards/rag/party.c line 291 :Variable ob not declared !
+wizards/rag/player.c line 2 :Cannot #include living.h
+wizards/rag/player.c line 257 :Variable msgout not declared !
+wizards/rag/player.c line 258 :Variable msgin not declared !
+wizards/rag/player.c line 259 :Variable mmsgout not declared !
+wizards/rag/player.c line 260 :Variable mmsgin not declared !
+wizards/rag/player.c line 263 :Variable msgout not declared !
+wizards/rag/party.c line 290 :Bad argument 1 type to efun m_sizeof()
+wizards/rag/player.c line 2 :Cannot #include living.h
+wizards/rag/player.c line 256 :Variable msgout not declared !
+wizards/rag/player.c line 257 :Variable msgin not declared !
+wizards/rag/player.c line 258 :Variable mmsgout not declared !
+wizards/rag/player.c line 259 :Variable mmsgin not declared !
+wizards/rag/player.c line 262 :Variable msgout not declared !
+wizards/rag/event/master.c line 171 :syntax error
+wizards/rag/eval_file.c line 2 :Newline in string
+wizards/rag/eval_file.c line 3 :syntax error
+wizards/rag/stomp.c line 26 :syntax error
+wizards/rag/stomp.c line 27 :Illegal LHS
+wizards/rag/stomp.c line 27 :syntax error
+wizards/rag/stomp.c line 41 :Illegal LHS
+wizards/rag/stomp.c line 41 :syntax error
+wizards/rag/stomp.c line 44 :Illegal LHS
+wizards/rag/mastery_d.c line 9 :Variable previous_object not declared !
+wizards/rag/eval_file.c line 2 :Variable this_player not declared !
+wizards/rag/mastery_d.c line 20 :Newline in string
+wizards/rag/mastery_d.c line 21 :syntax error
+wizards/rag/mastery_d.c line 25 :Illegal LHS
+wizards/rag/mastery_d.c line 26 :Illegal LHS
+wizards/rag/mastery_d.c line 27 :Illegal LHS
+wizards/rag/mastery_d.c line 29 :Illegal LHS
+wizards/rag/eval_file.c line 2 :Too many arguments to write
+wizards/rag/eval_file.c line 2 :syntax error
+Thu Nov 20 02:05:35 2003 Gabrash the orcish commander is planning a battle(strong) (/wizards/rag/elf/monsters/gabrash#24506, 44) killed by Bloodstorm (161) 
+wizards/rag/mastery_d.c line 66 :Undefined function sccanf
+wizards/rag/mastery_d.c line 75 :Variable master_level not declared !
+wizards/rag/mastery_d.c line 91 :Variable master not declared !
+wizards/rag/mastery_d.c line 42 :Illegal character (hex ffffffa0) ' '
+wizards/rag/mastery_d.c line 42 :syntax error
+wizards/rag/mastery_d.c line 43 :Illegal character (hex ffffffa0) ' '
+wizards/rag/mastery_d.c line 43 :syntax error
+wizards/rag/mastery_d.c line 44 :Illegal character (hex ffffffa0) ' '
+wizards/rag/mastery_d.c line 44 :syntax error
+wizards/rag/mastery_d.c line 42 :Illegal character (hex ffffffa0) ' '
+wizards/rag/mastery_d.c line 42 :syntax error
+wizards/rag/mastery_d.c line 43 :Illegal character (hex ffffffa0) ' '
+wizards/rag/mastery_d.c line 43 :syntax error
+wizards/rag/mastery_d.c line 44 :Illegal character (hex ffffffa0) ' '
+wizards/rag/mastery_d.c line 44 :syntax error
+wizards/rag/mastery_d.c line 42 :Illegal character (hex ffffffa0) ' '
+wizards/rag/mastery_d.c line 42 :syntax error
+wizards/rag/mastery_d.c line 43 :Illegal character (hex ffffffa0) ' '
+wizards/rag/mastery_d.c line 43 :syntax error
+wizards/rag/mastery_d.c line 44 :Illegal character (hex ffffffa0) ' '
+wizards/rag/mastery_d.c line 44 :syntax error
+wizards/rag/mastery_d.c line 37 :Illegal character (hex ffffffa0) ' '
+wizards/rag/mastery_d.c line 37 :syntax error
+wizards/rag/mastery_d.c line 38 :Illegal character (hex ffffffa0) ' '
+wizards/rag/mastery_d.c line 38 :syntax error
+wizards/rag/mastery_d.c line 39 :Illegal character (hex ffffffa0) ' '
+wizards/rag/mastery_d.c line 39 :syntax error
+wizards/rag/mastery_d.c line 37 :Illegal character (hex ffffffa0) ' '
+wizards/rag/mastery_d.c line 37 :syntax error
+wizards/rag/mastery_d.c line 38 :Illegal character (hex ffffffa0) ' '
+wizards/rag/mastery_d.c line 38 :syntax error
+wizards/rag/mastery_d.c line 39 :Illegal character (hex ffffffa0) ' '
+wizards/rag/mastery_d.c line 39 :syntax error
+wizards/rag/off.c line 127 :syntax error
+wizards/rag/off.c line 128 :syntax error
+wizards/rag/off.c line 137 :Illegal LHS
+wizards/rag/off.c line 137 :Illegal LHS
+wizards/rag/off.c line 139 :syntax error
+wizards/rag/off.c line 127 :syntax error
+wizards/rag/off.c line 137 :Illegal LHS
+wizards/rag/off.c line 137 :Illegal LHS
+wizards/rag/off.c line 139 :syntax error
+wizards/rag/off.c line 128 :syntax error
+wizards/rag/off.c line 129 :syntax error
+wizards/rag/off.c line 138 :Illegal LHS
+wizards/rag/off.c line 138 :Illegal LHS
+wizards/rag/off.c line 140 :syntax error
+wizards/rag/off.c line 128 :syntax error
+wizards/rag/off.c line 129 :syntax error
+wizards/rag/off.c line 138 :Illegal LHS
+wizards/rag/off.c line 138 :Illegal LHS
+wizards/rag/off.c line 140 :syntax error
+wizards/rag/off.c line 128 :syntax error
+wizards/rag/off.c line 129 :syntax error
+wizards/rag/off.c line 138 :Illegal LHS
+wizards/rag/off.c line 138 :Illegal LHS
+wizards/rag/off.c line 140 :syntax error
+wizards/rag/off.c line 120 :syntax error
+wizards/rag/off.c line 129 :Illegal LHS
+wizards/rag/off.c line 129 :Illegal LHS
+wizards/rag/off.c line 131 :syntax error
+wizards/rag/off.c line 120 :syntax error
+wizards/rag/off.c line 129 :Illegal LHS
+wizards/rag/off.c line 129 :Illegal LHS
+wizards/rag/off.c line 131 :syntax error
+wizards/rag/off.c line 120 :syntax error
+wizards/rag/off.c line 129 :Illegal LHS
+wizards/rag/off.c line 129 :Illegal LHS
+wizards/rag/off.c line 131 :syntax error
+wizards/rag/off.c line 120 :syntax error
+wizards/rag/off.c line 129 :Illegal LHS
+wizards/rag/off.c line 129 :Illegal LHS
+wizards/rag/off.c line 131 :syntax error
+wizards/rag/off.c line 134 :syntax error
+wizards/rag/off.c line 144 :Illegal LHS
+wizards/rag/off.c line 144 :Illegal LHS
+wizards/rag/off.c line 146 :syntax error
+wizards/rag/off.c line 134 :syntax error
+wizards/rag/off.c line 144 :Illegal LHS
+wizards/rag/off.c line 144 :Illegal LHS
+wizards/rag/off.c line 146 :syntax error
+wizards/rag/off.c line 134 :syntax error
+wizards/rag/off.c line 144 :Illegal LHS
+wizards/rag/off.c line 144 :Illegal LHS
+wizards/rag/off.c line 146 :syntax error
+wizards/rag/off.c line 134 :syntax error
+wizards/rag/off.c line 144 :Illegal LHS
+wizards/rag/off.c line 144 :Illegal LHS
+wizards/rag/off.c line 146 :syntax error
+wizards/rag/off.c line 139 :syntax error
+wizards/rag/off.c line 140 :syntax error
+wizards/rag/off.c line 149 :Illegal LHS
+wizards/rag/off.c line 149 :Illegal LHS
+wizards/rag/off.c line 151 :syntax error
+wizards/rag/off.c line 139 :syntax error
+wizards/rag/off.c line 140 :syntax error
+wizards/rag/off.c line 149 :Illegal LHS
+wizards/rag/off.c line 149 :Illegal LHS
+wizards/rag/off.c line 151 :syntax error
+wizards/rag/off.c line 139 :syntax error
+wizards/rag/off.c line 140 :syntax error
+wizards/rag/off.c line 149 :Illegal LHS
+wizards/rag/off.c line 149 :syntax error
+wizards/rag/off.c line 155 :Illegal LHS
+wizards/rag/off.c line 155 :syntax error
+wizards/rag/off.c line 138 :syntax error
+wizards/rag/off.c line 148 :Illegal LHS
+wizards/rag/off.c line 148 :Illegal LHS
+wizards/rag/off.c line 150 :syntax error
+wizards/rag/off.c line 138 :syntax error
+wizards/rag/off.c line 148 :Illegal LHS
+wizards/rag/off.c line 148 :Illegal LHS
+wizards/rag/off.c line 150 :syntax error
+wizards/rag/off.c line 138 :syntax error
+wizards/rag/off.c line 148 :Illegal LHS
+wizards/rag/off.c line 148 :Illegal LHS
+wizards/rag/off.c line 150 :syntax error
+wizards/rag/off.c line 138 :syntax error
+wizards/rag/off.c line 148 :Illegal LHS
+wizards/rag/off.c line 148 :Illegal LHS
+wizards/rag/off.c line 150 :syntax error
+wizards/rag/off.c line 138 :syntax error
+wizards/rag/off.c line 139 :syntax error
+wizards/rag/off.c line 148 :Illegal LHS
+wizards/rag/off.c line 148 :Illegal LHS
+wizards/rag/off.c line 150 :syntax error
+wizards/rag/off.c line 138 :syntax error
+wizards/rag/off.c line 139 :syntax error
+wizards/rag/off.c line 148 :Illegal LHS
+wizards/rag/off.c line 148 :Illegal LHS
+wizards/rag/off.c line 150 :syntax error
+wizards/rag/off.c line 137 :syntax error
+wizards/rag/off.c line 152 :Illegal LHS
+wizards/rag/off.c line 152 :Illegal LHS
+wizards/rag/off.c line 154 :syntax error
+wizards/rag/off.c line 137 :syntax error
+wizards/rag/off.c line 152 :Illegal LHS
+wizards/rag/off.c line 152 :Illegal LHS
+wizards/rag/off.c line 154 :syntax error
+wizards/rag/off.c line 137 :syntax error
+wizards/rag/off.c line 152 :Illegal LHS
+wizards/rag/off.c line 152 :Illegal LHS
+wizards/rag/off.c line 154 :syntax error
+wizards/rag/off.c line 137 :syntax error
+wizards/rag/off.c line 152 :Illegal LHS
+wizards/rag/off.c line 152 :Illegal LHS
+wizards/rag/off.c line 154 :syntax error
+wizards/rag/off.c line 137 :syntax error
+wizards/rag/off.c line 152 :Illegal LHS
+wizards/rag/off.c line 152 :Illegal LHS
+wizards/rag/off.c line 154 :syntax error
+wizards/rag/off.c line 137 :syntax error
+wizards/rag/off.c line 152 :Illegal LHS
+wizards/rag/off.c line 152 :Illegal LHS
+wizards/rag/off.c line 154 :syntax error
+wizards/rag/off.c line 137 :syntax error
+wizards/rag/off.c line 152 :Illegal LHS
+wizards/rag/off.c line 152 :Illegal LHS
+wizards/rag/off.c line 154 :syntax error
+wizards/rag/off.c line 138 :syntax error
+wizards/rag/off.c line 153 :Illegal LHS
+wizards/rag/off.c line 153 :Illegal LHS
+wizards/rag/off.c line 153 :Illegal LHS
+wizards/rag/off.c line 155 :syntax error
+wizards/rag/off.c line 140 :syntax error
+wizards/rag/off.c line 155 :Illegal LHS
+wizards/rag/off.c line 155 :Illegal LHS
+wizards/rag/off.c line 155 :Illegal LHS
+wizards/rag/off.c line 157 :syntax error
+wizards/rag/off.c line 140 :syntax error
+wizards/rag/off.c line 155 :Illegal LHS
+wizards/rag/off.c line 155 :Illegal LHS
+wizards/rag/off.c line 155 :Illegal LHS
+wizards/rag/off.c line 157 :syntax error
+wizards/rag/off.c line 140 :syntax error
+wizards/rag/off.c line 155 :Illegal LHS
+wizards/rag/off.c line 155 :Illegal LHS
+wizards/rag/off.c line 155 :Illegal LHS
+wizards/rag/off.c line 157 :syntax error
+wizards/rag/off.c line 140 :syntax error
+wizards/rag/off.c line 155 :Illegal LHS
+wizards/rag/off.c line 155 :Illegal LHS
+wizards/rag/off.c line 155 :Illegal LHS
+wizards/rag/off.c line 157 :syntax error
+wizards/rag/off.c line 140 :syntax error
+wizards/rag/off.c line 155 :Illegal LHS
+wizards/rag/off.c line 155 :Illegal LHS
+wizards/rag/off.c line 155 :Illegal LHS
+wizards/rag/off.c line 157 :syntax error
+wizards/rag/mastery_d.c line 128 :syntax error
+wizards/rag/mastery_d.c line 128 :Illegal LHS
+wizards/rag/mastery_d.c line 130 :Illegal LHS
+wizards/rag/mastery_d.c line 130 :syntax error
+wizards/rag/mastery_d.c line 131 :Illegal LHS
+wizards/rag/mastery_d.c line 140 :Illegal LHS
+wizards/rag/mastery_d.c line 157 :Variable mastery_level1 not declared !
+wizards/rag/mastery_d.c line 157 :syntax error
+wizards/rag/mastery_d.c line 158 :Illegal LHS
+wizards/rag/mastery_d.c line 172 :Illegal LHS
+wizards/rag/mastery_d.c line 173 :Illegal LHS
+wizards/rag/mastery_d.c line 174 :Illegal LHS
+wizards/rag/eval_file.c line 2 :syntax error
+wizards/rag/eval_file.c line 2 :Newline in string
+wizards/rag/ruins/sceptre_d.c line 7 :Illegal character (hex ffffffa0) ' '
+wizards/rag/ruins/sceptre_d.c line 7 :syntax error
+wizards/rag/ruins/sceptre_d.c line 16 :Variable str not declared !
+wizards/rag/ruins/sceptre_d.c line 16 :syntax error
+wizards/rag/ruins/sceptre_d.c line 7 :Illegal character (hex ffffffa0) ' '
+wizards/rag/ruins/sceptre_d.c line 7 :syntax error
+wizards/rag/ruins/sceptre_d.c line 16 :Variable str not declared !
+wizards/rag/ruins/sceptre_d.c line 16 :syntax error
+wizards/rag/ruins/sceptre_d.c line 16 :syntax error
+wizards/rag/ruins/sceptre_d.c line 16 :syntax error
+wizards/rag/eval_file.c line 2 :syntax error
+wizards/rag/eval_file.c line 2 :syntax error
+wizards/rag/eval_file.c line 2 :syntax error
+wizards/rag/player.c line 2 :Cannot #include living.h
+wizards/rag/player.c line 257 :Variable msgout not declared !
+wizards/rag/player.c line 258 :Variable msgin not declared !
+wizards/rag/player.c line 259 :Variable mmsgout not declared !
+wizards/rag/player.c line 260 :Variable mmsgin not declared !
+wizards/rag/player.c line 263 :Variable msgout not declared !
+wizards/rag/monsu.c line 19 :Variable str not declared !
+wizards/rag/monsu.c line 19 :syntax error
+wizards/rag/monsu.c line 22 :Variable str not declared !
+wizards/rag/monsu.c line 23 :Variable rank not declared !
+wizards/rag/monsu.c line 24 :Variable rank not declared !
+wizards/rag/monsu.c line 26 :Variable knuckles not declared !
+wizards/rag/monsu.c line 42 :syntax error
+wizards/rag/monsu.c line 27 :syntax error
+wizards/rag/monsu.c line 28 :syntax error
+wizards/rag/monsu.c line 30 :Variable GUILdRANK_D not declared !
+wizards/rag/monsu.c line 30 :Variable guilds not declared !
+wizards/rag/monsu.c line 30 :Illegal LHS
+wizards/rag/monsu.c line 30 :syntax error
+wizards/rag/monsu.c line 27 :syntax error
+wizards/rag/monsu.c line 28 :syntax error
+wizards/rag/monsu.c line 33 :Too few arguments to clone_object
+wizards/rag/monsu.c line 33 :Illegal LHS
+wizards/rag/monsu.c line 33 :Illegal LHS
+wizards/rag/monsu.c line 33 :syntax error
+wizards/rag/monsu.c line 27 :syntax error
+wizards/rag/monsu.c line 28 :syntax error
+wizards/rag/monsu.c line 33 :Too few arguments to clone_object
+wizards/rag/monsu.c line 33 :Illegal LHS
+wizards/rag/monsu.c line 33 :Illegal LHS
+wizards/rag/monsu.c line 33 :syntax error
+wizards/rag/monsu.c line 27 :syntax error
+wizards/rag/monsu.c line 28 :syntax error
+wizards/rag/monsu.c line 33 :Too few arguments to clone_object
+wizards/rag/monsu.c line 33 :Illegal LHS
+wizards/rag/monsu.c line 33 :Illegal LHS
+wizards/rag/monsu.c line 33 :syntax error
+wizards/rag/monsu.c line 27 :syntax error
+wizards/rag/monsu.c line 28 :syntax error
+wizards/rag/monsu.c line 33 :Too few arguments to clone_object
+wizards/rag/monsu.c line 33 :Illegal LHS
+wizards/rag/monsu.c line 33 :Illegal LHS
+wizards/rag/monsu.c line 33 :syntax error
+wizards/rag/monsu.c line 27 :syntax error
+wizards/rag/monsu.c line 29 :syntax error
+wizards/rag/monsu.c line 34 :Too few arguments to clone_object
+wizards/rag/monsu.c line 34 :Illegal LHS
+wizards/rag/monsu.c line 34 :Illegal LHS
+wizards/rag/monsu.c line 34 :syntax error
+wizards/rag/round_blow_object.c line 58 :syntax error
+wizards/rag/round_blow_object.c line 60 :Illegal LHS
+wizards/rag/round_blow_object.c line 67 :Illegal LHS
+wizards/rag/living.c line 662 :Newline in string
+wizards/rag/living.c line 662 :syntax error
+wizards/rag/id.c line 13 :function not defined by inheritance as specified
+wizards/rag/id.c line 21 :syntax error
+wizards/rag/id.c line 27 :Illegal LHS
+wizards/rag/id.c line 27 :syntax error
+wizards/rag/id.c line 28 :Illegal LHS
+wizards/rag/id.c line 28 :syntax error
+wizards/rag/id.c line 20 :syntax error
+wizards/rag/id.c line 26 :Illegal LHS
+wizards/rag/id.c line 26 :syntax error
+wizards/rag/id.c line 27 :Illegal LHS
+wizards/rag/id.c line 27 :syntax error
+wizards/rag/id.c line 27 :Variable general_type not declared !
+wizards/rag/id.c line 30 :Variable general_type not declared !
+wizards/rag/id.c line 30 :syntax error
+wizards/rag/id.c line 30 :syntax error
+wizards/rag/zadax.c line 31 :syntax error
+wizards/rag/zadax.c line 32 :syntax error
+wizards/rag/zadax.c line 33 :syntax error
+wizards/rag/start.c line 14 :syntax error
+wizards/rag/start.c line 32 :Illegal LHS
+wizards/rag/start.c line 33 :Too few arguments to clone_object
+wizards/rag/start.c line 36 :Must return a value for a function declared: "string "
+wizards/rag/start.c line 42 :syntax error
+wizards/rag/events/teleport/zadax.c line 44 :Variable arg not declared !
+wizards/rag/events/teleport/zadax.c line 45 :Variable arg not declared !
+wizards/rag/eval_file.c line 2 :syntax error
+wizards/rag/weapon.c line 83 :Variable query_type not declared !
+wizards/rag/events/teleport/zadax.c line 64 :syntax error
+wizards/rag/events/teleport/zadax.c line 76 :Variable hp not declared !
+wizards/rag/events/teleport/zadax.c line 78 :Variable hp not declared !
+wizards/rag/events/teleport/zadax.c line 82 :Variable hp not declared !
+wizards/rag/events/teleport/zadax.c line 86 :Variable hp not declared !
+wizards/rag/events/teleport/zadax.c line 90 :Variable hp not declared !
+wizards/rag/events/teleport/zadax.c line 94 :Variable hp not declared !
+wizards/rag/guild.c line 44 :Variable starter not declared !
+wizards/rag/guild.c line 44 :Variable player_ob not declared !
+wizards/rag/guild.c line 44 :Variable guild not declared !
+wizards/rag/guild.c line 44 :Type mismatch ( unknown vs mixed ) when initializing skilz
+wizards/rag/guild.c line 44 :Missing type
+wizards/rag/guild.c line 45 :Type mismatch ( unknown vs mixed * ) when initializing indice_
+wizards/rag/events/teleport/neck.c line 11 :syntax error
+wizards/rag/events/teleport/neck.c line 11 :Illegal character (hex 2e) '.'
+wizards/rag/events/teleport/neck.c line 11 :Illegal character (hex 5c) '\'
+wizards/rag/events/teleport/neck.c line 11 :Newline in string
+wizards/rag/combat.c line 354 :syntax error
+wizards/rag/combat.c line 363 :Illegal LHS
+wizards/rag/combat.c line 363 :syntax error
+wizards/rag/combat.c line 364 :Illegal LHS
+wizards/rag/combat.c line 364 :syntax error
+wizards/rag/combat.c line 369 :Illegal LHS
+wizards/rag/events/teleport/zadax.c line 18 :Newline in string
+wizards/rag/events/teleport/zadax.c line 77 :syntax error
+wizards/rag/events/teleport/zadax.c line 161 :Variable spell_swords not declared !
+Sat Dec 13 20:55:50 2003 Zadax, the traveller between worlds(strong) (/wizards/rag/events/teleport/zadax#7263, 24) killed by Bloodstorm (197) 
+Sat Dec 13 21:22:49 2003 Zadax, the traveller between worlds(strong) (/wizards/rag/events/teleport/zadax#14150, 24) killed by Maria (125) 
+wizards/rag/cityguard.c line 57 :syntax error
+wizards/rag/cityguard.c line 60 :syntax error
+wizards/rag/cityguard.c line 68 :Too few arguments to clone_object
+wizards/rag/cityguard.c line 68 :Illegal LHS
+wizards/rag/cityguard.c line 68 :syntax error
+wizards/rag/cityguard.c line 57 :syntax error
+wizards/rag/cityguard.c line 60 :syntax error
+wizards/rag/cityguard.c line 68 :Too few arguments to clone_object
+wizards/rag/cityguard.c line 68 :Illegal LHS
+wizards/rag/cityguard.c line 68 :syntax error
+wizards/rag/eval_file.c line 2 :Too many arguments to simul_efun find_player
+wizards/rag/eval_file.c line 2 :syntax error
+Mon Dec 15 22:09:32 2003 Zadax, the traveller between worlds(strong) (/wizards/rag/events/teleport/zadax#10753, 24) killed by Devil (188) 
+wizards/rag/eval_file.c line 2 :syntax error
+wizards/rag/eval_file.c line 2 :syntax error
+wizards/rag/virtual_room.c line 35 :Missing type for argument
+wizards/rag/virtual_room.c line 35 :Missing type for argument
+wizards/rag/virtual_room.c line 35 :Missing type for argument
+wizards/rag/virtual_room.c line 35 :syntax error
+Tue Dec 16 23:54:30 2003 Zadax, the traveller between worlds(strong) (/wizards/rag/events/teleport/zadax#12071, 24) killed by Hemies (73) 
+Fri Dec 19 18:47:23 2003 Zadax, the traveller between worlds(strong) (/wizards/rag/events/teleport/zadax#49840, 24) killed by Bloodstorm (180) 
+wizards/rag/rebirth/rebirth.c line 27 :syntax error
+wizards/rag/rebirth/rebirth.c line 39 :syntax error
+wizards/rag/rebirth/rebirth.c line 44 :Illegal LHS
+wizards/rag/rebirth/rebirth.c line 39 :syntax error
+wizards/rag/rebirth/rebirth.c line 44 :Illegal LHS
+wizards/rag/rebirth/pl.c line 2 :Cannot #include living.h
+wizards/rag/rebirth/pl.c line 263 :Variable msgout not declared !
+wizards/rag/rebirth/pl.c line 264 :Variable msgin not declared !
+wizards/rag/rebirth/pl.c line 265 :Variable mmsgout not declared !
+wizards/rag/rebirth/pl.c line 266 :Variable mmsgin not declared !
+wizards/rag/rebirth/pl.c line 269 :Variable msgout not declared !
+Thu Jan  1 16:24:06 2004 Zadax, the traveller between worlds(strong) (/wizards/rag/events/teleport/zadax#43127, 24) killed by Veron (103) 
+wizards/rag/weapon.c line 260 :Redeclaration of function set_stats.
+wizards/rag/weapon.c line 266 :Redeclaration of function set_stats.
+wizards/rag/id2.c line 44 :syntax error
+wizards/rag/id2.c line 44 :syntax error
+wizards/rag/cmds/_len.c line 2 :Missing type for argument
+Tue Jan 20 19:14:50 2004 Zadax, the traveller between worlds(strong) (/wizards/rag/events/teleport/zadax#18659, 24) killed by Cremater (71) 
+wizards/rag/eval_file.c line 2 :syntax error
+wizards/rag/combat.c line 16 :syntax error
+wizards/rag/combat.c line 17 :syntax error
+wizards/rag/combat.c line 21 :Illegal LHS
+wizards/rag/combat.c line 21 :syntax error
+wizards/rag/combat.c line 24 :Illegal LHS
+wizards/rag/combat.c line 29 :Illegal LHS
+Tue Jan 27 22:34:49 2004 Zadax, the traveller between worlds(strong) (/wizards/rag/events/teleport/zadax#43463, 24) killed by Kaappi (103) 
+wizards/rag/eval_file.c line 2 :syntax error
+wizards/rag/horde.c line 418 :Variable c_mage not declared !
+wizards/rag/eval_file.c line 2 :Undefined function restore_player
+wizards/rag/cmds/_int.c line 6 :Newline in string
+wizards/rag/cmds/_int.c line 7 :syntax error
+Sun Feb  1 15:57:20 2004 General Bloodwind is here overseeing the training(strong) (/wizards/rag/ruins/mon/bloodwind#23313, 71) killed by Celes (160) 
+wizards/rag/horde_def_ob.c line 44 :syntax error
+wizards/rag/horde_def_ob.c line 45 :Undefined function: query_necro_horde
+wizards/rag/horde_def_ob.c line 45 :Illegal LHS
+wizards/rag/horde_def_ob.c line 45 :syntax error
+wizards/rag/horde_def_ob.c line 50 :Illegal LHS
+wizards/rag/horde_def_ob.c line 44 :syntax error
+wizards/rag/horde_def_ob.c line 45 :Illegal LHS
+wizards/rag/horde_def_ob.c line 45 :syntax error
+wizards/rag/horde_def_ob.c line 50 :Illegal LHS
+wizards/rag/horde_def_ob.c line 44 :syntax error
+wizards/rag/horde_def_ob.c line 45 :Illegal LHS
+wizards/rag/horde_def_ob.c line 45 :syntax error
+wizards/rag/horde_def_ob.c line 50 :Illegal LHS
+wizards/rag/horde_def_ob.c line 40 :Missing type for argument
+wizards/rag/horde_def_ob.c line 27 :syntax error
+wizards/rag/horde_def_ob.c line 36 :Illegal LHS
+wizards/rag/horde_def_ob.c line 36 :syntax error
+wizards/rag/horde_def_ob.c line 58 :Illegal LHS
+wizards/rag/horde_def_ob.c line 58 :syntax error
+wizards/rag/horde_def_ob.c line 59 :Variable obs not declared !
+wizards/rag/events/thunt/start.c line 67 :Newline in string
+wizards/rag/events/thunt/start.c line 68 :syntax error
+Thu Feb 26 11:26:56 2004 Zadax, the traveller between worlds(strong) (/wizards/rag/events/teleport/zadax#24471, 24) killed by Jenny (150) 
+Thu Feb 26 20:40:29 2004 Gabrash the orcish commander is planning a battle(strong) (/wizards/rag/elf/monsters/gabrash#58492, 44) killed by Bloodstorm (149) 
+Sat Feb 28 00:00:33 2004 Zadax, the traveller between worlds(strong) (/wizards/rag/events/teleport/zadax#42454, 24) killed by Bloodstorm (149) 
+wizards/rag/guild.c line 365 :Variable starget_guild not declared !
+wizards/rag/guild.c line 380 :Variable starget_guild not declared !
+wizards/rag/guild.c line 365 :Variable startet_guild not declared !
+Sat Mar  6 03:28:09 2004 Zadax, the traveller between worlds(strong) (/wizards/rag/events/teleport/zadax#3978, 24) killed by Bloodstorm (176) 
+wizards/rag/party.c line 408 :syntax error
+wizards/rag/party.c line 408 :Illegal LHS
+wizards/rag/party.c line 408 :Variable i not declared !
+wizards/rag/party.c line 408 :Variable i not declared !
+wizards/rag/party.c line 410 :Variable i not declared !
+wizards/rag/party.c line 411 :Variable i not declared !
+wizards/rag/party.c line 416 :Undefined function tell_obect
+Fri Mar 26 20:48:24 2004 Zadax, the traveller between worlds(strong) (/wizards/rag/events/teleport/zadax#40098, 24) killed by Jenny (242) 
+Fri Apr 16 16:48:03 2004 Zadax, the traveller between worlds(strong) (/wizards/rag/events/teleport/zadax#17833, 24) killed by Nightscale (78) 
+Sat Apr 24 18:36:17 2004 Zadax, the traveller between worlds(strong) (/wizards/rag/events/teleport/zadax#28774, 24) killed by Maximus (104) 
+wizards/rag/r.c line 3 :syntax error
+wizards/rag/cmds/_jenny.c line 3 :syntax error
+wizards/rag/cmds/_jenny.c line 3 :syntax error
+Thu Apr 29 17:15:14 2004 Zadax, the traveller between worlds(strong) (/wizards/rag/events/teleport/zadax#40290, 24) killed by Reaper (124) 
+wizards/rag/wish_room.c line 39 :syntax error
+wizards/rag/wish_room.c line 114 :Illegal LHS
+wizards/rag/wish_room.c line 114 :syntax error
+wizards/rag/wish_room.c line 129 :Illegal LHS
+wizards/rag/wish_room.c line 138 :Illegal LHS
+wizards/rag/wish_room.c line 153 :Illegal LHS
+wizards/rag/cleric.c line 211 :syntax error
+wizards/rag/cleric.c line 213 :syntax error
+wizards/rag/cleric.c line 222 :Illegal LHS
+wizards/rag/cleric.c line 223 :Illegal LHS
+wizards/rag/cleric.c line 223 :syntax error
+wizards/rag/cleric.c line 243 :Illegal LHS
+wizards/rag/test.c line 102 :syntax error
+wizards/rag/test.c line 105 :syntax error
+Sat May 15 19:35:06 2004 Zadax, the traveller between worlds(strong) (/wizards/rag/events/teleport/zadax#35847, 24) killed by Reaper (195) 
+Mon May 17 19:44:56 2004 Gabrash the orcish commander is planning a battle(strong) (/wizards/rag/elf/monsters/gabrash#27580, 44) killed by Reaper (199) 
+wizards/rag/ruins/entrance.c line 7 :function not defined by inheritance as specified
+Sun May 23 13:40:32 2004 Zadax, the traveller between worlds(strong) (/wizards/rag/events/teleport/zadax#9861, 24) killed by Cremater (72) 
+wizards/rag/eval_file.c line 2 :Variable t not declared !
+wizards/rag/eval_file.c line 2 :Variable t not declared !
+wizards/rag/eval_file.c line 2 :Variable t not declared !
+Thu May 27 23:33:07 2004 Zadax, the traveller between worlds(strong) (/wizards/rag/events/teleport/zadax#51257, 32) killed by Reaper (226) 
+wizards/rag/eval_file.c line 2 :syntax error
+wizards/rag/eval_file.c line 2 :Newline in string
+wizards/rag/cmds/_expaa.c line 10 :syntax error
+wizards/rag/cmds/_expaa.c line 10 :Illegal LHS
+wizards/rag/compare.c line 40 :Newline in string
+wizards/rag/compare.c line 41 :syntax error
+wizards/rag/compare.c line 53 :Illegal LHS
+wizards/rag/compare.c line 53 :syntax error
+wizards/rag/compare.c line 55 :Illegal LHS
+wizards/rag/compare.c line 55 :syntax error
+wizards/rag/compare.c line 106 :syntax error
+wizards/rag/compare.c line 111 :Illegal LHS
+wizards/rag/compare.c line 111 :syntax error
+wizards/rag/compare.c line 112 :Illegal LHS
+wizards/rag/compare.c line 112 :syntax error
+wizards/rag/compare.c line 131 :syntax error
+wizards/rag/compare.c line 138 :syntax error
+Fri Jul  2 17:06:14 2004 Zadax, the traveller between worlds(strong) (/wizards/rag/events/teleport/zadax#7759, 24) killed by Yodin (120) 
+wizards/rag/cmds/_cookie.c line 6 :syntax error
+wizards/rag/cmds/_cookie.c line 18 :Too many arguments to clone_object
+wizards/rag/cmds/_cookie.c line 18 :syntax error
+wizards/rag/expplaque.c line 100 :Newline in string
+wizards/rag/expplaque.c line 100 :syntax error
+wizards/rag/expplaque.c line 101 :syntax error
+wizards/rag/expplaque.c line 103 :Illegal LHS
+wizards/rag/expplaque.c line 103 :Illegal LHS
+wizards/rag/expplaque.c line 107 :Too few arguments to clone_object
+Wed Jul  7 17:51:25 2004 Gabrash the orcish commander is planning a battle(strong) (/wizards/rag/elf/monsters/gabrash#14501, 44) killed by Bloodstorm (295) 
+wizards/rag/ruins/obj/scroll.c line 43 :syntax error
+wizards/rag/ruins/obj/scroll.c line 44 :Variable texts not declared !
+wizards/rag/ruins/obj/scroll.c line 48 :Variable texts not declared !
+wizards/rag/ruins/obj/scroll.c line 48 :Variable texts not declared !
+Thu Jul 15 16:43:14 2004 Zadax, the traveller between worlds(strong) (/wizards/rag/events/teleport/zadax#11489, 24) killed by Glyco (91) 
+Fri Jul 16 01:47:49 2004 General Bloodwind is here overseeing the training(strong) (/wizards/rag/ruins/mon/bloodwind#44900, 72) killed by Reaper (347) 
+Fri Jul 16 22:27:36 2004 Hoxbah the gnome is here running the treasure hunt(strong) (/wizards/rag/events/thunt/master#10183, 90) killed by Reaper (347) 
+wizards/rag/guild.c line 474 :syntax error
+wizards/rag/guild.c line 525 :syntax error
+wizards/rag/guild.c line 525 :Illegal LHS
+Tue Jul 27 20:27:46 2004 Zadax, the traveller between worlds(strong) (/wizards/rag/events/teleport/zadax#29524, 24) killed by Bloodstorm (311) 
+Wed Jul 28 01:36:06 2004 Gabrash the orcish commander is planning a battle(strong) (/wizards/rag/elf/monsters/gabrash#44047, 44) killed by Bloodstorm (311) 
+Fri Jul 30 17:57:28 2004 Zadax, the traveller between worlds(strong) (/wizards/rag/events/teleport/zadax#22547, 24) killed by Stryfe (126) 
+Sun Aug  1 21:29:57 2004 Gabrash the orcish commander is planning a battle(strong) (/wizards/rag/elf/monsters/gabrash#11956, 44) killed by Stryfe (126) 
+Sun Aug  1 22:47:48 2004 Celebmir, master bard and royal advisor(strong) (/wizards/rag/elf/monsters/celebmir#12580, 55) killed by Stryfe (126) 
+wizards/rag/cmds/_cookie.c line 17 :syntax error
+wizards/rag/cmds/_guildsum.c line 5 :Missing type for argument
+Tue Aug  3 21:44:07 2004 Celebmir, master bard and royal advisor(strong) (/wizards/rag/elf/monsters/celebmir#23260, 55) killed by Stryfe (126) 
+wizards/rag/events/thunt/master.c line 89: casting a value to its own type: int 
+wizards/rag/events/thunt/master.c line 141: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 774: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 982: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 1508: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 1514: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 1530: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 1536: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 1561: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 774: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 982: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 1508: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 1514: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 1530: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 1536: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 1561: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 774: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 982: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 1508: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 1514: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 1530: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 1536: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 1561: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 773: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 981: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 1507: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 1513: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 1529: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 1535: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 1560: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 773: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 981: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 1507: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 1513: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 1529: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 1535: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 1560: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 773: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 981: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 1507: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 1513: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 1529: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 1535: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 1560: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 773: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 981: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 1507: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 1513: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 1529: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 1535: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 1560: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 774: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 982: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 1508: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 1514: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 1530: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 1536: Missing arguments to simul_efun log_file
+wizards/rag/living.c line 1561: Missing arguments to simul_efun log_file
+wizards/rag/events/thunt/master.c line 89: casting a value to its own type: int 
+wizards/rag/events/thunt/master.c line 141: Missing arguments to simul_efun log_file
+wizards/rag/misc/blackjack.c line 72: casting a value to its own type: int 
+wizards/rag/misc/blackjack.c line 125: casting a value to its own type: int 
+wizards/rag/misc/blackjack.c line 234: Missing arguments to simul_efun log_file
+wizards/rag/eval_file.c line 2: Undefined function 'prepare_destruct'
+wizards/rag/banish_d.c line 64: Missing arguments to simul_efun log_file
+wizards/rag/banish_d.c line 97: Missing arguments to simul_efun log_file
+wizards/rag/banish_d.c line 139: Missing arguments to simul_efun log_file
+wizards/rag/banish_d.c line 153: Missing arguments to simul_efun log_file
+wizards/rag/banish_d.c line 64: Missing arguments to simul_efun log_file
+wizards/rag/banish_d.c line 97: Missing arguments to simul_efun log_file
+wizards/rag/banish_d.c line 139: Missing arguments to simul_efun log_file
+wizards/rag/banish_d.c line 153: Missing arguments to simul_efun log_file
+wizards/rag/events/thunt/master.c line 141: Missing arguments to simul_efun log_file
+wizards/rag/events/thunt/master.c line 141: Missing arguments to simul_efun log_file
+wizards/rag/misc/blackjack.c line 72: casting a value to its own type: int 
+wizards/rag/misc/blackjack.c line 125: casting a value to its own type: int 
+wizards/rag/misc/blackjack.c line 72: casting a value to its own type: int 
+wizards/rag/misc/blackjack.c line 125: casting a value to its own type: int 
+wizards/rag/misc/blackjack.c line 72: casting a value to its own type: int 
+wizards/rag/misc/blackjack.c line 125: casting a value to its own type: int 
+wizards/rag/misc/blackjack.c line 72: casting a value to its own type: int 
+wizards/rag/misc/blackjack.c line 125: casting a value to its own type: int 
+wizards/rag/misc/blackjack.c line 72: casting a value to its own type: int 
+wizards/rag/misc/blackjack.c line 125: casting a value to its own type: int 
+wizards/rag/misc/blackjack.c line 72: casting a value to its own type: int 
+wizards/rag/misc/blackjack.c line 125: casting a value to its own type: int 
+wizards/rag/misc/blackjack.c line 72: casting a value to its own type: int 
+wizards/rag/misc/blackjack.c line 125: casting a value to its own type: int 
+wizards/rag/misc/blackjack.c line 72: casting a value to its own type: int 
+wizards/rag/misc/blackjack.c line 125: casting a value to its own type: int 
+wizards/rag/apo_amulet.c line 37: syntax error
+wizards/rag/locker_d.c line 52: casting a value to its own type: int 
+wizards/rag/locker_d.c line 52: casting a value to its own type: string 
+wizards/rag/locker_d.c line 52: casting a value to its own type: int 
+wizards/rag/locker_d.c line 52: casting a value to its own type: string 
+wizards/rag/locker_d.c line 52: casting a value to its own type: int 
+wizards/rag/locker_d.c line 52: casting a value to its own type: string 
+Thu Sep 16 20:58:10 2004 Gabrash the orcish commander is planning a battle(strong) (/wizards/rag/elf/monsters/gabrash#54182, 44) killed by Bloodstorm (284) 
+Thu Sep 16 22:42:57 2004 Zadax, the traveller between worlds(strong) (/wizards/rag/events/teleport/zadax#56418, 24) killed by Reaper (357) 
+wizards/rag/armour.c line 283: casting a value to its own type: int 
+wizards/rag/armour.c line 283: casting a value to its own type: int 
+Thu Sep 23 21:26:15 2004 General Bloodwind is here overseeing the training(strong) (/wizards/rag/ruins/mon/bloodwind#46504, 70) killed by Reaper (361) 
+Fri Sep 24 14:36:56 2004 Gabrash the orcish commander is planning a battle(strong) (/wizards/rag/elf/monsters/gabrash#26188, 44) killed by Jin (198) 
+wizards/rag/party.c line 538: casting a value to its own type: int 
+wizards/rag/party.c line 538: casting a value to its own type: string 
+wizards/rag/party.c line 538: casting a value to its own type: int 
+wizards/rag/party.c line 538: casting a value to its own type: string 
+Sun Sep 26 00:52:24 2004 Zadax, the traveller between worlds(strong) (/wizards/rag/events/teleport/zadax#90069, 24) killed by Golthar (139) 
+wizards/rag/ability_d.c line 14: syntax error
+wizards/rag/ability_d.c line 14: Illegal LHS
+wizards/rag/ability_d.c line 17: syntax error
+wizards/rag/ability_d.c line 17: Illegal LHS
+wizards/rag/ability_d.c line 17: Variable i not declared !
+wizards/rag/ability_d.c line 17: Variable i not declared !
+wizards/rag/ability_d.c line 17: syntax error
+wizards/rag/ability_d.c line 17: Illegal LHS
+wizards/rag/ability_d.c line 17: Variable i not declared !
+wizards/rag/ability_d.c line 17: Variable i not declared !
+wizards/rag/ability_d.c line 17: syntax error
+wizards/rag/ability_d.c line 18: Variable i not declared !
+wizards/rag/ability_d.c line 18: syntax error
+wizards/rag/ability_d.c line 18: Illegal LHS
+wizards/rag/ability_d.c line 18: syntax error
+wizards/rag/ability_d.c line 19: Illegal LHS
+wizards/rag/ability_d.c line 28: Illegal initialization
+wizards/rag/ability_d.c line 28: Type mismatch ( unknown vs string ) when initializing str
+wizards/rag/ability_d.c line 18: syntax error
+wizards/rag/ability_d.c line 18: Illegal LHS
+wizards/rag/ability_d.c line 18: syntax error
+wizards/rag/ability_d.c line 19: Illegal LHS
+wizards/rag/ability_d.c line 28: Illegal initialization
+wizards/rag/ability_d.c line 28: Type mismatch ( unknown vs string ) when initializing str
+wizards/rag/ability_d.c line 21: syntax error
+wizards/rag/ability_d.c line 21: Illegal LHS
+wizards/rag/ability_d.c line 21: syntax error
+wizards/rag/ability_d.c line 22: Illegal LHS
+wizards/rag/ability_d.c line 31: Illegal initialization
+wizards/rag/ability_d.c line 31: Type mismatch ( unknown vs string ) when initializing str
+wizards/rag/ability_d.c line 31: syntax error
+Mon Sep 27 01:49:21 2004 Gabrash the orcish commander is planning a battle(strong) (/wizards/rag/elf/monsters/gabrash#82931, 44) killed by Madk (123) 
+Mon Oct 04 23:12:43 2004 Zadax, the traveller between worlds(strong) (/wizards/rag/events/teleport/zadax#79050, 24) killed by Bloodstorm (56) 
+wizards/rag/living.c line 1032: Variable attack_ob not declared !
+wizards/rag/monster.c line 27: Cannot #include 'living.h'
+wizards/rag/monster.c line 96: Variable is_npc not declared !
+wizards/rag/monster.c line 101: Variable combat_tactic not declared !
+wizards/rag/monster.c line 181: Variable name not declared !
+wizards/rag/monster.c line 196: Variable name not declared !
+wizards/rag/monster.c line 201: Variable name not declared !
+wizards/rag/monster.c line 786: casting a value to its own type: int 
+wizards/rag/monster.c line 63: Redefining inherited nosave variable 'spell_dam' with a non-nosave variable
+wizards/rag/monster.c line 786: casting a value to its own type: int 
+wizards/rag/monster.c line 63: Redefining inherited nosave variable 'spell_dam' with a non-nosave variable
+wizards/rag/monster.c line 786: casting a value to its own type: int 
+wizards/rag/monster.c line 63: Redefining inherited nosave variable 'spell_dam' with a non-nosave variable
+wizards/rag/monster.c line 787: casting a value to its own type: int 
+wizards/rag/monster.c line 63: Redefining inherited nosave variable 'spell_dam' with a non-nosave variable
+wizards/rag/monster.c line 787: casting a value to its own type: int 
+wizards/rag/monster.c line 63: Redefining inherited nosave variable 'spell_dam' with a non-nosave variable
+wizards/rag/monster.c line 787: casting a value to its own type: int 
+Thu Oct 07 03:28:55 2004 Zadax, the traveller between worlds(strong) (/wizards/rag/events/teleport/zadax#74777, 24) killed by Reaper (139) 
+wizards/rag/ability_d.c line 52: syntax error
+wizards/rag/ability_d.c line 58: Illegal LHS
+wizards/rag/ability_d.c line 58: syntax error
+wizards/rag/ability_d.c line 59: Illegal LHS
+wizards/rag/ability_d.c line 59: syntax error
+Sun Oct 10 23:32:12 2004 Gabrash the orcish commander is planning a battle(strong) (/wizards/rag/elf/monsters/gabrash#61741, 44) killed by Gravius (143) 
+wizards/rag/outmap.c line 59: syntax error
+wizards/rag/outmap.c line 63: Too few arguments to clone_object
+wizards/rag/outmap.c line 63: Illegal LHS
+wizards/rag/outmap.c line 63: syntax error
+wizards/rag/outmap.c line 107: syntax error
+wizards/rag/_abilities.c line 16: Undefined function 'do_sense'
+wizards/rag/_abilities.c line 60: Undefined function: query_npc
+wizards/rag/ability_d.c line 37: syntax error
+wizards/rag/ability_d.c line 45: Illegal LHS
+wizards/rag/ability_d.c line 45: Illegal LHS
+wizards/rag/ability_d.c line 45: syntax error
+wizards/rag/ability_d.c line 49: Illegal LHS
+wizards/rag/ability_d.c line 49: syntax error
+wizards/rag/ability_room.c line 4: syntax error
+wizards/rag/ability_room.c line 26: Bad assignment ( string vs mixed * )
+wizards/rag/ability_room.c line 27: Bad assignment ( int vs string )
+wizards/rag/ability_room.c line 28: Bad assignment ( int vs string )
+wizards/rag/ability_room.c line 29: Bad assignment ( int vs string )
+wizards/rag/ability_room.c line 30: Bad assignment ( int vs string )
+wizards/rag/ability_room.c line 26: Bad assignment ( string vs mixed * )
+wizards/rag/ability_room.c line 27: Bad assignment ( int vs string )
+wizards/rag/ability_room.c line 28: Bad assignment ( int vs string )
+wizards/rag/ability_room.c line 29: Bad assignment ( int vs string )
+wizards/rag/ability_room.c line 30: Bad assignment ( int vs string )
+wizards/rag/ability_room.c line 26: Bad assignment ( string vs mixed * )
+wizards/rag/ability_room.c line 27: Bad assignment ( int vs string )
+wizards/rag/ability_room.c line 28: Bad assignment ( int vs string )
+wizards/rag/ability_room.c line 29: Bad assignment ( int vs string )
+wizards/rag/ability_room.c line 30: Bad assignment ( int vs string )
+wizards/rag/eval_file.c line 2: Variable reutnr not declared !
+wizards/rag/eval_file.c line 2: syntax error
+wizards/rag/eval_file.c line 2: Undefined function 'er'
+wizards/rag/eval_file.c line 2: syntax error
+wizards/rag/misc/idler.c line 27: syntax error
+Sun Oct 24 05:38:59 2004 Zadax, the traveller between worlds(strong) (/wizards/rag/events/teleport/zadax#50474, 24) killed by Reaper (129) 
+Thu Dec 09 09:42:19 2004 General Bloodwind is here overseeing the training(strong) (/wizards/rag/ruins/mon/bloodwind#10179, 63) killed by Golthar (241) 
+Thu Dec 16 18:32:19 2004 Hoxbah the gnome is here running the treasure hunt(strong) (/wizards/rag/events/thunt/master#33026, 90) killed by Golthar (243) 
+Thu Dec 16 21:54:10 2004 Gabrash the orcish commander is planning a battle(strong) (/wizards/rag/elf/monsters/gabrash#50323, 44) killed by Madk (156) 
+Tue Jan 04 20:00:37 2005 Zadax, the traveller between worlds(strong) (/wizards/rag/events/teleport/zadax#47829, 24) killed by Daelon (169) 
+Thu Jan 13 04:45:30 2005 Gabrash the orcish commander is planning a battle(strong) (/wizards/rag/elf/monsters/gabrash#61880, 44) killed by Madk (155) 
+Sun Jan 16 12:44:17 2005 General Bloodwind is here overseeing the training(strong) (/wizards/rag/ruins/mon/bloodwind#3400, 70) killed by Celes (228) 
+Wed Feb 09 10:12:28 2005 Gabrash the orcish commander is planning a battle(strong) (/wizards/rag/elf/monsters/gabrash#5477, 44) killed by Kaappi (247) 
+Tue Feb 15 08:54:28 2005 Gabrash the orcish commander is planning a battle(strong) (/wizards/rag/elf/monsters/gabrash#1788, 44) killed by Kaappi (265) 
+Mon Feb 28 03:23:08 2005 Gabrash the orcish commander is planning a battle(strong) (/wizards/rag/elf/monsters/gabrash#16722, 44) killed by Madk (142) 
+Wed Sep 28 16:57:59 2005 Zadax, the traveller between worlds(strong) (/wizards/rag/events/teleport/zadax#18575, 24) killed by Elric (180) 
+wizards/rag/weapon.c line 252: casting a value to its own type: int 
+wizards/rag/weapon.c line 252: casting a value to its own type: int 
+wizards/rag/eval_file.c line 2: Bad type of index: "float "
+Mon Oct 24 15:43:09 2005 Zadax, the traveller between worlds(strong) (/wizards/rag/events/teleport/zadax#7316, 24) killed by Glyco (173) 
+Thu Nov 03 20:39:04 2005 General Bloodwind is here overseeing the training(strong) (/wizards/rag/ruins/mon/bloodwind#30314, 72) killed by Elric (184) 
+Sat Nov 05 20:54:15 2005 Gabrash the orcish commander is planning a battle(strong) (/wizards/rag/elf/monsters/gabrash#21869, 44) killed by Elric (187) 
+Fri Dec 23 21:38:58 2005 Zadax, the traveller between worlds(strong) (/wizards/rag/events/teleport/zadax#8178, 24) killed by Ntg (274) 
+Sat Dec 24 00:24:10 2005 General Bloodwind is here overseeing the training(strong) (/wizards/rag/ruins/mon/bloodwind#10146, 68) killed by Ntg (275) 
+Sun Jan 29 13:34:14 2006 The dreadful Lich King(undead) (strong) (/wizards/rag/ruins/mon/lichking#4138, 80) killed by Ntg (301) 
+Mon Feb 20 18:30:24 2006 Gabrash the orcish commander is planning a battle(strong) (/wizards/rag/elf/monsters/gabrash#16852, 44) killed by Elric (230) 
+Tue Nov 28 00:21:30 2006 Gabrash the orcish commander is planning a battle(strong) (/wizards/rag/elf/monsters/gabrash#6945, 44) killed by Madk (180) 
+Wed Jul 18 15:57:45 2007 Gabrash the orcish commander is planning a battle(strong) (/wizards/rag/elf/monsters/gabrash#19920, 44) killed by Hellsing (135) 
+Mon Aug 27 01:11:12 2007 Gabrash the orcish commander is planning a battle(strong) (/wizards/rag/elf/monsters/gabrash#30749, 44) killed by Bloodstorm (225) 
+Sun Dec 23 21:17:01 2007 Zadax, the traveller between worlds(strong) (/wizards/rag/events/teleport/zadax#25199, 24) killed by Bloodstorm (285) 
+Mon Dec 24 11:12:59 2007 Zadax, the traveller between worlds(strong) (/wizards/rag/events/teleport/zadax#3392, 24) killed by Ntg (137) 
+Sun Jan 06 20:29:59 2008 Zadax, the traveller between worlds(strong) (/wizards/rag/events/teleport/zadax#37222, 24) killed by Bloodstorm (286) 
+Thu Jan 10 12:50:24 2008 Gabrash the orcish commander is planning a battle(strong) (/wizards/rag/elf/monsters/gabrash#44332, 44) killed by Ntg (139) 
+Sun Jan 20 00:15:19 2008 Zadax, the traveller between worlds(strong) (/wizards/rag/events/teleport/zadax#43668, 24) killed by Ntg (190) 
+Tue Jan 22 19:41:08 2008 Zadax, the traveller between worlds(strong) (/wizards/rag/events/teleport/zadax#13818, 24) killed by Olsma (181) 
+Wed Feb 06 19:22:49 2008 Zadax, the traveller between worlds(strong) (/wizards/rag/events/teleport/zadax#51748, 24) killed by Alardolath (94) 
+Mon Feb 11 08:39:13 2008 Gabrash the orcish commander is planning a battle(strong) (/wizards/rag/elf/monsters/gabrash#2081, 44) killed by Ntg (182) 
+Tue Feb 12 21:08:42 2008 Gabrash the orcish commander is planning a battle(strong) (/wizards/rag/elf/monsters/gabrash#38111, 44) killed by Alardolath (180) 
+Thu Feb 14 14:43:51 2008 Gabrash the orcish commander is planning a battle(strong) (/wizards/rag/elf/monsters/gabrash#21220, 44) killed by Ntg (227) 
+Mon Feb 18 21:53:32 2008 Gabrash the orcish commander is planning a battle(strong) (/wizards/rag/elf/monsters/gabrash#32767, 44) killed by Olsma (229) 
+Tue Feb 19 11:15:04 2008 Gabrash the orcish commander is planning a battle(strong) (/wizards/rag/elf/monsters/gabrash#3398, 44) killed by Olsma (229) 
+Fri Feb 22 17:14:11 2008 Gabrash the orcish commander is planning a battle(strong) (/wizards/rag/elf/monsters/gabrash#29682, 44) killed by Alardolath (213) 
+Sun Feb 24 12:21:09 2008 Gabrash the orcish commander is planning a battle(strong) (/wizards/rag/elf/monsters/gabrash#9369, 44) killed by Ozmala (123) 
+Sat Mar 08 01:49:04 2008 Gabrash the orcish commander is planning a battle(strong) (/wizards/rag/elf/monsters/gabrash#55119, 44) killed by Alardolath (250) 
+Sat Mar 08 21:13:11 2008 Zadax, the traveller between worlds(strong) (/wizards/rag/events/teleport/zadax#35446, 24) killed by Alardolath (250) 
+Fri Mar 21 19:26:28 2008 Zadax, the traveller between worlds(strong) (/wizards/rag/events/teleport/zadax#9547, 24) killed by Ntg (255) 
+Sat Apr 05 20:05:24 2008 Gabrash the orcish commander is planning a battle(strong) (/wizards/rag/elf/monsters/gabrash#21832, 44) killed by Ntg (291) 
+Fri Aug 29 22:00:43 2008 Zadax, the traveller between worlds(strong) (/wizards/rag/events/teleport/zadax#34385, 24) killed by Golthar (341) 
+Sat Aug 30 01:16:20 2008 Gabrash the orcish commander is planning a battle(strong) (/wizards/rag/elf/monsters/gabrash#49049, 44) killed by Ntg (310) 
+Sat Sep 13 22:52:38 2008 Zadax, the traveller between worlds(strong) (/wizards/rag/events/teleport/zadax#47854, 24) killed by Ntg (388) 
+Thu Oct 02 20:05:34 2008 Zadax, the traveller between worlds(strong) (/wizards/rag/events/teleport/zadax#33361, 24) killed by Ntg (400) 
+Fri Oct 03 22:22:27 2008 Gabrash the orcish commander is planning a battle(strong) (/wizards/rag/elf/monsters/gabrash#13400, 44) killed by Terror (284) 
+Fri Oct 24 19:24:55 2008 Finlos sits here reading a book(strong) (/wizards/rag/elf/monsters/finlos#5737, 53) killed by Ntg (400) 
+Fri Oct 24 19:30:15 2008 Angdal sits here meditating(strong) (/wizards/rag/elf/monsters/angdal#5842, 51) killed by Ntg (400) 
+Sun Jan 18 15:50:56 2009 Gabrash the orcish commander is planning a battle(strong) (/wizards/rag/elf/monsters/gabrash#12522, 44) killed by Terror (236) 
+Thu Jan 29 10:53:55 2009 Zadax, the traveller between worlds(strong) (/wizards/rag/events/teleport/zadax#7051, 24) killed by Alardolath (426) 
+Fri Mar 19 18:49:33 2010 General Bloodwind is here overseeing the training(strong) (/wizards/rag/ruins/mon/bloodwind#30617, 68) killed by Laeh (22) 
+wizards/rag/misc/bj_addon.c line 54: Missing 'return <value>' statement
+wizards/rag/misc/bj_addon.c line 54: Missing 'return <value>' statement
+wizards/rag/misc/bj_addon.c line 54: Missing 'return <value>' statement
+wizards/rag/misc/bj_addon.c line 54: Missing 'return <value>' statement
+wizards/rag/misc/bj_addon.c line 54: Missing 'return <value>' statement
+wizards/rag/misc/bj_addon.c line 54: Missing 'return <value>' statement
+wizards/rag/misc/bj_addon.c line 54: Missing 'return <value>' statement
+wizards/rag/misc/bj_addon.c line 54: Missing 'return <value>' statement
+wizards/rag/misc/bj_addon.c line 54: Missing 'return <value>' statement
+wizards/rag/misc/bj_addon.c line 54: Missing 'return <value>' statement
+wizards/rag/misc/bj_addon.c line 54: Missing 'return <value>' statement
+wizards/rag/misc/bj_addon.c line 54: Missing 'return <value>' statement
+Mon Oct 18 22:50:40 2010 Gabrash the orcish commander is planning a battle(strong) (/wizards/rag/elf/monsters/gabrash#16032, 44) killed by Rold (120) 
+wizards/rag/misc/bj_addon.c line 54: Missing 'return <value>' statement
+wizards/rag/misc/bj_addon.c line 54: Missing 'return <value>' statement
+wizards/rag/misc/bj_addon.c line 54: Missing 'return <value>' statement
+wizards/rag/misc/bj_addon.c line 54: Missing 'return <value>' statement
+wizards/rag/events/teleport/zadax.c line 185: Missing arguments to simul_efun filter_array
+wizards/rag/events/teleport/zadax.c line 186: Missing arguments to simul_efun filter_array
+wizards/rag/misc/bj_addon.c line 54: Missing 'return <value>' statement
+wizards/rag/misc/bj_addon.c line 54: Missing 'return <value>' statement
+wizards/rag/misc/bj_addon.c line 54: Missing 'return <value>' statement
+wizards/rag/misc/bj_addon.c line 54: Missing 'return <value>' statement
+wizards/rag/misc/bj_addon.c line 54: Missing 'return <value>' statement
+wizards/rag/misc/bj_addon.c line 54: Missing 'return <value>' statement
+wizards/rag/misc/bj_addon.c line 54: Missing 'return <value>' statement
+wizards/rag/misc/bj_addon.c line 54: Missing 'return <value>' statement
+wizards/rag/misc/bj_addon.c line 54: Missing 'return <value>' statement
+wizards/rag/misc/bj_addon.c line 54: Missing 'return <value>' statement
+wizards/rag/misc/bj_addon.c line 54: Missing 'return <value>' statement
+wizards/rag/misc/bj_addon.c line 54: Missing 'return <value>' statement
+wizards/rag/misc/bj_addon.c line 54: Missing 'return <value>' statement
+wizards/rag/misc/bj_addon.c line 54: Missing 'return <value>' statement
+wizards/rag/events/teleport/zadax.c line 185: Missing arguments to simul_efun filter_array
+wizards/rag/events/teleport/zadax.c line 186: Missing arguments to simul_efun filter_array
+wizards/rag/misc/bj_addon.c line 54: Missing 'return <value>' statement
+wizards/rag/misc/bj_addon.c line 54: Missing 'return <value>' statement
+wizards/rag/misc/bj_addon.c line 54: Missing 'return <value>' statement
+wizards/rag/misc/bj_addon.c line 54: Missing 'return <value>' statement
+wizards/rag/misc/bj_addon.c line 54: Missing 'return <value>' statement
+wizards/rag/misc/bj_addon.c line 54: Missing 'return <value>' statement
+wizards/rag/misc/bj_addon.c line 54: Missing 'return <value>' statement
+wizards/rag/misc/bj_addon.c line 54: Missing 'return <value>' statement
+wizards/rag/misc/bj_addon.c line 54: Missing 'return <value>' statement
+wizards/rag/misc/bj_addon.c line 54: Missing 'return <value>' statement
+wizards/rag/misc/bj_addon.c line 54: Missing 'return <value>' statement
+wizards/rag/misc/bj_addon.c line 54: Missing 'return <value>' statement
+wizards/rag/misc/bj_addon.c line 54: Missing 'return <value>' statement
+wizards/rag/misc/bj_addon.c line 54: Missing 'return <value>' statement
+wizards/rag/events/teleport/zadax.c line 185: Missing arguments to simul_efun filter_array
+wizards/rag/events/teleport/zadax.c line 186: Missing arguments to simul_efun filter_array
+Fri Mar 16 12:13:13 2012 Zadax, the traveller between worlds(strong) (/wizards/rag/events/teleport/zadax, 24) killed by Hemies (185) 
+wizards/rag/events/teleport/zadax.c line 185: Missing arguments to simul_efun filter_array
+wizards/rag/events/teleport/zadax.c line 186: Missing arguments to simul_efun filter_array

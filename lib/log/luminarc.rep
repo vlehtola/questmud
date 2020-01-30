@@ -1,0 +1,186 @@
+/wizards/luminarc/wizcastle/room1 Typo Siki
+when looking at the pictures "As you take _A_ closer look _AT THE_ ..
+/wizards/luminarc/wizcastle/room1 Typo Siki
+This is _THE_ entrance hall.. maybe in _THE_ past.. the time has done _ITS_ job.. in _THE_ north there _ARE_
+/wizards/luminarc/wizcastle/westhall Typo Siki
+..looks like _A_ weapon gallery.. of all _KINDS_ of weapons, torches _GIVE A_.. _IN THE_ middle of.. is _A_ big silver..
+/wizards/luminarc/wizcastle/easthall Typo Siki
+..of _THE_ hall contains _A_ big.. on both _SIDES_ (..of it?? of what?).. _A_ long _GRASS-LIKE_
+/wizards/luminarc/wizcastle/northhall Typo Siki
+is _THE_ north side of _THE_ mainhall.. can't say "in north wall marple stairs are leading..." -> something else please.
+/wizards/luminarc/wizcastle/round Typo Siki
+..hold up _A_ huge pool.. _A_ golden plate is shining..
+/wizards/luminarc/wizcastle/upwest1 Typo Siki
+don't put \n after short desc (almost every single room upstairs has it)
+/wizards/luminarc/wizcastle/room0 Typo Siki
+the desc could be a bit more longer
+/wizards/luminarc/wizcastle/room1 Typo Siki
+_MARBLE_
+/wizards/luminarc/wizcastle/northhall Typo Siki
+in the _NORTHERN_ part.. _MARBLE_ stairs..
+/wizards/luminarc/wizcastle/up1 Typo Siki
+.. leads to _THE_ east and to _THE_ west.. _A_ lot of..
+/wizards/luminarc/wizcastle/upwest1 Typo Siki
+the _CORRIDOR_..on _THE_ wall.. _THE_ corridor with warm light _._
+/wizards/luminarc/wizcastle/basem Typo Siki
+room _CONTAINING A_ .. _SUPPLIES_ .. on _THE_ west side.. there _ARE_
+/wizards/luminarc/wizcastle/upeast2 Typo Siki
+..and _WARMTH_
+/wizards/luminarc/wizcastle/westhall Typo Siki
+/wizards/luminarc/wizcastle/humans/guard.c doesn't work
+/wizards/luminarc/wizcastle/westhall Typo Siki
+_W_alls.. kinds of weapons _; SWORDS_ .. _T_wo big.. while _THE TORCHES_ ..
+/wizards/luminarc/wizcastle/mawork Typo Siki
+/armours/bhelm.c - remove the \n from the long desciption
+/wizards/luminarc/wizcastle/mawork Typo Siki
+armours/gboots.c - remove the useless <space> from the end of the long desc
+/wizards/luminarc/wizcastle/mawork Typo Siki
+armours/gglove.c - remove the dot (.) from the end of the long desc
+/wizards/luminarc/wizcastle/tower22 Typo Siki
+d
+/wizards/luminarc/wizcastle/tower22 Typo Siki
+when you come down from here you go straight to tower21, should be tower23 or something
+/wizards/luminarc/wizcastle/room1 Typo Torspo
+equipped
+/wizards/luminarc/wizcastle/room1 Typo Torspo
+servant.c : Lait lyhyemmat rivit ja... a long grey robes -> a pois. spoted->spotted. Piste loppuun
+/wizards/luminarc/wizcastle/westhall Typo Torspo
+torches gives -> torches give. torces flickers-> torches flicker
+/wizards/luminarc/wizcastle/westhall Typo Torspo
+Shield: _A_ well crafted shield. There _are_ some strange runes embedded in it. Tolleesti vaix.
+/wizards/luminarc/wizcastle/round Typo Torspo
+Lauseet alkaa isol kirjaimel.
+/wizards/luminarc/wizcastle/round Typo Torspo
+around _the_ room. _a_ hure pool of... around _the_ room. Toinen piste bois lobuust.
+/wizards/luminarc/wizcastle/round Typo Torspo
+Demppa: Lause alkaa <x> kirjaimella. Lyhenna vahan rivei. like the demon _was_ glowing.
+/wizards/luminarc/wizcastle/northhall Typo Ahma
+bee.c -> It has a long spike in the tip of its tail - colored -> coloured - Big black eyes are shining in its head.
+/wizards/luminarc/wizcastle/northhall Typo Ahma
+cook.c -> This small man is the cook of this castle. - He seems to be cooking many different foods at the same time, which makes him to look very busy. - .. and a white shirt. He is holding some sharp knives in his hands.
+/wizards/luminarc/wizcastle/northhall Typo Ahma
+demon.c -> This muscular demon is huge-sized. Its skin is emitting some hot air, which makes the demon look like it would be glowing.
+/wizards/luminarc/wizcastle/northhall Typo Ahma
+elvar.c -> examing -> examining - skilfully. -> skillfully. - The clothes she is wearing are all coloured in dark green. - Her eyes are dark green and she has a short red hair.
+/wizards/luminarc/wizcastle/northhall Typo Ahma
+farnax.c -> This old and _long-bearded_ man looks almost invisible. The man seems to be in great pain for some reason. His face looks pale and his beard is shaggy. He has been undead for long time, maybe you could help him somehow.
+/wizards/luminarc/wizcastle/northhall Typo Ahma
+guard.c -> Guard is wearing bright, shiny equipment. - Guard's body is almost fully protected with metal, though his head seems to be unprotected. His blue eyes gleam and the long, white hair is flapping (??) wildly as he turns his head rapidly from side to side.
+/wizards/luminarc/wizcastle/northhall Typo Ahma
+insect.c -> This small insect seems to be a mosquito or some other fly.
+/wizards/luminarc/wizcastle/northhall Typo Ahma
+pguard.c -> This is the personal guard of Farnax. His only duty seems to be to turn away everyone who attend to enter Farnax's workroom. Shiny Armours which are made of steel cover every part of guard's muscular body. The small, green eyes are glimmering behing to visor in his helmet. The guard looks very skillful.
+/wizards/luminarc/wizcastle/northhall Typo Ahma
+pguard.c FIX -> Shiny armours which are made of .. (ISO A pienellä).
+/wizards/luminarc/wizcastle/northhall Typo Ahma
+rat.c -> This huge rat is at least two times larger than other rats. It has yellow teeth and small black eyes. Rat's hair is brown and all kinds of rubbish has stuck in it. Rat does not seem to have any hurries while it sniffs everything in its surroundings.
+/wizards/luminarc/wizcastle/northhall Typo Ahma
+repair.c -> .. ladders here. He has numerous tools, like hammers, saw and wooden logs, with him. The man has a long brown hair and blue eyes.
+/wizards/luminarc/wizcastle/northhall Typo Ahma
+servant.c -> This woman seems to be a professional.
+/wizards/luminarc/wizcastle/northhall Typo Ahma
+wise.c -> This old man is wearing old gray rags and worn wooden shoes. The man has a long gray hair and brown eyes. He stinks pretty bad. - POIS-> He looks very old.
+/wizards/luminarc/wizcastle/northhall Typo Ahma
+Tää huone -> This is the northern part of the mainhall. A set of marble stairs lead to the second floor of the castle in north. Beautiful flowers are placed all around the room to decorate it. A gentle scent which the flowers emit is filling the room, laying a peaceful feeling all around it.
+/wizards/luminarc/wizcastle/northhall Typo Ahma
+young.c -> This young guard is watching in the sky, where seems to fly some beautiful birds. His blue eyes shine strangely as he looks at the sky. He seems to be wearing leather-made armour.
+/wizards/luminarc/wizcastle/northhall Typo Ahma
+skilled.c -> This guard looks extremely skilled in battle. Some dull (??), black equipment is covering his body throughoutly. Currently, he seems to be searching for something from the basement. He looks quite angry, it must be one of his worse days. Distrupting him would be a bad idea.
+/wizards/luminarc/wizcastle/westhall Typo Torspo
+Guard: Guard's body is whole body is almost fully protected --> Guard's whole body is almost...
+/wizards/luminarc/wizcastle/westhall Typo Torspo
+Guard: long long, white hair <-- toinen long pois tms.
+/wizards/luminarc/wizcastle/easthall Typo Torspo
+Mirror: this huge -> This hue. it is->It is.
+/wizards/luminarc/wizcastle/northhall Typo Torspo
+smell of them fills -> fill
+/wizards/luminarc/wizcastle/up1 Typo Torspo
+somekind -> some kind
+/wizards/luminarc/wizcastle/up1 Typo Torspo
+Guard: steel covers every -> cover
+/wizards/luminarc/wizcastle/upwest1 Typo Torspo
+illuminates -> illuminate
+/wizards/luminarc/wizcastle/upwest1 Typo Torspo
+with warm light. <- piste
+/wizards/luminarc/wizcastle/upwest1 Typo Torspo
+walls are -> Walls are
+/wizards/luminarc/wizcastle/upwest1 Typo Torspo
+Ota toi vipa rivi pyllyyn ku seon iha turhis.
+/wizards/luminarc/wizcastle/upwest1 Typo Torspo
+Man: the old rags -> some old rags
+/wizards/luminarc/wizcastle/upwest1 Typo Torspo
+Man: man has long -> Man has long
+/wizards/luminarc/wizcastle/upeast1 Typo Torspo
+Kato upwest1 repot
+/wizards/luminarc/wizcastle/upwest2 Typo Torspo
+ladders -> Ladders
+/wizards/luminarc/wizcastle/upwest2 Typo Torspo
+Item: this items -> This item ... the light -> The light ... beautifull -> beautiful
+/wizards/luminarc/wizcastle/kitchen Typo Torspo
+In corner of the room there is huge owen.  -->  A huge oven has been built in the corner of the room. Tai jotain.
+/wizards/luminarc/wizcastle/kitchen Typo Torspo
+on middle -> in middle
+/wizards/luminarc/wizcastle/kitchen Typo Torspo
+it is very -> It is...
+/wizards/luminarc/wizcastle/kitchen Typo Torspo
+Cook: on his hand -> in his hand. <-- . !!
+/wizards/luminarc/wizcastle/basem Typo Torspo
+Guard: disturbting -> disturbing
+/wizards/luminarc/wizcastle/basem Typo Torspo
+Rat: atleast -> at least ... than other rats. It has yellow teeth and small black eyes. ... has stick on it -> has stuck in it ... Loppuun vaiks \n viel.
+/wizards/luminarc/wizcastle/tower11 Typo Torspo
+continues -> continue ... light source homma pyllyyn ... Cold wind is blowing from up and it has distinguished all the torches. Vaikka tolleesti. ... Ladders are making weird noises while stepped on.
+/wizards/luminarc/wizcastle/tower11 Typo Torspo
+Man: Lyhyempia rivei. here, he has --> here. He has... man has -> Man has ... loppuun piste.
+/wizards/luminarc/wizcastle/tower12 Typo Torspo
+for here -> from here ... hoods -> woods ? ... echoes -> echo ... Making them bit nervous pyllyysi.
+/wizards/luminarc/wizcastle/tower12 Typo Torspo
+Young guard: Lyhremmat rivit ... beutiful -> beautiful ... blue eyes -> Blue eyes ... shines -> shine ... looks a sky -> looks at sky
+/wizards/luminarc/wizcastle/garden/entrance Typo Torspo
+with beautiful voiceS FLY up in the sky... build -> built...
+/wizards/luminarc/wizcastle/garden/house Typo Torspo
+the roof -> The roof... BrickS of chimney, which once was rising on the roof, are...
+/wizards/luminarc/wizcastle/garden/house Typo Torspo
+laying -> lying
+/wizards/luminarc/wizcastle/garden/house Typo Torspo
+Bee: lyhyemmat rivit.
+/wizards/luminarc/wizcastle/garden/inhou Typo Torspo
+bether -> better... has placed -> has _been_ placed... makes -> make... shelve -> shelf... diffrent -> different.
+/wizards/luminarc/wizcastle/garden/inhou Typo Torspo
+Elvar: lyhyemmat rivit. Loppuun vaix piste.
+/wizards/luminarc/wizcastle/upeast2 Typo Torspo
+Korjaas typot ni tiian mihi roomiin jain. .)
+/wizards/luminarc/wizcastle/upeast2 Typo Torspo
+_a_ huge fireplace, warm -> warmth
+/wizards/luminarc/wizcastle/upeast2 Typo Torspo
+Piste loppuun.
+/wizards/luminarc/wizcastle/tower11 Typo Torspo
+torches.. <- toinen pois tms.
+/wizards/luminarc/wizcastle/tower12 Typo Torspo
+while sound of wild animals echo from the woods. Ja toi piste kans.
+/wizards/luminarc/wizcastle/upnorth1 Typo Torspo
+pretty small. There is...
+/wizards/luminarc/wizcastle/tower21 Typo Torspo
+continues to up -> continue up... at all. Cold wind... Piste loppuun kans.
+/wizards/luminarc/wizcastle/tower22 Typo Torspo
+for here -> from here. Ja: from the woods echo. Making juttu pyllyys.
+/wizards/luminarc/wizcastle/mawork Typo Torspo
+looks _like_ somekind of _a_ workroom.
+/wizards/luminarc/wizcastle/mawork Typo Torspo
+There are x and y on the floor / Floor is covered with x and y. Tai jotain mut toi on vaari. :)
+/wizards/luminarc/wizcastle/mawork Typo Torspo
+lightsource -> light source
+/wizards/luminarc/wizcastle/mawork Typo Torspo
+an mysterious -> a mysterious. windows -> window. Piste loppuun.
+/wizards/luminarc/wizcastle/mawork Typo Torspo
+Lisaks taa roomi ei toimi kunnolla mut ei riita nyt hermot lapi lukemiseen. Varmaankaan suostu klonee tota mosaa tahan.
+/wizards/luminarc/wizcastle/mawork Typo Torspo
+Farnax: his -> His face.
+/wizards/luminarc/wizcastle/kitchen Typo Trooper
+deligious->delicious
+/wizards/luminarc/wizcastle/kitchen Typo Trooper
+"A huge owen has been built in the" mikäs tuo owen o... se o oven :U
+/wizards/luminarc/wizcastle/kitchen Typo Trooper
+something deligious... woot... delicious pitäs olla
+/wizards/luminarc/wizcastle/room1 Typo Jenny
+la pictures -> man with long beard -> with a long beard

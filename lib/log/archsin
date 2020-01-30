@@ -1,0 +1,83 @@
+wizards/archsin/pet/chaos.c line 25 :Variable i not declared !
+wizards/archsin/pet/chaos.c line 25 :Variable i not declared !
+wizards/archsin/pet/chaos.c line 25 :Variable i not declared !
+wizards/archsin/pet/chaos.c line 26 :Variable i not declared !
+wizards/archsin/pet/chaos.c line 26 :Variable i not declared !
+wizards/archsin/pet/chaos.c line 27 :syntax error
+wizards/archsin/pet/chaos.c line 42 :Illegal LHS
+wizards/archsin/pet/chaos.c line 42 :syntax error
+wizards/archsin/pet/chaos.c line 27 :Variable temp not declared !
+wizards/archsin/pet/chaos.c line 28 :Variable temp not declared !
+wizards/archsin/pet/chaos.c line 28 :Variable temp not declared !
+wizards/archsin/pet/chaos.c line 53 :Variable unk not declared !
+wizards/archsin/pet/chaos.c line 74 :Variable unk not declared !
+wizards/archsin/pet/chaos.c line 75 :Variable unk not declared !
+wizards/archsin/pet/chaos.c line 52 :Variable other not declared !
+wizards/archsin/pet/chaos.c line 76 :Redeclaration of function order.
+wizards/archsin/pet/chaos.c line 77 :Variable cmd not declared !
+wizards/archsin/pet/chaos.c line 79 :Variable cmd not declared !
+wizards/archsin/pet/chaos.c line 91 :Redeclaration of function order.
+wizards/archsin/pet/chaos.c line 71 :Variable cmd not declared !
+wizards/archsin/pet/chaos.c line 73 :Variable cmd not declared !
+wizards/archsin/eval_file.c line 2 :Variable null not declared !
+wizards/archsin/eval_file.c line 2 :syntax error
+wizards/archsin/test/remdir.c line 9 :syntax error
+wizards/archsin/test/remdir.c line 7 :syntax error
+wizards/archsin/test/remdir.c line 8 :Variable dir not declared !
+wizards/archsin/test/remdir.c line 10 :Variable dir not declared !
+wizards/archsin/test/remdir.c line 11 :Variable i not declared !
+wizards/archsin/test/remdir.c line 11 :Variable i not declared !
+wizards/archsin/test/remdir.c line 11 :Variable i not declared !
+wizards/archsin/test/remdir.c line 12 :Variable dir not declared !
+wizards/archsin/test/remdir.c line 8 :syntax error
+wizards/archsin/test/remdir.c line 8 :syntax error
+wizards/archsin/test/remdir.c line 12 :Variable i not declared !
+wizards/archsin/test/remdir.c line 12 :Variable i not declared !
+wizards/archsin/test/remdir.c line 12 :Variable i not declared !
+wizards/archsin/test/remdir.c line 13 :Variable i not declared !
+wizards/archsin/test/remdir.c line 15 :syntax error
+wizards/archsin/test/remdir.c line 15 :syntax error
+wizards/archsin/test/remdir.c line 15 :syntax error
+wizards/archsin/test/remdir.c line 15 :syntax error
+wizards/archsin/livingroom2.c line 7 :syntax error
+wizards/archsin/misc/portal1.c line 19 :Variable ob not declared !
+wizards/archsin/misc/portal1.c line 20 :Variable ob not declared !
+wizards/archsin/misc/portal1.c line 21 :Variable ob not declared !
+wizards/archsin/misc/portal1.c line 16 :syntax error
+wizards/archsin/misc/portal1.c line 21 :Variable ob not declared !
+wizards/archsin/misc/portal1.c line 22 :Variable ob not declared !
+wizards/archsin/misc/portal1.c line 23 :Variable ob not declared !
+wizards/archsin/misc/portal1.c line 24 :syntax error
+wizards/archsin/misc/portal1.c line 24 :Too few arguments to find_object
+wizards/archsin/misc/portal1.c line 24 :Illegal LHS
+wizards/archsin/misc/portal1.c line 25 :syntax error
+wizards/archsin/misc/portal1.c line 25 :Variable env not declared !
+wizards/archsin/misc/portal1.c line 27 :Variable env not declared !
+wizards/archsin/misc/portal1.c line 28 :Variable env not declared !
+wizards/archsin/misc/portal1.c line 35 :syntax error
+wizards/archsin/misc/portal1.c line 36 :Illegal LHS
+wizards/archsin/misc/portal1.c line 36 :syntax error
+wizards/archsin/misc/remote.c line 30 :syntax error
+wizards/archsin/pet/chaos.c line 79 :Variable temp_cmd not declared !
+wizards/archsin/pet/chaos.c line 79 :Variable param not declared !
+wizards/archsin/pet/chaos.c line 79 :Variable temp_cmd not declared !
+wizards/archsin/pet/chaos.c line 91 :Variable param not declared !
+wizards/archsin/pet/chaos.c line 95 :Variable param not declared !
+wizards/archsin/test/assingtest.c line 1 :syntax error
+wizards/archsin/test/assingtest.c line 3 :syntax error
+wizards/archsin/test/assingtest.c line 4 :syntax error
+wizards/archsin/test/assingtest.c line 11 :syntax error
+wizards/archsin/test/assingtest.c line 19 :syntax error
+wizards/archsin/test/assingtest.c line 23 :Variable i not declared !
+wizards/archsin/test/assingtest.c line 23 :Variable i not declared !
+wizards/archsin/test/assingtest.c line 23 :Variable i not declared !
+wizards/archsin/test/assingtest.c line 24 :Variable i not declared !
+wizards/archsin/pet/dawn.c line 43 :Variable param not declared !
+wizards/archsin/pet/dawn.c line 47 :Variable param not declared !
+wizards/archsin/pet/dawn.c line 48 :Variable param not declared !
+wizards/archsin/pet/dawn.c line 51 :Duplicate case in line 42 and 41
+wizards/archsin/eval_file.c line 2 :syntax error
+wizards/archsin/eval_file.c line 2 :syntax error
+wizards/archsin/misc/dibbler.c line 33 :Duplicate case in line 30 and 29
+wizards/archsin/eval_file.c line 2 :Bad argument 1 type to efun destruct()
+wizards/archsin/eval_file.c line 2 :syntax error

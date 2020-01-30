@@ -1,0 +1,62 @@
+Ideana siis se, ett‰ tapetut mosat aina liitet‰‰n "hordeen"
+jollakin alla mainituista spelleist‰. Hordea ei voi healata
+mutta aina kun siit‰ joku kuolee, uuden voi tehd‰ tilalle.
+
+Spellit:
+doo naa maa "Raise skeleton"
+Jos ei ole hordea, t‰m‰ luo sen ja tekee siihen yhden skeletonin.
+Jos on horde, t‰m‰ lis‰‰ skeletonien m‰‰r‰‰, heikoin yksikkˆ mit‰
+hordessa voi vain olla mutta silti tarpeellinen.
+
+doo naa moo "Raise zombie"
+T‰m‰ taas luo zombieita hordeen.
+
+doo naa muu "Raise death knight"
+Muistaakseni 5 skeletonia voidaan muuttaa yhdeksi
+Death Knightiksi joka rupeaa horden "komentajaksi" eli horde on
+t‰m‰n j‰lkeen tehokkaampi.
+Voi olla vain yksi kerrallaan.
+
+doo nii maa "Raise wight"
+T‰ll‰ saa lis‰ttyj‰ wightej‰ hordeen (hankala arvata?)
+
+doo nii moo "Raise ghost"
+T‰ll‰ saa muutettua wightit ghosteiksi.
+
+doo nii muu "Raise wraith"
+T‰ll‰ saa muutettua (muistaakseni 5 wightia) yhdeksi wraithiksi
+joka tekee speciaaleja pitkin taisteluita.
+Voi olla vain yksi kerrallaan.
+
+doo noo maa "Mikalie pienitehoinen damaspelli"
+Nimens‰ veroinen. Ainoa damakeino horden lis‰ksi necroilla.
+
+doo noo moo "Raise flesh golem"
+Pari zombieta voi muuttaa isoksi lihamuuriksi joka toimii
+horden puolustajana.
+J‰lleen kerran vain yksi kerrallaan.
+
+doo noo muu "Raise lich"
+T‰ll‰ voi skeletonit muutta lichiksi joka toimii horden
+maagina.
+Taas vain yksi kerrallaan sallittu.
+
+doo nuu maa "HP boost"
+Lis‰‰ raukoille kest‰vyytt‰
+
+
+doo nuu moo "Stat boost"
+Raukat tulee vahvemmiksi.
+
+doo nuu muu "Enhance weapons"
+V‰h‰n taikuutta kehiin ja scythet tehokkaammiksi
+
+Jos joku bugaa tai lˆyd‰tte jonkun hyv‰n abuserei‰n niin teid‰n
+pit‰‰ (tietenkin) kertoa asiasta miulle.
+
+Suurin osa bugeista on karsittu, joten en‰‰ pit‰isi lˆyt‰‰ jokin
+hieno tunetasapaino t‰m‰n killan ja pelin muiden kiltojen v‰lill‰.
+Eli vihjeit‰ otetaan vastaan.
+
+// Astarel
+

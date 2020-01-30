@@ -1,0 +1,863 @@
+Sun May 27 00:58:58 2001 Raistlin the winered robed Wizard (wizards/walla/area/monsters/mage#3420, 45) killed by Tekari (108) (Tekari, Trooper)
+Mon Jun  4 18:55:15 2001 The skeleton of the ancient mayor of Jericho (undead) (wizards/walla/area/monsters/skeleton#16197, 49) killed by Terror (76) (Terror, Maple, Trooper, Coil, Frotz)
+Tue Aug 14 13:19:56 2001 The skeleton of the ancient mayor of Jericho (undead) (wizards/walla/area/monsters/skeleton#13457, 49) killed by Rehti (106) (Trooper, Rehti)
+Wed Aug 15 17:11:49 2001 Leb-Kamar, the ruler of Jericho (wizards/walla/area/monsters/lebkamar#7797, 65) killed by Terror (91) (Terror, Trooper, Ab)
+Wed Aug 22 14:36:54 2001 Efraim En-Dor the alchemist (wizards/walla/area/monsters/alchemist#3508, 42) killed by Tekari (107) (Trooper, Tekari, Gorth)
+Fri Aug 24 11:07:12 2001 Raistlin the winered robed Wizard (wizards/walla/area/monsters/mage#13876, 45) killed by Ahma (137) (Ahma, Tekari)
+wizards/walla/area/monsters/kirkko12.c line 1 :Missing trailing " or > in #include
+wizards/walla/area/monsters/kirkko12.c line 10 :Variable items not declared !
+wizards/walla/area/monsters/kirkko12.c line 11 :Variable items not declared !
+wizards/walla/area/monsters/kirkko12.c line 12 :Variable items not declared !
+wizards/walla/area/monsters/kirkko12.c line 27 :syntax error
+wizards/walla/area/monsters/mage.c line 14 :Newline in string
+wizards/walla/area/monsters/mage.c line 15 :syntax error
+wizards/walla/area/monsters/mage.c line 22 :Too few arguments to clone_object
+wizards/walla/area/monsters/mage.c line 22 :Illegal LHS
+wizards/walla/area/monsters/mage.c line 22 :syntax error
+wizards/walla/area/monsters/mage.c line 26 :Too few arguments to clone_object
+Thu Aug 30 18:46:45 2001 Leb-Kamar, the ruler of Jericho (wizards/walla/area/monsters/lebkamar#3200, 70) killed by Ahma (143) (Terror, Tekari, Ahma)
+Thu Aug 30 18:50:05 2001 Efraim En-Dor the alchemist (wizards/walla/area/monsters/alchemist#4031, 60) killed by Tekari (108) (Terror, Tekari, Ahma)
+Sun Sep  9 02:31:53 2001 The skeleton of the ancient mayor of Jericho (undead) (/wizards/walla/area/monsters/skeleton#28734, 49) killed by Gorth (59) (Koff, Luminarc, Gorth, , Tekari)
+Sat Oct  6 15:21:39 2001 Raistlin the Wizard, Highlord of the secret Witchcraft (/wizards/walla/area/monsters/mage#19679, 45) killed by Bloodstorm (73) (Jenny, Bloodstorm, Dar)
+Tue Oct 16 20:58:36 2001 Raistlin the Wizard, Highlord of the secret Witchcraft (/wizards/walla/area/monsters/mage#34387, 60) killed by Piikki (134) (Trooper, Piikki, Golthar)
+Sat Oct 27 18:54:27 2001 Raistlin the Wizard, Highlord of the secret Witchcraft (/wizards/walla/area/monsters/mage#21869, 61) killed by Jenny (104) (Jenny, Bloodstorm, Piikki, Dar)
+Sat Dec 29 15:50:10 2001 The skeleton of the ancient mayor of Jericho (undead) (/wizards/walla/area/monsters/skeleton#40376, 49) killed by Dar (93) (Digimon, Dar, Jenny)
+Tue Feb 12 17:32:23 2002 The skeleton of the ancient mayor of Jericho (undead) (/wizards/walla/area/monsters/skeleton#14128, 49) killed by Rimber (74) (Rimber, Devil, Moonstar)
+Tue Feb 12 23:18:18 2002 The skeleton of the ancient mayor of Jericho (undead) (/wizards/walla/area/monsters/skeleton#3254, 49) killed by Sepiroth (73) (Devil, , Bloodstorm, Sepiroth)
+wizards/walla/ravenloft/citys/Barovia/whorehouse.c line 22 :Redeclaration of function extra_reset.
+wizards/walla/ravenloft/citys/Barovia/whorehouse.c line 29 :Redeclaration of function extra_reset.
+wizards/walla/miekka.c line 12 :Variable damage not declared !
+wizards/walla/miekka.c line 12 :Variable damage not declared !
+Mon Feb 25 19:50:10 2002 The skeleton of the ancient mayor of Jericho (undead) (/wizards/walla/area/monsters/skeleton#10342, 49) killed by Devil (95) (, Rimber, Ozmolokki, Devil)
+Sat Mar  2 00:02:23 2002 The skeleton of the ancient mayor of Jericho (undead) (/wizards/walla/area/monsters/skeleton#18971, 49) killed by Devil (98) (Devil, Moonstar, , )
+wizards/walla/testi/v.c line 15 :syntax error
+wizards/walla/testi/v.c line 15 :Newline in string
+wizards/walla/testi/v.c line 18 :Newline in string
+wizards/walla/area/extension/entrance.c line 10 :Newline in string
+wizards/walla/area/extension/entrance.c line 13 :syntax error
+wizards/walla/area/extension/entrance.c line 10 :Newline in string
+wizards/walla/area/extension/entrance.c line 13 :syntax error
+wizards/walla/area/extension/entrance.c line 24 :Newline in string
+wizards/walla/area/extension/entrance.c line 15 :syntax error
+wizards/walla/area/extension/entrance.c line 4 :syntax error
+wizards/walla/area/extension/ent2.c line 4 :syntax error
+wizards/walla/area/extension/entrance.c line 4 :syntax error
+wizards/walla/area/extension/entrance.c line 4 :syntax error
+wizards/walla/area/extension/entrance.c line 4 :syntax error
+wizards/walla/area/extension/entrance.c line 4 :syntax error
+wizards/walla/testi/v.c line 15 :syntax error
+wizards/walla/testi/v.c line 15 :Newline in string
+wizards/walla/testi/v.c line 18 :Newline in string
+wizards/walla/hani.c line 31 :syntax error
+wizards/walla/hani.c line 96 :Too long ansi style string concatenation
+wizards/walla/hani.c line 97 :Too long ansi style string concatenation
+wizards/walla/hani.c line 98 :Too long ansi style string concatenation
+wizards/walla/hani.c line 99 :Too long ansi style string concatenation
+wizards/walla/hani.c line 100 :Too long ansi style string concatenation
+wizards/walla/area2/rooms/entrance.c line 4 :syntax error
+wizards/walla/area2/rooms/e.c line 4 :syntax error
+wizards/walla/area2/rooms/stairs/5alt.c line 24 :syntax error
+wizards/walla/area2/rooms/stairs/6.c line 4 :syntax error
+wizards/walla/area2/rooms/stairs/6.c line 4 :syntax error
+wizards/walla/area2/rooms/stairs/6.c line 4 :syntax error
+wizards/walla/area2/rooms/tasanko/hyppy.c line 35 :Newline in string
+wizards/walla/area2/mobs/teemies.c line 15 :Variable human not declared !
+wizards/walla/area2/mobs/teemies.c line 17 :syntax error
+wizards/walla/area2/mobs/teemies.c line 15 :Variable human not declared !
+Fri Apr 12 09:31:45 2002 The skeleton of the ancient mayor of Jericho (undead) (/wizards/walla/area/monsters/skeleton#50102, 49) killed by Silver dragon (86) 
+wizards/walla/area2/rooms/tasanko/gateway.c line 10 :syntax error
+wizards/walla/area2/rooms/tasanko/gateway.c line 12 :Illegal LHS
+wizards/walla/area2/rooms/tasanko/gateway.c line 15 :syntax error
+wizards/walla/area2/rooms/tasanko/gateway.c line 10 :syntax error
+wizards/walla/area2/rooms/tasanko/gateway.c line 12 :Illegal LHS
+wizards/walla/area2/rooms/tasanko/gateway.c line 15 :syntax error
+wizards/walla/area2/rooms/tasanko/gateway.c line 10 :syntax error
+wizards/walla/area2/rooms/tasanko/gateway.c line 12 :Illegal LHS
+wizards/walla/area2/rooms/tasanko/gateway.c line 15 :syntax error
+wizards/walla/area2/mobs/rogue.c line 7 :syntax error
+wizards/walla/area2/mobs/testi.c line 16 :Variable More not declared !
+wizards/walla/area2/mobs/testi.c line 16 :syntax error
+wizards/walla/area2/mobs/testi.c line 25 :Illegal LHS
+wizards/walla/area2/mobs/testi.c line 25 :syntax error
+wizards/walla/area2/mobs/testi.c line 32 :Illegal LHS
+wizards/walla/area2/mobs/testi.c line 32 :Illegal LHS
+wizards/walla/area2/mobs/testi2.c line 25 :Newline in string
+wizards/walla/area2/mobs/testi2.c line 26 :syntax error
+Sat Apr 13 07:37:12 2002 A templeguard (/wizards/walla/area2/mobs/porttivahti#22584, 40) killed by Trooper (194) (Trooper, Devil)
+Sat Apr 13 12:01:10 2002 A templeguard (/wizards/walla/area2/mobs/porttivahti#17488, 40) killed by Drakhor (104) (Celes, Agachak, Drakhor)
+wizards/walla/area2/mobs/porttivahti.c line 4 :syntax error
+wizards/walla/area2/mobs/porttivahti.c line 4 :syntax error
+wizards/walla/area2/mobs/porttivahti.c line 4 :syntax error
+wizards/walla/area2/mobs/porttivahti.c line 4 :syntax error
+wizards/walla/area2/mobs/porttivahti.c line 4 :syntax error
+wizards/walla/area2/mobs/porttivahti.c line 4 :syntax error
+wizards/walla/area2/mobs/porttivahti.c line 4 :syntax error
+wizards/walla/area2/mobs/porttivahti.c line 4 :syntax error
+wizards/walla/area2/mobs/porttivahti.c line 4 :syntax error
+wizards/walla/area2/mobs/porttivahti.c line 4 :syntax error
+wizards/walla/area2/mobs/porttivahti.c line 4 :syntax error
+wizards/walla/area2/mobs/porttivahti.c line 4 :syntax error
+wizards/walla/area2/mobs/porttivahti.c line 4 :syntax error
+wizards/walla/area2/mobs/porttivahti.c line 4 :syntax error
+wizards/walla/area2/mobs/porttivahti.c line 4 :syntax error
+wizards/walla/area2/mobs/porttivahti.c line 4 :syntax error
+wizards/walla/area2/mobs/porttivahti.c line 4 :syntax error
+wizards/walla/area2/mobs/porttivahti.c line 4 :syntax error
+wizards/walla/area2/mobs/porttivahti.c line 4 :syntax error
+wizards/walla/area2/mobs/porttivahti.c line 4 :syntax error
+wizards/walla/area2/mobs/porttivahti.c line 4 :syntax error
+wizards/walla/area2/mobs/porttivahti.c line 4 :syntax error
+wizards/walla/area2/mobs/porttivahti.c line 4 :syntax error
+wizards/walla/area2/mobs/porttivahti.c line 4 :syntax error
+wizards/walla/area2/mobs/porttivahti.c line 4 :syntax error
+wizards/walla/area2/mobs/porttivahti.c line 4 :syntax error
+wizards/walla/area2/mobs/porttivahti.c line 4 :syntax error
+wizards/walla/area2/mobs/porttivahti.c line 4 :syntax error
+wizards/walla/area2/mobs/porttivahti.c line 4 :syntax error
+wizards/walla/area2/mobs/porttivahti.c line 4 :syntax error
+wizards/walla/area2/mobs/r.c line 25 :Variable a_chat_str0 not declared !
+wizards/walla/area2/mobs/r2.c line 3 :Unrecognized inheritance modifier qualifier
+wizards/walla/area2/mobs/porttivahti.c line 4 :syntax error
+wizards/walla/area2/rooms/tasanko/ricepath1.c line 18 :syntax error
+wizards/walla/area2/rooms/ricefield/28.c line 14 :syntax error
+wizards/walla/area2/rooms/ricefield/28.c line 28 :syntax error
+Sat Apr 20 20:43:56 2002 Raistlin the Wizard, Highlord of the secret Witchcraft(strong) (/wizards/walla/area/monsters/mage#8619, 51) killed by Jenny (204) (Jenny, Dar, Feanor)
+wizards/walla/area/lebway.c line 14 :Newline in string
+wizards/walla/area/lebway.c line 15 :syntax error
+wizards/walla/area/lebway.c line 22 :Newline in string
+wizards/walla/area2/mobs/dragon.c line 15 :syntax error
+wizards/walla/area2/mobs/dragon.c line 16 :Too few arguments to write
+wizards/walla/area2/mobs/dragon.c line 22 :syntax error
+wizards/walla/area2/mobs/dragon.c line 28 :Too few arguments to clone_object
+wizards/walla/area2/mobs/dragon.c line 28 :Illegal LHS
+wizards/walla/area2/mobs/dragon.c line 28 :syntax error
+wizards/walla/miekka.c line 12 :Variable damage not declared !
+Sat May 11 08:17:38 2002 A templeguard(strong) (/wizards/walla/area2/mobs/porttivahti#7046, 21) killed by Horde (32) 
+Sat May 11 08:20:06 2002 A small caterpillar, crawling to a crack(strong) (/wizards/walla/area2/mobs/cat#7111, 3) killed by Horde (32) 
+Tue May 14 21:02:12 2002 A small caterpillar, crawling to a crack(strong) (/wizards/walla/area2/mobs/cat#14669, 3) killed by Waltest (25) 
+wizards/walla/oz/aija.c line 2 :Unrecognized inheritance modifier qualifier
+wizards/walla/testi/w.c line 7 :syntax error
+wizards/walla/testi/w.c line 8 :Illegal LHS
+wizards/walla/testi/w.c line 9 :syntax error
+wizards/walla/testi/w.c line 33 :syntax error
+wizards/walla/testi/v.c line 15 :syntax error
+wizards/walla/testi/v.c line 15 :Newline in string
+wizards/walla/testi/v.c line 18 :Newline in string
+wizards/walla/secret/guard.c line 22 :Variable boxe_open not declared !
+wizards/walla/secret/guard.c line 45 :Variable box_found not declared !
+wizards/walla/secret/guard.c line 47 :Variable boxe_open not declared !
+wizards/walla/secret/guard.c line 65 :Variable box_found not declared !
+wizards/walla/secret/guard.c line 74 :Variable box_found not declared !
+wizards/walla/secret/guard.c line 84 :Variable box_found not declared !
+wizards/walla/secret/testi/jee.c line 104 :Variable str not declared !
+wizards/walla/secret/testi/jee.c line 104 :Variable str not declared !
+wizards/walla/inv.c line 10 :syntax error
+wizards/walla/hani.c line 31 :syntax error
+wizards/walla/hani.c line 96 :Too long ansi style string concatenation
+wizards/walla/hani.c line 97 :Too long ansi style string concatenation
+wizards/walla/hani.c line 98 :Too long ansi style string concatenation
+wizards/walla/hani.c line 99 :Too long ansi style string concatenation
+wizards/walla/hani.c line 100 :Too long ansi style string concatenation
+wizards/walla/area/monsters/moko.c line 4 :syntax error
+wizards/walla/area/monsters/sign.c line 25 :syntax error
+wizards/walla/area/monsters/sign.c line 25 :syntax error
+wizards/walla/area2/stuph/test.c line 34 :syntax error
+wizards/walla/area2/stuph/test.c line 41 :syntax error
+wizards/walla/area2/stuph/test.c line 53 :Illegal character (hex 5c) '\'
+wizards/walla/area2/stuph/test.c line 53 :Newline in string
+wizards/walla/area2/stuph/test.c line 34 :syntax error
+wizards/walla/area2/stuph/test.c line 41 :syntax error
+wizards/walla/area2/stuph/test.c line 53 :Illegal character (hex 5c) '\'
+wizards/walla/area2/stuph/test.c line 53 :Newline in string
+wizards/walla/area2/stuph/test.c line 34 :syntax error
+wizards/walla/area2/stuph/test.c line 41 :syntax error
+wizards/walla/area2/stuph/test.c line 53 :Illegal character (hex 5c) '\'
+wizards/walla/area2/stuph/test.c line 53 :Newline in string
+wizards/walla/area2/rooms/temple/in/keski.c line 23 :Newline in string
+wizards/walla/area2/rooms/temple/in/keski.c line 23 :Newline in string
+wizards/walla/area2/rooms/temple/in/keski.c line 23 :Newline in string
+wizards/walla/area2/rooms/temple/in/k.c line 23 :Newline in string
+wizards/walla/area2/rooms/temple/in/keski.c line 23 :Newline in string
+wizards/walla/area2/mobs/wmonk.c line 32 :Variable armour not declared !
+wizards/walla/test/pytty.c line 1 :Unrecognized inheritance modifier qualifier
+wizards/walla/test/pytty.c line 1 :Unrecognized inheritance modifier qualifier
+wizards/walla/test/pytty.c line 1 :Illegal character (hex 2e) '.'
+wizards/walla/test/pytty.c line 1 :syntax error
+wizards/walla/test/p2.c line 19 :syntax error
+wizards/walla/test/p2.c line 32 :Illegal LHS
+wizards/walla/test/p2.c line 35 :Illegal LHS
+wizards/walla/test/p2.c line 36 :Illegal LHS
+wizards/walla/test/p2.c line 36 :syntax error
+wizards/walla/test/p2.c line 50 :Variable ob not declared !
+wizards/walla/test/p2.c line 19 :syntax error
+wizards/walla/test/p2.c line 32 :Illegal LHS
+wizards/walla/test/p2.c line 35 :Illegal LHS
+wizards/walla/test/p2.c line 36 :Illegal LHS
+wizards/walla/test/p2.c line 36 :syntax error
+wizards/walla/test/p2.c line 50 :Variable ob not declared !
+wizards/walla/test/secret.c line 19 :Variable wall_open not declared !
+wizards/walla/test/secret.c line 33 :Variable wall_open not declared !
+wizards/walla/test/secret.c line 37 :Variable wall_open not declared !
+wizards/walla/test/secret.c line 45 :Variable wall_searched not declared !
+wizards/walla/test/secret.c line 47 :Variable wall_open not declared !
+wizards/walla/test/secret.c line 55 :Variable wall_open not declared !
+wizards/walla/test/s.c line 19 :Variable wall_open not declared !
+wizards/walla/test/s.c line 22 :Variable wall_open not declared !
+wizards/walla/test/s.c line 33 :Variable wall_open not declared !
+wizards/walla/test/s.c line 37 :Variable wall_open not declared !
+wizards/walla/test/s.c line 45 :Variable wall_searched not declared !
+wizards/walla/test/s.c line 47 :Variable wall_open not declared !
+wizards/walla/test/sala.c line 9 :syntax error
+wizards/walla/test/sala.c line 9 :syntax error
+wizards/walla/test/sala.c line 9 :syntax error
+wizards/walla/test/sala.c line 9 :syntax error
+wizards/walla/test/sala.c line 9 :syntax error
+wizards/walla/area/monsters/moko.c line 4 :syntax error
+wizards/walla/ravenloft/citys/Barovia/whorehouse.c line 22 :Redeclaration of function extra_reset.
+wizards/walla/ravenloft/citys/Barovia/whorehouse.c line 29 :Redeclaration of function extra_reset.
+wizards/walla/ravenloft/citys/Barovia/whorehouse.c line 22 :Redeclaration of function extra_reset.
+wizards/walla/ravenloft/citys/Barovia/whorehouse.c line 29 :Redeclaration of function extra_reset.
+wizards/walla/jericho/rooms/cs.c line 7 :Newline in string
+wizards/walla/jericho/rooms/cs.c line 8 :syntax error
+wizards/walla/jericho/mobs/test.c line 6 :Variable random5 not declared !
+wizards/walla/jericho/stuph/test.c line 7 :syntax error
+wizards/walla/jericho/stuph/test.c line 7 :syntax error
+wizards/walla/jericho/stuph/test.c line 7 :syntax error
+wizards/walla/jericho/stuph/t.c line 7 :syntax error
+wizards/walla/jericho/stuph/t.c line 7 :Newline in string
+wizards/walla/jericho/stuph/a.c line 7 :syntax error
+wizards/walla/jericho/stuph/b.c line 7 :syntax error
+wizards/walla/jericho/mobs/bazaarguard.c line 5 :syntax error
+wizards/walla/area2/mobs/jee.c line 5 :syntax error
+wizards/walla/area2/mobs/jee.c line 5 :syntax error
+wizards/walla/jericho/mobs/bazaarguard.c line 17 :syntax error
+wizards/walla/jericho/mobs/bazaarguard.c line 17 :syntax error
+wizards/walla/jericho/mobs/bazaarguard.c line 17 :syntax error
+wizards/walla/jericho/mobs/dlof.c line 45 :Variable paita not declared !
+wizards/walla/jericho/mobs/dlof.c line 46 :Variable paita not declared !
+wizards/walla/munkamat/paita2.c line 19 :Redeclaration of function start.
+wizards/walla/munkamat/paita2.c line 30 :Redeclaration of function start.
+wizards/walla/jericho/rooms/ujar3.c line 1 :syntax error
+wizards/walla/jericho/mobs/jee.c line 16 :Variable g not declared !
+wizards/walla/jericho/mobs/jee.c line 18 :Variable g not declared !
+wizards/walla/jericho/mobs/jee.c line 19 :Variable g not declared !
+wizards/walla/jericho/rooms/htuos-5.c line 30 :syntax error
+wizards/walla/jericho/rooms/htuos-5.c line 30 :syntax error
+wizards/walla/jericho/rooms/htuos-5.c line 30 :syntax error
+wizards/walla/jericho/rooms/htuos-5.c line 30 :syntax error
+wizards/walla/jericho/rooms/tneb1.c line 27 :Unrecognized inheritance modifier qualifier
+wizards/walla/jericho/rooms/tneb1.c line 27 :Unrecognized inheritance modifier qualifier
+wizards/walla/jericho/rooms/tneb1.c line 29 :syntax error
+wizards/walla/area2/explore_d.c line 8 :Illegal character (hex ffffffa0) ' '
+wizards/walla/area2/explore_d.c line 8 :syntax error
+wizards/walla/area2/explore_d.c line 15 :Illegal LHS
+wizards/walla/area2/explore_d.c line 15 :syntax error
+wizards/walla/area2/explore_d.c line 16 :Illegal LHS
+wizards/walla/area2/explore_d.c line 16 :syntax error
+wizards/walla/area2/explore_d.c line 19 :Undefined function filename
+wizards/walla/area2/explore_d.c line 19 :Variable options not declared !
+wizards/walla/area2/explore_d.c line 20 :Function filename undefined
+wizards/walla/area2/explore_d.c line 20 :Wrong number of arguments to filename
+wizards/walla/area2/explore_d.c line 23 :Function filename undefined
+wizards/walla/area2/explore_d.c line 23 :Wrong number of arguments to filename
+wizards/walla/area2/explore_d.c line 19 :Undefined function filename
+wizards/walla/area2/explore_d.c line 19 :Variable options not declared !
+wizards/walla/area2/explore_d.c line 20 :Function filename undefined
+wizards/walla/area2/explore_d.c line 20 :Wrong number of arguments to filename
+wizards/walla/area2/explore_d.c line 23 :Function filename undefined
+wizards/walla/area2/explore_d.c line 23 :Wrong number of arguments to filename
+wizards/walla/area2/explore_d.c line 22 :Undefined function filename
+wizards/walla/area2/explore_d.c line 22 :Variable options not declared !
+wizards/walla/area2/explore_d.c line 23 :Function filename undefined
+wizards/walla/area2/explore_d.c line 23 :Wrong number of arguments to filename
+wizards/walla/area2/explore_d.c line 26 :Function filename undefined
+wizards/walla/area2/explore_d.c line 26 :Wrong number of arguments to filename
+wizards/walla/area2/explore_d.c line 22 :Variable options not declared !
+wizards/walla/area2/explore_d.c line 28 :Undefined function count
+wizards/walla/jericho/rooms/towers/se2.c line 7 :Redeclaration of function init.
+wizards/walla/jericho/rooms/towers/se2.c line 10 :Redeclaration of function init.
+wizards/walla/area2/rooms/stairs/uus2.c line 6 :Variable arg not declared !
+wizards/walla/area2/rooms/stairs/uus2.c line 6 :Undefined function reset
+wizards/walla/area2/rooms/stairs/uus2.c line 6 :syntax error
+wizards/walla/area2/rooms/stairs/uus2.c line 9 :syntax error
+wizards/walla/area2/rooms/stairs/uus2.c line 17 :Illegal LHS
+wizards/walla/area2/rooms/stairs/uus2.c line 17 :Illegal LHS
+wizards/walla/jericho/rooms/towers/n2.c line 7 :Redeclaration of function init.
+wizards/walla/jericho/rooms/towers/n2.c line 10 :Redeclaration of function init.
+wizards/walla/jericho/rooms/mcellar/test.c line 17 :Variable panel_open not declared !
+wizards/walla/jericho/rooms/mcellar/test.c line 20 :Variable panel_open not declared !
+wizards/walla/jericho/rooms/mcellar/test.c line 30 :Variable panel_open not declared !
+wizards/walla/jericho/rooms/mcellar/test.c line 34 :Variable panel_open not declared !
+wizards/walla/jericho/rooms/mcellar/test.c line 44 :Variable panel_open not declared !
+wizards/walla/jericho/rooms/mcellar/test.c line 52 :Variable panel_open not declared !
+wizards/walla/jericho/rooms/mcellar/test2.c line 114 :syntax error
+wizards/walla/jericho/stuph/testobju.c line 35 :Variable worn_by not declared !
+wizards/walla/jericho/stuph/testobju.c line 42 :Variable worn_by not declared !
+wizards/walla/jericho/stuph/testobju.c line 49 :Variable worn_by not declared !
+wizards/walla/jericho/stuph/testobju.c line 57 :Variable worn_by not declared !
+wizards/walla/jericho/stuph/testobju.c line 64 :Variable worn_by not declared !
+wizards/walla/jericho/stuph/testobju.c line 70 :function not defined by inheritance as specified
+wizards/walla/jericho/stuph/testobju.c line 65 :function not defined by inheritance as specified
+wizards/walla/test/a.c line 65 :function not defined by inheritance as specified
+wizards/walla/test/a.c line 48 :function not defined by inheritance as specified
+wizards/walla/test/a.c line 48 :function not defined by inheritance as specified
+wizards/walla/test/b.c line 48 :function not defined by inheritance as specified
+wizards/walla/test/b.c line 17 :syntax error
+wizards/walla/test/b.c line 44 :Variable CYAN_F not declared !
+wizards/walla/test/b.c line 44 :Variable OFF not declared !
+wizards/walla/mobs/tester.c line 18 :syntax error
+wizards/walla/mobs/tester.c line 19 :Illegal character (hex 5c) '\'
+wizards/walla/mobs/tester.c line 19 :Newline in string
+wizards/walla/mobs/tester.c line 18 :syntax error
+wizards/walla/mobs/tester.c line 24 :syntax error
+wizards/walla/jericho/stuph/gdagger.c line 12 :Newline in string
+wizards/walla/jericho/stuph/gdagger.c line 14 :syntax error
+wizards/walla/jericho/stuph/gdagger.c line 12 :Newline in string
+wizards/walla/jericho/stuph/gdagger.c line 14 :syntax error
+wizards/walla/jericho/stuph/gd.c line 12 :Newline in string
+wizards/walla/jericho/stuph/gd.c line 14 :syntax error
+wizards/walla/jericho/mobs/lol.c line 23 :Variable housut not declared !
+wizards/walla/jericho/mobs/lol.c line 27 :Variable paita not declared !
+wizards/walla/jericho/rooms/leblair/leblair1.c line 10 :syntax error
+wizards/walla/jericho/rooms/leblair/leblair1.c line 10 :syntax error
+wizards/walla/test/uus.c line 104 :syntax error
+wizards/walla/jericho/rooms/leblair/test.c line 13 :syntax error
+wizards/walla/jericho/rooms/leblair/test.c line 32 :Variable i not declared !
+wizards/walla/jericho/rooms/leblair/test.c line 36 :Variable i not declared !
+wizards/walla/jericho/rooms/leblair/test.c line 30 :Variable i not declared !
+wizards/walla/jericho/rooms/leblair/test.c line 34 :Variable i not declared !
+wizards/walla/jericho/rooms/leblair/leblair2.c line 2 :syntax error
+wizards/walla/jericho/rooms/leblair/regeneast.c line 3 :syntax error
+wizards/walla/jericho/rooms/leblair/regenwest.c line 3 :syntax error
+wizards/walla/jericho/rooms/leblair/regennorth.c line 3 :syntax error
+wizards/walla/jericho/rooms/leblair/regeneast.c line 3 :syntax error
+wizards/walla/jericho/rooms/leblair/regeneast.c line 3 :syntax error
+wizards/walla/jericho/rooms/leblair/regennorth.c line 3 :syntax error
+wizards/walla/jericho/mobs/test.c line 28 :syntax error
+wizards/walla/jericho/rooms/mcellar/10.c line 11 :Newline in string
+wizards/walla/jericho/rooms/mcellar/10.c line 12 :syntax error
+wizards/walla/jericho/rooms/mcellar/10.c line 20 :Too few arguments to clone_object
+wizards/walla/jericho/rooms/mcellar/10.c line 20 :Illegal LHS
+wizards/walla/jericho/rooms/mcellar/10.c line 20 :syntax error
+wizards/walla/jericho/rooms/mcellar/10.c line 11 :Newline in string
+wizards/walla/jericho/rooms/mcellar/10.c line 12 :syntax error
+wizards/walla/jericho/rooms/mcellar/10.c line 12 :Newline in string
+wizards/walla/jericho/rooms/mcellar/10.c line 13 :syntax error
+wizards/walla/jericho/rooms/mcellar/10.c line 12 :Newline in string
+wizards/walla/jericho/rooms/mcellar/10.c line 13 :syntax error
+wizards/walla/jericho/mobs/ghost.c line 6 :syntax error
+wizards/walla/jericho/mobs//prisoner2.c line 54 :syntax error
+wizards/walla/jericho/mobs//prisoner2.c line 54 :syntax error
+wizards/walla/jericho/mobs/kelju.c line 1 :Unrecognized inheritance modifier qualifier
+wizards/walla/jericho/mobs/kelju.c line 1 :Unrecognized inheritance modifier qualifier
+wizards/walla/jericho/mobs/kelju.c line 1 :Unrecognized inheritance modifier qualifier
+wizards/walla/jericho/mobs/kelju.c line 1 :Illegal character (hex 2e) '.'
+wizards/walla/jericho/mobs/kelju.c line 1 :syntax error
+wizards/walla/jericho/mobs/kelju.c line 1 :Unrecognized inheritance modifier qualifier
+wizards/walla/jericho/mobs/kelju.c line 1 :Unrecognized inheritance modifier qualifier
+wizards/walla/jericho/mobs/kelju.c line 1 :Unrecognized inheritance modifier qualifier
+wizards/walla/jericho/mobs/kelju.c line 1 :Unrecognized inheritance modifier qualifier
+wizards/walla/jericho/mobs/kelju.c line 1 :Illegal character (hex 2e) '.'
+wizards/walla/jericho/mobs/kelju.c line 1 :syntax error
+wizards/walla/jericho/mobs/kelju.c line 1 :Unrecognized inheritance modifier qualifier
+wizards/walla/jericho/mobs/kelju.c line 1 :Unrecognized inheritance modifier qualifier
+wizards/walla/jericho/mobs/kelju.c line 1 :Unrecognized inheritance modifier qualifier
+wizards/walla/jericho/mobs/kelju.c line 1 :Illegal character (hex 2e) '.'
+wizards/walla/jericho/mobs/kelju.c line 1 :syntax error
+wizards/walla/jericho/rooms/leblair/entrance.c line 54 :syntax error
+wizards/walla/jericho/rooms/leblair/entrance.c line 54 :Illegal LHS
+wizards/walla/jericho/rooms/leblair/entrance.c line 55 :syntax error
+wizards/walla/jericho/rooms/leblair/entrance.c line 55 :Illegal LHS
+wizards/walla/jericho/mobs/jennatest.c line 76 :Variable i not declared !
+wizards/walla/jericho/mobs/jennatest.c line 76 :Variable i not declared !
+wizards/walla/jericho/mobs/jennatest.c line 76 :Variable i not declared !
+wizards/walla/jericho/mobs/jennatest.c line 77 :Variable i not declared !
+wizards/walla/jericho/mobs/jennatest.c line 78 :Variable i not declared !
+wizards/walla/jericho/mobs/towerguard1.c line 1 :syntax error
+wizards/walla/jericho/rooms/tester.c line 20 :Variable arg not declared !
+wizards/walla/jericho/rooms/tester.c line 20 :syntax error
+wizards/walla/jericho/mobs/lebtest.c line 58 :Variable gloves not declared !
+wizards/walla/jericho/mobs/lebtest.c line 67 :syntax error
+wizards/walla/jericho/mobs/lebtester.c line 67 :syntax error
+wizards/walla/jericho/mobs/jennatest.c line 76 :Variable i not declared !
+wizards/walla/jericho/mobs/jennatest.c line 76 :Variable i not declared !
+wizards/walla/jericho/mobs/jennatest.c line 76 :Variable i not declared !
+wizards/walla/jericho/mobs/jennatest.c line 77 :Variable i not declared !
+wizards/walla/jericho/mobs/jennatest.c line 78 :Variable i not declared !
+Mon Oct 28 16:56:19 2002 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng2#19633, 45) killed by Devil (170) 
+Mon Oct 28 18:03:21 2002 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng1#589, 45) killed by Devil (170) 
+Mon Oct 28 18:04:37 2002 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng5#638, 45) killed by Devil (170) 
+Mon Oct 28 18:05:47 2002 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng3#660, 45) killed by Devil (170) 
+Mon Oct 28 18:06:23 2002 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng4#686, 45) killed by Devil (170) 
+Mon Oct 28 18:12:29 2002 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng2#1549, 45) killed by Devil (170) 
+Tue Oct 29 18:06:46 2002 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng3#1282, 45) killed by Devil (172) 
+Tue Oct 29 18:10:02 2002 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng2#1346, 45) killed by Devil (172) 
+Tue Oct 29 18:12:48 2002 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng4#1401, 45) killed by Devil (172) 
+Wed Oct 30 19:14:32 2002 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng4#5429, 45) killed by Devil (172) 
+wizards/walla/munkamat/test.c line 10 :syntax error
+wizards/walla/munkamat/test.c line 10 :Illegal character (hex 5c) '\'
+wizards/walla/munkamat/test.c line 10 :Newline in string
+wizards/walla/munkamat/test2.c line 10 :syntax error
+wizards/walla/munkamat/test2.c line 10 :Illegal character (hex 5c) '\'
+wizards/walla/munkamat/test2.c line 10 :Newline in string
+wizards/walla/munkamat/test.c line 10 :syntax error
+wizards/walla/munkamat/test.c line 10 :Illegal character (hex 5c) '\'
+wizards/walla/munkamat/test.c line 10 :Newline in string
+wizards/walla/munkamat/test.c line 10 :syntax error
+wizards/walla/munkamat/test.c line 10 :Illegal character (hex 5c) '\'
+wizards/walla/munkamat/test.c line 10 :Newline in string
+wizards/walla/munkamat/test.c line 10 :syntax error
+wizards/walla/munkamat/test.c line 10 :Illegal character (hex 5c) '\'
+wizards/walla/munkamat/test.c line 10 :Newline in string
+wizards/walla/munkamat/test.c line 10 :syntax error
+wizards/walla/munkamat/test.c line 10 :Illegal character (hex 5c) '\'
+wizards/walla/munkamat/test.c line 10 :Newline in string
+wizards/walla/munkamat/test.c line 10 :syntax error
+wizards/walla/munkamat/test.c line 10 :Illegal character (hex 5c) '\'
+wizards/walla/munkamat/test.c line 10 :Newline in string
+wizards/walla/munkamat/test2.c line 10 :syntax error
+wizards/walla/munkamat/test2.c line 10 :Illegal character (hex 5c) '\'
+wizards/walla/munkamat/test2.c line 10 :Newline in string
+wizards/walla/munkamat/test.c line 2 :Variable BLUE_F not declared !
+wizards/walla/munkamat/test.c line 2 :Variable OFF not declared !
+wizards/walla/munkamat/test.c line 2 :Variable RED_F not declared !
+wizards/walla/munkamat/test.c line 2 :Variable OFF not declared !
+wizards/walla/munkamat/test.c line 2 :Variable WHITE_F not declared !
+wizards/walla/munkamat/test.c line 2 :Variable OFF not declared !
+wizards/walla/munkamat/suomi2.c line 15 :Newline in string
+wizards/walla/munkamat/suomi2.c line 16 :syntax error
+wizards/walla/eval_file.c line 2 :Undefined function waltest
+Fri Nov  1 13:18:05 2002 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng4#16377, 45) killed by Devil (172) 
+Sun Nov  3 13:04:35 2002 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng4#23997, 45) killed by Devil (170) 
+Sun Nov  3 13:11:53 2002 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng3#24047, 45) killed by Devil (170) 
+Sun Nov  3 13:15:41 2002 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng2#24104, 45) killed by Devil (170) 
+Sun Nov  3 13:24:25 2002 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng5#24178, 45) killed by Devil (170) 
+Sun Nov  3 13:27:57 2002 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng1#24209, 45) killed by Devil (170) 
+Sun Nov  3 18:41:38 2002 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng4#1127, 45) killed by Devil (170) 
+Sun Nov  3 18:43:14 2002 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng3#1167, 45) killed by Devil (170) 
+Sun Nov  3 18:44:38 2002 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng2#1200, 45) killed by Devil (170) 
+Sun Nov  3 18:45:50 2002 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng5#1243, 45) killed by Devil (170) 
+Sun Nov  3 18:47:08 2002 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng1#1289, 45) killed by Devil (170) 
+Wed Nov  6 19:18:30 2002 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng5#2662, 45) killed by Trooper (221) 
+Wed Nov  6 19:20:42 2002 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng1#2933, 45) killed by Trooper (221) 
+Wed Nov  6 19:26:48 2002 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng4#3141, 45) killed by Trooper (221) 
+Thu Nov  7 03:16:10 2002 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng1#15061, 45) killed by Trooper (241) 
+Thu Nov  7 03:19:58 2002 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng5#15120, 45) killed by Trooper (241) 
+Thu Nov  7 03:23:51 2002 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng2#15242, 45) killed by Trooper (241) 
+Thu Nov  7 03:31:03 2002 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng4#15307, 45) killed by Trooper (241) 
+Thu Nov  7 03:35:21 2002 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng3#15390, 45) killed by Trooper (241) 
+Thu Nov  7 05:15:38 2002 Leb Kamar, evil warlord of Jericho (strong) (/wizards/walla/jericho/mobs/leb#15716, 82) killed by Trooper (241) 
+wizards/walla/hani.c line 31 :syntax error
+wizards/walla/hani.c line 96 :Too long ansi style string concatenation
+wizards/walla/hani.c line 97 :Too long ansi style string concatenation
+wizards/walla/hani.c line 98 :Too long ansi style string concatenation
+wizards/walla/hani.c line 99 :Too long ansi style string concatenation
+wizards/walla/hani.c line 100 :Too long ansi style string concatenation
+wizards/walla/peepseye/treasure/map.c line 5 :function not defined by inheritance as specified
+wizards/walla/cathedral/entrance.c line 33 :Unrecognized inheritance modifier qualifier
+wizards/walla/cathedral/entrance.c line 34 :syntax error
+wizards/walla/cathedral/entrance.c line 33 :Unrecognized inheritance modifier qualifier
+wizards/walla/cathedral/entrance.c line 34 :syntax error
+wizards/walla/cathedral/entrance.c line 15 :Newline in string
+wizards/walla/cathedral/entrance.c line 16 :syntax error
+wizards/walla/cathedral/entrance.c line 16 :Illegal LHS
+wizards/walla/cathedral/entrance.c line 17 :syntax error
+wizards/walla/cathedral/entrance.c line 19 :Illegal LHS
+wizards/walla/cathedral/entrance.c line 19 :Illegal LHS
+wizards/walla/cathedral/entrance.c line 36 :syntax error
+wizards/walla/cathedral/test.c line 36 :syntax error
+wizards/walla/cathedral/room1.c line 14 :syntax error
+wizards/walla/cathedral/room1.c line 15 :Illegal LHS
+Mon Jan 27 02:18:33 2003 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng4#22721, 45) killed by Demon (44) 
+Mon Jan 27 02:19:39 2003 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng3#22760, 45) killed by Demon (44) 
+Mon Jan 27 02:30:21 2003 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng2#23299, 45) killed by Demon (44) 
+wizards/walla/munkamat/amu.c line 8 :Variable CYAN_F not declared !
+wizards/walla/munkamat/amu.c line 8 :Variable OFF not declared !
+wizards/walla/misc/testplaque.c line 15 :syntax error
+wizards/walla/misc/testplaque.c line 29 :Illegal LHS
+wizards/walla/misc/testplaque.c line 29 :syntax error
+wizards/walla/misc/testplaque.c line 33 :Variable str not declared !
+wizards/walla/misc/testplaque.c line 33 :Illegal LHS
+wizards/walla/misc/testplaque.c line 33 :Illegal LHS
+wizards/walla/misc/tp.c line 53 :syntax error
+wizards/walla/misc/tp.c line 55 :Variable names not declared !
+wizards/walla/misc/tp.c line 57 :Variable i not declared !
+wizards/walla/misc/tp.c line 58 :Variable names not declared !
+wizards/walla/misc/tp.c line 58 :Variable i not declared !
+wizards/walla/misc/tp.c line 58 :Variable args not declared !
+wizards/walla/misc//tp.c line 53 :syntax error
+wizards/walla/misc//tp.c line 55 :Variable names not declared !
+wizards/walla/misc//tp.c line 57 :Variable i not declared !
+wizards/walla/misc//tp.c line 58 :Variable names not declared !
+wizards/walla/misc//tp.c line 58 :Variable i not declared !
+wizards/walla/misc//tp.c line 58 :Variable args not declared !
+wizards/walla/misc//tp.c line 53 :syntax error
+wizards/walla/misc//tp.c line 55 :Variable names not declared !
+wizards/walla/misc//tp.c line 57 :Variable i not declared !
+wizards/walla/misc//tp.c line 58 :Variable names not declared !
+wizards/walla/misc//tp.c line 58 :Variable i not declared !
+wizards/walla/misc//tp.c line 58 :Variable args not declared !
+wizards/walla/misc//tp.c line 53 :syntax error
+wizards/walla/misc//tp.c line 55 :Variable names not declared !
+wizards/walla/misc//tp.c line 57 :Variable i not declared !
+wizards/walla/misc//tp.c line 58 :Variable names not declared !
+wizards/walla/misc//tp.c line 58 :Variable i not declared !
+wizards/walla/misc//tp.c line 58 :Variable args not declared !
+wizards/walla/misc//tp.c line 57 :Variable i not declared !
+wizards/walla/misc//tp.c line 58 :Variable i not declared !
+wizards/walla/misc//tp.c line 58 :Variable i not declared !
+wizards/walla/misc//tp.c line 59 :Variable i not declared !
+wizards/walla/misc//tp.c line 57 :Variable i not declared !
+wizards/walla/misc//tp.c line 58 :Variable i not declared !
+wizards/walla/misc//tp.c line 58 :Variable i not declared !
+wizards/walla/misc//tp.c line 59 :Variable i not declared !
+Sun Feb  9 14:38:35 2003 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng4#5551, 45) killed by Demon (44) 
+Sun Feb  9 14:39:25 2003 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng3#5582, 45) killed by Demon (44) 
+Sun Feb  9 14:40:35 2003 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng2#5607, 45) killed by Demon (44) 
+Sun Feb  9 14:41:11 2003 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng5#5623, 45) killed by Demon (44) 
+Sun Feb  9 14:42:07 2003 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng1#5637, 45) killed by Demon (44) 
+wizards/walla/northern/rooms/lvl1/mainhall12.c line 6 :syntax error
+wizards/walla/northern/rooms/lvl1/mainhall12.c line 6 :syntax error
+wizards/walla/northern/rooms/lvl1/mainhall12.c line 6 :syntax error
+wizards/walla/northern/rooms/lvl1/mainhall22.c line 9 :syntax error
+wizards/walla/northern/rooms/lvl1/mainhall13.c line 7 :Variable short_desc not declared !
+wizards/walla/northern/rooms/lvl1/mainhall13.c line 8 :Variable long_desc not declared !
+wizards/walla/northern/rooms/lvl1/mainhall13.c line 7 :Variable short_desc not declared !
+wizards/walla/northern/rooms/lvl1/mainhall13.c line 8 :Variable long_desc not declared !
+wizards/walla/northern/rooms/lvl1/mainhall13.c line 7 :Variable short_desc not declared !
+wizards/walla/northern/rooms/lvl1/mainhall13.c line 8 :Variable long_desc not declared !
+wizards/walla/northern/rooms/lvl1/mainhall13.c line 7 :Variable short_desc not declared !
+wizards/walla/northern/rooms/lvl1/mainhall13.c line 8 :Variable long_desc not declared !
+wizards/walla/testi/au.c line 48 :Variable str not declared !
+wizards/walla/testi/au.c line 49 :Variable str not declared !
+wizards/walla/testi/au.c line 50 :Variable str not declared !
+wizards/walla/testi/je.c line 48 :Variable str not declared !
+wizards/walla/northern/rooms/lvl-1/23.c line 8 :Variable monster not declared !
+wizards/walla/northern/rooms/lvl-1/23.c line 8 :Variable monster not declared !
+wizards/walla/test/helmet.c line 22 :Variable str not declared !
+wizards/walla/test/helmet.c line 22 :syntax error
+wizards/walla/test/helmet.c line 24 :Too few arguments to write
+wizards/walla/test/helmet.c line 25 :syntax error
+wizards/walla/test/helmet.c line 22 :Variable str not declared !
+wizards/walla/test/helmet.c line 22 :syntax error
+wizards/walla/test/helmet.c line 24 :Too few arguments to write
+wizards/walla/test/helmet.c line 28 :syntax error
+wizards/walla/test/he.c line 22 :Variable str not declared !
+wizards/walla/test/he.c line 22 :syntax error
+wizards/walla/test/he.c line 24 :Too few arguments to write
+wizards/walla/test/he.c line 28 :syntax error
+wizards/walla/northern/stuph/shield.c line 11 :Newline in string
+wizards/walla/northern/stuph/shield.c line 13 :syntax error
+wizards/walla/test/warlock.c line 26 :syntax error
+wizards/walla/northern/stuph/flagpole_1.c line 52 :syntax error
+wizards/walla/northern/stuph/flagpole_1.c line 56 :Variable flag not declared !
+wizards/walla/northern/stuph/flagpole_1.c line 57 :Variable flag not declared !
+wizards/walla/northern/stuph/flagpole_1.c line 63 :Variable str not declared !
+wizards/walla/northern/stuph/flagpole_1.c line 64 :Variable str not declared !
+wizards/walla/northern/stuph/flagpole_1.c line 79 :syntax error
+wizards/walla/northern/stuph/flagpole_1.c line 52 :syntax error
+wizards/walla/northern/stuph/flagpole_1.c line 56 :Variable flag not declared !
+wizards/walla/northern/stuph/flagpole_1.c line 57 :Variable flag not declared !
+wizards/walla/northern/stuph/flagpole_1.c line 63 :Variable str not declared !
+wizards/walla/northern/stuph/flagpole_1.c line 64 :Variable str not declared !
+wizards/walla/northern/stuph/flagpole_1.c line 79 :syntax error
+wizards/walla/northern/stuph/flagpole_1.c line 52 :syntax error
+wizards/walla/northern/stuph/flagpole_1.c line 56 :Variable flag not declared !
+wizards/walla/northern/stuph/flagpole_1.c line 57 :Variable flag not declared !
+wizards/walla/northern/stuph/flagpole_1.c line 63 :Variable str not declared !
+wizards/walla/northern/stuph/flagpole_1.c line 64 :Variable str not declared !
+wizards/walla/northern/stuph/flagpole_1.c line 79 :syntax error
+wizards/walla/northern/stuph/flagpole_1.c line 52 :syntax error
+wizards/walla/northern/stuph/flagpole_1.c line 56 :Variable flag not declared !
+wizards/walla/northern/stuph/flagpole_1.c line 57 :Variable flag not declared !
+wizards/walla/northern/stuph/flagpole_1.c line 63 :Variable str not declared !
+wizards/walla/northern/stuph/flagpole_1.c line 64 :Variable str not declared !
+wizards/walla/northern/stuph/flagpole_1.c line 79 :syntax error
+wizards/walla/northern/stuph/flagpole_1.c line 52 :syntax error
+wizards/walla/northern/stuph/flagpole_1.c line 56 :Variable flag not declared !
+wizards/walla/northern/stuph/flagpole_1.c line 57 :Variable flag not declared !
+wizards/walla/northern/stuph/flagpole_1.c line 63 :Variable str not declared !
+wizards/walla/northern/stuph/flagpole_1.c line 64 :Variable str not declared !
+wizards/walla/northern/stuph/flagpole_1.c line 79 :syntax error
+wizards/walla/northern/stuph/flagpole_1.c line 52 :syntax error
+wizards/walla/northern/stuph/flagpole_1.c line 56 :Variable flag not declared !
+wizards/walla/northern/stuph/flagpole_1.c line 57 :Variable flag not declared !
+wizards/walla/northern/stuph/flagpole_1.c line 63 :Variable str not declared !
+wizards/walla/northern/stuph/flagpole_1.c line 64 :Variable str not declared !
+wizards/walla/northern/stuph/flagpole_1.c line 79 :syntax error
+wizards/walla/northern/stuph/flagpole_1.c line 52 :syntax error
+wizards/walla/northern/stuph/flagpole_1.c line 56 :Variable flag not declared !
+wizards/walla/northern/stuph/flagpole_1.c line 57 :Variable flag not declared !
+wizards/walla/northern/stuph/flagpole_1.c line 63 :Variable str not declared !
+wizards/walla/northern/stuph/flagpole_1.c line 64 :Variable str not declared !
+wizards/walla/northern/stuph/flagpole_1.c line 79 :syntax error
+wizards/walla/northern/stuph/flagpole_1.c line 52 :syntax error
+wizards/walla/northern/stuph/flagpole_1.c line 56 :Variable flag not declared !
+wizards/walla/northern/stuph/flagpole_1.c line 57 :Variable flag not declared !
+wizards/walla/northern/stuph/flagpole_1.c line 63 :Variable str not declared !
+wizards/walla/northern/stuph/flagpole_1.c line 64 :Variable str not declared !
+wizards/walla/northern/stuph/flagpole_1.c line 79 :syntax error
+wizards/walla/northern/stuph/flagpole_1.c line 65 :Variable str not declared !
+wizards/walla/northern/stuph/flagpole_1.c line 66 :Variable str not declared !
+wizards/walla/northern/stuph/flagpole_1.c line 81 :syntax error
+wizards/walla/northern/stuph/flagpole_1.c line 65 :Variable str not declared !
+wizards/walla/northern/stuph/flagpole_1.c line 66 :Variable str not declared !
+wizards/walla/northern/stuph/flagpole_1.c line 81 :syntax error
+wizards/walla/northern/stuph/flagpole_1.c line 66 :Variable str not declared !
+wizards/walla/northern/stuph/flagpole_1.c line 68 :Variable str not declared !
+wizards/walla/northern/stuph/flagpole_1.c line 66 :Variable str not declared !
+wizards/walla/northern/stuph/flagpole_1.c line 68 :Variable str not declared !
+wizards/walla/northern/stuph/flagpole_1.c line 117 :syntax error
+wizards/walla/northern/stuph/flagpole_1.c line 125 :syntax error
+wizards/walla/northern/stuph/flagpole_1.c line 133 :syntax error
+wizards/walla/northern/stuph/flagpole_1.c line 150 :syntax error
+wizards/walla/northern/stuph/flagpole_1.c line 158 :syntax error
+wizards/walla/northern/stuph/flagpole_1.c line 166 :syntax error
+wizards/walla/northern/stuph/fp.c line 117 :syntax error
+wizards/walla/northern/stuph/fp.c line 125 :syntax error
+wizards/walla/northern/stuph/fp.c line 133 :syntax error
+wizards/walla/northern/stuph/fp.c line 150 :syntax error
+wizards/walla/northern/stuph/fp.c line 158 :syntax error
+wizards/walla/northern/stuph/fp.c line 166 :syntax error
+wizards/walla/northern/stuph/fp1.c line 142 :syntax error
+wizards/walla/northern/stuph//flagpole_1.c line 117 :syntax error
+wizards/walla/northern/stuph//flagpole_1.c line 125 :syntax error
+wizards/walla/northern/stuph//flagpole_1.c line 133 :syntax error
+wizards/walla/northern/stuph//flagpole_1.c line 150 :syntax error
+wizards/walla/northern/stuph//flagpole_1.c line 158 :syntax error
+wizards/walla/northern/stuph//flagpole_1.c line 166 :syntax error
+wizards/walla/northern/stuph/fp2.c line 142 :syntax error
+wizards/walla/northern/rooms/lvl2/cell_4.c line 1 :Unrecognized inheritance modifier qualifier
+wizards/walla/northern/rooms/lvl2/cell_4.c line 1 :Unrecognized inheritance modifier qualifier
+wizards/walla/northern/rooms/lvl2/cell_4.c line 1 :Unrecognized inheritance modifier qualifier
+wizards/walla/northern/rooms/lvl2/cell_4.c line 1 :syntax error
+wizards/walla/northern/rooms/lvl2/cell_4.c line 1 :Unrecognized inheritance modifier qualifier
+wizards/walla/northern/rooms/lvl2/cell_4.c line 1 :Unrecognized inheritance modifier qualifier
+wizards/walla/northern/rooms/lvl2/cell_4.c line 1 :Unrecognized inheritance modifier qualifier
+wizards/walla/northern/rooms/lvl2/cell_4.c line 1 :syntax error
+wizards/walla/northern/rooms/lvl2/cell_4.c line 1 :Unrecognized inheritance modifier qualifier
+wizards/walla/northern/rooms/lvl2/cell_4.c line 1 :Unrecognized inheritance modifier qualifier
+wizards/walla/northern/rooms/lvl2/cell_4.c line 1 :Unrecognized inheritance modifier qualifier
+wizards/walla/northern/rooms/lvl2/cell_4.c line 1 :syntax error
+wizards/walla/northern/rooms/lvl3/test.c line 36 :Variable str not declared !
+wizards/walla/northern/rooms/lvl3/test.c line 37 :Variable str not declared !
+wizards/walla/northern/rooms/lvl3/test.c line 36 :Variable str not declared !
+wizards/walla/northern/rooms/lvl3/test.c line 37 :Variable str not declared !
+wizards/walla/northern/test/rampart_7.c line 67 :Variable str not declared !
+wizards/walla/northern/test/rampart_7.c line 68 :Variable str not declared !
+wizards/walla/test.c line 1 :syntax error
+wizards/walla/test.c line 1 :syntax error
+wizards/walla/beertest.c line 3 :Type mismatch ( unknown vs int ) when initializing i
+wizards/walla/beertest.c line 3 :Missing type
+wizards/walla/beertest.c line 4 :syntax error
+wizards/walla/test.c line 60 :syntax error
+wizards/walla/test/jennye.c line 33 :syntax error
+wizards/walla/test/jennye.c line 34 :Illegal LHS
+wizards/walla/mitavittua.c line 17 :Variable More not declared !
+wizards/walla/mitavittua.c line 17 :syntax error
+wizards/walla/mitavittua.c line 21 :syntax error
+wizards/walla/mitavittua.c line 35 :Illegal LHS
+wizards/walla/mitavittua.c line 35 :Illegal LHS
+wizards/walla/mitavittua.c line 35 :syntax error
+wizards/walla/devil/tst1.c line 80 :Variable More not declared !
+wizards/walla/devil/tst1.c line 80 :syntax error
+wizards/walla/devil/tst1.c line 88 :syntax error
+wizards/walla/devil/tst1.c line 88 :syntax error
+wizards/walla/devil/tst2.c line 88 :syntax error
+wizards/walla/devil/tst3.c line 88 :syntax error
+wizards/walla/devil/kruik.c line 18 :Variable str not declared !
+wizards/walla/devil/kruik.c line 18 :syntax error
+wizards/walla/devil/kruik.c line 21 :Variable str not declared !
+wizards/walla/devil/kruik.c line 23 :Variable str not declared !
+wizards/walla/devil/kruik.c line 23 :Variable tmp1 not declared !
+wizards/walla/devil/kruik.c line 23 :Variable tmp2 not declared !
+wizards/walla/devil/kruik2.c line 18 :Variable str not declared !
+wizards/walla/devil/kruik2.c line 18 :syntax error
+wizards/walla/devil/kruik2.c line 21 :Variable str not declared !
+wizards/walla/devil/kruik2.c line 23 :Variable str not declared !
+wizards/walla/devil/kruik2.c line 23 :Variable tmp1 not declared !
+wizards/walla/devil/kruik2.c line 23 :Variable tmp2 not declared !
+wizards/walla/testi/beer.c line 1 :Type mismatch ( unknown vs int ) when initializing i
+wizards/walla/testi/beer.c line 1 :Missing type
+wizards/walla/testi/beer.c line 2 :syntax error
+wizards/walla/testi/beer.c line 4 :Variable str not declared !
+wizards/walla/testi/beer.c line 5 :Variable str not declared !
+wizards/walla/testi/beer.c line 6 :Variable str not declared !
+wizards/walla/testi/beer.c line 10 :Variable str not declared !
+wizards/walla/testi/huone.c line 67 :syntax error
+wizards/walla/testi/huone.c line 71 :Variable str not declared !
+wizards/walla/testi/huone.c line 72 :Variable str not declared !
+wizards/walla/testi/huone.c line 73 :Variable str not declared !
+wizards/walla/testi/huone.c line 75 :Variable us not declared !
+wizards/walla/testi/huone.c line 76 :Variable lkm not declared !
+wizards/walla/testi/huone.c line 96 :syntax error
+wizards/walla/testi/huone.c line 90 :syntax error
+wizards/walla/testi/huone.c line 105 :syntax error
+wizards/walla/testi/huone.c line 104 :syntax error
+wizards/walla/northern/rooms/lvl3/drawbridge_2.c line 4 :syntax error
+wizards/walla/northern/rooms/lvl2/cell_10.c line 12 :Illegal character (hex 5c) '\'
+wizards/walla/northern/rooms/lvl2/cell_10.c line 12 :syntax error
+wizards/walla/northern/rooms/entr2.c line 15 :syntax error
+wizards/walla/northern/rooms/entr2.c line 15 :Illegal character (hex 2e) '.'
+wizards/walla/northern/rooms/entr2.c line 15 :Illegal character (hex 5c) '\'
+wizards/walla/northern/rooms/entr2.c line 15 :Newline in string
+wizards/walla/northern/mobs/razindukhta.c line 67 :Variable a_chat_str not declared !
+wizards/walla/northern/mobs/razindukhta.c line 68 :Variable a_chat_str not declared !
+wizards/walla/northern/mobs/razindukhta.c line 69 :Variable a_chat_str not declared !
+wizards/walla/northern/mobs/razindukhta.c line 72 :Variable a_chat_str not declared !
+wizards/walla/northern/mobs/khilarbhunaz.c line 86 :illegal to inherit after defining functions
+wizards/walla/northern/mobs/khilarbhunaz.c line 90 :Redeclaration of function reset.
+wizards/walla/northern/mobs/khilarbhunaz.c line 111 :Redeclaration of function reset.
+wizards/walla/northern/mobs/khilarbhunaz.c line 86 :illegal to inherit after defining functions
+wizards/walla/northern/mobs/khilarbhunaz.c line 90 :Redeclaration of function reset.
+wizards/walla/northern/mobs/khilarbhunaz.c line 111 :Redeclaration of function reset.
+wizards/walla/northern/test/cloak.c line 47 :Undefined function init_command
+wizards/walla/northern/stuph/khilar_cloak.c line 41 :syntax error
+wizards/walla/northern/test/belt1.c line 62 :syntax error
+wizards/walla/northern/test/belt1.c line 63 :Illegal LHS
+wizards/walla/northern/stuph/razi_neck.c line 8 :Variable YELLOW_F not declared !
+wizards/walla/northern/stuph/razi_neck.c line 8 :Variable OFF not declared !
+wizards/walla/northern/rooms/lvl1/torch_secret.c line 7 :Variable monster not declared !
+wizards/walla/northern/stuph/flag2.c line 184 :Variable irthun not declared !
+wizards/walla/northern/test/flag.c line 184 :Variable irthun not declared !
+wizards/walla/northern/test/flag.c line 184 :Bad argument 2 type to efun present()
+wizards/walla/northern/test/flag.c line 184 :syntax error
+wizards/walla/northern/stuph/flag2.c line 191 :Variable ROOMS not declared !
+wizards/walla/northern/rooms/lvl1/mh21.c line 18 :Variable arg not declared !
+wizards/walla/northern/rooms/lvl1/mh21.c line 18 :syntax error
+wizards/walla/northern/rooms/lvl1/mh21.c line 20 :syntax error
+wizards/walla/northern/rooms/lvl1/mh21.c line 30 :Illegal LHS
+wizards/walla/northern/rooms/lvl1/mh21.c line 30 :Illegal LHS
+wizards/walla/northern/rooms/lvl1/mh21.c line 30 :Illegal LHS
+wizards/walla/northern/rooms/lvl1/test.c line 18 :Variable arg not declared !
+wizards/walla/northern/rooms/lvl1/test.c line 18 :syntax error
+wizards/walla/northern/rooms/lvl1/test.c line 20 :syntax error
+wizards/walla/northern/rooms/lvl1/test.c line 30 :Illegal LHS
+wizards/walla/northern/rooms/lvl1/test.c line 30 :Illegal LHS
+wizards/walla/northern/rooms/lvl1/test.c line 30 :Illegal LHS
+wizards/walla/northern/rooms/lvl1/mh.c line 19 :Variable arg not declared !
+wizards/walla/northern/rooms/lvl1/mh.c line 19 :syntax error
+wizards/walla/northern/rooms/lvl1/mh.c line 21 :syntax error
+wizards/walla/northern/rooms/lvl1/mh.c line 31 :Illegal LHS
+wizards/walla/northern/rooms/lvl1/mh.c line 31 :Illegal LHS
+wizards/walla/northern/rooms/lvl1/mh.c line 31 :Illegal LHS
+wizards/walla/northern/rooms/lvl1/mh.c line 18 :Variable arg not declared !
+wizards/walla/northern/rooms/lvl1/mh.c line 18 :syntax error
+wizards/walla/northern/rooms/lvl1/mh.c line 20 :syntax error
+wizards/walla/northern/rooms/lvl1/mh.c line 30 :Illegal LHS
+wizards/walla/northern/rooms/lvl1/mh.c line 30 :Illegal LHS
+wizards/walla/northern/rooms/lvl1/mh.c line 30 :Illegal LHS
+wizards/walla/northern/rooms/lvl1/mh.c line 18 :Variable arg not declared !
+wizards/walla/northern/rooms/lvl1/mh.c line 18 :syntax error
+wizards/walla/northern/rooms/lvl1/mh.c line 20 :syntax error
+wizards/walla/northern/rooms/lvl1/mh.c line 30 :Illegal LHS
+wizards/walla/northern/rooms/lvl1/mh.c line 30 :Illegal LHS
+wizards/walla/northern/rooms/lvl1/mh.c line 30 :Illegal LHS
+wizards/walla/northern/rooms/lvl1/mh.c line 18 :Variable arg not declared !
+wizards/walla/northern/rooms/lvl1/mh.c line 18 :syntax error
+wizards/walla/northern/rooms/lvl1/mh.c line 20 :syntax error
+wizards/walla/northern/rooms/lvl1/mh.c line 30 :Illegal LHS
+wizards/walla/northern/rooms/lvl1/mh.c line 30 :Illegal LHS
+wizards/walla/northern/rooms/lvl1/mh.c line 30 :Illegal LHS
+wizards/walla/northern/rooms/lvl1/mh.c line 18 :Variable arg not declared !
+wizards/walla/northern/rooms/lvl1/mh.c line 19 :syntax error
+wizards/walla/northern/rooms/lvl1/mh.c line 20 :Illegal LHS
+wizards/walla/northern/rooms/lvl1/mh.c line 39 :syntax error
+wizards/walla/northern/rooms/lvl1/mh.c line 39 :syntax error
+Sun Jun 15 13:56:32 2003 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng4#3875, 45) killed by Bloodstorm (170) 
+Sun Jun 15 14:07:34 2003 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng2#4298, 45) killed by Bloodstorm (170) 
+Sun Jun 15 14:13:24 2003 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng3#4933, 45) killed by Bloodstorm (170) 
+Sun Jun 15 14:19:01 2003 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng5#5191, 45) killed by Bloodstorm (170) 
+Sun Jun 15 14:23:29 2003 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng1#5500, 45) killed by Bloodstorm (170) 
+Sun Jun 15 16:17:41 2003 Leb Kamar, evil warlord of Jericho (strong) (/wizards/walla/jericho/mobs/leb#8454, 88) killed by Drakhor (209) 
+Mon Jun 30 23:10:28 2003 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng1#21183, 45) killed by Drakhor (186) 
+Mon Jun 30 23:11:56 2003 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng2#21246, 45) killed by Drakhor (186) 
+Mon Jun 30 23:22:18 2003 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng4#21339, 60) killed by Drakhor (186) 
+Mon Jun 30 23:23:38 2003 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng3#21598, 45) killed by Drakhor (186) 
+Mon Jun 30 23:24:54 2003 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng5#21646, 45) killed by Drakhor (186) 
+wizards/walla/northern/mobs/herghillod.c line 2 :syntax error
+wizards/walla/northern/mobs/herghillod.c line 2 :syntax error
+wizards/walla/talla/rooms/entrance.c line 45 :syntax error
+wizards/walla/talla/rooms/teso.c line 23 :Newline in string
+wizards/walla/talla/rooms/teso.c line 23 :syntax error
+wizards/walla/talla/rooms/teso.c line 26 :syntax error
+wizards/walla/talla/rooms/teso.c line 36 :Illegal LHS
+wizards/walla/test/beer.c line 1 :Type mismatch ( unknown vs int ) when initializing i
+wizards/walla/test/beer.c line 1 :Missing type
+wizards/walla/test/beer.c line 2 :syntax error
+wizards/walla/test/beer.c line 1 :Variable str not declared !
+wizards/walla/test/beer.c line 3 :Type mismatch ( unknown vs int ) when initializing i
+wizards/walla/test/beer.c line 3 :Missing type
+wizards/walla/test/beer.c line 4 :syntax error
+wizards/walla/f_r_p.c line 22 :function not defined by inheritance as specified
+Sun Oct 26 04:31:45 2003 Iglak the dwarf (strong) (/wizards/walla/northern/mobs/iglak#10412, 12) killed by Celes (133) 
+wizards/walla/f_r_p.c line 22 :function not defined by inheritance as specified
+wizards/walla/cmds/_fzap_uus.c line 2 :Illegal character (hex 23) '#'
+wizards/walla/cmds/_fzap_uus.c line 2 :syntax error
+wizards/walla/cmds/_fzap_uus.c line 29 :syntax error
+wizards/walla/cmds/_fzap_uus.c line 30 :syntax error
+wizards/walla/cmds/_fzap_uus.c line 30 :Newline in string
+wizards/walla/cmds/_fzap.c line 33 :syntax error
+wizards/walla/cmds/_fzap.c line 33 :syntax error
+wizards/walla/cmds/_fzap.c line 33 :syntax error
+wizards/walla/cmds/_fzap.c line 32 :syntax error
+wizards/walla/cmds/_fzap.c line 32 :syntax error
+wizards/walla/cmds/_fzap.c line 32 :syntax error
+wizards/walla/cmds/_fzap.c line 32 :syntax error
+wizards/walla/cmds/_fzap.c line 32 :syntax error
+wizards/walla/cmds/_fzap.c line 32 :syntax error
+wizards/walla/cmds/_fzap.c line 32 :syntax error
+wizards/walla/cmds/_fzap.c line 32 :syntax error
+wizards/walla/eval_file.c line 2 :syntax error
+wizards/walla/eval_file.c line 2 :Newline in string
+wizards/walla/owm/lem.c line 9 :syntax error
+wizards/walla/owm/lem.c line 10 :Illegal LHS
+wizards/walla/owm/lem.c line 17 :syntax error
+wizards/walla/lemmings/rooms/lvl5/entrance.c line 8 :Newline in string
+wizards/walla/lemmings/rooms/lvl5/entrance.c line 9 :syntax error
+wizards/walla/lemmings/rooms/lvl5/entrance.c line 21 :Illegal LHS
+wizards/walla/lemmings/rooms/lvl5/entrance.c line 21 :Illegal LHS
+wizards/walla/lemmings/rooms/lvl5/entrance.c line 21 :Illegal LHS
+wizards/walla/lemmings/rooms/lvl5/entrance.c line 21 :syntax error
+wizards/walla/f_r_p.c line 22 :function not defined by inheritance as specified
+wizards/walla/area/extension/entrance.c line 4 :syntax error
+wizards/walla/lemmings/mobs/tb.c line 24 :syntax error
+wizards/walla/lemmings/mobs/tb.c line 28 :Variable room not declared !
+wizards/walla/lemmings/mobs/tb.c line 28 :Variable target not declared !
+wizards/walla/lemmings/mobs/tb.c line 28 :Variable target not declared !
+wizards/walla/lemmings/mobs/tb.c line 25 :syntax error
+wizards/walla/lemmings/mobs/tb.c line 28 :Illegal LHS
+wizards/walla/lemmings/mobs/tb.c line 28 :syntax error
+wizards/walla/lemmings/mobs/tb.c line 27 :syntax error
+wizards/walla/lemmings/mobs/tb.c line 44 :Variable i not declared !
+wizards/walla/lemmings/mobs/tb.c line 44 :Variable i not declared !
+wizards/walla/lemmings/mobs/builder.c line 43 :syntax error
+wizards/walla/lemmings/mobs/builder.c line 44 :Illegal LHS
+wizards/walla/lemmings/mobs/builder.c line 44 :syntax error
+wizards/walla/lemmings/mobs/builder.c line 43 :syntax error
+wizards/walla/lemmings/mobs/builder.c line 44 :Illegal LHS
+wizards/walla/lemmings/mobs/builder.c line 44 :syntax error
+wizards/walla/lemmings/mobs/builder.c line 43 :syntax error
+wizards/walla/lemmings/mobs/builder.c line 44 :Illegal LHS
+wizards/walla/lemmings/mobs/builder.c line 44 :syntax error
+Sat Dec 20 15:13:57 2003 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng1#30616, 45) killed by Bloodstorm (180) 
+Sat Dec 20 15:14:57 2003 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng5#30685, 45) killed by Bloodstorm (180) 
+Sat Dec 20 15:17:03 2003 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng3#30899, 45) killed by Bloodstorm (180) 
+Sat Dec 20 15:17:53 2003 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng4#30938, 45) killed by Bloodstorm (180) 
+Sat Dec 20 15:21:13 2003 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng2#31039, 45) killed by Bloodstorm (180) 
+Sat Dec 20 15:56:07 2003 Leb Kamar, evil warlord of Jericho (strong) (/wizards/walla/jericho/mobs/leb#31730, 81) killed by Bloodstorm (180) 
+Sat Dec 20 19:33:09 2003 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng1#1148, 45) killed by Bloodstorm (180) 
+Sat Dec 20 19:34:31 2003 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng5#1258, 45) killed by Bloodstorm (180) 
+Sat Dec 20 19:35:19 2003 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng3#1294, 45) killed by Bloodstorm (180) 
+Sat Dec 20 19:36:35 2003 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng4#1343, 45) killed by Bloodstorm (180) 
+Sat Dec 20 19:37:53 2003 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng2#1415, 45) killed by Bloodstorm (180) 
+Sat Dec 20 20:48:47 2003 Leb Kamar, evil warlord of Jericho (strong) (/wizards/walla/jericho/mobs/leb#2899, 85) killed by Bloodstorm (180) 
+wizards/walla/f_r_p.c line 22 :function not defined by inheritance as specified
+wizards/walla/f_r_p.c line 22 :function not defined by inheritance as specified
+wizards/walla/f_r_p.c line 22 :function not defined by inheritance as specified
+wizards/walla/cmds/_fzap.c line 32 :syntax error
+wizards/walla/cmds/_fzap.c line 32 :syntax error
+Fri Mar  5 12:55:34 2004 Iglak the dwarf (strong) (/wizards/walla/northern/mobs/iglak#20680, 10) killed by Jenny (185) 
+Fri Mar  5 14:44:31 2004 Iglak the dwarf (strong) (/wizards/walla/northern/mobs/iglak#21294, 13) killed by Golthar (88) 
+Fri Mar  5 14:53:27 2004 Iglak the dwarf (strong) (/wizards/walla/northern/mobs/iglak#26960, 10) killed by Golthar (88) 
+Fri Mar  5 15:04:47 2004 Khazin-Talak, the dwarven deathknight (undead) (strong) (/wizards/walla/northern/mobs/warlock#20799, 80) killed by Jenny (186) 

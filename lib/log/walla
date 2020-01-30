@@ -1,0 +1,813 @@
+Fri Mar  5 15:06:41 2004 Khazin-Talak, the dwarven deathknight (undead) (strong) (/wizards/walla/northern/mobs/warlock#28102, 82) killed by Jenny (186) 
+Fri Mar  5 16:21:21 2004 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng1#33073, 45) killed by Jenny (186) 
+Fri Mar  5 16:23:51 2004 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng5#33314, 45) killed by Jenny (186) 
+Fri Mar  5 16:25:03 2004 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng3#33356, 45) killed by Jenny (186) 
+Fri Mar  5 16:26:33 2004 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng4#33428, 45) killed by Jenny (186) 
+Fri Mar  5 16:28:23 2004 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng2#33502, 45) killed by Jenny (186) 
+wizards/walla/northern/rooms/lvl3/drawbridge_2.c line 6 :Variable monster not declared !
+wizards/walla/northern/rooms/lvl3/drawbridge_2.c line 7 :Variable monster not declared !
+wizards/walla/northern/rooms/lvl3/drawbridge_2.c line 8 :Variable monster not declared !
+Sun Mar  7 15:12:30 2004 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng1#24550, 45) killed by Jenny (186) 
+Sun Mar  7 15:12:52 2004 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng5#24601, 45) killed by Jenny (186) 
+Sun Mar  7 15:13:30 2004 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng3#24637, 45) killed by Jenny (186) 
+Sun Mar  7 15:14:18 2004 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng4#24679, 45) killed by Jenny (186) 
+Sun Mar  7 15:15:18 2004 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng2#24759, 45) killed by Jenny (186) 
+wizards/walla/lemmings/mobs/blaster.c line 37 :syntax error
+wizards/walla/lemmings/mobs/blaster.c line 42 :Variable ob not declared !
+wizards/walla/lemmings/mobs/blaster.c line 43 :Variable ob not declared !
+wizards/walla/lemmings/mobs/blaster.c line 44 :Variable ob not declared !
+wizards/walla/lemmings/mobs/blaster.c line 45 :Variable ob not declared !
+wizards/walla/jericho/stuph/mayor2.c line 49 :Variable item_ob not declared !
+wizards/walla/lemmings/mobs/climber.c line 37 :syntax error
+wizards/walla/lemmings/mobs/climber.c line 55 :Variable player not declared !
+wizards/walla/lemmings/mobs/climber.c line 63 :syntax error
+wizards/walla/lemmings/mobs/climber.c line 64 :Illegal LHS
+wizards/walla/lemmings/mobs/climber.c line 64 :syntax error
+wizards/walla/lemmings/mobs/climber.c line 65 :Illegal LHS
+wizards/walla/lemmings/mobs/climber.c line 54 :Variable player not declared !
+wizards/walla/lemmings/mobs/climber.c line 62 :syntax error
+wizards/walla/lemmings/mobs/climber.c line 63 :Illegal LHS
+wizards/walla/lemmings/mobs/climber.c line 63 :syntax error
+wizards/walla/lemmings/mobs/climber.c line 64 :Illegal LHS
+wizards/walla/lemmings/mobs/climber.c line 64 :syntax error
+wizards/walla/lemmings/mobs/climber.c line 62 :syntax error
+wizards/walla/lemmings/mobs/climber.c line 63 :Illegal LHS
+wizards/walla/lemmings/mobs/climber.c line 63 :syntax error
+wizards/walla/lemmings/mobs/climber.c line 64 :Illegal LHS
+wizards/walla/lemmings/mobs/climber.c line 64 :syntax error
+wizards/walla/lemmings/mobs/climber.c line 75 :Illegal LHS
+wizards/walla/lemmings/mobs/blaster.c line 37 :syntax error
+wizards/walla/lemmings/mobs/blaster.c line 42 :Variable ob not declared !
+wizards/walla/lemmings/mobs/blaster.c line 43 :Variable ob not declared !
+wizards/walla/lemmings/mobs/blaster.c line 44 :Variable ob not declared !
+wizards/walla/lemmings/mobs/blaster.c line 45 :Variable ob not declared !
+wizards/walla/lemmings/mobs/blaster.c line 37 :syntax error
+wizards/walla/lemmings/mobs/blaster.c line 42 :Variable ob not declared !
+wizards/walla/lemmings/mobs/blaster.c line 43 :Variable ob not declared !
+wizards/walla/lemmings/mobs/blaster.c line 44 :Variable ob not declared !
+wizards/walla/lemmings/mobs/blaster.c line 45 :Variable ob not declared !
+wizards/walla/lemmings/mobs/bomber2.c line 6 :Type mismatch ( unknown vs int ) when initializing type
+wizards/walla/lemmings/mobs/bomber2.c line 6 :Missing type
+wizards/walla/lemmings/mobs/bomber2.c line 7 :syntax error
+wizards/walla/lemmings/mobs/tb.c line 58 :syntax error
+wizards/walla/lemmings/mobs/tb.c line 58 :Variable name_F not declared !
+wizards/walla/lemmings/mobs/tb.c line 63 :syntax error
+wizards/walla/lemmings/rooms/heaven/entrance.c line 5 :Newline in string
+wizards/walla/lemmings/rooms/heaven/entrance.c line 7 :syntax error
+wizards/walla/lemmings/rooms/heaven/entrance.c line 64 :Illegal LHS
+wizards/walla/lemmings/rooms/heaven/entrance.c line 64 :Illegal LHS
+wizards/walla/lemmings/rooms/heaven/entrance.c line 64 :Illegal LHS
+wizards/walla/lemmings/rooms/heaven/entrance.c line 64 :syntax error
+wizards/walla/lemmings/rooms/heaven/entrance.c line 5 :Newline in string
+wizards/walla/lemmings/rooms/heaven/entrance.c line 8 :syntax error
+wizards/walla/lemmings/rooms/heaven/entrance.c line 63 :Illegal LHS
+wizards/walla/lemmings/rooms/heaven/entrance.c line 63 :Illegal LHS
+wizards/walla/lemmings/rooms/heaven/entrance.c line 63 :Illegal LHS
+wizards/walla/lemmings/rooms/heaven/entrance.c line 63 :syntax error
+wizards/walla/lemmings/rooms/heaven/entrance.c line 5 :Newline in string
+wizards/walla/lemmings/rooms/heaven/entrance.c line 8 :syntax error
+wizards/walla/lemmings/rooms/heaven/entrance.c line 65 :Illegal LHS
+wizards/walla/lemmings/rooms/heaven/entrance.c line 65 :Illegal LHS
+wizards/walla/lemmings/rooms/heaven/entrance.c line 65 :Illegal LHS
+wizards/walla/lemmings/rooms/heaven/entrance.c line 65 :syntax error
+wizards/walla/lemmings/rooms/heaven/entrance.c line 5 :Newline in string
+wizards/walla/lemmings/rooms/heaven/entrance.c line 7 :syntax error
+wizards/walla/lemmings/rooms/heaven/entrance.c line 66 :Illegal LHS
+wizards/walla/lemmings/rooms/heaven/entrance.c line 66 :Illegal LHS
+wizards/walla/lemmings/rooms/heaven/entrance.c line 66 :Illegal LHS
+wizards/walla/lemmings/rooms/heaven/entrance.c line 66 :syntax error
+wizards/walla/lemmings/rooms/heaven/entrance.c line 5 :Newline in string
+wizards/walla/lemmings/rooms/heaven/entrance.c line 7 :syntax error
+wizards/walla/lemmings/rooms/heaven/entrance.c line 66 :Illegal LHS
+wizards/walla/lemmings/rooms/heaven/entrance.c line 66 :Illegal LHS
+wizards/walla/lemmings/rooms/heaven/entrance.c line 66 :Illegal LHS
+wizards/walla/lemmings/rooms/heaven/entrance.c line 66 :syntax error
+wizards/walla/lemmings/rooms/heaven/entrance.c line 5 :Newline in string
+wizards/walla/lemmings/rooms/heaven/entrance.c line 7 :syntax error
+wizards/walla/lemmings/rooms/heaven/entrance.c line 66 :Illegal LHS
+wizards/walla/lemmings/rooms/heaven/entrance.c line 66 :Illegal LHS
+wizards/walla/lemmings/rooms/heaven/entrance.c line 66 :Illegal LHS
+wizards/walla/lemmings/rooms/heaven/entrance.c line 66 :syntax error
+wizards/walla/lemmings/rooms/heaven/entrance.c line 27 :Too few arguments to tell_room
+wizards/walla/lemmings/rooms/heaven/entrance.c line 29 :syntax error
+wizards/walla/lemmings/rooms/heaven/entrance.c line 36 :Too few arguments to tell_room
+wizards/walla/lemmings/rooms/heaven/entrance.c line 37 :syntax error
+wizards/walla/lemmings/rooms/heaven/entrance.c line 44 :Too few arguments to tell_room
+wizards/walla/lemmings/rooms/heaven/entrance.c line 45 :syntax error
+wizards/walla/eval_file.c line 2 :syntax error
+wizards/walla/lemmings/rooms/heaven/entrance2.c line 42 :syntax error
+wizards/walla/lemmings/rooms/heaven/entrance2.c line 90 :Illegal LHS
+wizards/walla/lemmings/rooms/heaven/entrance2.c line 90 :Illegal LHS
+wizards/walla/lemmings/rooms/heaven/entrance2.c line 90 :Illegal LHS
+wizards/walla/lemmings/rooms/heaven/entrance2.c line 90 :syntax error
+wizards/walla/lemmings/rooms/heaven/entrance2.c line 42 :syntax error
+wizards/walla/lemmings/rooms/heaven/entrance2.c line 91 :Illegal LHS
+wizards/walla/lemmings/rooms/heaven/entrance2.c line 91 :Illegal LHS
+wizards/walla/lemmings/rooms/heaven/entrance2.c line 91 :Illegal LHS
+wizards/walla/lemmings/rooms/heaven/entrance2.c line 91 :syntax error
+wizards/walla/lemmings/rooms/heaven/entrance2.c line 42 :syntax error
+wizards/walla/lemmings/rooms/heaven/entrance2.c line 92 :Illegal LHS
+wizards/walla/lemmings/rooms/heaven/entrance2.c line 92 :Illegal LHS
+wizards/walla/lemmings/rooms/heaven/entrance2.c line 92 :Illegal LHS
+wizards/walla/lemmings/rooms/heaven/entrance2.c line 92 :syntax error
+wizards/walla/lemmings/rooms/heaven/entrance2.c line 42 :syntax error
+wizards/walla/lemmings/rooms/heaven/entrance2.c line 93 :Illegal LHS
+wizards/walla/lemmings/rooms/heaven/entrance2.c line 93 :Illegal LHS
+wizards/walla/lemmings/rooms/heaven/entrance2.c line 93 :Illegal LHS
+wizards/walla/lemmings/rooms/heaven/entrance2.c line 93 :syntax error
+wizards/walla/cmds/_fzap.c line 32 :syntax error
+wizards/walla/eval_file.c line 2 :syntax error
+wizards/walla/cmds/_fzap.c line 32 :syntax error
+wizards/walla/areas/mg/mobs/cur.c line 17 :syntax error
+wizards/walla/areas/mg/stuph/statue.c line 13 :function not defined by inheritance as specified
+wizards/walla/areas/mg/rooms/mausoleum1.c line 7 :syntax error
+wizards/walla/areas/mg/rooms/mausoleum1.c line 26 :Illegal character (hex 2e) '.'
+wizards/walla/areas/mg/rooms/mausoleum1.c line 26 :syntax error
+wizards/walla/areas/mg/rooms/mausoleum1.c line 26 :Illegal character (hex 5c) '\'
+wizards/walla/areas/mg/rooms/mausoleum1.c line 26 :Newline in string
+wizards/walla/areas/mg/rooms/mausoleum1.c line 28 :Illegal LHS
+wizards/walla/areas/mg/rooms/mausoleum1.c line 29 :syntax error
+wizards/walla/areas/mg/stuph/cloakki.c line 10 :Newline in string
+wizards/walla/areas/mg/stuph/cloakki.c line 11 :syntax error
+wizards/walla/areas/mg/stuph/cloakki.c line 10 :Newline in string
+wizards/walla/areas/mg/stuph/cloakki.c line 11 :syntax error
+wizards/walla/areas/mg/stuph/cloakki.c line 10 :Newline in string
+wizards/walla/areas/mg/stuph/cloakki.c line 11 :syntax error
+wizards/walla/areas/mg/stuph/c2.c line 9 :Newline in string
+wizards/walla/areas/mg/stuph/c2.c line 11 :syntax error
+wizards/walla/areas/mg/stuph/cl.c line 9 :Newline in string
+wizards/walla/areas/mg/stuph/cl.c line 10 :syntax error
+wizards/walla/areas/mg/stuph/cloakki.c line 10 :Newline in string
+wizards/walla/areas/mg/stuph/cloakki.c line 11 :syntax error
+wizards/walla/areas/mg/stuph/cloakki.c line 10 :Newline in string
+wizards/walla/areas/mg/stuph/cloakki.c line 11 :syntax error
+wizards/walla/areas/mg/stuph/cloakki.c line 10 :Newline in string
+wizards/walla/areas/mg/stuph/cloakki.c line 11 :syntax error
+wizards/walla/areas/mg/stuph/cloakki.c line 10 :Newline in string
+wizards/walla/areas/mg/stuph/cloakki.c line 11 :syntax error
+wizards/walla/areas/mg/stuph/cloakki.c line 10 :Newline in string
+wizards/walla/areas/mg/stuph/cloakki.c line 11 :syntax error
+wizards/walla/areas/mg/stuph/cloakki.c line 10 :Newline in string
+wizards/walla/areas/mg/stuph/cloakki.c line 11 :syntax error
+wizards/walla/areas/mg/stuph/cloakki.c line 10 :Newline in string
+wizards/walla/areas/mg/stuph/cloakki.c line 11 :syntax error
+wizards/walla/areas/mg/stuph/cloakki.c line 10 :Newline in string
+wizards/walla/areas/mg/stuph/cloakki.c line 11 :syntax error
+wizards/walla/areas/mg/stuph/cloakki.c line 10 :Newline in string
+wizards/walla/areas/mg/stuph/cloakki.c line 11 :syntax error
+wizards/walla/areas/mg/stuph/cloakki.c line 10 :Newline in string
+wizards/walla/areas/mg/stuph/cloakki.c line 11 :syntax error
+wizards/walla/areas/mg/stuph/cloakki.c line 10 :Newline in string
+wizards/walla/areas/mg/stuph/cloakki.c line 11 :syntax error
+wizards/walla/areas/mg/stuph/cloakki.c line 10 :Newline in string
+wizards/walla/areas/mg/stuph/cloakki.c line 11 :syntax error
+wizards/walla/areas/mg/stuph/cloakki.c line 10 :Newline in string
+wizards/walla/areas/mg/stuph/cloakki.c line 11 :syntax error
+wizards/walla/areas/mg/stuph/cloakki.c line 10 :Newline in string
+wizards/walla/areas/mg/stuph/cloakki.c line 11 :syntax error
+wizards/walla/areas/mg/stuph/cloakki.c line 10 :Newline in string
+wizards/walla/areas/mg/stuph/cloakki.c line 11 :syntax error
+wizards/walla/areas/mg/stuph/s2.c line 18 :syntax error
+wizards/walla/areas/mg/rooms/entrance.c line 21 :Variable More not declared !
+wizards/walla/areas/mg/rooms/entrance.c line 21 :syntax error
+wizards/walla/areas/mg/rooms/entrance.c line 23 :Illegal LHS
+wizards/walla/areas/mg/rooms/entrance.c line 26 :syntax error
+wizards/walla/areas/mg/stuph/widowhat.c line 31 :syntax error
+wizards/walla/areas/mg/stuph/widowhat.c line 31 :Illegal character (hex 5c) '\'
+wizards/walla/areas/mg/stuph/widowhat.c line 31 :Newline in string
+wizards/walla/areas/mg/stuph/widowhat.c line 32 :Illegal LHS
+wizards/walla/areas/mg/stuph/widowhat.c line 31 :syntax error
+wizards/walla/areas/mg/stuph/widowhat.c line 31 :Illegal character (hex 5c) '\'
+wizards/walla/areas/mg/stuph/widowhat.c line 31 :Newline in string
+wizards/walla/areas/mg/stuph/widowhat.c line 32 :Illegal LHS
+wizards/walla/areas/mg/stuph/widowhat.c line 31 :syntax error
+wizards/walla/areas/mg/stuph/widowhat.c line 31 :Illegal character (hex 5c) '\'
+wizards/walla/areas/mg/stuph/widowhat.c line 31 :Newline in string
+wizards/walla/areas/mg/stuph/widowhat.c line 32 :Illegal LHS
+wizards/walla/areas/mg/stuph/shovel.c line 2 :function not defined by inheritance as specified
+wizards/walla/areas/mg/stuph/shovel.c line 8 :syntax error
+wizards/walla/areas/mg/stuph/widowhat.c line 31 :syntax error
+wizards/walla/areas/mg/stuph/widowhat.c line 31 :Illegal character (hex 5c) '\'
+wizards/walla/areas/mg/stuph/widowhat.c line 31 :Newline in string
+wizards/walla/areas/mg/stuph/widowhat.c line 32 :Illegal LHS
+wizards/walla/areas/mg/rooms/hut.c line 5 :syntax error
+wizards/walla/areas/mg/rooms/hut.c line 5 :Unrecognized inheritance modifier qualifier
+wizards/walla/areas/mg/rooms/hut.c line 5 :Unrecognized inheritance modifier qualifier
+wizards/walla/areas/mg/rooms/hut.c line 5 :syntax error
+wizards/walla/areas/mg/stuph/widowhat.c line 31 :syntax error
+wizards/walla/areas/mg/stuph/widowhat.c line 31 :Illegal character (hex 5c) '\'
+wizards/walla/areas/mg/stuph/widowhat.c line 31 :Newline in string
+wizards/walla/areas/mg/stuph/widowhat.c line 32 :Illegal LHS
+wizards/walla/areas/mg/rooms/mausoleum3.c line 29 :syntax error
+wizards/walla/areas/mg/stuph/widowhat.c line 31 :syntax error
+wizards/walla/areas/mg/stuph/widowhat.c line 31 :Illegal character (hex 5c) '\'
+wizards/walla/areas/mg/stuph/widowhat.c line 31 :Newline in string
+wizards/walla/areas/mg/stuph/widowhat.c line 32 :Illegal LHS
+wizards/walla/areas/mg/stuph/widowhat.c line 31 :syntax error
+wizards/walla/areas/mg/stuph/widowhat.c line 31 :Illegal character (hex 5c) '\'
+wizards/walla/areas/mg/stuph/widowhat.c line 31 :Newline in string
+wizards/walla/areas/mg/stuph/widowhat.c line 32 :Illegal LHS
+wizards/walla/areas/mg/stuph/widowhat.c line 31 :syntax error
+wizards/walla/areas/mg/stuph/widowhat.c line 31 :Illegal character (hex 5c) '\'
+wizards/walla/areas/mg/stuph/widowhat.c line 31 :Newline in string
+wizards/walla/areas/mg/stuph/widowhat.c line 32 :Illegal LHS
+wizards/walla/areas/mg/stuph/widowhat.c line 31 :syntax error
+wizards/walla/areas/mg/stuph/widowhat.c line 31 :Illegal character (hex 5c) '\'
+wizards/walla/areas/mg/stuph/widowhat.c line 31 :Newline in string
+wizards/walla/areas/mg/stuph/widowhat.c line 32 :Illegal LHS
+wizards/walla/areas/mg/stuph/widowhat2.c line 40 :syntax error
+wizards/walla/areas/mg/stuph/widowhat2.c line 40 :Illegal character (hex 2e) '.'
+wizards/walla/areas/mg/stuph/widowhat2.c line 40 :Illegal character (hex 5c) '\'
+wizards/walla/areas/mg/stuph/widowhat2.c line 40 :Newline in string
+wizards/walla/areas/mg/stuph/widowhat2.c line 42 :Illegal LHS
+wizards/walla/areas/mg/mobs/test.c line 45 :Variable shield_ob not declared !
+wizards/walla/areas/mg/mobs/test.c line 46 :Variable miecka_ob not declared !
+wizards/walla/areas/mg/mobs/test.c line 45 :syntax error
+wizards/walla/areas/mg/mobs/test2.c line 45 :Variable miecka not declared !
+wizards/walla/areas/mg/mobs/test2.c line 45 :Too many arguments to destruct
+wizards/walla/areas/mg/mobs/test2.c line 46 :Variable shield not declared !
+wizards/walla/areas/mg/mobs/test2.c line 46 :Too many arguments to destruct
+wizards/walla/areas/mg/mobs/test3.c line 47 :Too many arguments to destruct
+wizards/walla/areas/mg/mobs/test3.c line 48 :Too many arguments to destruct
+wizards/walla/cmds/_fzap.c line 32 :syntax error
+wizards/walla/cmds/_fzap.c line 32 :syntax error
+wizards/walla/ab.c line 1 :syntax error
+wizards/walla/machine.c line 11: Variable belt not declared !
+wizards/walla/northern/rooms/lvl1/mainhall21.c line 12: Missing arguments to simul_efun command
+Wed Sep 22 16:29:42 2004 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng5#27621, 45) killed by Elric (130) 
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+wizards/walla/jericho/mobs/uhrac.c line 41: Missing arguments to simul_efun command
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+wizards/walla/lemmings/rooms/shared/1stairs.c line 9: Newline in string
+wizards/walla/lemmings/rooms/shared/1stairs.c line 10: syntax error
+wizards/walla/lemmings/rooms/shared/1stairs.c line 9: Newline in string
+wizards/walla/lemmings/rooms/shared/1stairs.c line 10: syntax error
+wizards/walla/lemmings/rooms/shared/1stairs.c line 9: Newline in string
+wizards/walla/lemmings/rooms/shared/1stairs.c line 10: syntax error
+wizards/walla/lemmings/rooms/shared/1stairs.c line 9: Newline in string
+wizards/walla/lemmings/rooms/shared/1stairs.c line 10: syntax error
+wizards/walla/f_r_p.c line 22: function not defined by inheritance as specified
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+wizards/walla/lemmings/mobs/tb.c line 6: Illegal to redefine inherited variable 'name'
+wizards/walla/lemmings/mobs/bomber.c line 5: Illegal to redefine inherited variable 'name'
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+wizards/walla/jericho/mobs/uhrac.c line 41: Missing arguments to simul_efun command
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+wizards/walla/jericho/mobs/uhrac.c line 41: Missing arguments to simul_efun command
+wizards/walla/dl/monsters/poddrac2.c line 33: syntax error
+wizards/walla/dl/monsters/poddrac3.c line 33: syntax error
+wizards/walla/area/aija.c line 10: syntax error
+wizards/walla/area/aija.c line 11: syntax error
+wizards/walla/area/aija.c line 29: Too few arguments to clone_object
+wizards/walla/area/aija.c line 29: Illegal LHS
+wizards/walla/area/aija.c line 29: syntax error
+wizards/walla/area/aija.c line 33: Too few arguments to clone_object
+wizards/walla/area/monsters/uusleb.c line 10: syntax error
+wizards/walla/area/monsters/uusleb.c line 11: syntax error
+wizards/walla/area/monsters/uusleb.c line 29: Too few arguments to clone_object
+wizards/walla/area/monsters/uusleb.c line 29: Illegal LHS
+wizards/walla/area/monsters/uusleb.c line 29: syntax error
+wizards/walla/area/monsters/uusleb.c line 33: Too few arguments to clone_object
+wizards/walla/area/monsters/monsu.c line 4: syntax error
+wizards/walla/area/monsters/moko.c line 4: syntax error
+wizards/walla/area/monsters/sign.c line 25: syntax error
+wizards/walla/area/weapons/uusleb.c line 11: syntax error
+wizards/walla/area/weapons/uusleb.c line 12: syntax error
+wizards/walla/area/weapons/uusleb.c line 24: Newline in string
+wizards/walla/area/weapons/uusleb.c line 34: Too few arguments to clone_object
+wizards/walla/area/weapons/uusleb.c line 34: Illegal LHS
+wizards/walla/area/weapons/uusleb.c line 34: syntax error
+wizards/walla/area/weapons/lebi.c line 11: syntax error
+wizards/walla/area/weapons/lebi.c line 12: syntax error
+wizards/walla/area/weapons/lebi.c line 20: Newline in string
+wizards/walla/area/weapons/lebi.c line 30: Too few arguments to clone_object
+wizards/walla/area/weapons/lebi.c line 30: Illegal LHS
+wizards/walla/area/weapons/lebi.c line 30: syntax error
+wizards/walla/jerusalem/monsters/questarmanian.c line 9: Newline in string
+wizards/walla/jerusalem/monsters/questarmanian.c line 9: syntax error
+wizards/walla/jerusalem/monsters/questarmanian.c line 19: Illegal LHS
+wizards/walla/jerusalem/monsters/questarmanian.c line 19: syntax error
+wizards/walla/jerusalem/monsters/questarmanian.c line 27: Illegal LHS
+wizards/walla/jerusalem/monsters/questarmanian.c line 27: Illegal LHS
+wizards/walla/devil/kruik.c line 18: Variable str not declared !
+wizards/walla/devil/kruik.c line 18: syntax error
+wizards/walla/devil/kruik.c line 21: Variable str not declared !
+wizards/walla/devil/kruik.c line 23: Variable str not declared !
+wizards/walla/devil/kruik.c line 23: Variable tmp1 not declared !
+wizards/walla/devil/kruik.c line 23: Variable tmp2 not declared !
+wizards/walla/devil/kruik2.c line 18: Variable str not declared !
+wizards/walla/devil/kruik2.c line 18: syntax error
+wizards/walla/devil/kruik2.c line 21: Variable str not declared !
+wizards/walla/devil/kruik2.c line 23: Variable str not declared !
+wizards/walla/devil/kruik2.c line 23: Variable tmp1 not declared !
+wizards/walla/devil/kruik2.c line 23: Variable tmp2 not declared !
+wizards/walla/hujee/testi/hui.c line 35: Illegal character (hex 40) '@'
+wizards/walla/hujee/testi/hui.c line 35: syntax error
+wizards/walla/hujee/testi/hui.c line 35: Illegal character (hex 40) '@'
+wizards/walla/hujee/testi/hui.c line 35: Illegal character (hex 40) '@'
+wizards/walla/hujee/testi/hui.c line 35: Illegal character (hex 40) '@'
+wizards/walla/hujee/testi/hui.c line 35: Illegal character (hex 40) '@'
+wizards/walla/inv.c line 10: syntax error
+wizards/walla/lemmings/mobs/tb.c line 6: Illegal to redefine inherited variable 'name'
+wizards/walla/lemmings/mobs/tb2.c line 6: Illegal to redefine inherited variable 'name'
+wizards/walla/lemmings/mobs/bomber2.c line 5: Illegal to redefine inherited variable 'name'
+wizards/walla/lemmings/mobs/bomber.c line 5: Illegal to redefine inherited variable 'name'
+wizards/walla/lemmings/mobs/bomber.c line 5: Illegal to redefine inherited variable 'name'
+wizards/walla/hani.c line 31: syntax error
+wizards/walla/hani.c line 96: Too long ansi style string concatenation
+wizards/walla/hani.c line 97: Too long ansi style string concatenation
+wizards/walla/hani.c line 98: Too long ansi style string concatenation
+wizards/walla/hani.c line 99: Too long ansi style string concatenation
+wizards/walla/hani.c line 100: Too long ansi style string concatenation
+wizards/walla/peepseye/eq/objs/pepe2.c line 33: Variable str not declared !
+wizards/walla/peepseye/eq/objs/pepe2.c line 33: syntax error
+wizards/walla/peepseye/eq/objs/pepe2.c line 36: Variable str not declared !
+wizards/walla/peepseye/eq/objs/pepe2.c line 37: Variable str not declared !
+wizards/walla/peepseye/eq/objs/pepe2.c line 37: Variable giver not declared !
+wizards/walla/peepseye/eq/objs/pepe2.c line 37: Variable item not declared !
+wizards/walla/jericho/mobs/t2.c line 42: Missing arguments to simul_efun command
+wizards/walla/jericho/mobs/jennatest.c line 76: Variable i not declared !
+wizards/walla/jericho/mobs/jennatest.c line 76: Variable i not declared !
+wizards/walla/jericho/mobs/jennatest.c line 76: Variable i not declared !
+wizards/walla/jericho/mobs/jennatest.c line 77: Variable i not declared !
+wizards/walla/jericho/mobs/jennatest.c line 78: Variable i not declared !
+wizards/walla/jericho/mobs/uhrac.c line 41: Missing arguments to simul_efun command
+wizards/walla/jericho/mobs/towerguard2.c line 43: Missing arguments to simul_efun command
+wizards/walla/jericho/mobs/uhrac_2.c line 41: Missing arguments to simul_efun command
+wizards/walla/jericho/mobs/olduhrac.c line 41: Missing arguments to simul_efun command
+wizards/walla/dl/monsters/poddrac2.c line 33: syntax error
+wizards/walla/dl/monsters/poddrac3.c line 33: syntax error
+wizards/walla/area/aija.c line 10: syntax error
+wizards/walla/area/aija.c line 11: syntax error
+wizards/walla/area/aija.c line 29: Too few arguments to clone_object
+wizards/walla/area/aija.c line 29: Illegal LHS
+wizards/walla/area/aija.c line 29: syntax error
+wizards/walla/area/aija.c line 33: Too few arguments to clone_object
+wizards/walla/area/monsters/uusleb.c line 10: syntax error
+wizards/walla/area/monsters/uusleb.c line 11: syntax error
+wizards/walla/area/monsters/uusleb.c line 29: Too few arguments to clone_object
+wizards/walla/area/monsters/uusleb.c line 29: Illegal LHS
+wizards/walla/area/monsters/uusleb.c line 29: syntax error
+wizards/walla/area/monsters/uusleb.c line 33: Too few arguments to clone_object
+wizards/walla/area/monsters/monsu.c line 4: syntax error
+wizards/walla/area/monsters/moko.c line 4: syntax error
+wizards/walla/area/monsters/sign.c line 25: syntax error
+wizards/walla/area/weapons/uusleb.c line 11: syntax error
+wizards/walla/area/weapons/uusleb.c line 12: syntax error
+wizards/walla/area/weapons/uusleb.c line 24: Newline in string
+wizards/walla/area/weapons/uusleb.c line 34: Too few arguments to clone_object
+wizards/walla/area/weapons/uusleb.c line 34: Illegal LHS
+wizards/walla/area/weapons/uusleb.c line 34: syntax error
+wizards/walla/area/weapons/lebi.c line 11: syntax error
+wizards/walla/area/weapons/lebi.c line 12: syntax error
+wizards/walla/area/weapons/lebi.c line 20: Newline in string
+wizards/walla/area/weapons/lebi.c line 30: Too few arguments to clone_object
+wizards/walla/area/weapons/lebi.c line 30: Illegal LHS
+wizards/walla/area/weapons/lebi.c line 30: syntax error
+wizards/walla/jerusalem/monsters/questarmanian.c line 9: Newline in string
+wizards/walla/jerusalem/monsters/questarmanian.c line 9: syntax error
+wizards/walla/jerusalem/monsters/questarmanian.c line 19: Illegal LHS
+wizards/walla/jerusalem/monsters/questarmanian.c line 19: syntax error
+wizards/walla/jerusalem/monsters/questarmanian.c line 27: Illegal LHS
+wizards/walla/jerusalem/monsters/questarmanian.c line 27: Illegal LHS
+wizards/walla/devil/kruik.c line 18: Variable str not declared !
+wizards/walla/devil/kruik.c line 18: syntax error
+wizards/walla/devil/kruik.c line 21: Variable str not declared !
+wizards/walla/devil/kruik.c line 23: Variable str not declared !
+wizards/walla/devil/kruik.c line 23: Variable tmp1 not declared !
+wizards/walla/devil/kruik.c line 23: Variable tmp2 not declared !
+wizards/walla/devil/kruik2.c line 18: Variable str not declared !
+wizards/walla/devil/kruik2.c line 18: syntax error
+wizards/walla/devil/kruik2.c line 21: Variable str not declared !
+wizards/walla/devil/kruik2.c line 23: Variable str not declared !
+wizards/walla/devil/kruik2.c line 23: Variable tmp1 not declared !
+wizards/walla/devil/kruik2.c line 23: Variable tmp2 not declared !
+wizards/walla/hujee/testi/hui.c line 35: Illegal character (hex 40) '@'
+wizards/walla/hujee/testi/hui.c line 35: syntax error
+wizards/walla/hujee/testi/hui.c line 35: Illegal character (hex 40) '@'
+wizards/walla/hujee/testi/hui.c line 35: Illegal character (hex 40) '@'
+wizards/walla/hujee/testi/hui.c line 35: Illegal character (hex 40) '@'
+wizards/walla/hujee/testi/hui.c line 35: Illegal character (hex 40) '@'
+wizards/walla/inv.c line 10: syntax error
+wizards/walla/lemmings/mobs/tb.c line 6: Illegal to redefine inherited variable 'name'
+wizards/walla/lemmings/mobs/tb2.c line 6: Illegal to redefine inherited variable 'name'
+wizards/walla/lemmings/mobs/bomber2.c line 5: Illegal to redefine inherited variable 'name'
+wizards/walla/lemmings/mobs/bomber.c line 5: Illegal to redefine inherited variable 'name'
+wizards/walla/lemmings/mobs/bomber.c line 5: Illegal to redefine inherited variable 'name'
+wizards/walla/hani.c line 31: syntax error
+wizards/walla/hani.c line 96: Too long ansi style string concatenation
+wizards/walla/hani.c line 97: Too long ansi style string concatenation
+wizards/walla/hani.c line 98: Too long ansi style string concatenation
+wizards/walla/hani.c line 99: Too long ansi style string concatenation
+wizards/walla/hani.c line 100: Too long ansi style string concatenation
+wizards/walla/peepseye/eq/objs/pepe2.c line 33: Variable str not declared !
+wizards/walla/peepseye/eq/objs/pepe2.c line 33: syntax error
+wizards/walla/peepseye/eq/objs/pepe2.c line 36: Variable str not declared !
+wizards/walla/peepseye/eq/objs/pepe2.c line 37: Variable str not declared !
+wizards/walla/peepseye/eq/objs/pepe2.c line 37: Variable giver not declared !
+wizards/walla/peepseye/eq/objs/pepe2.c line 37: Variable item not declared !
+wizards/walla/jericho/mobs/jennatest.c line 76: Variable i not declared !
+wizards/walla/jericho/mobs/jennatest.c line 76: Variable i not declared !
+wizards/walla/jericho/mobs/jennatest.c line 76: Variable i not declared !
+wizards/walla/jericho/mobs/jennatest.c line 77: Variable i not declared !
+wizards/walla/jericho/mobs/jennatest.c line 78: Variable i not declared !
+wizards/walla/dl/monsters/poddrac2.c line 33: syntax error
+wizards/walla/dl/monsters/poddrac3.c line 33: syntax error
+wizards/walla/area/aija.c line 10: syntax error
+wizards/walla/area/aija.c line 11: syntax error
+wizards/walla/area/aija.c line 29: Too few arguments to clone_object
+wizards/walla/area/aija.c line 29: Illegal LHS
+wizards/walla/area/aija.c line 29: syntax error
+wizards/walla/area/aija.c line 33: Too few arguments to clone_object
+wizards/walla/area/monsters/uusleb.c line 10: syntax error
+wizards/walla/area/monsters/uusleb.c line 11: syntax error
+wizards/walla/area/monsters/uusleb.c line 29: Too few arguments to clone_object
+wizards/walla/area/monsters/uusleb.c line 29: Illegal LHS
+wizards/walla/area/monsters/uusleb.c line 29: syntax error
+wizards/walla/area/monsters/uusleb.c line 33: Too few arguments to clone_object
+wizards/walla/area/monsters/monsu.c line 4: syntax error
+wizards/walla/area/monsters/moko.c line 4: syntax error
+wizards/walla/area/monsters/sign.c line 25: syntax error
+wizards/walla/area/weapons/uusleb.c line 11: syntax error
+wizards/walla/area/weapons/uusleb.c line 12: syntax error
+wizards/walla/area/weapons/uusleb.c line 24: Newline in string
+wizards/walla/area/weapons/uusleb.c line 34: Too few arguments to clone_object
+wizards/walla/area/weapons/uusleb.c line 34: Illegal LHS
+wizards/walla/area/weapons/uusleb.c line 34: syntax error
+wizards/walla/area/weapons/lebi.c line 11: syntax error
+wizards/walla/area/weapons/lebi.c line 12: syntax error
+wizards/walla/area/weapons/lebi.c line 20: Newline in string
+wizards/walla/area/weapons/lebi.c line 30: Too few arguments to clone_object
+wizards/walla/area/weapons/lebi.c line 30: Illegal LHS
+wizards/walla/area/weapons/lebi.c line 30: syntax error
+wizards/walla/jerusalem/monsters/questarmanian.c line 9: Newline in string
+wizards/walla/jerusalem/monsters/questarmanian.c line 9: syntax error
+wizards/walla/jerusalem/monsters/questarmanian.c line 19: Illegal LHS
+wizards/walla/jerusalem/monsters/questarmanian.c line 19: syntax error
+wizards/walla/jerusalem/monsters/questarmanian.c line 27: Illegal LHS
+wizards/walla/jerusalem/monsters/questarmanian.c line 27: Illegal LHS
+wizards/walla/devil/kruik.c line 18: Variable str not declared !
+wizards/walla/devil/kruik.c line 18: syntax error
+wizards/walla/devil/kruik.c line 21: Variable str not declared !
+wizards/walla/devil/kruik.c line 23: Variable str not declared !
+wizards/walla/devil/kruik.c line 23: Variable tmp1 not declared !
+wizards/walla/devil/kruik.c line 23: Variable tmp2 not declared !
+wizards/walla/devil/kruik2.c line 18: Variable str not declared !
+wizards/walla/devil/kruik2.c line 18: syntax error
+wizards/walla/devil/kruik2.c line 21: Variable str not declared !
+wizards/walla/devil/kruik2.c line 23: Variable str not declared !
+wizards/walla/devil/kruik2.c line 23: Variable tmp1 not declared !
+wizards/walla/devil/kruik2.c line 23: Variable tmp2 not declared !
+wizards/walla/hujee/testi/hui.c line 35: Illegal character (hex 40) '@'
+wizards/walla/hujee/testi/hui.c line 35: syntax error
+wizards/walla/hujee/testi/hui.c line 35: Illegal character (hex 40) '@'
+wizards/walla/hujee/testi/hui.c line 35: Illegal character (hex 40) '@'
+wizards/walla/hujee/testi/hui.c line 35: Illegal character (hex 40) '@'
+wizards/walla/hujee/testi/hui.c line 35: Illegal character (hex 40) '@'
+wizards/walla/inv.c line 10: syntax error
+wizards/walla/lemmings/mobs/tb.c line 6: Illegal to redefine inherited variable 'name'
+wizards/walla/lemmings/mobs/tb2.c line 6: Illegal to redefine inherited variable 'name'
+wizards/walla/lemmings/mobs/bomber2.c line 5: Illegal to redefine inherited variable 'name'
+wizards/walla/lemmings/mobs/bomber.c line 5: Illegal to redefine inherited variable 'name'
+wizards/walla/lemmings/mobs/bomber.c line 5: Illegal to redefine inherited variable 'name'
+wizards/walla/hani.c line 31: syntax error
+wizards/walla/hani.c line 96: Too long ansi style string concatenation
+wizards/walla/hani.c line 97: Too long ansi style string concatenation
+wizards/walla/hani.c line 98: Too long ansi style string concatenation
+wizards/walla/hani.c line 99: Too long ansi style string concatenation
+wizards/walla/hani.c line 100: Too long ansi style string concatenation
+wizards/walla/peepseye/eq/objs/pepe2.c line 33: Variable str not declared !
+wizards/walla/peepseye/eq/objs/pepe2.c line 33: syntax error
+wizards/walla/peepseye/eq/objs/pepe2.c line 36: Variable str not declared !
+wizards/walla/peepseye/eq/objs/pepe2.c line 37: Variable str not declared !
+wizards/walla/peepseye/eq/objs/pepe2.c line 37: Variable giver not declared !
+wizards/walla/peepseye/eq/objs/pepe2.c line 37: Variable item not declared !
+wizards/walla/jericho/mobs/jennatest.c line 76: Variable i not declared !
+wizards/walla/jericho/mobs/jennatest.c line 76: Variable i not declared !
+wizards/walla/jericho/mobs/jennatest.c line 76: Variable i not declared !
+wizards/walla/jericho/mobs/jennatest.c line 77: Variable i not declared !
+wizards/walla/jericho/mobs/jennatest.c line 78: Variable i not declared !
+wizards/walla/dl/monsters/poddrac2.c line 33: syntax error
+wizards/walla/dl/monsters/poddrac3.c line 33: syntax error
+wizards/walla/area/aija.c line 10: syntax error
+wizards/walla/area/aija.c line 11: syntax error
+wizards/walla/area/aija.c line 29: Too few arguments to clone_object
+wizards/walla/area/aija.c line 29: Illegal LHS
+wizards/walla/area/aija.c line 29: syntax error
+wizards/walla/area/aija.c line 33: Too few arguments to clone_object
+wizards/walla/area/monsters/uusleb.c line 10: syntax error
+wizards/walla/area/monsters/uusleb.c line 11: syntax error
+wizards/walla/area/monsters/uusleb.c line 29: Too few arguments to clone_object
+wizards/walla/area/monsters/uusleb.c line 29: Illegal LHS
+wizards/walla/area/monsters/uusleb.c line 29: syntax error
+wizards/walla/area/monsters/uusleb.c line 33: Too few arguments to clone_object
+wizards/walla/area/monsters/monsu.c line 4: syntax error
+wizards/walla/area/monsters/moko.c line 4: syntax error
+wizards/walla/area/monsters/sign.c line 25: syntax error
+wizards/walla/area/weapons/uusleb.c line 11: syntax error
+wizards/walla/area/weapons/uusleb.c line 12: syntax error
+wizards/walla/area/weapons/uusleb.c line 24: Newline in string
+wizards/walla/area/weapons/uusleb.c line 34: Too few arguments to clone_object
+wizards/walla/area/weapons/uusleb.c line 34: Illegal LHS
+wizards/walla/area/weapons/uusleb.c line 34: syntax error
+wizards/walla/area/weapons/lebi.c line 11: syntax error
+wizards/walla/area/weapons/lebi.c line 12: syntax error
+wizards/walla/area/weapons/lebi.c line 20: Newline in string
+wizards/walla/area/weapons/lebi.c line 30: Too few arguments to clone_object
+wizards/walla/area/weapons/lebi.c line 30: Illegal LHS
+wizards/walla/area/weapons/lebi.c line 30: syntax error
+wizards/walla/jerusalem/monsters/questarmanian.c line 9: Newline in string
+wizards/walla/jerusalem/monsters/questarmanian.c line 9: syntax error
+wizards/walla/jerusalem/monsters/questarmanian.c line 19: Illegal LHS
+wizards/walla/jerusalem/monsters/questarmanian.c line 19: syntax error
+wizards/walla/jerusalem/monsters/questarmanian.c line 27: Illegal LHS
+wizards/walla/jerusalem/monsters/questarmanian.c line 27: Illegal LHS
+wizards/walla/devil/kruik.c line 18: Variable str not declared !
+wizards/walla/devil/kruik.c line 18: syntax error
+wizards/walla/devil/kruik.c line 21: Variable str not declared !
+wizards/walla/devil/kruik.c line 23: Variable str not declared !
+wizards/walla/devil/kruik.c line 23: Variable tmp1 not declared !
+wizards/walla/devil/kruik.c line 23: Variable tmp2 not declared !
+wizards/walla/devil/kruik2.c line 18: Variable str not declared !
+wizards/walla/devil/kruik2.c line 18: syntax error
+wizards/walla/devil/kruik2.c line 21: Variable str not declared !
+wizards/walla/devil/kruik2.c line 23: Variable str not declared !
+wizards/walla/devil/kruik2.c line 23: Variable tmp1 not declared !
+wizards/walla/devil/kruik2.c line 23: Variable tmp2 not declared !
+wizards/walla/hujee/testi/hui.c line 35: Illegal character (hex 40) '@'
+wizards/walla/hujee/testi/hui.c line 35: syntax error
+wizards/walla/hujee/testi/hui.c line 35: Illegal character (hex 40) '@'
+wizards/walla/hujee/testi/hui.c line 35: Illegal character (hex 40) '@'
+wizards/walla/hujee/testi/hui.c line 35: Illegal character (hex 40) '@'
+wizards/walla/hujee/testi/hui.c line 35: Illegal character (hex 40) '@'
+wizards/walla/inv.c line 10: syntax error
+wizards/walla/lemmings/mobs/tb.c line 6: Illegal to redefine inherited variable 'name'
+wizards/walla/lemmings/mobs/tb2.c line 6: Illegal to redefine inherited variable 'name'
+wizards/walla/lemmings/mobs/bomber2.c line 5: Illegal to redefine inherited variable 'name'
+wizards/walla/lemmings/mobs/bomber.c line 5: Illegal to redefine inherited variable 'name'
+wizards/walla/lemmings/mobs/bomber.c line 5: Illegal to redefine inherited variable 'name'
+wizards/walla/hani.c line 31: syntax error
+wizards/walla/hani.c line 96: Too long ansi style string concatenation
+wizards/walla/hani.c line 97: Too long ansi style string concatenation
+wizards/walla/hani.c line 98: Too long ansi style string concatenation
+wizards/walla/hani.c line 99: Too long ansi style string concatenation
+wizards/walla/hani.c line 100: Too long ansi style string concatenation
+wizards/walla/peepseye/eq/objs/pepe2.c line 33: Variable str not declared !
+wizards/walla/peepseye/eq/objs/pepe2.c line 33: syntax error
+wizards/walla/peepseye/eq/objs/pepe2.c line 36: Variable str not declared !
+wizards/walla/peepseye/eq/objs/pepe2.c line 37: Variable str not declared !
+wizards/walla/peepseye/eq/objs/pepe2.c line 37: Variable giver not declared !
+wizards/walla/peepseye/eq/objs/pepe2.c line 37: Variable item not declared !
+wizards/walla/jericho/mobs/jennatest.c line 76: Variable i not declared !
+wizards/walla/jericho/mobs/jennatest.c line 76: Variable i not declared !
+wizards/walla/jericho/mobs/jennatest.c line 76: Variable i not declared !
+wizards/walla/jericho/mobs/jennatest.c line 77: Variable i not declared !
+wizards/walla/jericho/mobs/jennatest.c line 78: Variable i not declared !
+wizards/walla/eval_file.c line 2: Too many arguments to environment
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+Tue Dec 27 23:33:51 2005 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng2#18087, 45) killed by Ntg (270) 
+Tue Dec 27 23:36:19 2005 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng3#18213, 45) killed by Ntg (270) 
+Tue Dec 27 23:38:31 2005 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng5#18283, 45) killed by Ntg (270) 
+Tue Dec 27 23:41:09 2005 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng4#18378, 45) killed by Ntg (270) 
+Tue Dec 27 23:43:32 2005 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng1#18357, 45) killed by Ntg (270) 
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+Wed Jan 25 16:26:12 2006 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng2#428, 45) killed by Kaappi (313) 
+wizards/walla/jericho/mobs/uhrac.c line 41: Missing arguments to simul_efun command
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+wizards/walla/jericho/mobs/uhrac.c line 41: Missing arguments to simul_efun command
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+wizards/walla/jericho/mobs/uhrac.c line 41: Missing arguments to simul_efun command
+wizards/walla/jericho/rooms/mcellar/c4.c line 12: Missing arguments to simul_efun command
+wizards/walla/jericho/rooms/mcellar/10.c line 13: Missing arguments to simul_efun command
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+wizards/walla/jericho/mobs/t2.c line 42: Missing arguments to simul_efun command
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+wizards/walla/cmds/_fzap.c line 32: syntax error
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+wizards/walla/machine.c line 11: Variable belt not declared !
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+wizards/walla/jericho/mobs/uhrac.c line 41: Missing arguments to simul_efun command
+wizards/walla/jericho/mobs/towerguard2.c line 43: Missing arguments to simul_efun command
+wizards/walla/jericho/mobs/t2.c line 42: Missing arguments to simul_efun command
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+wizards/walla/jericho/mobs/uhrac.c line 41: Missing arguments to simul_efun command
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+wizards/walla/jericho/mobs/uhrac.c line 41: Missing arguments to simul_efun command
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+wizards/walla/jericho/mobs/uhrac.c line 41: Missing arguments to simul_efun command
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+wizards/walla/jericho/mobs/uhrac.c line 41: Missing arguments to simul_efun command
+Sun Dec 23 21:58:23 2007 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng1#41875, 45) killed by Bloodstorm (286) 
+Sun Dec 23 22:00:45 2007 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng5#45779, 45) killed by Bloodstorm (286) 
+Sun Dec 23 22:03:35 2007 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng3#48795, 45) killed by Bloodstorm (286) 
+Sun Dec 23 22:05:57 2007 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng4#50554, 45) killed by Bloodstorm (286) 
+Sun Dec 23 22:08:58 2007 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng2#53156, 45) killed by Bloodstorm (286) 
+Sun Dec 23 22:38:06 2007 Leb Kamar, evil warlord of Jericho (strong) (/wizards/walla/jericho/mobs/leb#63526, 78) killed by Bloodstorm (286) 
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+wizards/walla/jericho/mobs/uhrac.c line 41: Missing arguments to simul_efun command
+Mon Jan 14 02:04:19 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng4#389683, 45) killed by Devil (223) 
+Mon Jan 14 02:08:29 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng3#389840, 45) killed by Devil (223) 
+Mon Jan 14 02:14:06 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng2#389982, 45) killed by Devil (223) 
+Mon Jan 14 02:21:58 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng5#390141, 45) killed by Devil (223) 
+Mon Jan 14 02:24:18 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng1#390379, 45) killed by Devil (223) 
+Mon Jan 14 03:28:59 2008 Leb Kamar, evil warlord of Jericho (strong) (/wizards/walla/jericho/mobs/leb#391101, 85) killed by Devil (223) 
+Sat Jan 26 20:45:51 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng4#31239, 45) killed by Alardolath (243) 
+Sat Jan 26 20:47:11 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng3#31320, 45) killed by Alardolath (243) 
+Sat Jan 26 20:49:35 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng2#31408, 45) killed by Alardolath (243) 
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+wizards/walla/jericho/mobs/uhrac.c line 41: Missing arguments to simul_efun command
+Sat Jan 26 21:27:54 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng5#32451, 45) killed by Madk (123) 
+Sat Jan 26 21:30:30 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng1#32520, 45) killed by Alardolath (243) 
+Sat Jan 26 22:55:18 2008 Leb Kamar, evil warlord of Jericho (strong) (/wizards/walla/jericho/mobs/leb#34772, 80) killed by Alardolath (243) 
+Sun Jan 27 10:46:40 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng2#6220, 45) killed by Alardolath (243) 
+Sun Jan 27 10:47:50 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng4#6300, 45) killed by Alardolath (243) 
+Sun Jan 27 10:50:02 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng3#6379, 45) killed by Alardolath (243) 
+Sun Jan 27 10:51:20 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng5#6434, 45) killed by Alardolath (243) 
+Sun Jan 27 10:53:02 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng1#6469, 45) killed by Alardolath (243) 
+Sun Jan 27 11:19:05 2008 Leb Kamar, evil warlord of Jericho (strong) (/wizards/walla/jericho/mobs/leb#7163, 78) killed by Alardolath (243) 
+Fri Feb 15 11:14:47 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng2#8593, 45) killed by Olsma (229) 
+Fri Feb 15 11:17:34 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng1#8885, 45) killed by Olsma (229) 
+Fri Feb 15 11:19:26 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng5#9003, 45) killed by Olsma (229) 
+Fri Feb 15 11:21:42 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng4#9150, 45) killed by Olsma (229) 
+Fri Feb 15 11:24:42 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng3#9349, 45) killed by Olsma (229) 
+Fri Feb 15 16:01:18 2008 Leb Kamar, evil warlord of Jericho (strong) (/wizards/walla/jericho/mobs/leb#28297, 82) killed by Olsma (229) 
+Sat Feb 23 13:45:23 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng2#23261, 45) killed by Celes (251) 
+Sat Feb 23 13:46:37 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng5#23354, 45) killed by Celes (251) 
+Sat Feb 23 13:47:45 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng3#23402, 45) killed by Celes (251) 
+Sat Feb 23 13:48:45 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng4#23443, 45) killed by Celes (251) 
+Sat Feb 23 13:50:13 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng1#23597, 45) killed by Celes (251) 
+Sat Feb 23 14:16:51 2008 Leb Kamar, evil warlord of Jericho (strong) (/wizards/walla/jericho/mobs/leb#24297, 87) killed by Golthar (68) 
+wizards/walla/jericho/mobs/uhrac_2.c line 41: Missing arguments to simul_efun command
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+Sun Feb 24 16:27:13 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng1#25211, 45) killed by Ntg (243) 
+Sun Feb 24 16:29:09 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng5#24678, 45) killed by Ntg (243) 
+Sun Feb 24 16:31:01 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng2#25750, 45) killed by Ntg (243) 
+Sun Feb 24 16:33:03 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng4#25971, 45) killed by Ntg (243) 
+Sun Feb 24 16:34:57 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng3#26154, 45) killed by Ntg (243) 
+Sun Feb 24 20:12:42 2008 Leb Kamar, evil warlord of Jericho (strong) (/wizards/walla/jericho/mobs/leb#43197, 85) killed by Ntg (243) 
+Mon Feb 25 21:09:44 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng1#44775, 45) killed by Ntg (243) 
+Mon Feb 25 21:11:20 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng4#44881, 45) killed by Ntg (243) 
+Mon Feb 25 21:13:17 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng3#45005, 45) killed by Ntg (243) 
+Mon Feb 25 21:15:03 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng5#45113, 45) killed by Ntg (243) 
+Mon Feb 25 21:16:37 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng2#45218, 45) killed by Ntg (243) 
+Mon Feb 25 22:29:32 2008 Leb Kamar, evil warlord of Jericho (strong) (/wizards/walla/jericho/mobs/leb#46576, 87) killed by Ntg (243) 
+Mon Mar 03 17:49:26 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng2#16038, 45) killed by Alardolath (249) 
+Mon Mar 03 17:51:20 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng4#16330, 45) killed by Alardolath (249) 
+Mon Mar 03 17:53:36 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng3#16435, 45) killed by Alardolath (249) 
+Mon Mar 03 17:55:46 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng5#16587, 45) killed by Alardolath (249) 
+Mon Mar 03 18:01:02 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng1#16728, 45) killed by Alardolath (249) 
+Mon Mar 03 18:24:05 2008 Leb Kamar, evil warlord of Jericho (strong) (/wizards/walla/jericho/mobs/leb#17974, 77) killed by Alardolath (249) 
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+Fri Mar 07 13:24:35 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng2#16283, 45) killed by Alardolath (249) 
+Fri Mar 07 13:28:39 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng4#16567, 45) killed by Alardolath (249) 
+Fri Mar 07 13:30:07 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng3#16697, 45) killed by Alardolath (249) 
+Fri Mar 07 13:31:53 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng5#16852, 45) killed by Alardolath (249) 
+Fri Mar 07 13:33:27 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng1#17010, 45) killed by Alardolath (249) 
+Fri Mar 07 13:56:34 2008 Leb Kamar, evil warlord of Jericho (strong) (/wizards/walla/jericho/mobs/leb#18227, 78) killed by Alardolath (249) 
+Sat Mar 08 09:35:16 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng2#5182, 45) killed by Alardolath (250) 
+Sat Mar 08 09:36:34 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng4#5321, 45) killed by Alardolath (250) 
+Sat Mar 08 09:37:40 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng3#5385, 45) killed by Alardolath (250) 
+Sat Mar 08 09:38:48 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng5#5445, 45) killed by Alardolath (250) 
+Sat Mar 08 09:41:02 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng1#5526, 45) killed by Alardolath (250) 
+Sat Mar 08 09:56:34 2008 Leb Kamar, evil warlord of Jericho (strong) (/wizards/walla/jericho/mobs/leb#6265, 77) killed by Alardolath (250) 
+Sat Apr 05 16:46:25 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng1#17644, 45) killed by Ntg (291) 
+Sat Apr 05 16:48:07 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng4#17767, 45) killed by Ntg (291) 
+Sat Apr 05 16:49:29 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng3#17844, 45) killed by Ntg (291) 
+Sat Apr 05 16:51:09 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng5#17898, 45) killed by Ntg (291) 
+Sat Apr 05 16:52:51 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng2#18008, 45) killed by Ntg (291) 
+Sat Apr 05 19:28:21 2008 Leb Kamar, evil warlord of Jericho (strong) (/wizards/walla/jericho/mobs/leb#19363, 77) killed by Ntg (291) 
+wizards/walla/f_r_p.c line 22: function not defined by inheritance as specified
+Fri May 02 19:33:38 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng2#15681, 45) killed by Golthar (347) 
+Fri May 02 19:37:42 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng4#15732, 45) killed by Golthar (347) 
+Fri May 02 19:40:29 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng3#15792, 45) killed by Golthar (347) 
+Fri May 02 19:42:07 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng5#15830, 45) killed by Golthar (347) 
+Fri May 02 19:43:43 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng1#15873, 45) killed by Golthar (347) 
+Fri May 02 20:34:18 2008 Leb Kamar, evil warlord of Jericho (strong) (/wizards/walla/jericho/mobs/leb#16209, 87) killed by Golthar (347) 
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+Thu May 22 15:23:56 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng1#10380, 45) killed by Olsma (230) 
+Thu May 22 15:25:24 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng5#10454, 45) killed by Olsma (230) 
+Thu May 22 15:27:20 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng2#10530, 45) killed by Olsma (230) 
+Thu May 22 15:29:08 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng3#10643, 45) killed by Olsma (230) 
+Thu May 22 15:31:02 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng4#10753, 45) killed by Olsma (230) 
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+wizards/walla/jericho/mobs/towerguard2.c line 43: Missing arguments to simul_efun command
+Thu Aug 14 22:45:47 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng2#18920, 45) killed by Alardolath (267) 
+Thu Aug 14 22:46:55 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng4#18969, 45) killed by Alardolath (267) 
+Thu Aug 14 22:47:39 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng3#19020, 45) killed by Alardolath (267) 
+Thu Aug 14 22:48:47 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng5#19073, 45) killed by Alardolath (267) 
+Thu Aug 14 22:50:03 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng1#19139, 45) killed by Alardolath (267) 
+Thu Aug 14 23:02:57 2008 Leb Kamar, evil warlord of Jericho (strong) (/wizards/walla/jericho/mobs/leb#19867, 82) killed by Alardolath (267) 
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+Sat Sep 13 01:14:10 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng1#80378, 45) killed by Ntg (387) 
+Sat Sep 13 01:15:26 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng4#80493, 45) killed by Ntg (387) 
+Sat Sep 13 01:19:40 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng3#80526, 45) killed by Ntg (387) 
+Sat Sep 13 01:21:12 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng5#80671, 45) killed by Ntg (387) 
+Sat Sep 13 01:22:22 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng2#80711, 45) killed by Ntg (387) 
+Sat Sep 13 02:04:23 2008 Leb Kamar, evil warlord of Jericho (strong) (/wizards/walla/jericho/mobs/leb#81174, 85) killed by Ntg (387) 
+Sat Sep 13 21:21:16 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng1#42410, 45) killed by Ntg (388) 
+Sat Sep 13 21:22:24 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng4#42514, 45) killed by Ntg (388) 
+Sat Sep 13 21:23:26 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng3#42592, 45) killed by Ntg (388) 
+Sat Sep 13 21:24:52 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng5#42680, 45) killed by Ntg (388) 
+Sat Sep 13 21:25:40 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng2#42747, 45) killed by Ntg (388) 
+Sat Sep 13 21:42:56 2008 Leb Kamar, evil warlord of Jericho (strong) (/wizards/walla/jericho/mobs/leb#43455, 84) killed by Atw (191) 
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+Sat Nov 08 13:45:28 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng2#3055, 45) killed by Ntg (400) 
+Sat Nov 08 13:46:36 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng4#3098, 45) killed by Ntg (400) 
+Sat Nov 08 13:48:02 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng3#3135, 45) killed by Ntg (400) 
+Sat Nov 08 13:49:48 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng5#3244, 45) killed by Ntg (400) 
+Sat Nov 08 13:51:04 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng1#3316, 45) killed by Ntg (400) 
+Sat Nov 08 14:14:01 2008 Leb Kamar, evil warlord of Jericho (strong) (/wizards/walla/jericho/mobs/leb#4004, 80) killed by Ntg (400) 
+wizards/walla/test/elukat.c line 2: Cannot #include '../path.h'
+wizards/walla/test/elukat.c line 32: Variable AREA_PATH not declared !
+wizards/walla/test/elukat.c line 32: syntax error
+wizards/walla/test/elukat.c line 37: syntax error
+wizards/walla/test/elukat.c line 57: Illegal LHS
+wizards/walla/test/elukat.c line 59: syntax error
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+Tue Dec 30 12:32:59 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng4#7157, 45) killed by Laeh (241) 
+Tue Dec 30 12:36:51 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng3#7320, 45) killed by Laeh (241) 
+Tue Dec 30 12:41:39 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng2#7432, 45) killed by Laeh (241) 
+Tue Dec 30 12:47:51 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng5#7594, 45) killed by Laeh (241) 
+Tue Dec 30 12:53:05 2008 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng1#7855, 45) killed by Laeh (241) 
+Fri Jan 23 11:17:32 2009 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng4#10966, 45) killed by Laeh (258) 
+Fri Jan 23 11:20:50 2009 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng3#11211, 45) killed by Laeh (258) 
+Fri Jan 23 11:24:38 2009 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng2#11375, 45) killed by Laeh (258) 
+Fri Jan 23 11:30:16 2009 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng5#11539, 45) killed by Laeh (258) 
+Fri Jan 23 11:36:16 2009 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng1#11793, 45) killed by Laeh (258) 
+Fri Jan 23 12:40:36 2009 Leb Kamar, evil warlord of Jericho (strong) (/wizards/walla/jericho/mobs/leb#13057, 84) killed by Laeh (258) 
+Sun Feb 01 19:19:24 2009 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng1#44984, 45) killed by Terror (216) 
+Sun Feb 01 19:21:16 2009 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng5#45302, 45) killed by Terror (216) 
+Sun Feb 01 19:24:22 2009 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng3#45430, 45) killed by Terror (216) 
+Sun Feb 01 19:27:26 2009 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng4#45623, 45) killed by Terror (216) 
+Sun Feb 01 19:30:31 2009 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng2#45754, 45) killed by Terror (216) 
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+Mon Feb 02 16:36:59 2009 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng1#20513, 45) killed by Terror (223) 
+Mon Feb 02 16:39:19 2009 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng5#20634, 45) killed by Terror (223) 
+Mon Feb 02 16:53:24 2009 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng3#20744, 45) killed by Terror (223) 
+Mon Feb 02 16:57:04 2009 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng4#21464, 45) killed by Terror (223) 
+Mon Feb 02 17:00:24 2009 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng2#21674, 45) killed by Terror (223) 
+Mon Feb 02 21:58:13 2009 Leb Kamar, evil warlord of Jericho (strong) (/wizards/walla/jericho/mobs/leb#33135, 81) killed by Terror (223) 
+Sat Feb 07 01:52:35 2009 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng1#17711, 45) killed by Reaper (209) 
+Sat Feb 07 01:53:53 2009 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng5#17762, 45) killed by Reaper (209) 
+Sat Feb 07 01:55:35 2009 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng3#17808, 45) killed by Reaper (209) 
+Sat Feb 07 01:56:57 2009 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng4#17858, 45) killed by Reaper (209) 
+Sat Feb 07 01:58:15 2009 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng2#17899, 45) killed by Reaper (209) 
+Sat Feb 07 02:31:50 2009 Leb Kamar, evil warlord of Jericho (strong) (/wizards/walla/jericho/mobs/leb#18208, 82) killed by Reaper (209) 
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+Tue Jan 12 18:11:22 2010 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng1#1087, 45) killed by Ntg (558) 
+Tue Jan 12 18:12:36 2010 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng4#1124, 45) killed by Ntg (558) 
+Tue Jan 12 18:14:04 2010 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng3#1155, 45) killed by Ntg (558) 
+Tue Jan 12 18:15:30 2010 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng5#1193, 45) killed by Ntg (558) 
+Tue Jan 12 18:18:12 2010 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng2#1228, 45) killed by Ntg (558) 
+Tue Jan 12 18:56:17 2010 Leb Kamar, evil warlord of Jericho (strong) (/wizards/walla/jericho/mobs/leb#1582, 85) killed by Ntg (558) 
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+Sun Oct 24 13:56:45 2010 A nightgaunt (undead)(strong) (/wizards/walla/jericho/mobs/ng2#13851, 45) killed by Ntg (558) 
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+wizards/walla/workroom.c line 38: Missing 'return <value>' statement
+wizards/walla/workroom.c line 66: Missing arguments to simul_efun filter_array
+wizards/walla/workroom.c line 67: Missing arguments to simul_efun filter_array
+wizards/walla/workroom.c line 38: Missing 'return <value>' statement
+wizards/walla/workroom.c line 66: Missing arguments to simul_efun filter_array
+wizards/walla/workroom.c line 67: Missing arguments to simul_efun filter_array
+wizards/walla/workroom.c line 38: Missing 'return <value>' statement
+wizards/walla/workroom.c line 66: Missing arguments to simul_efun filter_array
+wizards/walla/workroom.c line 67: Missing arguments to simul_efun filter_array
+wizards/walla/workroom.c line 38: Missing 'return <value>' statement
+wizards/walla/workroom.c line 66: Missing arguments to simul_efun filter_array
+wizards/walla/workroom.c line 67: Missing arguments to simul_efun filter_array
+wizards/walla/workroom.c line 38: Missing 'return <value>' statement
+wizards/walla/workroom.c line 66: Missing arguments to simul_efun filter_array
+wizards/walla/workroom.c line 67: Missing arguments to simul_efun filter_array
+wizards/walla/workroom.c line 38: Missing 'return <value>' statement
+wizards/walla/workroom.c line 66: Missing arguments to simul_efun filter_array
+wizards/walla/workroom.c line 67: Missing arguments to simul_efun filter_array
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+wizards/walla/jericho/rooms/mcellar/1.c line 12: Missing arguments to simul_efun command
+wizards/walla/workroom.c line 38: Missing 'return <value>' statement
+wizards/walla/workroom.c line 66: Missing arguments to simul_efun filter_array
+wizards/walla/workroom.c line 67: Missing arguments to simul_efun filter_array
+wizards/walla/w2.c line 54: Missing arguments to simul_efun filter_array
+wizards/walla/workroom.c line 38: Missing 'return <value>' statement
+wizards/walla/workroom.c line 66: Missing arguments to simul_efun filter_array
+wizards/walla/workroom.c line 67: Missing arguments to simul_efun filter_array
+wizards/walla/w2.c line 54: Missing arguments to simul_efun filter_array

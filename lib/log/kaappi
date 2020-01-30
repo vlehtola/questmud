@@ -1,0 +1,1258 @@
+wizards/kaappi/workroom.c line 13: Newline in string
+wizards/kaappi/workroom.c line 15: syntax error
+wizards/kaappi/workroom.c line 15: Illegal LHS
+wizards/kaappi/workroom.c line 13: Newline in string
+wizards/kaappi/workroom.c line 15: syntax error
+wizards/kaappi/workroom.c line 15: Illegal LHS
+wizards/kaappi/mine/r1.c line 20: syntax error
+wizards/kaappi/mine/r1.c line 20: syntax error
+wizards/kaappi/mine/r1.c line 20: syntax error
+wizards/kaappi/mine/r1.c line 18: syntax error
+wizards/kaappi/mine/r1.c line 18: syntax error
+wizards/kaappi/mine/r1.c line 18: syntax error
+wizards/kaappi/mine/r1.c line 18: syntax error
+wizards/kaappi/mine/r1.c line 18: syntax error
+wizards/kaappi/mine/r1.c line 18: syntax error
+wizards/kaappi/mine/r1.c line 18: syntax error
+wizards/kaappi/mine/r1.c line 18: syntax error
+wizards/kaappi/mine/r1.c line 18: syntax error
+wizards/kaappi/mine/r1.c line 5: Variable monster not declared !
+wizards/kaappi/mine/r1.c line 6: Variable monster not declared !
+wizards/kaappi/mine/r1.c line 7: Variable monster not declared !
+wizards/kaappi/mine/r1.c line 18: syntax error
+wizards/kaappi/mine/r1.c line 5: Variable monster not declared !
+wizards/kaappi/mine/r1.c line 6: Variable monster not declared !
+wizards/kaappi/mine/r1.c line 7: Variable monster not declared !
+wizards/kaappi/mine/r1.c line 18: syntax error
+wizards/kaappi/mine/r1.c line 6: syntax error
+wizards/kaappi/mine/entrance.c line 27: syntax error
+wizards/kaappi/mine/entrance.c line 29: Newline in string
+wizards/kaappi/mine/entrance.c line 30: syntax error
+wizards/kaappi/mine/entrance.c line 27: Illegal to define variable 'init' as type 'void'
+wizards/kaappi/mine/entrance.c line 27: syntax error
+wizards/kaappi/mine/entrance.c line 29: Newline in string
+wizards/kaappi/mine/entrance.c line 30: syntax error
+wizards/kaappi/mine/entrance.c line 27: Illegal to define variable 'init' as type 'void'
+wizards/kaappi/mine/entrance.c line 27: syntax error
+wizards/kaappi/mine/entrance.c line 29: Newline in string
+wizards/kaappi/mine/entrance.c line 30: syntax error
+wizards/kaappi/mine/entrance.c line 27: syntax error
+wizards/kaappi/mine/entrance.c line 29: Newline in string
+wizards/kaappi/mine/entrance.c line 30: syntax error
+wizards/kaappi/mine/entrance.c line 27: syntax error
+wizards/kaappi/mine/entrance.c line 29: Newline in string
+wizards/kaappi/mine/entrance.c line 30: syntax error
+wizards/kaappi/mine/entrance.c line 27: syntax error
+wizards/kaappi/mine/entrance.c line 29: Newline in string
+wizards/kaappi/mine/entrance.c line 30: syntax error
+wizards/kaappi/mine/entrance.c line 27: syntax error
+wizards/kaappi/mine/entrance.c line 29: Newline in string
+wizards/kaappi/mine/entrance.c line 30: syntax error
+wizards/kaappi/mine/entrance.c line 27: syntax error
+wizards/kaappi/mine/entrance.c line 29: Newline in string
+wizards/kaappi/mine/entrance.c line 30: syntax error
+wizards/kaappi/mine/entrance.c line 27: syntax error
+wizards/kaappi/mine/entrance.c line 29: Newline in string
+wizards/kaappi/mine/entrance.c line 30: syntax error
+wizards/kaappi/mine/entrance.c line 27: syntax error
+wizards/kaappi/mine/entrance.c line 29: syntax error
+wizards/kaappi/mine/entrance.c line 27: syntax error
+wizards/kaappi/mine/entrance.c line 29: syntax error
+wizards/kaappi/mine/entrance.c line 27: syntax error
+wizards/kaappi/mine/entrance.c line 29: syntax error
+wizards/kaappi/mine/entrance.c line 27: syntax error
+wizards/kaappi/mine/entrance.c line 29: syntax error
+wizards/kaappi/mine/entrance.c line 27: syntax error
+wizards/kaappi/mine/entrance.c line 29: syntax error
+wizards/kaappi/mine/entrance.c line 27: syntax error
+wizards/kaappi/mine/entrance.c line 29: syntax error
+wizards/kaappi/mine/entrance.c line 27: syntax error
+wizards/kaappi/mine/entrance.c line 29: syntax error
+wizards/kaappi/mine/entrance.c line 27: syntax error
+wizards/kaappi/mine/entrance.c line 29: syntax error
+wizards/kaappi/mine/entrance.c line 27: syntax error
+wizards/kaappi/mine/entrance.c line 30: syntax error
+wizards/kaappi/mine/entrance.c line 27: syntax error
+wizards/kaappi/mine/entrance.c line 30: syntax error
+wizards/kaappi/mine/entrance.c line 27: syntax error
+wizards/kaappi/mine/entrance.c line 30: syntax error
+wizards/kaappi/mine/entrance.c line 27: syntax error
+wizards/kaappi/mine/entrance.c line 29: syntax error
+wizards/kaappi/mine/entrance.c line 27: syntax error
+wizards/kaappi/mine/entrance.c line 29: syntax error
+wizards/kaappi/mine/entrance.c line 27: syntax error
+wizards/kaappi/mine/entrance.c line 29: syntax error
+wizards/kaappi/mine/entrance.c line 27: syntax error
+wizards/kaappi/mine/entrance.c line 29: syntax error
+wizards/kaappi/mine/entrance.c line 27: syntax error
+wizards/kaappi/mine/entrance.c line 29: syntax error
+wizards/kaappi/mine/entrance.c line 33: syntax error
+wizards/kaappi/mine/entrance.c line 27: syntax error
+wizards/kaappi/mine/entrance.c line 29: syntax error
+wizards/kaappi/mine/entrance.c line 27: syntax error
+wizards/kaappi/mine/entrance.c line 29: syntax error
+wizards/kaappi/mine/entrance.c line 27: syntax error
+wizards/kaappi/mine/entrance.c line 29: syntax error
+wizards/kaappi/mine/entrance.c line 27: syntax error
+wizards/kaappi/mine/entrance.c line 29: syntax error
+wizards/kaappi/mine/entrance.c line 30: syntax error
+wizards/kaappi/mine/mosat/guard.c line 26: syntax error
+wizards/kaappi/mine/mosat/guard.c line 5: syntax error
+wizards/kaappi/mine/mosat/ydwarf.c line 11: syntax error
+wizards/kaappi/mine/mosat/ydwarf.c line 11: syntax error
+wizards/kaappi/mine/mosat/ydwarf.c line 11: syntax error
+wizards/kaappi/mine/mosat/ydwarf.c line 11: syntax error
+wizards/kaappi/mine/r16.c line 12: syntax error
+wizards/kaappi/mine/r16.c line 12: syntax error
+wizards/kaappi/mine/r16.c line 5: Newline in string
+wizards/kaappi/mine/r16.c line 6: syntax error
+wizards/kaappi/mine/mosat/guard.c line 13: syntax error
+wizards/kaappi/mine/mosat/guard.c line 13: syntax error
+wizards/kaappi/mine/kamat/plate.c line 8: syntax error
+wizards/kaappi/mine/kamat/plate.c line 8: syntax error
+wizards/kaappi/mine/kamat/gaxe.c line 9: syntax error
+wizards/kaappi/mine/r2.c line 3: syntax error
+wizards/kaappi/mine/r2.c line 17: syntax error
+wizards/kaappi/mine/golem1.c line 17: syntax error
+wizards/kaappi/mine/kamat/vaunu.c line 23: Variable items not declared !
+wizards/kaappi/mine/kamat/vaunu.c line 24: Variable items not declared !
+wizards/kaappi/mine/kamat/vaunu.c line 25: Variable items not declared !
+wizards/kaappi/mine/kamat/vaunu.c line 12: Unrecognized inheritance modifier 'look'
+wizards/kaappi/mine/kamat/vaunu.c line 12: Unrecognized inheritance modifier 'at'
+wizards/kaappi/mine/kamat/vaunu.c line 12: syntax error
+wizards/kaappi/mine/kamat/vaunu.c line 15: syntax error
+wizards/kaappi/mine/kamat/vaunu.c line 18: Too few arguments to write
+wizards/kaappi/mine/kamat/vaunu.c line 25: syntax error
+wizards/kaappi/mine/kamat/vaunu.c line 23: Variable items not declared !
+wizards/kaappi/mine/kamat/vaunu.c line 24: Variable items not declared !
+wizards/kaappi/mine/kamat/vaunu.c line 25: syntax error
+wizards/kaappi/mine/kamat/vaunu.c line 25: Illegal LHS
+wizards/kaappi/mine/kamat/vaunu.c line 23: Variable items not declared !
+wizards/kaappi/mine/kamat/vaunu.c line 24: Variable items not declared !
+wizards/kaappi/mine/kamat/vaunu.c line 25: syntax error
+wizards/kaappi/mine/kamat/vaunu.c line 25: Illegal LHS
+wizards/kaappi/mine/kamat/vaunu.c line 7: Redeclaration of function id.
+wizards/kaappi/mine/kamat/vaunu.c line 1: Missing type
+wizards/kaappi/mine/kamat/vaunu.c line 24: Redeclaration of function id.
+wizards/kaappi/mine/kamat/vaunu.c line 27: Redeclaration of function long.
+wizards/kaappi/mine/kamat/vaunu.c line 30: syntax error
+wizards/kaappi/mine/kamat/vaunu.c line 24: Redeclaration of function id.
+wizards/kaappi/mine/kamat/vaunu.c line 27: Redeclaration of function long.
+wizards/kaappi/mine/kamat/vaunu.c line 11: Unrecognized inheritance modifier 'look'
+wizards/kaappi/mine/kamat/vaunu.c line 11: Unrecognized inheritance modifier 'at'
+wizards/kaappi/mine/kamat/vaunu.c line 11: syntax error
+wizards/kaappi/mine/kamat/vaunu.c line 16: syntax error
+wizards/kaappi/mine/kamat/vaunu.c line 19: Too few arguments to write
+wizards/kaappi/mine/kamat/vaunu.c line 22: syntax error
+wizards/kaappi/mine/kamat/vaunu.c line 15: syntax error
+wizards/kaappi/mine/kamat/vaunu.c line 18: Too few arguments to write
+wizards/kaappi/mine/kamat/vaunu.c line 21: syntax error
+wizards/kaappi/mine/kamat/vaunu.c line 15: syntax error
+wizards/kaappi/mine/kamat/vaunu.c line 18: Too few arguments to write
+wizards/kaappi/mine/kamat/vaunu.c line 21: syntax error
+wizards/kaappi/mine/kamat/vaunu.c line 15: syntax error
+wizards/kaappi/mine/kamat/vaunu.c line 21: syntax error
+wizards/kaappi/mine/kamat/vaunu.c line 14: syntax error
+wizards/kaappi/mine/kamat/vaunu.c line 24: syntax error
+wizards/kaappi/mine/kamat/vaunu.c line 14: syntax error
+wizards/kaappi/mine/kamat/vaunu.c line 24: syntax error
+wizards/kaappi/mine/kamat/vaunu.c line 5: syntax error
+wizards/kaappi/mine/kamat/vaunu.c line 12: Variable retrun not declared !
+wizards/kaappi/mine/kamat/vaunu.c line 12: syntax error
+wizards/kaappi/mine/golem1.c line 15: syntax error
+wizards/kaappi/mine/golem1.c line 17: Illegal LHS
+wizards/kaappi/mine/golem1.c line 17: syntax error
+wizards/kaappi/mine/golem1.c line 18: Illegal LHS
+wizards/kaappi/mine/golem1.c line 22: Illegal LHS
+wizards/kaappi/mine/golem1.c line 22: syntax error
+wizards/kaappi/mine/kamat/vaunu.c line 16: Too few arguments to tell_room
+wizards/kaappi/mine/kamat/vaunu.c line 14: Variable ob not declared !
+wizards/kaappi/mine/kamat/vaunu.c line 14: Illegal to define variable 'tell_room' as type 'void'
+wizards/kaappi/mine/kamat/vaunu.c line 14: syntax error
+wizards/kaappi/mine/kamat/vaunu.c line 20: syntax error
+wizards/kaappi/mine/kamat/vaunu.c line 14: Illegal to define variable 'func' as type 'void'
+wizards/kaappi/mine/kamat/vaunu.c line 14: syntax error
+wizards/kaappi/mine/kamat/vaunu.c line 20: syntax error
+wizards/kaappi/mine/kamat/vaunu.c line 21: syntax error
+wizards/kaappi/mine/kamat/vaunu.c line 25: syntax error
+wizards/kaappi/mine/kamat/vaunu.c line 21: syntax error
+wizards/kaappi/mine/kamat/vaunu.c line 27: syntax error
+wizards/kaappi/mine/golem1.c line 17: Illegal to redefine inherited variable 'items'
+wizards/kaappi/mine/golem1.c line 17: Type mismatch ( unknown vs mixed * ) when initializing items
+wizards/kaappi/mine/golem1.c line 17: Missing type
+wizards/kaappi/mine/golem1.c line 18: Unrecognized inheritance modifier 'items'
+wizards/kaappi/mine/golem1.c line 18: syntax error
+wizards/kaappi/mine/entrance.c line 12: syntax error
+wizards/kaappi/mine/entrance.c line 13: syntax error
+wizards/kaappi/mine/golem1.c line 22: syntax error
+wizards/kaappi/mine/golem1.c line 24: syntax error
+wizards/kaappi/mine/golem1.c line 22: Variable str not declared !
+wizards/kaappi/mine/golem1.c line 22: syntax error
+wizards/kaappi/mine/golem1.c line 22: syntax error
+wizards/kaappi/mine/golem1.c line 23: Variable str not declared !
+wizards/kaappi/mine/golem1.c line 23: syntax error
+wizards/kaappi/mine/golem1.c line 22: syntax error
+wizards/kaappi/mine/golem1.c line 24: syntax error
+wizards/kaappi/mine/golem1.c line 22: syntax error
+wizards/kaappi/mine/golem1.c line 24: syntax error
+wizards/kaappi/mine/golem1.c line 23: syntax error
+wizards/kaappi/mine/golem1.c line 10: syntax error
+wizards/kaappi/mine/golem1.c line 10: Illegal character (hex 2e) '.'
+wizards/kaappi/mine/golem1.c line 10: Newline in string
+wizards/kaappi/mine/golem1.c line 17: Illegal LHS
+wizards/kaappi/mine/golem1.c line 17: syntax error
+wizards/kaappi/mine/golem1.c line 10: syntax error
+wizards/kaappi/mine/golem1.c line 12: syntax error
+wizards/kaappi/mine/golem1.c line 13: Illegal character (hex 2e) '.'
+wizards/kaappi/mine/golem1.c line 13: Newline in string
+wizards/kaappi/mine/golem1.c line 20: Illegal LHS
+wizards/kaappi/mine/golem1.c line 20: syntax error
+wizards/kaappi/mine/golem1.c line 10: syntax error
+wizards/kaappi/mine/golem1.c line 12: syntax error
+wizards/kaappi/mine/golem1.c line 13: Illegal character (hex 2e) '.'
+wizards/kaappi/mine/golem1.c line 13: Newline in string
+wizards/kaappi/mine/golem1.c line 20: Illegal LHS
+wizards/kaappi/mine/golem1.c line 20: syntax error
+wizards/kaappi/mine/golem1.c line 8: Variable str not declared !
+wizards/kaappi/mine/golem1.c line 8: syntax error
+wizards/kaappi/mine/golem1.c line 10: syntax error
+wizards/kaappi/mine/golem1.c line 10: Newline in string
+wizards/kaappi/mine/golem1.c line 18: Illegal LHS
+wizards/kaappi/mine/golem1.c line 18: syntax error
+wizards/kaappi/mine/golem1.c line 8: Variable str not declared !
+wizards/kaappi/mine/golem1.c line 8: syntax error
+wizards/kaappi/mine/golem1.c line 10: syntax error
+wizards/kaappi/mine/golem1.c line 10: Newline in string
+wizards/kaappi/mine/golem1.c line 18: Illegal LHS
+wizards/kaappi/mine/golem1.c line 18: syntax error
+wizards/kaappi/mine/golem1.c line 21: syntax error
+wizards/kaappi/mine/golem1.c line 22: syntax error
+wizards/kaappi/mine/golem1.c line 22: syntax error
+wizards/kaappi/mine/golem1.c line 21: syntax error
+wizards/kaappi/mine/golem1.c line 23: syntax error
+wizards/kaappi/mine/golem1.c line 22: Variable str not declared !
+wizards/kaappi/mine/golem1.c line 22: syntax error
+wizards/kaappi/mine/golem1.c line 22: syntax error
+wizards/kaappi/mine/golem1.c line 22: syntax error
+wizards/kaappi/mine/golem1.c line 29: syntax error
+wizards/kaappi/mine/golem1.c line 22: syntax error
+wizards/kaappi/mine/kamat/vaunu.c line 24: Redeclaration of function pull.
+wizards/kaappi/mine/kamat/vaunu.c line 7: syntax error
+wizards/kaappi/mine/kamat/vaunu.c line 7: syntax error
+wizards/kaappi/mine/kamat/vaunu.c line 13: syntax error
+wizards/kaappi/mine/kamat/vaunu.c line 16: syntax error
+wizards/kaappi/mine/kamat/vaunu.c line 12: syntax error
+wizards/kaappi/mine/golem1.c line 39: syntax error
+wizards/kaappi/mine/golem1.c line 39: syntax error
+wizards/kaappi/mine/golem1.c line 39: syntax error
+wizards/kaappi/mine/golem1.c line 40: Missing type for argument
+wizards/kaappi/mine/golem1.c line 40: Variable ob not declared !
+wizards/kaappi/mine/golem1.c line 39: Missing type for argument
+wizards/kaappi/mine/golem1.c line 39: Bad argument 1 type to efun destruct()
+wizards/kaappi/mine/golem1.c line 39: Missing type for argument
+wizards/kaappi/mine/golem1.c line 39: Variable ob not declared !
+wizards/kaappi/mine/golem1.c line 36: syntax error
+wizards/kaappi/mine/golem1.c line 36: Newline in string
+wizards/kaappi/mine/golem1.c line 40: syntax error
+wizards/kaappi/mine/golem1.c line 40: syntax error
+wizards/kaappi/mine/golem1.c line 40: syntax error
+wizards/kaappi/mine/kamat/vaunu.c line 12: syntax error
+wizards/kaappi/mine/kamat/vaunu.c line 14: syntax error
+wizards/kaappi/mine/golem1.c line 46: syntax error
+wizards/kaappi/mine/golem1.c line 16: syntax error
+wizards/kaappi/mine/golem1.c line 27: syntax error
+wizards/kaappi/mine/golem1.c line 27: Newline in string
+wizards/kaappi/mine/golem1.c line 27: syntax error
+wizards/kaappi/mine/golem1.c line 37: syntax error
+wizards/kaappi/mine/golem1.c line 38: syntax error
+wizards/kaappi/mine/golem1.c line 31: syntax error
+wizards/kaappi/mine/golem1.c line 38: Variable ob not declared !
+wizards/kaappi/mine/golem1.c line 39: Variable ob not declared !
+wizards/kaappi/mine/golem1.c line 40: Variable ob not declared !
+wizards/kaappi/mine/golem1.c line 39: Variable ob not declared !
+wizards/kaappi/mine/golem1.c line 40: Variable ob not declared !
+wizards/kaappi/mine/golem1.c line 41: Variable ob not declared !
+wizards/kaappi/mine/golem1.c line 38: Variable ob not declared !
+wizards/kaappi/mine/golem1.c line 38: syntax error
+wizards/kaappi/mine/golem1.c line 38: Variable ob not declared !
+wizards/kaappi/mine/golem1.c line 39: syntax error
+wizards/kaappi/mine/golem1.c line 41: Redeclaration of function pull.
+wizards/kaappi/mine/golem1.c line 45: syntax error
+wizards/kaappi/mine/golem1.c line 29: syntax error
+wizards/kaappi/mine/golem1.c line 41: syntax error
+wizards/kaappi/mine/golem1.c line 41: syntax error
+wizards/kaappi/mine/golem1.c line 30: Newline in string
+wizards/kaappi/mine/kamat/vaunu.c line 11: syntax error
+wizards/kaappi/mine/kamat/vaunu.c line 15: syntax error
+wizards/kaappi/mine/golem1.c line 38: Variable $ not declared !
+wizards/kaappi/mine/golem1.c line 38: syntax error
+wizards/kaappi/mine/golem1.c line 41: syntax error
+wizards/kaappi/mine/golem1.c line 41: syntax error
+wizards/kaappi/mine/golem1.c line 43: Variable me not declared !
+wizards/kaappi/mine/golem1.c line 44: Variable me not declared !
+wizards/kaappi/mine/golem1.c line 47: syntax error
+wizards/kaappi/mine/golem1.c line 34: Variable environment not declared !
+wizards/kaappi/mine/golem1.c line 36: Too few arguments to tell_room
+wizards/kaappi/mine/golem1.c line 36: Too few arguments to tell_room
+wizards/kaappi/mine/golem1.c line 36: Too few arguments to tell_room
+wizards/kaappi/mine/kamat/vaunu.c line 21: syntax error
+wizards/kaappi/mine/kamat/vaunu.c line 22: syntax error
+wizards/kaappi/mine/golem1.c line 27: syntax error
+wizards/kaappi/mine/golem1.c line 30: syntax error
+wizards/kaappi/mine/golem1.c line 36: syntax error
+wizards/kaappi/mine/golem1.c line 36: syntax error
+wizards/kaappi/mine/golem1.c line 37: syntax error
+wizards/kaappi/mine/golem1.c line 37: syntax error
+wizards/kaappi/mine/golem1.c line 37: syntax error
+wizards/kaappi/mine/golem1.c line 37: syntax error
+wizards/kaappi/mine/golem1.c line 38: syntax error
+wizards/kaappi/mine/golem1.c line 32: syntax error
+wizards/kaappi/mine/golem1.c line 34: syntax error
+wizards/kaappi/mine/golem1.c line 44: Illegal LHS
+wizards/kaappi/mine/golem1.c line 32: syntax error
+wizards/kaappi/mine/golem1.c line 34: syntax error
+wizards/kaappi/mine/golem1.c line 44: Illegal LHS
+wizards/kaappi/mine/golem1.c line 40: Too few arguments to call_out
+wizards/kaappi/mine/golem1.c line 31: Variable ob not declared !
+wizards/kaappi/mine/golem1.c line 40: Too few arguments to call_out
+wizards/kaappi/mine/golem1.c line 41: Variable ob not declared !
+wizards/kaappi/mine/golem1.c line 39: syntax error
+wizards/kaappi/mine/golem1.c line 44: Illegal LHS
+wizards/kaappi/mine/golem1.c line 40: Variable delay not declared !
+wizards/kaappi/mine/golem1.c line 40: Variable delay not declared !
+wizards/kaappi/mine/golem1.c line 41: Variable delay not declared !
+wizards/kaappi/mine/golem1.c line 39: Variable delay not declared !
+wizards/kaappi/mine/golem1.c line 50: Variable ob not declared !
+wizards/kaappi/mine/golem1.c line 50: Type mismatch ( unknown vs void ) when initializing tormays
+wizards/kaappi/mine/golem1.c line 50: Missing type
+wizards/kaappi/mine/golem1.c line 50: syntax error
+wizards/kaappi/mine/golem1.c line 52: Variable ob not declared !
+wizards/kaappi/mine/golem1.c line 47: syntax error
+wizards/kaappi/mine/golem1.c line 50: Too few arguments to write
+wizards/kaappi/mine/golem1.c line 54: Too few arguments to write
+wizards/kaappi/mine/golem1.c line 56: syntax error
+wizards/kaappi/mine/golem1.c line 47: syntax error
+wizards/kaappi/mine/golem1.c line 50: Too few arguments to write
+wizards/kaappi/mine/golem1.c line 54: Too few arguments to write
+wizards/kaappi/mine/golem1.c line 56: syntax error
+wizards/kaappi/mine/golem1.c line 57: syntax error
+wizards/kaappi/mine/golem1.c line 57: syntax error
+wizards/kaappi/mine/golem1.c line 48: syntax error
+wizards/kaappi/mine/golem1.c line 48: syntax error
+wizards/kaappi/mine/golem1.c line 59: syntax error
+wizards/kaappi/mine/mosat/yhed.c line 15: syntax error
+wizards/kaappi/mine/kamat/pick.c line 4: syntax error
+wizards/kaappi/mine/kamat/pick.c line 7: syntax error
+wizards/kaappi/mine/kamat/vaate.c line 5: Variable torso not declared !
+wizards/kaappi/mine/r1.c line 2: Missing type
+wizards/kaappi/mine/r2.c line 19: syntax error
+wizards/kaappi/mine/mosat/lvahti.c line 14: Newline in string
+wizards/kaappi/mine/mosat/lvahti.c line 15: syntax error
+wizards/kaappi/mine/mosat/lvahti.c line 14: Newline in string
+wizards/kaappi/mine/mosat/lvahti.c line 15: syntax error
+wizards/kaappi/mine/mosat/lvahti.c line 14: Newline in string
+wizards/kaappi/mine/mosat/lvahti.c line 15: syntax error
+wizards/kaappi/mine/mosat/lvahti.c line 23: Variable attacked_ob not declared !
+wizards/kaappi/mine/r24.c line 26: syntax error
+wizards/kaappi/mine/r24.c line 26: Illegal LHS
+wizards/kaappi/mine/r24.c line 26: syntax error
+wizards/kaappi/mine/r24.c line 26: Illegal LHS
+wizards/kaappi/mine/r24.c line 26: syntax error
+wizards/kaappi/mine/r24.c line 26: Illegal LHS
+wizards/kaappi/mine/r24.c line 40: Variable this_player not declared !
+wizards/kaappi/mine/ala.c line 14: syntax error
+wizards/kaappi/mine/r24.c line 36: Newline in string
+wizards/kaappi/mine/r24.c line 37: syntax error
+wizards/kaappi/mine/r24.c line 40: Illegal LHS
+wizards/kaappi/mine/r24.c line 45: Illegal LHS
+wizards/kaappi/mine/r24.c line 36: Newline in string
+wizards/kaappi/mine/r24.c line 37: syntax error
+wizards/kaappi/mine/r24.c line 40: Illegal LHS
+wizards/kaappi/mine/r24.c line 45: Illegal LHS
+wizards/kaappi/mine/r24.c line 36: Newline in string
+wizards/kaappi/mine/r24.c line 37: syntax error
+wizards/kaappi/mine/r24.c line 40: Illegal LHS
+wizards/kaappi/mine/r24.c line 45: Illegal LHS
+wizards/kaappi/mine/ala.c line 31: syntax error
+wizards/kaappi/mine/kamat/kirja.c line 8: Variable returb not declared !
+wizards/kaappi/mine/kamat/kirja.c line 8: syntax error
+wizards/kaappi/mine/mosat/lvahti.c line 24: syntax error
+wizards/kaappi/mine/kamat/keppi.c line 10: Variable items not declared !
+wizards/kaappi/mine/kamat/keppi.c line 11: Variable items not declared !
+wizards/kaappi/mine/kamat/keppi.c line 12: Variable items not declared !
+wizards/kaappi/mine/mosat/pelokas.c line 45: syntax error
+wizards/kaappi/mine/mosat/pelokas.c line 48: Illegal LHS
+wizards/kaappi/mine/r8.c line 16: syntax error
+wizards/kaappi/mine/mosat/golem.c line 19: syntax error
+wizards/kaappi/mine/mosat/golem.c line 40: Illegal LHS
+wizards/kaappi/mine/mosat/golem.c line 40: syntax error
+wizards/kaappi/mine/mosat/golem.c line 55: Variable ob not declared !
+wizards/kaappi/mine/mosat/golem.c line 56: Variable ob not declared !
+wizards/kaappi/mine/mosat/golem.c line 60: Variable ob not declared !
+wizards/kaappi/mine/r17.c line 18: Variable $ not declared !
+wizards/kaappi/mine/r17.c line 18: syntax error
+wizards/kaappi/mine/r17.c line 19: Variable $ not declared !
+wizards/kaappi/mine/r17.c line 19: Illegal LHS
+wizards/kaappi/mine/r17.c line 19: syntax error
+wizards/kaappi/mine/r17.c line 24: syntax error
+wizards/kaappi/mine/golem1.c line 65: Variable destruct not declared !
+wizards/kaappi/mine/golem1.c line 65: syntax error
+wizards/kaappi/mine/golem1.c line 65: Variable destruct not declared !
+wizards/kaappi/mine/golem1.c line 65: syntax error
+wizards/kaappi/workroom.c line 19: Illegal character (hex 5c) '\'
+wizards/kaappi/workroom.c line 19: syntax error
+wizards/kaappi/workroom.c line 19: Newline in string
+wizards/kaappi/workroom.c line 20: Illegal LHS
+wizards/kaappi/workroom.c line 21: syntax error
+wizards/kaappi/workroom.c line 19: Illegal character (hex 5c) '\'
+wizards/kaappi/workroom.c line 19: syntax error
+wizards/kaappi/workroom.c line 19: Newline in string
+wizards/kaappi/workroom.c line 20: Illegal LHS
+wizards/kaappi/workroom.c line 21: syntax error
+wizards/kaappi/workroom.c line 19: Illegal character (hex 5c) '\'
+wizards/kaappi/workroom.c line 19: syntax error
+wizards/kaappi/workroom.c line 19: Newline in string
+wizards/kaappi/workroom.c line 20: Illegal LHS
+wizards/kaappi/workroom.c line 21: syntax error
+wizards/kaappi/workroom.c line 19: Illegal character (hex 5c) '\'
+wizards/kaappi/workroom.c line 19: syntax error
+wizards/kaappi/workroom.c line 19: Newline in string
+wizards/kaappi/workroom.c line 20: Illegal LHS
+wizards/kaappi/workroom.c line 21: syntax error
+wizards/kaappi/workroom.c line 65: syntax error
+wizards/kaappi/workroom.c line 68: syntax error
+wizards/kaappi/workroom.c line 65: syntax error
+wizards/kaappi/workroom.c line 68: syntax error
+wizards/kaappi/dcity/mobs/gateguard.c line 39: syntax error
+wizards/kaappi/dcity/mobs/gateguard.c line 24: syntax error
+wizards/kaappi/dcity/mobs/king.c line 47: syntax error
+wizards/kaappi/dcity/mobs/king.c line 48: Illegal LHS
+wizards/kaappi/dcity/mobs/king.c line 52: syntax error
+wizards/kaappi/dcity/mobs/king.c line 52: syntax error
+wizards/kaappi/dcity/rooms/tunnele.c line 19: syntax error
+wizards/kaappi/dcity/rooms/tunnele.c line 23: Illegal LHS
+wizards/kaappi/dcity/rooms/testi.c line 20: syntax error
+wizards/kaappi/dcity/rooms/citye.c line 32: syntax error
+wizards/kaappi/dcity/rooms/citye.c line 34: syntax error
+wizards/kaappi/dcity/items/map.c line 3: syntax error
+wizards/kaappi/dcity/rooms/citye.c line 42: syntax error
+wizards/kaappi/eval_file.c line 2: syntax error
+wizards/kaappi/eval_file.c line 2: Newline in string
+wizards/kaappi/eval_file.c line 2: Newline in string
+wizards/kaappi/eval_file.c line 3: syntax error
+wizards/kaappi/testit/juttu.c line 16: Variable More not declared !
+wizards/kaappi/testit/juttu.c line 16: syntax error
+wizards/kaappi/testit/juttu.c line 33: Variable More not declared !
+wizards/kaappi/testit/juttu.c line 33: syntax error
+wizards/kaappi/testit/juttu.c line 40: Variable More not declared !
+wizards/kaappi/testit/juttu.c line 40: syntax error
+wizards/kaappi/testit/juttu.c line 61: function not defined by inheritance as specified
+wizards/kaappi/eval_file.c line 2: syntax error
+wizards/kaappi/eval_file.c line 2: Variable quit not declared !
+wizards/kaappi/eval_file.c line 2: syntax error
+wizards/kaappi/eval_file.c line 2: syntax error
+wizards/kaappi/eval_file.c line 2: syntax error
+wizards/kaappi/eval_file.c line 2: syntax error
+wizards/kaappi/eval_file.c line 2: syntax error
+wizards/kaappi/eval_file.c line 2: Undefined function 'total_money'
+wizards/kaappi/dcity/items/lelu.c line 8: Newline in string
+wizards/kaappi/dcity/items/lelu.c line 10: syntax error
+wizards/kaappi/dcity/items/lelu.c line 10: syntax error
+wizards/kaappi/dcity/items/lelu.c line 10: syntax error
+wizards/kaappi/eval_file.c line 2: syntax error
+wizards/kaappi/eval_file.c line 2: syntax error
+wizards/kaappi/eval_file.c line 2: Undefined function 'query_kills'
+wizards/kaappi/dcity/mobs/jannut.c line 48: syntax error
+wizards/kaappi/eval_file.c line 2: syntax error
+wizards/kaappi/dcity/rooms/house4.c line 1: Unrecognized inheritance modifier 'nherit'
+wizards/kaappi/dcity/rooms/house4.c line 1: syntax error
+wizards/kaappi/dcity/rooms/house7.c line 20: syntax error
+wizards/kaappi/dcity/rooms/katu48.c line 13: Variable katu48 not declared !
+wizards/kaappi/dcity/rooms/katu48.c line 13: syntax error
+wizards/kaappi/dcity/rooms/katu48.c line 20: syntax error
+wizards/kaappi/dcity/rooms/warehouse.c line 20: syntax error
+wizards/kaappi/dcity/rooms/warehouse.c line 22: syntax error
+wizards/kaappi/dcity/rooms/warehouse.c line 20: syntax error
+wizards/kaappi/dcity/rooms/warehouse.c line 22: syntax error
+wizards/kaappi/dcity/mobs/rat.c line 21: syntax error
+wizards/kaappi/dcity/mobs/leipuri.c line 85: Variable done not declared !
+wizards/kaappi/dcity/mobs/leipuri.c line 91: Variable item1 not declared !
+wizards/kaappi/dcity/mobs/leipuri.c line 97: syntax error
+wizards/kaappi/dcity/mobs/leipuri.c line 92: Variable item1 not declared !
+wizards/kaappi/dcity/mobs/leipuri.c line 97: syntax error
+wizards/kaappi/dcity/mobs/leipuri.c line 98: syntax error
+wizards/kaappi/dcity/mobs/leipuri.c line 99: syntax error
+wizards/kaappi/dcity/mobs/leipuri.c line 72: Variable tehty not declared !
+wizards/kaappi/dcity/mobs/leipuri.c line 76: Variable tehty not declared !
+wizards/kaappi/dcity/mobs/leipuri.c line 84: Variable item not declared !
+wizards/kaappi/dcity/mobs/leipuri.c line 90: Variable a not declared !
+wizards/kaappi/dcity/mobs/leipuri.c line 92: Variable a not declared !
+wizards/kaappi/dcity/mobs/leipuri.c line 94: Variable a not declared !
+wizards/kaappi/dcity/mobs/leipuri.c line 98: syntax error
+wizards/kaappi/dcity/mobs/leipuri.c line 85: Variable item not declared !
+wizards/kaappi/dcity/mobs/leipuri.c line 99: syntax error
+Sat Apr 05 10:14:13 2008 A huge golem(strong) (/wizards/kaappi/mine/mosat/golem#1468, 86) killed by Ntg (291) 
+wizards/kaappi/dcity/mobs/leipuri.c line 85: Variable item not declared !
+wizards/kaappi/dcity/mobs/leipuri.c line 99: syntax error
+wizards/kaappi/dcity/mobs/historian.c line 16: syntax error
+wizards/kaappi/dcity/mobs/historian.c line 20: Illegal LHS
+wizards/kaappi/dcity/mobs/historian.c line 20: syntax error
+wizards/kaappi/dcity/mobs/historian.c line 21: Illegal LHS
+wizards/kaappi/dcity/mobs/historian.c line 22: Illegal LHS
+wizards/kaappi/dcity/mobs/historian.c line 23: Illegal LHS
+wizards/kaappi/dcity/mobs/historian.c line 29: Variable More not declared !
+wizards/kaappi/dcity/mobs/historian.c line 29: syntax error
+wizards/kaappi/dcity/mobs/historian.c line 33: Variable ob not declared !
+wizards/kaappi/dcity/mobs/historian.c line 34: Variable ob not declared !
+wizards/kaappi/dcity/mobs/historian.c line 34: Variable ob not declared !
+wizards/kaappi/dcity/mobs/historian.c line 43: Variable obj not declared !
+wizards/kaappi/dcity/rooms/katu1.c line 11: Illegal character (hex 5c) '\'
+wizards/kaappi/dcity/rooms/katu1.c line 11: syntax error
+wizards/kaappi/dcity/rooms/katu1.c line 11: Newline in string
+wizards/kaappi/dcity/rooms/katu15.c line 9: syntax error
+wizards/kaappi/dcity/rooms/katu15.c line 9: Illegal character (hex 2e) '.'
+wizards/kaappi/dcity/rooms/katu15.c line 9: Newline in string
+wizards/kaappi/dcity/rooms/katu44.c line 16: Variable katu44 not declared !
+wizards/kaappi/dcity/rooms/katu44.c line 16: syntax error
+wizards/kaappi/dcity/rooms/katu1.c line 25: syntax error
+wizards/kaappi/dcity/rooms/katu1.c line 25: syntax error
+wizards/kaappi/dcity/rooms/katu19.c line 13: syntax error
+wizards/kaappi/dcity/rooms/katu19.c line 20: Illegal LHS
+wizards/kaappi/dcity/rooms/katu37.c line 15: Variable $ not declared !
+wizards/kaappi/dcity/rooms/katu37.c line 15: syntax error
+wizards/kaappi/dcity/mobs/varas.c line 18: Variable head not declared !
+wizards/kaappi/dcity/mobs/varas.c line 19: Variable head not declared !
+wizards/kaappi/dcity/rooms/g4b.c line 8: Variable wizards not declared !
+wizards/kaappi/dcity/rooms/g4b.c line 8: Variable kaappi not declared !
+wizards/kaappi/dcity/rooms/g4b.c line 8: Variable dcity not declared !
+wizards/kaappi/dcity/rooms/g4b.c line 8: Variable mobs not declared !
+wizards/kaappi/dcity/rooms/g4b.c line 8: Illegal character (hex 2e) '.'
+wizards/kaappi/dcity/rooms/g4b.c line 8: syntax error
+wizards/kaappi/dcity/rooms/park20.c line 12: Newline in string
+wizards/kaappi/dcity/mobs/clerk.c line 21: syntax error
+wizards/kaappi/dcity/rooms/katu2.c line 26: syntax error
+wizards/kaappi/dcity/rooms/katu5.c line 26: syntax error
+wizards/kaappi/dcity/rooms/katu24.c line 25: syntax error
+wizards/kaappi/dcity/rooms/katu35.c line 30: syntax error
+wizards/kaappi/dcity/rooms/katu43.c line 25: syntax error
+wizards/kaappi/dcity/rooms/katu38.c line 30: syntax error
+wizards/kaappi/dcity/rooms/hall5.c line 30: syntax error
+wizards/kaappi/dcity/rooms/katu20.c line 30: syntax error
+wizards/kaappi/dcity/rooms/katu6.c line 29: syntax error
+wizards/kaappi/dcity/items/fountain.c line 12: syntax error
+wizards/kaappi/dcity/items/fountain.c line 12: syntax error
+wizards/kaappi/dcity/mobs/boltak.c line 34: syntax error
+wizards/kaappi/dcity/mobs/boltak.c line 35: syntax error
+wizards/kaappi/dcity/mobs/boltak.c line 35: syntax error
+wizards/kaappi/dcity/mobs/boltak.c line 36: syntax error
+wizards/kaappi/dcity/mobs/jannut.c line 53: syntax error
+wizards/kaappi/dcity/mobs/jannut.c line 55: Variable ob not declared !
+wizards/kaappi/dcity/mobs/jannut.c line 56: Variable ob not declared !
+wizards/kaappi/dcity/mobs/jannut.c line 58: Variable ob not declared !
+wizards/kaappi/dcity/mobs/jannut.c line 13: syntax error
+wizards/kaappi/dcity/mobs/jannut.c line 15: Variable ob not declared !
+wizards/kaappi/dcity/mobs/jannut.c line 16: Variable ob not declared !
+wizards/kaappi/dcity/mobs/jannut.c line 18: Variable ob not declared !
+wizards/kaappi/dcity/mobs/jannut.c line 53: syntax error
+wizards/kaappi/dcity/mobs/jannut.c line 55: Variable ob not declared !
+wizards/kaappi/dcity/mobs/jannut.c line 56: Variable ob not declared !
+wizards/kaappi/dcity/mobs/jannut.c line 58: Variable ob not declared !
+wizards/kaappi/dcity/mobs/jannut.c line 60: syntax error
+wizards/kaappi/dcity/mobs/jannut.c line 53: syntax error
+wizards/kaappi/dcity/mobs/jannut.c line 55: Variable ob not declared !
+wizards/kaappi/dcity/mobs/jannut.c line 56: Variable ob not declared !
+wizards/kaappi/dcity/mobs/jannut.c line 58: Variable ob not declared !
+wizards/kaappi/dcity/mobs/jannut.c line 22: syntax error
+wizards/kaappi/dcity/mobs/jannut.c line 24: Variable ob not declared !
+wizards/kaappi/dcity/mobs/jannut.c line 25: Variable ob not declared !
+wizards/kaappi/dcity/mobs/jannut.c line 27: Variable ob not declared !
+wizards/kaappi/dcity/rooms/park7.c line 35: syntax error
+wizards/kaappi/dcity/mobs/leipuri.c line 70: syntax error
+wizards/kaappi/drow/vmap/entrance.c line 6: Illegal character (hex 5c) '\'
+wizards/kaappi/drow/vmap/entrance.c line 6: syntax error
+wizards/kaappi/drow/vmap/entrance.c line 6: Newline in string
+wizards/kaappi/drow/vmap/tunnel.c line 13: Variable items not declared !
+wizards/kaappi/drow/vmap/tunnel.c line 14: Variable items not declared !
+wizards/kaappi/drow/vmap/tunnel.c line 15: Variable items not declared !
+wizards/kaappi/drow/vmap/tunnel.c line 20: Variable items not declared !
+wizards/kaappi/drow/vmap/tunnel.c line 21: Variable items not declared !
+wizards/kaappi/drow/vmap/tunnel.c line 22: Variable items not declared !
+wizards/kaappi/drow/vmap/tunnel.c line 20: Variable items not declared !
+wizards/kaappi/drow/vmap/tunnel.c line 21: Variable items not declared !
+wizards/kaappi/drow/vmap/tunnel.c line 22: Variable items not declared !
+wizards/kaappi/dcity/items/map.c line 30: syntax error
+wizards/kaappi/dcity/items/map.c line 27: syntax error
+wizards/kaappi/dcity/rooms/citye.c line 56: syntax error
+wizards/kaappi/drow/vmap/meadow.c line 10: Illegal character (hex 5c) '\'
+wizards/kaappi/drow/vmap/meadow.c line 10: syntax error
+wizards/kaappi/drow/vmap/entrance.c line 10: syntax error
+wizards/kaappi/drow/vmap/entrance.c line 15: Illegal LHS
+wizards/kaappi/drow/mobs/elukat.c line 14: syntax error
+wizards/kaappi/drow/rooms/castle5/th.c line 9: Newline in string
+wizards/kaappi/drow/rooms/castle5/th.c line 11: syntax error
+wizards/kaappi/drow/rooms/castle5/th.c line 9: Newline in string
+wizards/kaappi/drow/rooms/castle5/th.c line 11: syntax error
+wizards/kaappi/drow/rooms/castle5/th.c line 9: Newline in string
+wizards/kaappi/drow/rooms/castle5/th.c line 11: syntax error
+wizards/kaappi/drow/rooms/castle5/th.c line 9: Newline in string
+wizards/kaappi/drow/rooms/castle5/th.c line 11: syntax error
+wizards/kaappi/drow/rooms/castle5/torni3.c line 24: syntax error
+wizards/kaappi/drow/rooms/castle5/torni3.c line 24: Illegal character (hex 5c) '\'
+wizards/kaappi/drow/rooms/castle5/torni3.c line 24: Newline in string
+wizards/kaappi/drow/rooms/temple/t3.c line 16: Newline in string
+wizards/kaappi/drow/rooms/temple/t3.c line 18: syntax error
+wizards/kaappi/drow/rooms/temple/t3.c line 17: Newline in string
+wizards/kaappi/drow/rooms/temple/t3.c line 19: syntax error
+wizards/kaappi/eval_file.c line 2: Undefined function 'query_door_code'
+wizards/kaappi/eval_file.c line 2: Newline in string
+wizards/kaappi/eval_file.c line 3: syntax error
+wizards/kaappi/helppei/player.c line 2: Cannot #include 'living.h'
+wizards/kaappi/helppei/player.c line 11: Redefinition of #define BANISH_D
+wizards/kaappi/helppei/player.c line 96: Illegal to redefine global variable 'last_command'
+wizards/kaappi/helppei/player.c line 257: Variable msgout not declared !
+wizards/kaappi/helppei/player.c line 258: Variable msgin not declared !
+wizards/kaappi/helppei/player.c line 259: Variable mmsgout not declared !
+wizards/kaappi/helppei/player.c line 260: Variable mmsgin not declared !
+wizards/kaappi/helppei/player.c line 620: casting a value to its own type: int 
+wizards/kaappi/helppei/player.c line 3575: Missing arguments to simul_efun wizlist
+wizards/kaappi/helppei/player.c line 2: Cannot #include 'living.h'
+wizards/kaappi/helppei/player.c line 11: Redefinition of #define BANISH_D
+wizards/kaappi/helppei/player.c line 96: Illegal to redefine global variable 'last_command'
+wizards/kaappi/helppei/player.c line 257: Variable msgout not declared !
+wizards/kaappi/helppei/player.c line 258: Variable msgin not declared !
+wizards/kaappi/helppei/player.c line 259: Variable mmsgout not declared !
+wizards/kaappi/helppei/player.c line 260: Variable mmsgin not declared !
+wizards/kaappi/helppei/player.c line 620: casting a value to its own type: int 
+wizards/kaappi/helppei/player.c line 3575: Missing arguments to simul_efun wizlist
+wizards/kaappi/helppei/player.c line 2: Cannot #include 'living.h'
+wizards/kaappi/helppei/player.c line 11: Redefinition of #define BANISH_D
+wizards/kaappi/helppei/player.c line 96: Illegal to redefine global variable 'last_command'
+wizards/kaappi/helppei/player.c line 257: Variable msgout not declared !
+wizards/kaappi/helppei/player.c line 258: Variable msgin not declared !
+wizards/kaappi/helppei/player.c line 259: Variable mmsgout not declared !
+wizards/kaappi/helppei/player.c line 260: Variable mmsgin not declared !
+wizards/kaappi/helppei/player.c line 620: casting a value to its own type: int 
+wizards/kaappi/questlist.c line 23: Variable I not declared !
+wizards/kaappi/questlist.c line 23: Variable I not declared !
+wizards/kaappi/questlist.c line 28: Variable I not declared !
+wizards/kaappi/questlist.c line 28: Variable I not declared !
+wizards/kaappi/questlist.c line 29: Variable I not declared !
+wizards/kaappi/questlist.c line 29: Variable I not declared !
+wizards/kaappi/dcity/mobs/king.c line 54: Illegal to redefine global variable 'crown'
+wizards/kaappi/dcity/mobs/king.c line 54: Type mismatch ( unknown vs object ) when initializing crown
+wizards/kaappi/dcity/mobs/king.c line 54: Missing type
+wizards/kaappi/dcity/mobs/king.c line 55: syntax error
+wizards/kaappi/dcity/mobs/king.c line 54: Illegal to redefine global variable 'crown'
+wizards/kaappi/dcity/mobs/king.c line 54: Type mismatch ( unknown vs object ) when initializing crown
+wizards/kaappi/dcity/mobs/king.c line 54: Missing type
+wizards/kaappi/dcity/mobs/king.c line 55: syntax error
+wizards/kaappi/dcity/mobs/king.c line 54: Illegal to redefine global variable 'crown'
+wizards/kaappi/dcity/mobs/king.c line 54: Type mismatch ( unknown vs object ) when initializing crown
+wizards/kaappi/dcity/mobs/king.c line 54: Missing type
+wizards/kaappi/dcity/mobs/king.c line 55: syntax error
+Sat Sep 27 01:14:06 2008 Thordim Goodsteel, The king of Amaranthgard, sitting on his Throne(strong) (/wizards/kaappi/dcity/mobs/king#45463, 100) killed by Atw (208) 
+Sat Sep 27 18:54:26 2008 Thordim Goodsteel, The king of Amaranthgard, sitting on his Throne(strong) (/wizards/kaappi/dcity/mobs/king#3172, 102) killed by Madk (155) 
+Sun Sep 28 17:10:25 2008 Thordim Goodsteel, The king of Amaranthgard, sitting on his Throne(strong) (/wizards/kaappi/dcity/mobs/king#5492, 101) killed by Madk (155) 
+wizards/kaappi/dcity/mobs/drunken.c line 22: Illegal character (hex 5c) '\'
+wizards/kaappi/dcity/mobs/drunken.c line 22: syntax error
+wizards/kaappi/dcity/mobs/drunken.c line 22: Newline in string
+wizards/kaappi/dcity/mobs/drunken.c line 22: Illegal character (hex 5c) '\'
+wizards/kaappi/dcity/mobs/drunken.c line 22: syntax error
+wizards/kaappi/dcity/mobs/drunken.c line 22: Newline in string
+wizards/kaappi/dcity/mobs/drunken.c line 22: Illegal character (hex 5c) '\'
+wizards/kaappi/dcity/mobs/drunken.c line 22: syntax error
+wizards/kaappi/dcity/mobs/drunken.c line 22: Newline in string
+wizards/kaappi/dcity/mobs/drunken.c line 22: Illegal character (hex 5c) '\'
+wizards/kaappi/dcity/mobs/drunken.c line 22: syntax error
+wizards/kaappi/dcity/mobs/drunken.c line 22: Newline in string
+wizards/kaappi/dcity/mobs/drunken.c line 22: Illegal character (hex 5c) '\'
+wizards/kaappi/dcity/mobs/drunken.c line 22: syntax error
+wizards/kaappi/dcity/mobs/drunken.c line 22: Newline in string
+wizards/kaappi/workroom.c line 77: syntax error
+wizards/kaappi/workroom.c line 77: syntax error
+wizards/kaappi/workroom.c line 77: syntax error
+wizards/kaappi/workroom.c line 4: syntax error
+wizards/kaappi/workroom.c line 49: syntax error
+wizards/kaappi/workroom.c line 50: syntax error
+wizards/kaappi/questplaque.c line 48: Newline in string
+wizards/kaappi/questplaque.c line 49: syntax error
+wizards/kaappi/questplaque.c line 49: Illegal LHS
+wizards/kaappi/questplaque.c line 51: Variable QUESTLIS not declared !
+wizards/kaappi/questplaque.c line 52: syntax error
+wizards/kaappi/questplaque.c line 74: syntax error
+wizards/kaappi/questplaque.c line 76: syntax error
+wizards/kaappi/questplaque.c line 73: syntax error
+wizards/kaappi/questplaque.c line 75: syntax error
+wizards/kaappi/questplaque.c line 77: syntax error
+wizards/kaappi/questplaque.c line 75: syntax error
+wizards/kaappi/questplaque.c line 77: syntax error
+wizards/kaappi/questlist.c line 21: syntax error
+wizards/kaappi/questlist.c line 22: Variable i not declared !
+wizards/kaappi/questlist.c line 22: syntax error
+wizards/kaappi/questlist.c line 21: syntax error
+wizards/kaappi/questlist.c line 21: syntax error
+wizards/kaappi/questlist.c line 21: syntax error
+wizards/kaappi/questlist.c line 28: syntax error
+wizards/kaappi/questlist.c line 33: Variable More not declared !
+wizards/kaappi/questlist.c line 33: syntax error
+wizards/kaappi/questlist.c line 36: Illegal LHS
+wizards/kaappi/questlist.c line 46: syntax error
+wizards/kaappi/workroom.c line 49: syntax error
+wizards/kaappi/workroom.c line 36: syntax error
+wizards/kaappi/workroom.c line 51: syntax error
+wizards/kaappi/workroom.c line 60: Variable us not declared !
+wizards/kaappi/workroom.c line 61: Variable us not declared !
+wizards/kaappi/workroom.c line 62: Variable us not declared !
+wizards/kaappi/workroom.c line 62: Variable us not declared !
+wizards/kaappi/workroom.c line 63: Variable us not declared !
+wizards/kaappi/workroom.c line 50: syntax error
+wizards/kaappi/workroom.c line 59: Variable us not declared !
+wizards/kaappi/workroom.c line 60: Variable us not declared !
+wizards/kaappi/workroom.c line 61: Variable us not declared !
+wizards/kaappi/workroom.c line 61: Variable us not declared !
+wizards/kaappi/workroom.c line 62: Variable us not declared !
+wizards/kaappi/testit/qp/_plaqueupdate.c line 4: syntax error
+wizards/kaappi/workroom.c line 51: Too few arguments to move_object
+wizards/kaappi/workroom.c line 51: Too many arguments to clone_object
+wizards/kaappi/workroom.c line 74: Variable since not declared !
+wizards/kaappi/eval_file.c line 2: syntax error
+wizards/kaappi/questroom.c line 8: Too many arguments to clone_object
+wizards/kaappi/questroom.c line 8: syntax error
+wizards/kaappi/questroom.c line 10: Illegal LHS
+wizards/kaappi/questroom.c line 16: Illegal LHS
+wizards/kaappi/questroom.c line 16: syntax error
+wizards/kaappi/questroom.c line 8: Too many arguments to clone_object
+wizards/kaappi/questroom.c line 8: syntax error
+wizards/kaappi/questroom.c line 10: Illegal LHS
+wizards/kaappi/questroom.c line 16: Illegal LHS
+wizards/kaappi/questroom.c line 16: syntax error
+wizards/kaappi/questroom.c line 8: syntax error
+wizards/kaappi/questroom.c line 10: Illegal LHS
+wizards/kaappi/questroom.c line 16: Illegal LHS
+wizards/kaappi/questroom.c line 16: syntax error
+wizards/kaappi/questroom.c line 8: syntax error
+wizards/kaappi/questroom.c line 10: Illegal LHS
+wizards/kaappi/questroom.c line 16: Illegal LHS
+wizards/kaappi/questroom.c line 16: syntax error
+wizards/kaappi/questroom.c line 8: Too few arguments to move_object
+wizards/kaappi/questroom.c line 8: Too many arguments to clone_object
+wizards/kaappi/questroom.c line 10: Variable set_short not declared !
+wizards/kaappi/questroom.c line 11: Variable set_long not declared !
+wizards/kaappi/questroom.c line 10: Variable set_short not declared !
+wizards/kaappi/questroom.c line 11: Variable set_long not declared !
+wizards/kaappi/eval_file.c line 2: syntax error
+wizards/kaappi/eval_file.c line 2: syntax error
+wizards/kaappi/eval_file.c line 2: syntax error
+Fri Oct 10 21:03:49 2008 Thordim Goodsteel, The king of Amaranthgard, sitting on his Throne(strong) (/wizards/kaappi/dcity/mobs/king#17692, 101) killed by Alardolath (341) 
+Fri Oct 10 22:30:31 2008 A huge golem(strong) (/wizards/kaappi/mine/mosat/golem#26291, 118) killed by Golthar (400) 
+wizards/kaappi/eval_file.c line 2: Newline in string
+wizards/kaappi/eval_file.c line 2: syntax error
+wizards/kaappi/eval_file.c line 2: Undefined function 'set_best_kill'
+wizards/kaappi/eval_file.c line 2: syntax error
+wizards/kaappi/iska.c line 61: Variable chat_str not declared !
+wizards/kaappi/iska.c line 62: Variable chat_str not declared !
+wizards/kaappi/iska.c line 63: Variable chat_str not declared !
+wizards/kaappi/iska.c line 65: Variable chat_str not declared !
+wizards/kaappi/t.c line 39: syntax error
+wizards/kaappi/t.c line 49: syntax error
+wizards/kaappi/t.c line 42: syntax error
+wizards/kaappi/t.c line 49: syntax error
+wizards/kaappi/t.c line 38: Illegal character (hex 5c) '\'
+wizards/kaappi/t.c line 38: syntax error
+wizards/kaappi/t.c line 38: Illegal character (hex 5c) '\'
+wizards/kaappi/t.c line 39: syntax error
+wizards/kaappi/t.c line 39: Illegal character (hex 5c) '\'
+wizards/kaappi/t.c line 39: Illegal character (hex 5c) '\'
+wizards/kaappi/t.c line 38: Illegal character (hex 5c) '\'
+wizards/kaappi/t.c line 38: syntax error
+wizards/kaappi/t.c line 38: Illegal character (hex 5c) '\'
+wizards/kaappi/t.c line 39: Illegal character (hex 5c) '\'
+wizards/kaappi/t.c line 39: Illegal character (hex 5c) '\'
+wizards/kaappi/t.c line 41: Illegal character (hex 5c) '\'
+wizards/kaappi/t.c line 38: Illegal character (hex 5c) '\'
+wizards/kaappi/t.c line 38: syntax error
+wizards/kaappi/t.c line 38: Illegal character (hex 5c) '\'
+wizards/kaappi/t.c line 38: Illegal character (hex 5c) '\'
+wizards/kaappi/t.c line 38: Illegal character (hex 5c) '\'
+wizards/kaappi/t.c line 39: Illegal character (hex 5c) '\'
+wizards/kaappi/var.c line 51: syntax error
+wizards/kaappi/var.c line 83: syntax error
+wizards/kaappi/var.c line 83: syntax error
+wizards/kaappi/h.c line 81: syntax error
+wizards/kaappi/h.c line 81: syntax error
+wizards/kaappi/y.c line 65: Variable this_player not declared !
+wizards/kaappi/y.c line 66: Variable tell not declared !
+wizards/kaappi/y.c line 66: syntax error
+wizards/kaappi/y.c line 69: Too few arguments to say
+wizards/kaappi/y.c line 70: syntax error
+wizards/kaappi/y.c line 53: Variable pp not declared !
+wizards/kaappi/y.c line 66: Variable this_player not declared !
+wizards/kaappi/y.c line 67: Variable tell not declared !
+wizards/kaappi/y.c line 67: syntax error
+wizards/kaappi/y.c line 70: Too few arguments to say
+wizards/kaappi/y.c line 71: syntax error
+wizards/kaappi/y.c line 63: Variable this_player not declared !
+wizards/kaappi/y.c line 62: Variable this_player not declared !
+wizards/kaappi/y.c line 72: syntax error
+wizards/kaappi/y.c line 64: syntax error
+wizards/kaappi/d.c line 30: Newline in string
+wizards/kaappi/d.c line 31: syntax error
+wizards/kaappi/d.c line 55: Illegal to redefine global variable 'i'
+wizards/kaappi/d.c line 55: Type mismatch ( unknown vs mixed ) when initializing i
+wizards/kaappi/d.c line 55: Missing type
+wizards/kaappi/d.c line 56: Illegal to redefine global variable 'ob'
+wizards/kaappi/d.c line 56: Type mismatch ( unknown vs object ) when initializing ob
+wizards/kaappi/d.c line 56: Missing type
+wizards/kaappi/d.c line 53: syntax error
+wizards/kaappi/d.c line 57: Illegal LHS
+wizards/kaappi/d.c line 57: syntax error
+wizards/kaappi/d.c line 75: Illegal LHS
+wizards/kaappi/d.c line 76: Illegal LHS
+wizards/kaappi/mine/mosat/y.c line 79: syntax error
+wizards/kaappi/mine/mosat/y.c line 80: syntax error
+wizards/kaappi/mine/mosat/d.c line 75: syntax error
+wizards/kaappi/mine/mosat/d.c line 53: Variable this_player not declared !
+wizards/kaappi/mine/mosat/d.c line 54: Variable $ not declared !
+wizards/kaappi/mine/mosat/d.c line 54: syntax error
+wizards/kaappi/mine/mosat/d.c line 54: Illegal LHS
+wizards/kaappi/mine/mosat/y.c line 52: Variable i not declared !
+wizards/kaappi/mine/mosat/y.c line 65: syntax error
+wizards/kaappi/mine/mosat/y.c line 63: syntax error
+wizards/kaappi/mine/mosat/y.c line 67: syntax error
+wizards/kaappi/mine/mosat/y.c line 63: syntax error
+wizards/kaappi/mine/mosat/y.c line 66: syntax error
+wizards/kaappi/mine/mosat/d.c line 63: Variable plr not declared !
+wizards/kaappi/mine/mosat/d.c line 69: syntax error
+wizards/kaappi/mine/mosat/d.c line 68: syntax error
+wizards/kaappi/mine/mosat/d.c line 58: Too many arguments to destruct
+wizards/kaappi/mine/mosat/d.c line 62: syntax error
+wizards/kaappi/mine/mosat/d.c line 58: Too many arguments to destruct
+wizards/kaappi/mine/mosat/d.c line 69: syntax error
+wizards/kaappi/mine/mosat/u.c line 55: Variable skull not declared !
+wizards/kaappi/mine/mosat/u.c line 51: syntax error
+wizards/kaappi/mine/mosat/u.c line 53: Illegal LHS
+wizards/kaappi/mine/mosat/u.c line 55: syntax error
+wizards/kaappi/mine/mosat/u.c line 51: syntax error
+wizards/kaappi/mine/mosat/u.c line 53: Illegal LHS
+wizards/kaappi/mine/mosat/u.c line 55: syntax error
+wizards/kaappi/mine/mosat/u.c line 60: syntax error
+wizards/kaappi/mine/mosat/u.c line 64: syntax error
+wizards/kaappi/mine/mosat/u.c line 64: syntax error
+wizards/kaappi/mine/mosat/u.c line 51: syntax error
+wizards/kaappi/mine/mosat/u.c line 53: Illegal LHS
+wizards/kaappi/mine/mosat/u.c line 55: syntax error
+wizards/kaappi/mine/mosat/u.c line 57: syntax error
+wizards/kaappi/eval_file.c line 2: syntax error
+wizards/kaappi/eval_file.c line 2: syntax error
+wizards/kaappi/_questplaqueupdate.c line 2: Undefined function 'find_objet'
+wizards/kaappi/_questplaqueupdate.c line 3: Undefined function 'wrtite'
+wizards/kaappi/funfun/sorsa.c line 36: syntax error
+wizards/kaappi/funfun/sorsa.c line 37: Illegal LHS
+wizards/kaappi/funfun/sorsa.c line 39: syntax error
+wizards/kaappi/funfun/sorsa.c line 36: syntax error
+wizards/kaappi/funfun/sorsa.c line 37: Illegal LHS
+wizards/kaappi/funfun/sorsa.c line 39: syntax error
+wizards/kaappi/funfun/sorsa.c line 32: syntax error
+wizards/kaappi/funfun/sorsa.c line 33: Illegal LHS
+wizards/kaappi/funfun/sorsa.c line 36: syntax error
+wizards/kaappi/funfun/sorsa.c line 32: syntax error
+wizards/kaappi/funfun/sorsa.c line 33: Illegal LHS
+wizards/kaappi/funfun/sorsa.c line 36: syntax error
+wizards/kaappi/w.c line 64: Variable $ not declared !
+wizards/kaappi/w.c line 64: syntax error
+wizards/kaappi/w.c line 64: Illegal LHS
+wizards/kaappi/w.c line 65: Variable $ not declared !
+wizards/kaappi/w.c line 65: syntax error
+wizards/kaappi/w.c line 65: Illegal LHS
+wizards/kaappi/workroom.c line 44: syntax error
+wizards/kaappi/angel.c line 161: Variable More not declared !
+wizards/kaappi/angel.c line 161: syntax error
+wizards/kaappi/angel.c line 163: syntax error
+Wed Feb 04 22:58:40 2009 A huge golem(strong) (/wizards/kaappi/mine/mosat/golem#23272, 90) killed by Alardolath (446) 
+wizards/kaappi/fix/house_shop.c line 30: syntax error
+wizards/kaappi/fix/house_shop.c line 30: syntax error
+wizards/kaappi/fix/house_shop.c line 30: syntax error
+wizards/kaappi/fix/house_shop.c line 51: syntax error
+wizards/kaappi/fix/house_shop.c line 64: syntax error
+wizards/kaappi/fix/key_base.c line 17: function not defined by inheritance as specified
+wizards/kaappi/fix/key_base.c line 8: function not defined by inheritance as specified
+wizards/kaappi/fix/key_base.c line 9: syntax error
+wizards/kaappi/fix/key_base.c line 18: syntax error
+wizards/kaappi/fix/key_base.c line 8: function not defined by inheritance as specified
+wizards/kaappi/fix/key_base.c line 9: syntax error
+wizards/kaappi/fix/key_base.c line 18: syntax error
+wizards/kaappi/fix/key_base.c line 16: syntax error
+wizards/kaappi/fix/key_base.c line 29: Newline in string
+wizards/kaappi/fix/key_base.c line 30: syntax error
+wizards/kaappi/fix/key_base.c line 32: Illegal LHS
+wizards/kaappi/fix/key_base.c line 32: syntax error
+wizards/kaappi/fix/key_base.c line 29: Newline in string
+wizards/kaappi/fix/key_base.c line 30: syntax error
+wizards/kaappi/fix/key_base.c line 32: Illegal LHS
+wizards/kaappi/fix/key_base.c line 32: syntax error
+wizards/kaappi/fix/key_base.c line 18: Variable add_action not declared !
+wizards/kaappi/fix/key_base.c line 18: syntax error
+wizards/kaappi/fix/key_base.c line 23: syntax error
+wizards/kaappi/fix/key_base.c line 27: Illegal LHS
+wizards/kaappi/fix/key_base.c line 27: syntax error
+wizards/kaappi/fix/key_base.c line 32: Illegal LHS
+wizards/kaappi/fix/key_base.c line 18: Variable add_action not declared !
+wizards/kaappi/fix/key_base.c line 18: syntax error
+wizards/kaappi/fix/key_base.c line 23: syntax error
+wizards/kaappi/fix/key_base.c line 27: syntax error
+wizards/kaappi/fix/key_base.c line 32: Illegal LHS
+wizards/kaappi/fix/key_base.c line 32: syntax error
+wizards/kaappi/fix/key_base.c line 18: Variable add_action not declared !
+wizards/kaappi/fix/key_base.c line 18: syntax error
+wizards/kaappi/fix/key_base.c line 23: syntax error
+wizards/kaappi/fix/key_base.c line 27: syntax error
+wizards/kaappi/fix/key_base.c line 32: Illegal LHS
+wizards/kaappi/fix/key_base.c line 32: syntax error
+wizards/kaappi/fix/key_base.c line 20: Variable who not declared !
+wizards/kaappi/fix/key_base.c line 28: Variable present not declared !
+wizards/kaappi/fix/key_base.c line 28: syntax error
+wizards/kaappi/fix/key_base.c line 29: Variable You not declared !
+wizards/kaappi/fix/key_base.c line 29: syntax error
+wizards/kaappi/fix/key_base.c line 29: Illegal character (hex 2e) '.'
+wizards/kaappi/fix/key_base.c line 20: syntax error
+wizards/kaappi/fix/key_base.c line 24: Illegal LHS
+wizards/kaappi/fix/key_base.c line 24: syntax error
+wizards/kaappi/fix/key_base.c line 29: Illegal character (hex 2e) '.'
+wizards/kaappi/fix/key_base.c line 29: Illegal character (hex 5c) '\'
+wizards/kaappi/fix/key_base.c line 29: Newline in string
+wizards/kaappi/fix/key_base.c line 19: Illegal to redeclare local name 'key'
+wizards/kaappi/fix/key_base.c line 20: syntax error
+wizards/kaappi/fix/key_base.c line 24: Illegal LHS
+wizards/kaappi/fix/key_base.c line 24: syntax error
+wizards/kaappi/fix/key_base.c line 29: Illegal character (hex 2e) '.'
+wizards/kaappi/fix/key_base.c line 29: Illegal character (hex 5c) '\'
+wizards/kaappi/fix/key_base.c line 20: syntax error
+wizards/kaappi/fix/key_base.c line 24: Illegal LHS
+wizards/kaappi/fix/key_base.c line 24: syntax error
+wizards/kaappi/fix/key_base.c line 29: Illegal character (hex 2e) '.'
+wizards/kaappi/fix/key_base.c line 29: Illegal character (hex 5c) '\'
+wizards/kaappi/fix/key_base.c line 29: Newline in string
+wizards/kaappi/fix/key_base.c line 29: Variable You not declared !
+wizards/kaappi/fix/key_base.c line 29: syntax error
+wizards/kaappi/fix/key_base.c line 29: Illegal character (hex 2e) '.'
+wizards/kaappi/fix/key_base.c line 29: Illegal character (hex 5c) '\'
+wizards/kaappi/fix/key_base.c line 29: Newline in string
+wizards/kaappi/fix/key_base.c line 32: syntax error
+wizards/kaappi/fix/key_base.c line 31: Newline in string
+wizards/kaappi/fix/key_base.c line 32: syntax error
+wizards/kaappi/fix/key_base.c line 35: Illegal LHS
+wizards/kaappi/fix/key_base.c line 35: syntax error
+wizards/kaappi/fix/key_base.c line 40: syntax error
+wizards/kaappi/fix/key_base.c line 23: syntax error
+wizards/kaappi/fix/key_base.c line 24: Variable tgt not declared !
+wizards/kaappi/fix/key_base.c line 29: Variable obj not declared !
+wizards/kaappi/fix/key_base.c line 31: Variable obj not declared !
+wizards/kaappi/fix/key_base.c line 35: Variable tgt not declared !
+wizards/kaappi/fix/key_base.c line 37: Variable tgt not declared !
+wizards/kaappi/fix/key_base2.c line 18: syntax error
+wizards/kaappi/fix/key_base2.c line 20: Variable ob not declared !
+wizards/kaappi/fix/key_base2.c line 22: Variable ob not declared !
+wizards/kaappi/fix/key_base2.c line 23: Variable str not declared !
+wizards/kaappi/fix/key_base2.c line 27: Variable target not declared !
+wizards/kaappi/fix/key_base2.c line 28: Variable target not declared !
+wizards/kaappi/fix/key_base2.c line 24: Variable str not declared !
+wizards/kaappi/testit/a/koppi.c line 5: Illegal to redefine global variable 'a'
+wizards/kaappi/testit/a/koppi.c line 5: Type mismatch ( unknown vs int ) when initializing a
+wizards/kaappi/testit/a/koppi.c line 5: Missing type
+wizards/kaappi/testit/a/koppi.c line 5: Illegal to redefine global variable 'i'
+wizards/kaappi/testit/a/koppi.c line 5: Type mismatch ( unknown vs int ) when initializing i
+wizards/kaappi/testit/a/koppi.c line 5: Missing type
+wizards/kaappi/testit/a/koppi.c line 8: Variable a not declared !
+wizards/kaappi/testit/a/koppi.c line 5: Illegal to redefine global variable 'i'
+wizards/kaappi/testit/a/koppi.c line 5: Type mismatch ( unknown vs int ) when initializing i
+wizards/kaappi/testit/a/koppi.c line 5: Missing type
+wizards/kaappi/testit/a/koppi.c line 5: Illegal to redefine global variable 'i'
+wizards/kaappi/testit/a/koppi.c line 5: Type mismatch ( unknown vs int ) when initializing i
+wizards/kaappi/testit/a/koppi.c line 5: Missing type
+wizards/kaappi/testit/a/koppi.c line 5: Illegal to redefine global variable 'i'
+wizards/kaappi/testit/a/koppi.c line 5: Type mismatch ( unknown vs int ) when initializing i
+wizards/kaappi/testit/a/koppi.c line 5: Missing type
+wizards/kaappi/testit/a/koppi.c line 29: syntax error
+wizards/kaappi/testit/a/koppi.c line 5: Illegal to redefine global variable 'i'
+wizards/kaappi/testit/a/koppi.c line 5: Type mismatch ( unknown vs int ) when initializing i
+wizards/kaappi/testit/a/koppi.c line 5: Missing type
+wizards/kaappi/testit/a/koppi.c line 5: Illegal to redefine global variable 'i'
+wizards/kaappi/testit/a/koppi.c line 5: Type mismatch ( unknown vs int ) when initializing i
+wizards/kaappi/testit/a/koppi.c line 5: Missing type
+wizards/kaappi/testit/a/koppi.c line 7: syntax error
+wizards/kaappi/testit/a/koppi.c line 7: syntax error
+wizards/kaappi/testit/a/koppi.c line 7: Illegal to redefine global variable 'i'
+wizards/kaappi/testit/a/koppi.c line 7: Type mismatch ( unknown vs int ) when initializing i
+wizards/kaappi/testit/a/koppi.c line 7: Missing type
+wizards/kaappi/testit/a/koppi.c line 8: syntax error
+wizards/kaappi/testit/a/koppi.c line 7: syntax error
+wizards/kaappi/testit/a/koppi.c line 7: syntax error
+wizards/kaappi/testit/a/koppi.c line 7: syntax error
+wizards/kaappi/testit/a/koppi.c line 7: syntax error
+wizards/kaappi/testit/a/koppi.c line 5: Illegal to redefine global variable 'i'
+wizards/kaappi/testit/a/koppi.c line 5: Type mismatch ( unknown vs int ) when initializing i
+wizards/kaappi/testit/a/koppi.c line 5: Missing type
+wizards/kaappi/testit/a/koppi.c line 5: Illegal to redefine global variable 'i'
+wizards/kaappi/testit/a/koppi.c line 5: Type mismatch ( unknown vs int ) when initializing i
+wizards/kaappi/testit/a/koppi.c line 5: Missing type
+wizards/kaappi/testit/a/koppi.c line 26: syntax error
+wizards/kaappi/testit/a/koppi.c line 5: Illegal to redefine global variable 'a'
+wizards/kaappi/testit/a/koppi.c line 5: Type mismatch ( unknown vs int ) when initializing a
+wizards/kaappi/testit/a/koppi.c line 5: Missing type
+wizards/kaappi/testit/a/koppi.c line 5: syntax error
+wizards/kaappi/testit/a/koppi.c line 5: Illegal to redefine global variable 'a'
+wizards/kaappi/testit/a/koppi.c line 5: Type mismatch ( unknown vs int ) when initializing a
+wizards/kaappi/testit/a/koppi.c line 5: Missing type
+wizards/kaappi/testit/a/koppi.c line 7: syntax error
+wizards/kaappi/testit/a/koppi.c line 5: Illegal to redefine global variable 'a'
+wizards/kaappi/testit/a/koppi.c line 5: Type mismatch ( unknown vs int ) when initializing a
+wizards/kaappi/testit/a/koppi.c line 5: Missing type
+wizards/kaappi/testit/a/kk.c line 9: function not defined by inheritance as specified
+wizards/kaappi/testit/a/kk.c line 8: Variable i not declared !
+wizards/kaappi/testit/a/koppi.c line 5: Illegal to redefine global variable 'i'
+wizards/kaappi/testit/a/koppi.c line 5: Type mismatch ( unknown vs int ) when initializing i
+wizards/kaappi/testit/a/koppi.c line 5: Missing type
+wizards/kaappi/testit/a/koppi.c line 5: Type mismatch ( unknown vs int ) when initializing change
+wizards/kaappi/testit/a/koppi.c line 5: Missing type
+wizards/kaappi/testit/a/koppi.c line 5: Illegal to redefine global variable 'b'
+wizards/kaappi/testit/a/koppi.c line 5: Type mismatch ( unknown vs int ) when initializing b
+wizards/kaappi/testit/a/koppi.c line 5: Missing type
+wizards/kaappi/testit/a/koppi.c line 9: Variable i not declared !
+wizards/kaappi/testit/a/koppi.c line 5: Illegal to redefine global variable 'b'
+wizards/kaappi/testit/a/koppi.c line 5: Type mismatch ( unknown vs int ) when initializing b
+wizards/kaappi/testit/a/koppi.c line 5: Missing type
+wizards/kaappi/testit/a/koppi.c line 9: Variable i not declared !
+wizards/kaappi/testit/a/koppi.c line 5: Illegal to redefine global variable 'b'
+wizards/kaappi/testit/a/koppi.c line 5: Type mismatch ( unknown vs int ) when initializing b
+wizards/kaappi/testit/a/koppi.c line 5: Missing type
+wizards/kaappi/testit/a/kop.c line 7: function not defined by inheritance as specified
+wizards/kaappi/testit/a/koppi.c line 5: Illegal to redefine global variable 'b'
+wizards/kaappi/testit/a/koppi.c line 5: Type mismatch ( unknown vs int ) when initializing b
+wizards/kaappi/testit/a/koppi.c line 5: Missing type
+wizards/kaappi/testit/a/koppi.c line 7: Variable b not declared !
+wizards/kaappi/testit/a/s.c line 39: syntax error
+wizards/kaappi/testit/a/s.c line 39: Illegal character (hex 5c) '\'
+wizards/kaappi/testit/a/s.c line 39: Newline in string
+wizards/kaappi/testit/a/s.c line 39: syntax error
+wizards/kaappi/testit/a/s.c line 39: Illegal character (hex 5c) '\'
+wizards/kaappi/testit/a/s.c line 39: Newline in string
+wizards/kaappi/testit/a/wr.c line 69: syntax error
+wizards/kaappi/testit/a/wr.c line 70: Illegal LHS
+wizards/kaappi/testit/a/wr.c line 71: syntax error
+wizards/kaappi/testit/a/wr.c line 71: Illegal LHS
+wizards/kaappi/testit/a/wr.c line 72: Variable us not declared !
+wizards/kaappi/testit/a/wr.c line 72: Variable i not declared !
+wizards/kaappi/testit/a/wr.c line 72: syntax error
+wizards/kaappi/testit/a/wr.c line 74: Illegal LHS
+wizards/kaappi/testit/a/wr.c line 75: Illegal LHS
+wizards/kaappi/testit/a/wr.c line 75: syntax error
+wizards/kaappi/testit/a/wr.c line 72: syntax error
+wizards/kaappi/testit/a/wr.c line 74: Illegal LHS
+wizards/kaappi/testit/a/wr.c line 75: Illegal LHS
+wizards/kaappi/testit/a/wr.c line 75: syntax error
+wizards/kaappi/testit/wr.c line 36: Variable inte not declared !
+wizards/kaappi/testit/wr.c line 36: syntax error
+wizards/kaappi/testit/wr.c line 41: Variable i not declared !
+wizards/kaappi/testit/wr.c line 41: Variable i not declared !
+wizards/kaappi/testit/wr.c line 43: Variable idletime not declared !
+wizards/kaappi/testit/wr.c line 43: Variable i not declared !
+wizards/kaappi/testit/wr.c line 45: syntax error
+wizards/kaappi/testit/wr.c line 46: Illegal LHS
+wizards/kaappi/testit/wr.c line 46: syntax error
+wizards/kaappi/testit/wr.c line 49: syntax error
+wizards/kaappi/testit/wr.c line 50: Illegal LHS
+wizards/kaappi/testit/wr.c line 50: syntax error
+wizards/kaappi/testit/wr.c line 46: syntax error
+wizards/kaappi/testit/wr.c line 47: Illegal LHS
+wizards/kaappi/testit/wr.c line 47: syntax error
+wizards/kaappi/testit/wr.c line 50: syntax error
+wizards/kaappi/testit/wr.c line 51: Illegal LHS
+wizards/kaappi/testit/wr.c line 51: syntax error
+wizards/kaappi/testit/wr.c line 49: syntax error
+wizards/kaappi/testit/wr.c line 50: Illegal LHS
+wizards/kaappi/testit/wr.c line 50: syntax error
+wizards/kaappi/testit/wr.c line 53: syntax error
+wizards/kaappi/testit/wr.c line 54: Illegal LHS
+wizards/kaappi/testit/wr.c line 54: syntax error
+wizards/kaappi/testit/wr.c line 50: syntax error
+wizards/kaappi/testit/wr.c line 51: Illegal LHS
+wizards/kaappi/testit/wr.c line 51: syntax error
+wizards/kaappi/testit/wr.c line 54: syntax error
+wizards/kaappi/testit/wr.c line 55: Illegal LHS
+wizards/kaappi/testit/wr.c line 55: syntax error
+wizards/kaappi/testit/wr.c line 51: syntax error
+wizards/kaappi/testit/wr.c line 52: Illegal LHS
+wizards/kaappi/testit/wr.c line 52: syntax error
+wizards/kaappi/testit/wr.c line 55: syntax error
+wizards/kaappi/testit/wr.c line 56: Illegal LHS
+wizards/kaappi/testit/wr.c line 56: syntax error
+wizards/kaappi/testit/wr.c line 51: syntax error
+wizards/kaappi/testit/wr.c line 52: Illegal LHS
+wizards/kaappi/testit/wr.c line 52: syntax error
+wizards/kaappi/testit/wr.c line 55: syntax error
+wizards/kaappi/testit/wr.c line 56: Illegal LHS
+wizards/kaappi/testit/wr.c line 56: syntax error
+wizards/kaappi/testit/wr.c line 65: syntax error
+wizards/kaappi/testit/wr.c line 30: Variable obj not declared !
+wizards/kaappi/testit/wr.c line 31: Variable obj not declared !
+wizards/kaappi/testit/wr.c line 24: syntax error
+wizards/kaappi/testit/wr.c line 30: Variable obj1 not declared !
+wizards/kaappi/testit/wr.c line 30: Illegal LHS
+wizards/kaappi/testit/wr.c line 30: syntax error
+wizards/kaappi/testit/wr.c line 31: Variable obj2 not declared !
+wizards/kaappi/testit/wr.c line 31: Illegal LHS
+wizards/kaappi/testit/w2.c line 67: syntax error
+wizards/kaappi/testit/w2.c line 68: Illegal to redeclare local name 'i'
+wizards/kaappi/testit/w2.c line 69: Illegal to redeclare local name 'idletime'
+wizards/kaappi/testit/w2.c line 70: Illegal to redeclare local name 'idles'
+wizards/kaappi/testit/w2.c line 67: syntax error
+wizards/kaappi/testit/w2.c line 66: Illegal to redeclare local name 'ob'
+wizards/kaappi/testit/w2.c line 67: syntax error
+wizards/kaappi/testit/w2.c line 71: Variable ob2 not declared !
+wizards/kaappi/testit/w2.c line 72: Variable ob2 not declared !
+wizards/kaappi/testit/w2.c line 72: Variable ob2 not declared !
+wizards/kaappi/testit/w2.c line 73: Variable ob2 not declared !
+wizards/kaappi/testit/w2.c line 73: Variable ob2 not declared !
+wizards/kaappi/testit/w2.c line 67: syntax error
+wizards/kaappi/testit/w2.c line 71: Variable ob2 not declared !
+wizards/kaappi/testit/w2.c line 72: Variable ob2 not declared !
+wizards/kaappi/testit/w2.c line 72: Variable ob2 not declared !
+wizards/kaappi/testit/w2.c line 73: Variable ob2 not declared !
+wizards/kaappi/testit/w2.c line 73: Variable ob2 not declared !
+wizards/kaappi/testit/w2.c line 67: syntax error
+wizards/kaappi/testit/w3.c line 68: syntax error
+wizards/kaappi/testit/wr2.c line 85: syntax error
+wizards/kaappi/testit/wr2.c line 67: Illegal to redeclare local name 'ob'
+wizards/kaappi/testit/wr2.c line 68: Illegal to redeclare local name 'i'
+wizards/kaappi/testit/wr2.c line 69: Illegal to redeclare local name 'idletime'
+wizards/kaappi/testit/wr2.c line 70: Illegal to redeclare local name 'idles'
+wizards/kaappi/testit/wr2.c line 90: syntax error
+wizards/kaappi/testit/wr2.c line 90: syntax error
+wizards/kaappi/testit/wr3.c line 76: Variable name not declared !
+wizards/kaappi/testit/wr3.c line 94: syntax error
+wizards/kaappi/testit/wr3.c line 93: syntax error
+wizards/kaappi/workroom.c line 65: Illegal character (hex 5c) '\'
+wizards/kaappi/workroom.c line 65: syntax error
+wizards/kaappi/workroom.c line 76: Illegal LHS
+wizards/kaappi/workroom.c line 76: syntax error
+wizards/kaappi/workroom.c line 77: Variable us not declared !
+wizards/kaappi/workroom.c line 77: syntax error
+wizards/kaappi/workroom.c line 65: Illegal character (hex 5c) '\'
+wizards/kaappi/workroom.c line 65: syntax error
+wizards/kaappi/workroom.c line 65: Illegal character (hex 5c) '\'
+wizards/kaappi/workroom.c line 65: Newline in string
+wizards/kaappi/workroom.c line 95: Illegal character (hex 5c) '\'
+wizards/kaappi/workroom.c line 95: syntax error
+wizards/kaappi/workroom.c line 95: Newline in string
+Tue Mar 23 17:46:47 2010 Thordim Goodsteel, The king of Amaranthgard, sitting on his Throne(strong) (/wizards/kaappi/dcity/mobs/king#19964, 100) killed by Ntg (558) 
+wizards/kaappi/fix/tame/animal_shadow.c line 74: syntax error
+wizards/kaappi/fix/tame/animal_shadow.c line 77: syntax error
+wizards/kaappi/fix/tame/animal_shadow.c line 74: syntax error
+wizards/kaappi/fix/tame/animal_shadow.c line 77: syntax error
+wizards/kaappi/fix/tame/animal_shadow.c line 80: syntax error
+wizards/kaappi/fix/tame/animal_shadow.c line 80: function not defined by inheritance as specified
+wizards/kaappi/fix/tame/animal_shadow.c line 93: syntax error
+wizards/kaappi/fix/tame/animal_shadow.c line 90: syntax error
+wizards/kaappi/fix/tame/animal_shadow.c line 49: syntax error
+wizards/kaappi/fix/tame/animal_shadow.c line 51: Variable master not declared !
+wizards/kaappi/fix/tame/animal_shadow.c line 52: Variable master not declared !
+wizards/kaappi/fix/tame/animal_shadow.c line 57: Variable master not declared !
+wizards/kaappi/fix/tame/animal_shadow.c line 58: Variable master not declared !
+wizards/kaappi/fix/tame/animal_shadow.c line 64: Variable master not declared !
+wizards/kaappi/cmds/_lite.c line 141: Newline in string
+wizards/kaappi/cmds/_lite.c line 141: Variable party not declared !
+wizards/kaappi/cmds/_lite.c line 141: syntax error
+wizards/kaappi/cmds/_lite.c line 143: Illegal LHS
+wizards/kaappi/workroom.c line 46: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 77: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 46: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 77: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 46: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 77: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 46: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 77: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 46: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 77: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 46: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 77: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 46: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 77: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 46: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 77: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 46: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 77: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 46: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 77: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 46: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 77: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 46: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 77: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 46: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 77: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 46: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 77: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 46: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 77: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 46: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 77: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 46: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 77: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 46: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 77: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 46: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 77: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 46: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 77: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 46: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 77: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 46: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 77: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 46: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 77: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 46: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 77: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 46: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 77: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 46: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 77: Missing arguments to simul_efun filter_array
+wizards/kaappi/fix/_exs_fla_rha.c line 17: Missing arguments to simul_efun filter_array
+wizards/kaappi/fix/_exs_fla_rha.c line 17: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 46: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 77: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 46: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 77: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 46: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 77: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 46: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 77: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 46: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 77: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 46: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 77: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 77: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 46: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 77: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 46: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 77: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 46: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 77: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 46: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 77: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 46: Undefined function: query_wiz
+wizards/kaappi/workroom.c line 46: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 77: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 46: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 77: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 46: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 77: Missing arguments to simul_efun filter_array
+wizards/kaappi/fix/_exs_fla_rha.c line 17: Missing arguments to simul_efun filter_array
+wizards/kaappi/fix/_exs_fla_rha.c line 17: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 77: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 46: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 77: Missing arguments to simul_efun filter_array
+wizards/kaappi/workroom.c line 77: Missing arguments to simul_efun filter_array
+wizards/kaappi/fix/horde.c line 138: Missing arguments to simul_efun filter_array
+wizards/kaappi/fix/horde.c line 364: Missing arguments to simul_efun filter_array
+wizards/kaappi/fix/horde.c line 138: Missing arguments to simul_efun filter_array
+wizards/kaappi/fix/horde.c line 364: Missing arguments to simul_efun filter_array
+Thu Jan 19 18:02:31 2012 Thordim Goodsteel, The king of Amaranthgard, sitting on his Throne(strong) (/wizards/kaappi/dcity/mobs/king#873, 102) killed by Madk (184) 

@@ -1,0 +1,20 @@
+****
+
+Warning: This code is not for distribution.
+PLEASE RESPECT THIS.
+Otherwise a 'MUD IN A BOX' will easily be possible.
+
+****
+
+I cannot and will not accept any responsibility for any problems caused,
+associated with, or linked to this software.
+
+
+Version changes to 1.0a
+
+Added ability to define level for FTP logging.
+Added variables to determine what a level can do.
+Added a minimum level for access to FTP.
+Various other tweaks to clean up code and routines.
+
+

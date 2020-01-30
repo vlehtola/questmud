@@ -1,0 +1,127 @@
+wizards/celtron/headhunter_quest/headhunter_mob.c line 83: syntax error
+wizards/celtron/headhunter_quest/headhunter_mob.c line 94: Variable player not declared !
+wizards/celtron/headhunter_quest/headhunter_mob.c line 94: Illegal LHS
+wizards/celtron/headhunter_quest/headhunter_mob.c line 95: Variable mob not declared !
+wizards/celtron/headhunter_quest/headhunter_mob.c line 95: Variable file not declared !
+wizards/celtron/headhunter_quest/headhunter_mob.c line 96: Variable sack not declared !
+wizards/celtron/headhunter_quest/headhunter_mob.c line 83: syntax error
+wizards/celtron/headhunter_quest/headhunter_mob.c line 94: Variable player not declared !
+wizards/celtron/headhunter_quest/headhunter_mob.c line 94: Illegal LHS
+wizards/celtron/headhunter_quest/headhunter_mob.c line 95: Variable mob not declared !
+wizards/celtron/headhunter_quest/headhunter_mob.c line 95: Variable file not declared !
+wizards/celtron/headhunter_quest/headhunter_mob.c line 96: Variable sack not declared !
+Sat Jun 17 23:53:38 2006 A dirty mummy in yellow wrapping(undead) (strong) (/wizards/celtron/maze/monsters/mummy#17168, 59) killed by Ntg (290) 
+Sun Jun 18 00:15:12 2006 Hriak, the evil necromancer(strong) (/wizards/celtron/maze/monsters/necro#17164, 92) killed by Ntg (290) 
+Tue Jul 04 00:10:13 2006 A dirty mummy in yellow wrapping(undead) (strong) (/wizards/celtron/maze/monsters/mummy#7978, 43) killed by Ntg (290) 
+Tue Jul 04 00:42:19 2006 Hriak, the evil necromancer(strong) (/wizards/celtron/maze/monsters/necro#7974, 92) killed by Ntg (290) 
+Tue Jul 25 17:06:32 2006 A dirty mummy in yellow wrapping(undead) (strong) (/wizards/celtron/maze/monsters/mummy#2167, 43) killed by Bloodstorm (243) 
+Tue Jul 25 17:48:33 2006 Hriak, the evil necromancer(strong) (/wizards/celtron/maze/monsters/necro#2162, 92) killed by Bloodstorm (243) 
+Mon Jul 31 23:58:32 2006 A dirty mummy in yellow wrapping(undead) (strong) (/wizards/celtron/maze/monsters/mummy#6540, 43) killed by Reaper (238) 
+Tue Aug 01 00:45:51 2006 Hriak, the evil necromancer(strong) (/wizards/celtron/maze/monsters/necro#6536, 92) killed by Reaper (238) 
+wizards/celtron/eval_file.c line 2: Too many arguments to environment
+wizards/celtron/eval_file.c line 2: Too many arguments to environment
+wizards/celtron/eval_file.c line 2: Too many arguments to environment
+wizards/celtron/eval_file.c line 2: syntax error
+wizards/celtron/eval_file.c line 2: Too many arguments to find_object
+wizards/celtron/eval_file.c line 2: Too many arguments to find_object
+wizards/celtron/eval_file.c line 2: Too many arguments to find_object
+wizards/celtron/eval_file.c line 2: Variable man not declared !
+wizards/celtron/eval_file.c line 2: Too many arguments to find_object
+wizards/celtron/eval_file.c line 2: Variable man not declared !
+wizards/celtron/eval_file.c line 2: Too many arguments to find_object
+wizards/celtron/eval_file.c line 2: Too many arguments to find_object
+Sat Jan 19 23:32:20 2008 A dirty mummy in yellow wrapping(undead) (strong) (/wizards/celtron/maze/monsters/mummy#26325, 43) killed by Devil (223) 
+Sat Jan 19 23:55:03 2008 Hriak, the evil necromancer(strong) (/wizards/celtron/maze/monsters/necro#26320, 92) killed by Devil (223) 
+Sun Jan 20 13:59:57 2008 A dirty mummy in yellow wrapping(undead) (strong) (/wizards/celtron/maze/monsters/mummy#4212, 43) killed by Devil (223) 
+Sun Jan 20 14:12:16 2008 Hriak, the evil necromancer(strong) (/wizards/celtron/maze/monsters/necro#4207, 92) killed by Devil (223) 
+Fri Jan 25 15:31:22 2008 A dirty mummy in yellow wrapping(undead) (strong) (/wizards/celtron/maze/monsters/mummy#13687, 43) killed by Alardolath (243) 
+Sat Jan 26 01:48:23 2008 Hriak, the evil necromancer(strong) (/wizards/celtron/maze/monsters/necro#13683, 122) killed by Alardolath (243) 
+Sat Jan 26 13:24:07 2008 A dirty mummy in yellow wrapping(undead) (strong) (/wizards/celtron/maze/monsters/mummy#1350, 43) killed by Alardolath (243) 
+Sat Jan 26 13:50:59 2008 Hriak, the evil necromancer(strong) (/wizards/celtron/maze/monsters/necro#1346, 92) killed by Alardolath (243) 
+wizards/celtron/sinrad/sinrad.c line 78: Too few arguments to tell_room
+wizards/celtron/sinrad/sinrad.c line 79: syntax error
+Fri Feb 22 11:33:41 2008 A dirty mummy in yellow wrapping(undead) (strong) (/wizards/celtron/maze/monsters/mummy#5376, 43) killed by Olsma (229) 
+Fri Feb 22 14:26:17 2008 Hriak, the evil necromancer(strong) (/wizards/celtron/maze/monsters/necro#5372, 92) killed by Olsma (229) 
+Sat Feb 23 13:14:08 2008 A dirty mummy in yellow wrapping(undead) (strong) (/wizards/celtron/maze/monsters/mummy#871, 43) killed by Celes (251) 
+Sat Feb 23 13:42:13 2008 Hriak, the evil necromancer(strong) (/wizards/celtron/maze/monsters/necro#866, 92) killed by Celes (251) 
+Mon Feb 25 15:18:26 2008 A dirty mummy in yellow wrapping(undead) (strong) (/wizards/celtron/maze/monsters/mummy#21834, 43) killed by Ntg (243) 
+Mon Feb 25 15:56:31 2008 Hriak, the evil necromancer(strong) (/wizards/celtron/maze/monsters/necro#21830, 92) killed by Ntg (243) 
+Sun Mar 02 17:08:06 2008 A dirty mummy in yellow wrapping(undead) (strong) (/wizards/celtron/maze/monsters/mummy#26641, 60) killed by Alardolath (249) 
+Sun Mar 02 18:44:53 2008 Hriak, the evil necromancer(strong) (/wizards/celtron/maze/monsters/necro#26637, 92) killed by Alardolath (249) 
+Fri Mar 07 18:32:52 2008 A dirty mummy in yellow wrapping(undead) (strong) (/wizards/celtron/maze/monsters/mummy#6232, 43) killed by Alardolath (250) 
+Fri Mar 07 18:48:05 2008 Hriak, the evil necromancer(strong) (/wizards/celtron/maze/monsters/necro#6227, 92) killed by Alardolath (250) 
+Sat Mar 08 11:50:29 2008 A dirty mummy in yellow wrapping(undead) (strong) (/wizards/celtron/maze/monsters/mummy#2227, 43) killed by Alardolath (250) 
+Sat Mar 08 12:06:45 2008 Hriak, the evil necromancer(strong) (/wizards/celtron/maze/monsters/necro#2224, 92) killed by Alardolath (250) 
+Tue Apr 08 20:17:47 2008 A dirty mummy in yellow wrapping(undead) (strong) (/wizards/celtron/maze/monsters/mummy#17231, 43) killed by Ntg (292) 
+Tue Apr 08 20:56:00 2008 Hriak, the evil necromancer(strong) (/wizards/celtron/maze/monsters/necro#17226, 92) killed by Ntg (292) 
+Tue May 13 13:55:25 2008 A dirty mummy in yellow wrapping(undead) (strong) (/wizards/celtron/maze/monsters/mummy#4770, 43) killed by Ntg (297) 
+Tue May 13 14:27:33 2008 Hriak, the evil necromancer(strong) (/wizards/celtron/maze/monsters/necro#4766, 92) killed by Ntg (297) 
+Thu Aug 07 20:55:39 2008 A dirty mummy in yellow wrapping(undead) (strong) (/wizards/celtron/maze/monsters/mummy#17014, 43) killed by Alardolath (267) 
+Thu Aug 07 21:39:52 2008 Hriak, the evil necromancer(strong) (/wizards/celtron/maze/monsters/necro#17010, 92) killed by Alardolath (267) 
+Mon Aug 11 23:56:29 2008 A dirty mummy in yellow wrapping(undead) (strong) (/wizards/celtron/maze/monsters/mummy#32944, 43) killed by Alardolath (267) 
+Tue Aug 12 00:16:33 2008 Hriak, the evil necromancer(strong) (/wizards/celtron/maze/monsters/necro#32939, 92) killed by Alardolath (267) 
+Thu Sep 04 19:51:45 2008 A dirty mummy in yellow wrapping(undead) (strong) (/wizards/celtron/maze/monsters/mummy#18682, 62) killed by Golthar (368) 
+Thu Sep 04 20:26:04 2008 Hriak, the evil necromancer(strong) (/wizards/celtron/maze/monsters/necro#18678, 92) killed by Golthar (368) 
+Fri Sep 05 08:45:49 2008 A dirty mummy in yellow wrapping(undead) (strong) (/wizards/celtron/maze/monsters/mummy#1445, 43) killed by Golthar (368) 
+Fri Sep 05 09:55:05 2008 Hriak, the evil necromancer(strong) (/wizards/celtron/maze/monsters/necro#1440, 92) killed by Golthar (368) 
+Sat Sep 13 15:06:32 2008 A dirty mummy in yellow wrapping(undead) (strong) (/wizards/celtron/maze/monsters/mummy#23559, 43) killed by Ntg (388) 
+Sat Sep 13 15:22:52 2008 Hriak, the evil necromancer(strong) (/wizards/celtron/maze/monsters/necro#23555, 92) killed by Ntg (388) 
+Sun Sep 28 11:35:53 2008 A dirty mummy in yellow wrapping(undead) (strong) (/wizards/celtron/maze/monsters/mummy#8695, 43) killed by Ntg (400) 
+Sun Sep 28 11:49:00 2008 Hriak, the evil necromancer(strong) (/wizards/celtron/maze/monsters/necro#8690, 92) killed by Ntg (400) 
+Sat Oct 25 12:20:32 2008 A dirty mummy in yellow wrapping(undead) (strong) (/wizards/celtron/maze/monsters/mummy#1603, 43) killed by Golthar (400) 
+Sat Oct 25 12:34:33 2008 Hriak, the evil necromancer(strong) (/wizards/celtron/maze/monsters/necro#1598, 92) killed by Golthar (400) 
+Sun Nov 30 20:26:21 2008 A dirty mummy in yellow wrapping(undead) (strong) (/wizards/celtron/maze/monsters/mummy#19859, 43) killed by Ozmala (249) 
+Sun Nov 30 21:17:12 2008 Hriak, the evil necromancer(strong) (/wizards/celtron/maze/monsters/necro#19856, 92) killed by Ozmala (249) 
+Wed Feb 04 20:07:16 2009 Sinrad, the cityguards commander(strong) (/wizards/celtron/sinrad/sinrad#14370, 90) killed by Reaper (208) 
+Tue Mar 24 18:55:46 2009 A dirty mummy in yellow wrapping(undead) (strong) (/wizards/celtron/maze/monsters/mummy#10555, 43) killed by Alardolath (519) 
+Tue Mar 24 19:08:20 2009 Hriak, the evil necromancer(strong) (/wizards/celtron/maze/monsters/necro#10551, 92) killed by Alardolath (519) 
+Wed Mar 25 18:05:10 2009 A dirty mummy in yellow wrapping(undead) (strong) (/wizards/celtron/maze/monsters/mummy#585, 43) killed by Alardolath (524) 
+Wed Mar 25 18:17:33 2009 Hriak, the evil necromancer(strong) (/wizards/celtron/maze/monsters/necro#581, 92) killed by Alardolath (524) 
+Thu Jun 04 17:05:18 2009 A dirty mummy in yellow wrapping(undead) (strong) (/wizards/celtron/maze/monsters/mummy#191, 43) killed by Terror (408) 
+Thu Jun 04 17:19:24 2009 Hriak, the evil necromancer(strong) (/wizards/celtron/maze/monsters/necro#187, 92) killed by Terror (408) 
+Sun Jun 21 20:12:02 2009 A dirty mummy in yellow wrapping(undead) (strong) (/wizards/celtron/maze/monsters/mummy#323, 43) killed by Terror (408) 
+Sun Jun 21 20:39:17 2009 Hriak, the evil necromancer(strong) (/wizards/celtron/maze/monsters/necro#319, 92) killed by Terror (408) 
+Tue Mar 16 21:19:12 2010 A dirty mummy in yellow wrapping(undead) (strong) (/wizards/celtron/maze/monsters/mummy#14175, 43) killed by Ntg (558) 
+Tue Mar 16 21:29:04 2010 Hriak, the evil necromancer(strong) (/wizards/celtron/maze/monsters/necro#14170, 92) killed by Ntg (558) 
+Thu Mar 18 22:35:43 2010 A dirty mummy in yellow wrapping(undead) (strong) (/wizards/celtron/maze/monsters/mummy#15369, 43) killed by Terror (408) 
+Thu Mar 18 23:19:06 2010 Hriak, the evil necromancer(strong) (/wizards/celtron/maze/monsters/necro#15365, 92) killed by Terror (408) 
+Sun Mar 21 11:04:49 2010 A dirty mummy in yellow wrapping(undead) (strong) (/wizards/celtron/maze/monsters/mummy#3859, 43) killed by Terror (408) 
+Sun Mar 21 11:28:42 2010 Hriak, the evil necromancer(strong) (/wizards/celtron/maze/monsters/necro#3855, 92) killed by Terror (408) 
+wizards/celtron/eval_file.c line 2: Undefined function 'rebirth'
+wizards/celtron/eval_file.c line 2: Undefined function 'call_object'
+wizards/celtron/eval_file.c line 3: Missing 'return <value>' statement
+wizards/celtron/eval_file.c line 3: Missing 'return <value>' statement
+wizards/celtron/eval_file.c line 3: Missing 'return <value>' statement
+wizards/celtron/eval_file.c line 3: Missing 'return <value>' statement
+wizards/celtron/eval_file.c line 2: Variable celtron not declared !
+wizards/celtron/eval_file.c line 2: syntax error
+wizards/celtron/eval_file.c line 3: Missing 'return <value>' statement
+wizards/celtron/eval_file.c line 3: Missing 'return <value>' statement
+wizards/celtron/eval_file.c line 3: Missing 'return <value>' statement
+wizards/celtron/eval_file.c line 3: Missing 'return <value>' statement
+wizards/celtron/eval_file.c line 3: Missing 'return <value>' statement
+wizards/celtron/eval_file.c line 3: Missing 'return <value>' statement
+wizards/celtron/eval_file.c line 3: Missing 'return <value>' statement
+wizards/celtron/eval_file.c line 3: Missing 'return <value>' statement
+wizards/celtron/eval_file.c line 3: Missing 'return <value>' statement
+wizards/celtron/eval_file.c line 3: Missing 'return <value>' statement
+wizards/celtron/eval_file.c line 3: Missing 'return <value>' statement
+wizards/celtron/eval_file.c line 3: Missing 'return <value>' statement
+wizards/celtron/eval_file.c line 3: Missing 'return <value>' statement
+wizards/celtron/eval_file.c line 3: Missing 'return <value>' statement
+wizards/celtron/eval_file.c line 3: Missing 'return <value>' statement
+wizards/celtron/eval_file.c line 3: Missing 'return <value>' statement
+wizards/celtron/eval_file.c line 3: Missing 'return <value>' statement
+wizards/celtron/eval_file.c line 3: Missing 'return <value>' statement
+wizards/celtron/eval_file.c line 3: Missing 'return <value>' statement
+wizards/celtron/eval_file.c line 3: Missing 'return <value>' statement
+wizards/celtron/eval_file.c line 3: Missing 'return <value>' statement
+Thu Jun 02 17:34:20 2011 A dirty mummy in yellow wrapping(undead) (strong) (/wizards/celtron/maze/monsters/mummy#5211, 43) killed by Koff (558) 
+Thu Jun 02 17:57:56 2011 Hriak, the evil necromancer(strong) (/wizards/celtron/maze/monsters/necro#5207, 92) killed by Koff (558) 
+Sat Sep 17 18:34:57 2011 A dirty mummy in yellow wrapping(undead) (strong) (/wizards/celtron/maze/monsters/mummy#4011, 43) killed by Terror (558) 
+Sat Sep 17 19:10:49 2011 Hriak, the evil necromancer(strong) (/wizards/celtron/maze/monsters/necro#4007, 92) killed by Terror (558) 
+Wed Jan 11 17:37:34 2012 A dirty mummy in yellow wrapping(undead) (strong) (/wizards/celtron/maze/monsters/mummy#3999, 64) killed by Ntg (558) 
+Thu Jan 12 19:54:42 2012 A dirty mummy in yellow wrapping(undead) (strong) (/wizards/celtron/maze/monsters/mummy#2787, 43) killed by Ntg (558) 
+Thu Jan 12 20:17:12 2012 Hriak, the evil necromancer(strong) (/wizards/celtron/maze/monsters/necro#2782, 92) killed by Ntg (558) 
+Sun Jan 15 19:23:49 2012 A dirty mummy in yellow wrapping(undead) (strong) (/wizards/celtron/maze/monsters/mummy#1171, 43) killed by Ntg (558) 
+Sun Jan 15 19:40:17 2012 Hriak, the evil necromancer(strong) (/wizards/celtron/maze/monsters/necro#1167, 92) killed by Ntg (558) 

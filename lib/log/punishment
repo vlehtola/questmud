@@ -1,0 +1,107 @@
+wizards/punishment/workroom.c line 2 :Cannot #include mudlib.h
+wizards/punishment/workroom.c line 3 :Cannot #include ansi.h
+wizards/punishment/workroom.c line 10 :Bad assignment. Rhs: "mixed * "
+wizards/punishment/workroom.c line 11 :Bad assignment. Rhs: "string "
+wizards/punishment/workroom.c line 2 :Cannot #include mudlib.h
+wizards/punishment/workroom.c line 3 :Cannot #include ansi.h
+wizards/punishment/workroom.c line 10 :Bad assignment. Rhs: "mixed * "
+wizards/punishment/workroom.c line 11 :Bad assignment. Rhs: "string "
+wizards/punishment/workroom.c line 2 :Cannot #include mudlib.h
+wizards/punishment/workroom.c line 8 :Bad assignment. Rhs: "mixed * "
+wizards/punishment/workroom.c line 9 :Bad assignment. Rhs: "string "
+wizards/punishment//workroom.c line 1 :syntax error
+wizards/punishment//workroom.c line 1 :syntax error
+wizards/punishment//workroom.c line 1 :syntax error
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 5 :function not defined by inheritance as specified
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 28 :Undefined function set_items
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 60 :syntax error
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 69 :Newline in string
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 77 :Too few arguments to clone_object
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 77 :Illegal LHS
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 4 :function not defined by inheritance as specified
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 21 :Illegal character constant
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 21 :syntax error
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 18 :Illegal character constant
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 18 :syntax error
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 18 :Illegal character constant
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 18 :syntax error
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 6 :function not defined by inheritance as specified
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 22 :Variable allocate not declared !
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 23 :syntax error
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 23 :Illegal character (hex 23) '#'
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 29 :Newline in string
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 6 :function not defined by inheritance as specified
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 22 :Variable allocate not declared !
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 23 :syntax error
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 23 :Illegal character (hex 23) '#'
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 6 :function not defined by inheritance as specified
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 22 :Variable allocate not declared !
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 23 :syntax error
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 23 :Illegal character (hex 23) '#'
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 6 :function not defined by inheritance as specified
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 22 :Variable allocate not declared !
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 23 :syntax error
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 23 :Illegal LHS
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 25 :Illegal LHS
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 25 :syntax error
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 6 :function not defined by inheritance as specified
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 22 :Variable allocate not declared !
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 23 :syntax error
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 23 :Illegal LHS
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 25 :Illegal LHS
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 25 :syntax error
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 6 :function not defined by inheritance as specified
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 22 :Variable allocate not declared !
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 23 :syntax error
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 23 :Illegal LHS
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 25 :Illegal LHS
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 25 :syntax error
+wizards/punishment/duderoom.c line 31 :syntax error
+wizards/punishment/duderoom.c line 31 :syntax error
+wizards/punishment/duderoom.c line 31 :syntax error
+wizards/punishment/duderoom.c line 32 :syntax error
+wizards/punishment/duderoom.c line 32 :syntax error
+wizards/punishment/duderoom.c line 32 :syntax error
+wizards/punishment/duderoom.c line 32 :syntax error
+wizards/punishment/duderoom.c line 32 :syntax error
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 6 :function not defined by inheritance as specified
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 22 :Variable allocate not declared !
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 23 :syntax error
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 23 :Illegal LHS
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 25 :Illegal LHS
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 25 :syntax error
+wizards/punishment/duderoom.c line 32 :syntax error
+wizards/punishment/duderoom.c line 32 :syntax error
+wizards/punishment/duderoom.c line 32 :syntax error
+wizards/punishment/duderoom.c line 32 :syntax error
+wizards/punishment/duderoom.c line 32 :syntax error
+wizards/punishment/duderoom.c line 32 :syntax error
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 6 :function not defined by inheritance as specified
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 22 :Variable allocate not declared !
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 23 :syntax error
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 23 :Illegal LHS
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 25 :Illegal LHS
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 25 :syntax error
+wizards/punishment/duderoom.c line 32: syntax error
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 6: function not defined by inheritance as specified
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 22: Variable allocate not declared !
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 23: syntax error
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 23: Illegal LHS
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 24: Variable item not declared !
+wizards/punishment/areas/dwarfarea/roomit/room1.c line 26: Variable item not declared !
+wizards/punishment/examples/quest_monster2.c line 24: Variable this_object not declared !
+wizards/punishment/examples/quest_monster2.c line 24: syntax error
+wizards/punishment/examples/quest_monster2.c line 25: Illegal LHS
+wizards/punishment/examples/quest_monster2.c line 25: syntax error
+wizards/punishment/examples/quest_monster2.c line 24: Variable this_object not declared !
+wizards/punishment/examples/quest_monster2.c line 24: syntax error
+wizards/punishment/examples/quest_monster2.c line 25: Illegal LHS
+wizards/punishment/examples/quest_monster2.c line 25: syntax error
+wizards/punishment/examples/quest_monster2.c line 24: Variable this_object not declared !
+wizards/punishment/examples/quest_monster2.c line 24: syntax error
+wizards/punishment/examples/quest_monster2.c line 25: Illegal LHS
+wizards/punishment/examples/quest_monster2.c line 25: syntax error
+wizards/punishment/examples/quest_monster2.c line 24: Variable this_object not declared !
+wizards/punishment/examples/quest_monster2.c line 24: syntax error
+wizards/punishment/examples/quest_monster2.c line 25: Illegal LHS
+wizards/punishment/examples/quest_monster2.c line 25: syntax error

@@ -1,0 +1,392 @@
+wizards/proge/workroom.c line 90 :syntax error
+wizards/proge/workroom.c line 90 :syntax error
+wizards/proge/workroom.c line 90 :syntax error
+wizards/proge/workroom.c line 90 :syntax error
+wizards/proge/poison.c line 24 :Newline in string
+wizards/proge/poison.c line 25 :syntax error
+wizards/proge/poison.c line 19 :Newline in string
+wizards/proge/poison.c line 20 :syntax error
+wizards/proge/poison.c line 20 :Newline in string
+wizards/proge/poison.c line 21 :syntax error
+wizards/proge/poison.c line 20 :Newline in string
+wizards/proge/poison.c line 21 :syntax error
+wizards/proge/storyteller.c line 14 :syntax error
+wizards/proge/storyteller.c line 27 :Too few arguments to clone_object
+wizards/proge/storyteller.c line 27 :Illegal LHS
+wizards/proge/storyteller.c line 27 :syntax error
+wizards/proge/storyteller.c line 30 :Illegal LHS
+wizards/proge/storyteller.c line 30 :syntax error
+wizards/proge/storyteller.c line 14 :syntax error
+wizards/proge/storyteller.c line 25 :Too few arguments to clone_object
+wizards/proge/storyteller.c line 25 :Illegal LHS
+wizards/proge/storyteller.c line 25 :syntax error
+wizards/proge/storyteller.c line 28 :Illegal LHS
+wizards/proge/storyteller.c line 28 :syntax error
+wizards/proge/book.c line 25 :Variable RED_H not declared !
+wizards/proge/book.c line 23 :Newline in string
+wizards/proge/book.c line 24 :syntax error
+wizards/proge/book.c line 23 :Newline in string
+wizards/proge/book.c line 24 :syntax error
+wizards/proge/witch.c line 21 :syntax error
+wizards/proge/witch.c line 34 :Newline in string
+wizards/proge/witch.c line 35 :syntax error
+wizards/proge/witch.c line 41 :Too few arguments to clone_object
+wizards/proge/witch.c line 41 :Illegal LHS
+wizards/proge/witch.c line 41 :syntax error
+wizards/proge/witch.c line 31 :Newline in string
+wizards/proge/witch.c line 32 :syntax error
+wizards/proge/witch.c line 38 :Too few arguments to clone_object
+wizards/proge/witch.c line 38 :Illegal LHS
+wizards/proge/witch.c line 38 :syntax error
+wizards/proge/witch.c line 30 :Newline in string
+wizards/proge/witch.c line 31 :syntax error
+wizards/proge/witch.c line 37 :Too few arguments to clone_object
+wizards/proge/witch.c line 37 :Illegal LHS
+wizards/proge/witch.c line 37 :syntax error
+wizards/proge/witch.c line 30 :Newline in string
+wizards/proge/witch.c line 31 :syntax error
+wizards/proge/witch.c line 30 :Newline in string
+wizards/proge/witch.c line 31 :syntax error
+wizards/proge/witch.c line 30 :Newline in string
+wizards/proge/witch.c line 31 :syntax error
+wizards/proge/witch.c line 30 :Newline in string
+wizards/proge/witch.c line 31 :syntax error
+wizards/proge/witch.c line 30 :Newline in string
+wizards/proge/witch.c line 31 :syntax error
+wizards/proge/witch.c line 26 :Variable this_object not declared !
+wizards/proge/witch.c line 26 :syntax error
+wizards/proge/witch.c line 27 :Illegal LHS
+wizards/proge/witch.c line 27 :syntax error
+wizards/proge/witch.c line 34 :syntax error
+wizards/proge/witch.c line 34 :syntax error
+wizards/proge/witch.c line 36 :syntax error
+wizards/proge/suunnitelmat/forest/soul.c line 4 :function not defined by inheritance as specified
+wizards/proge/suunnitelmat/forest/soul.c line 11 :Newline in string
+wizards/proge/suunnitelmat/forest/soul.c line 12 :syntax error
+wizards/proge/suunnitelmat/forest/soul.c line 14 :Newline in string
+wizards/proge/suunnitelmat/forest/soul.c line 15 :syntax error
+wizards/proge/suunnitelmat/forest/soul.c line 14 :Newline in string
+wizards/proge/suunnitelmat/forest/soul.c line 15 :syntax error
+wizards/proge/suunnitelmat/forest/ghoul.c line 9 :Newline in string
+wizards/proge/suunnitelmat/forest/ghoul.c line 10 :syntax error
+wizards/proge/suunnitelmat/forest/ghoul.c line 9 :Newline in string
+wizards/proge/suunnitelmat/forest/ghoul.c line 10 :syntax error
+wizards/proge/suunnitelmat/forest/ghoul.c line 9 :Newline in string
+wizards/proge/suunnitelmat/forest/ghoul.c line 10 :syntax error
+wizards/proge/suunnitelmat/forest/ghoul.c line 18 :syntax error
+wizards/proge/suunnitelmat/forest/guard.c line 17 :Variable chat_str not declared !
+wizards/proge/suunnitelmat/forest/guard.c line 18 :Variable chat_str not declared !
+wizards/proge/suunnitelmat/forest/guard.c line 19 :Variable chat_str not declared !
+wizards/proge/suunnitelmat/forest/guard.c line 21 :Variable chat_str not declared !
+wizards/proge/suunnitelmat/forest/guard.c line 24 :Variable a_chat_str not declared !
+wizards/proge/suunnitelmat/forest/guard.c line 25 :Variable a_chat_str not declared !
+wizards/proge/suunnitelmat/forest/ghoul.c line 18 :syntax error
+wizards/proge/suunnitelmat/forest/sword.c line 15 :Newline in string
+wizards/proge/suunnitelmat/forest/sword.c line 16 :syntax error
+wizards/proge/suunnitelmat/forest/guardian.c line 5 :syntax error
+wizards/proge/suunnitelmat/forest/forest5.c line 33 :syntax error
+wizards/proge/suunnitelmat/forest/forest5.c line 41 :syntax error
+wizards/proge/suunnitelmat/forest/forest5.c line 33 :syntax error
+wizards/proge/suunnitelmat/forest/forest5.c line 41 :syntax error
+wizards/proge/suunnitelmat/forest/forest5.c line 33 :syntax error
+wizards/proge/suunnitelmat/forest/forest5.c line 41 :syntax error
+wizards/proge/suunnitelmat/forest/forest5.c line 33 :syntax error
+wizards/proge/suunnitelmat/forest/forest5.c line 41 :syntax error
+wizards/proge/suunnitelmat/forest/forest5.c line 33 :syntax error
+wizards/proge/suunnitelmat/forest/forest5.c line 41 :syntax error
+wizards/proge/suunnitelmat/forest/guardian.c line 5 :syntax error
+wizards/proge/suunnitelmat/forest/guardian.c line 5 :syntax error
+wizards/proge/suunnitelmat/forest/guardian.c line 19 :Variable necklace not declared !
+wizards/proge/suunnitelmat/forest/guardian.c line 19 :Variable necklace not declared !
+wizards/proge/suunnitelmat/forest/guardian.c line 19 :Variable necklace not declared !
+wizards/proge/suunnitelmat/forest/guardian.c line 19 :Variable necklace not declared !
+wizards/proge/suunnitelmat/forest/guardian.c line 19 :Variable necklace not declared !
+wizards/proge/suunnitelmat/forest/forest5.c line 33 :syntax error
+wizards/proge/suunnitelmat/forest/forest5.c line 41 :syntax error
+wizards/proge/suunnitelmat/forest/forest5.c line 41 :syntax error
+wizards/proge/suunnitelmat/forest/forest5.c line 41 :syntax error
+wizards/proge/suunnitelmat/forest/forest5.c line 41 :syntax error
+wizards/proge/eval_file.c line 2 :syntax error
+wizards/proge/eval_file.c line 2 :syntax error
+wizards/proge/moraloth/aukea.c line 28 :syntax error
+wizards/proge/moraloth/aukea.c line 28 :syntax error
+wizards/proge/moraloth/aukea.c line 28 :syntax error
+wizards/proge/moraloth/aukea.c line 35 :syntax error
+wizards/proge/moraloth/aukea.c line 45 :syntax error
+wizards/proge/moraloth/aukea.c line 46 :syntax error
+wizards/proge/moraloth/enter.c line 13 :syntax error
+wizards/proge/moraloth/enter.c line 13 :Newline in string
+wizards/proge/moraloth/enter.c line 13 :syntax error
+wizards/proge/moraloth/enter.c line 13 :Newline in string
+wizards/proge/moraloth/enter.c line 13 :syntax error
+wizards/proge/moraloth/enter.c line 13 :Newline in string
+wizards/proge/eval_file.c line 2 :Undefined function findplayer
+wizards/proge/eval_file.c line 2 :Undefined function findplayer
+wizards/proge/test/armoury.c line 49 :syntax error
+wizards/proge/test/armoury.c line 49 :Illegal LHS
+wizards/proge/test/armoury.c line 49 :Variable i not declared !
+wizards/proge/test/armoury.c line 49 :Variable i not declared !
+wizards/proge/test/armoury.c line 50 :Variable i not declared !
+wizards/proge/test/armoury.c line 51 :Variable i not declared !
+wizards/proge/test/armoury.c line 59 :Variable item not declared !
+wizards/proge/test/armoury.c line 60 :Variable item not declared !
+wizards/proge/test/armoury.c line 63 :Variable item not declared !
+wizards/proge/test/armoury.c line 64 :Variable item not declared !
+wizards/proge/test/armoury.c line 67 :Variable item not declared !
+wizards/proge/test/armoury.c line 68 :syntax error
+wizards/proge/test/armoury.c line 68 :syntax error
+wizards/proge/test/armoury.c line 69 :Illegal LHS
+wizards/proge/test/armoury.c line 69 :syntax error
+wizards/proge/test/armoury.c line 75 :Illegal LHS
+wizards/proge/test/armoury.c line 75 :syntax error
+wizards/proge/test/armoury.c line 69 :syntax error
+wizards/proge/test/armoury.c line 70 :Illegal LHS
+wizards/proge/test/armoury.c line 70 :syntax error
+wizards/proge/test/armoury.c line 76 :Illegal LHS
+wizards/proge/test/armoury.c line 76 :syntax error
+wizards/proge/test/armoury.c line 69 :syntax error
+wizards/proge/test/armoury.c line 70 :Illegal LHS
+wizards/proge/test/armoury.c line 70 :syntax error
+wizards/proge/test/armoury.c line 76 :Illegal LHS
+wizards/proge/test/armoury.c line 76 :syntax error
+wizards/proge/test/armoury.c line 69 :syntax error
+wizards/proge/test/armoury.c line 70 :Illegal LHS
+wizards/proge/test/armoury.c line 70 :syntax error
+wizards/proge/test/armoury.c line 76 :Illegal LHS
+wizards/proge/test/armoury.c line 76 :syntax error
+wizards/proge/test/armoury.c line 69 :syntax error
+wizards/proge/test/armoury.c line 70 :Illegal LHS
+wizards/proge/test/armoury.c line 70 :syntax error
+wizards/proge/test/armoury.c line 76 :Illegal LHS
+wizards/proge/test/armoury.c line 76 :syntax error
+wizards/proge/test/armoury.c line 69 :syntax error
+wizards/proge/test/armoury.c line 70 :Illegal LHS
+wizards/proge/test/armoury.c line 70 :syntax error
+wizards/proge/test/armoury.c line 76 :Illegal LHS
+wizards/proge/test/armoury.c line 76 :syntax error
+wizards/proge/test/armoury.c line 66 :syntax error
+wizards/proge/test/armoury.c line 67 :Illegal LHS
+wizards/proge/test/armoury.c line 67 :syntax error
+wizards/proge/test/armoury.c line 73 :Illegal LHS
+wizards/proge/test/armoury.c line 73 :syntax error
+wizards/proge/test/armoury.c line 66 :syntax error
+wizards/proge/test/armoury.c line 67 :Illegal LHS
+wizards/proge/test/armoury.c line 67 :syntax error
+wizards/proge/test/armoury.c line 73 :Illegal LHS
+wizards/proge/test/armoury.c line 73 :syntax error
+wizards/proge/test/armoury.c line 63 :syntax error
+wizards/proge/test/armoury.c line 64 :Illegal LHS
+wizards/proge/test/armoury.c line 65 :Illegal LHS
+wizards/proge/test/armoury.c line 65 :Illegal LHS
+wizards/proge/test/armoury.c line 65 :syntax error
+wizards/proge/test/armoury.c line 71 :Illegal LHS
+wizards/proge/test/armoury.c line 64 :syntax error
+wizards/proge/test/armoury.c line 65 :Illegal LHS
+wizards/proge/test/armoury.c line 65 :syntax error
+wizards/proge/test/armoury.c line 71 :Illegal LHS
+wizards/proge/test/armoury.c line 71 :syntax error
+wizards/proge/test/armoury.c line 64 :syntax error
+wizards/proge/test/armoury.c line 65 :Illegal LHS
+wizards/proge/test/armoury.c line 65 :syntax error
+wizards/proge/test/armoury.c line 71 :Illegal LHS
+wizards/proge/test/armoury.c line 71 :syntax error
+wizards/proge/test/armoury.c line 65 :syntax error
+wizards/proge/test/armoury.c line 66 :Illegal LHS
+wizards/proge/test/armoury.c line 66 :syntax error
+wizards/proge/test/armoury.c line 72 :Illegal LHS
+wizards/proge/test/armoury.c line 72 :syntax error
+wizards/proge/test/armoury.c line 65 :syntax error
+wizards/proge/test/armoury.c line 66 :Illegal LHS
+wizards/proge/test/armoury.c line 66 :syntax error
+wizards/proge/test/armoury.c line 72 :Illegal LHS
+wizards/proge/test/armoury.c line 72 :syntax error
+wizards/proge/test/armoury.c line 65 :syntax error
+wizards/proge/test/armoury.c line 66 :Illegal LHS
+wizards/proge/test/armoury.c line 66 :syntax error
+wizards/proge/test/armoury.c line 72 :Illegal LHS
+wizards/proge/test/armoury.c line 72 :syntax error
+wizards/proge/test/armoury.c line 83 :syntax error
+wizards/proge/test/armoury.c line 83 :syntax error
+wizards/proge/test/custom_armour.c line 6 :Variable short not declared !
+wizards/proge/test/custom_armour.c line 6 :syntax error
+wizards/proge/test/custom_armour.c line 7 :Variable long not declared !
+wizards/proge/test/custom_sword.c line 5 :Variable short not declared !
+wizards/proge/test/custom_sword.c line 6 :Variable long not declared !
+wizards/proge/test/custom_sword.c line 5 :Variable short not declared !
+wizards/proge/test/custom_sword.c line 6 :Variable long not declared !
+wizards/proge/test/custom_armour.c line 6 :Variable short not declared !
+wizards/proge/test/custom_armour.c line 6 :syntax error
+wizards/proge/test/custom_armour.c line 7 :Variable long not declared !
+wizards/proge/test/custom_sword.c line 5 :Variable short not declared !
+wizards/proge/test/custom_sword.c line 6 :Variable long not declared !
+wizards/proge/test/custom_armour.c line 6 :Variable short not declared !
+wizards/proge/test/custom_armour.c line 6 :syntax error
+wizards/proge/test/custom_armour.c line 7 :Variable long not declared !
+wizards/proge/test/custom_sword.c line 5 :Variable short not declared !
+wizards/proge/test/custom_sword.c line 6 :Variable long not declared !
+wizards/proge/test/armoury.c line 65 :syntax error
+wizards/proge/test/armoury.c line 66 :Illegal LHS
+wizards/proge/test/armoury.c line 66 :syntax error
+wizards/proge/test/armoury.c line 72 :Illegal LHS
+wizards/proge/test/armoury.c line 72 :syntax error
+wizards/proge/test/armoury.c line 12 :syntax error
+wizards/proge/test/armoury.c line 13 :Illegal LHS
+wizards/proge/test/armoury.c line 75 :Variable str not declared !
+wizards/proge/test/armoury.c line 75 :syntax error
+wizards/proge/test/armoury.c line 76 :Illegal LHS
+wizards/proge/test/armoury.c line 76 :Illegal LHS
+wizards/proge/test/armoury.c line 12 :syntax error
+wizards/proge/test/armoury.c line 13 :Illegal LHS
+wizards/proge/test/armoury.c line 75 :Variable str not declared !
+wizards/proge/test/armoury.c line 75 :syntax error
+wizards/proge/test/armoury.c line 76 :Illegal LHS
+wizards/proge/test/armoury.c line 76 :Illegal LHS
+wizards/proge/test/armoury.c line 88 :syntax error
+wizards/proge/test/armoury.c line 93 :syntax error
+wizards/proge/test/armoury.c line 120 :Newline in string
+wizards/proge/test/armoury.c line 88 :syntax error
+wizards/proge/test/armoury.c line 93 :syntax error
+wizards/proge/test/armoury.c line 120 :Newline in string
+wizards/proge/test/armoury.c line 12 :syntax error
+wizards/proge/test/armoury.c line 13 :Illegal LHS
+wizards/proge/test/armoury.c line 75 :Variable str not declared !
+wizards/proge/test/armoury.c line 75 :syntax error
+wizards/proge/test/armoury.c line 76 :Illegal LHS
+wizards/proge/test/armoury.c line 76 :Illegal LHS
+wizards/proge/test/armoury.c line 88 :syntax error
+wizards/proge/test/armoury.c line 94 :Illegal LHS
+wizards/proge/test/armoury.c line 94 :syntax error
+wizards/proge/test/armoury.c line 103 :Illegal LHS
+wizards/proge/test/armoury.c line 103 :syntax error
+wizards/proge/test/armoury.c line 120 :Newline in string
+wizards/proge/test/armoury.c line 120 :Newline in string
+wizards/proge/test/armoury.c line 121 :syntax error
+wizards/proge/test/armoury.c line 120 :Newline in string
+wizards/proge/test/armoury.c line 121 :syntax error
+wizards/proge/test/armoury.c line 120 :Newline in string
+wizards/proge/test/armoury.c line 121 :syntax error
+wizards/proge/test/armoury.c line 150 :Newline in string
+wizards/proge/test/armoury.c line 151 :syntax error
+wizards/proge/test/armoury.c line 156 :Newline in string
+wizards/proge/test/armoury.c line 157 :syntax error
+wizards/proge/test/armoury.c line 173 :Newline in string
+wizards/proge/test/armoury.c line 185 :Illegal LHS
+wizards/proge/test/armoury.c line 185 :Illegal LHS
+wizards/proge/test/armoury.c line 185 :Illegal LHS
+wizards/proge/test/armoury.c line 156 :Newline in string
+wizards/proge/test/armoury.c line 157 :syntax error
+wizards/proge/test/armoury.c line 173 :Newline in string
+wizards/proge/test/armoury.c line 185 :Illegal LHS
+wizards/proge/test/armoury.c line 185 :Illegal LHS
+wizards/proge/test/armoury.c line 185 :Illegal LHS
+wizards/proge/test/armoury.c line 156 :Newline in string
+wizards/proge/test/armoury.c line 157 :syntax error
+wizards/proge/test/armoury.c line 173 :Newline in string
+wizards/proge/test/armoury.c line 185 :Illegal LHS
+wizards/proge/test/armoury.c line 185 :Illegal LHS
+wizards/proge/test/armoury.c line 185 :Illegal LHS
+wizards/proge/test/armoury.c line 170 :Newline in string
+wizards/proge/test/armoury.c line 171 :syntax error
+wizards/proge/test/armoury.c line 191 :Newline in string
+wizards/proge/test/armoury.c line 205 :Illegal LHS
+wizards/proge/test/armoury.c line 205 :Illegal LHS
+wizards/proge/test/armoury.c line 205 :Illegal LHS
+wizards/proge/test/armoury.c line 169 :Newline in string
+wizards/proge/test/armoury.c line 170 :syntax error
+wizards/proge/test/armoury.c line 190 :Newline in string
+wizards/proge/test/armoury.c line 204 :Illegal LHS
+wizards/proge/test/armoury.c line 204 :Illegal LHS
+wizards/proge/test/armoury.c line 204 :Illegal LHS
+wizards/proge/test/armoury.c line 196 :syntax error
+wizards/proge/test/armoury.c line 197 :Illegal LHS
+wizards/proge/test/armoury.c line 199 :syntax error
+wizards/proge/test/armoury.c line 200 :Illegal LHS
+wizards/proge/test/armoury.c line 202 :syntax error
+wizards/proge/test/armoury.c line 203 :Illegal LHS
+wizards/proge/test/armoury.c line 225 :syntax error
+wizards/proge/test/armoury.c line 226 :Variable item not declared !
+wizards/proge/test/armoury.c line 227 :Variable item not declared !
+wizards/proge/test/armoury.c line 11 :syntax error
+wizards/proge/test/armoury.c line 71 :syntax error
+wizards/proge/test/armoury.c line 227 :Variable SAVEFILE not declared !
+wizards/proge/test/armoury.c line 9 :Type mismatch ( unknown vs string ) when initializing SAVEFILE
+wizards/proge/test/armoury.c line 9 :Missing type
+wizards/proge/test/armoury.c line 20 :syntax error
+wizards/proge/test/armoury.c line 79 :Variable str not declared !
+wizards/proge/test/armoury.c line 79 :syntax error
+wizards/proge/test/armoury.c line 80 :Illegal LHS
+wizards/proge/test/armoury.c line 80 :Illegal LHS
+wizards/proge/test/armoury.c line 81 :syntax error
+wizards/proge/test/armoury.c line 20 :syntax error
+wizards/proge/test/armoury.c line 79 :Variable str not declared !
+wizards/proge/test/armoury.c line 79 :syntax error
+wizards/proge/test/armoury.c line 80 :Illegal LHS
+wizards/proge/test/armoury.c line 80 :Illegal LHS
+wizards/proge/test/armoury.c line 81 :syntax error
+wizards/proge/test/armoury.c line 20 :syntax error
+wizards/proge/test/armoury.c line 79 :Variable str not declared !
+wizards/proge/test/armoury.c line 79 :syntax error
+wizards/proge/test/armoury.c line 80 :Illegal LHS
+wizards/proge/test/armoury.c line 80 :Illegal LHS
+wizards/proge/test/armoury.c line 81 :syntax error
+wizards/proge/test/armoury.c line 20 :syntax error
+wizards/proge/test/armoury.c line 75 :Variable str not declared !
+wizards/proge/test/armoury.c line 75 :syntax error
+wizards/proge/test/armoury.c line 76 :Illegal LHS
+wizards/proge/test/armoury.c line 76 :Illegal LHS
+wizards/proge/test/armoury.c line 77 :syntax error
+wizards/proge/test/armoury.c line 21 :syntax error
+wizards/proge/test/armoury.c line 76 :syntax error
+wizards/proge/test/armoury.c line 77 :Illegal LHS
+wizards/proge/test/armoury.c line 77 :Illegal LHS
+wizards/proge/test/armoury.c line 78 :syntax error
+wizards/proge/test/armoury.c line 196 :Illegal LHS
+wizards/proge/test/armoury.c line 21 :syntax error
+wizards/proge/test/armoury.c line 76 :syntax error
+wizards/proge/test/armoury.c line 77 :Illegal LHS
+wizards/proge/test/armoury.c line 77 :Illegal LHS
+wizards/proge/test/armoury.c line 78 :syntax error
+wizards/proge/test/armoury.c line 196 :Illegal LHS
+wizards/proge/test/armoury.c line 22 :syntax error
+wizards/proge/test/armoury.c line 77 :syntax error
+wizards/proge/test/armoury.c line 78 :Illegal LHS
+wizards/proge/test/armoury.c line 78 :Illegal LHS
+wizards/proge/test/armoury.c line 79 :syntax error
+wizards/proge/test/armoury.c line 197 :Illegal LHS
+wizards/proge/bazaar/bazaar.c line 74 :syntax error
+wizards/proge/bazaar/bazaar.c line 76 :Variable players not declared !
+wizards/proge/bazaar/bazaar.c line 77 :syntax error
+wizards/proge/bazaar/bazaar.c line 77 :Illegal LHS
+wizards/proge/bazaar/bazaar.c line 77 :Variable i not declared !
+wizards/proge/bazaar/bazaar.c line 77 :Variable players not declared !
+wizards/proge/bazaar/bazaar.c line 75 :syntax error
+wizards/proge/bazaar/bazaar.c line 76 :Variable players not declared !
+wizards/proge/bazaar/bazaar.c line 77 :syntax error
+wizards/proge/bazaar/bazaar.c line 78 :Variable i not declared !
+wizards/proge/bazaar/bazaar.c line 78 :Variable i not declared !
+wizards/proge/bazaar/bazaar.c line 78 :Variable players not declared !
+wizards/proge/bazaar/bazaar.c line 77 :syntax error
+wizards/proge/bazaar/bazaar.c line 79 :syntax error
+wizards/proge/bazaar/bazaar.c line 86 :Variable who not declared !
+wizards/proge/bazaar/bazaar.c line 89 :Variable who not declared !
+wizards/proge/bazaar/bazaar.c line 90 :break statement outside loop
+wizards/proge/bazaar/bazaar.c line 107 :syntax error
+wizards/proge/bazaar/bazaar.c line 116 :syntax error
+wizards/proge/lair/hallway1.c line 7 :Variable monster not declared !
+wizards/proge/lair/hallway1.c line 8 :Variable monster not declared !
+wizards/proge/lair/hallway1.c line 9 :Variable monster not declared !
+Sun Jan 25 15:34:30 2004 Horrid guardian of the forest(undead) (strong) (/wizards/proge/moraloth/guardian#26409, 46) killed by Celes (160) 
+Sat Mar  6 04:17:11 2004 Horrid guardian of the forest(undead) (strong) (/wizards/proge/moraloth/guardian#5452, 46) killed by Bloodstorm (176) 
+Wed Mar 10 21:37:19 2004 Horrid guardian of the forest(undead) (strong) (/wizards/proge/moraloth/guardian#77674, 46) killed by Trooper (145) 
+wizards/proge/lair/hallway1.c line 7 :Variable monster not declared !
+wizards/proge/lair/hallway1.c line 8 :Variable monster not declared !
+wizards/proge/lair/hallway1.c line 9 :Variable monster not declared !
+Sat Sep 18 19:50:46 2004 Horrid guardian of the forest(undead) (strong) (/wizards/proge/moraloth/guardian#27159, 46) killed by Reaper (358) 
+Mon Sep 20 13:05:03 2004 Horrid guardian of the forest(undead) (strong) (/wizards/proge/moraloth/guardian#6697, 46) killed by Aleksi (163) 
+Tue Sep 21 18:25:28 2004 Horrid guardian of the forest(undead) (strong) (/wizards/proge/moraloth/guardian#12020, 46) killed by Reaper (361) 
+Thu Dec 16 20:07:56 2004 Horrid guardian of the forest(undead) (strong) (/wizards/proge/moraloth/guardian#43484, 46) killed by Madk (156) 
+Fri Jan 20 09:52:38 2006 Horrid guardian of the forest(undead) (strong) (/wizards/proge/moraloth/guardian#1448, 46) killed by Ntg (293) 
+Mon Aug 27 11:42:30 2007 Horrid guardian of the forest(undead) (strong) (/wizards/proge/moraloth/guardian#2048, 46) killed by Olsma (175) 
+Mon Oct 13 23:48:18 2008 Horrid guardian of the forest(undead) (strong) (/wizards/proge/moraloth/guardian#32967, 46) killed by Olsma (233) 
+Sun Oct 26 19:21:01 2008 Horrid guardian of the forest(undead) (strong) (/wizards/proge/moraloth/guardian#18061, 46) killed by Ntg (400) 
+Sun Oct 24 16:26:39 2010 Horrid guardian of the forest(undead) (strong) (/wizards/proge/moraloth/guardian#12114, 46) killed by Rold (136) 

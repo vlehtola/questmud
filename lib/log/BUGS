@@ -1,0 +1,507 @@
+Merak (/wizards/celtron/cemetary/grave#2172, Sun Mar 17 21:58:53 2002):
+horde cannot leave necromancer guild area(cemetary)
+
+Merak (/wizards/celtron/cemetary/grass#2435, Sun Mar 17 22:02:47 2002):
+ignore that chaincast.. lichs spells just wont do dam
+
+Merak (/wizards/celtron/cemetary/grass#2435, Sun Mar 17 22:03:03 2002):
+horde doesn't protect against aggro mobs
+
+Merak (/world/city/gold3, Mon Mar 18 01:41:48 2002):
+in finnish, sorry: paha bugi necrokillassa: jos otat treenattavaksi vaikka dark powerin rottenista outstandingiin ja saat ekan 'exp barin' niin bugin vuoksi sulla onkin sen jälkeen dark power outstanding (eli ekan barin jälkeen tulee karsee spammin että olet parantunut skillissä)
+
+Hemies (/wizards/celtron/cemetary/grass#1395, Fri Mar 22 12:02:54 2002):
+My horde refuses to get out from this graveyard. Fix it.
+
+Hemies (/wizards/celtron/cemetary/grass#1395, Fri Mar 22 12:03:18 2002):
+Monsters also start hitting me from behind the Horde if I've casted an offensive spell.
+
+Ozmolokki (/world/city/mainstr5, Tue Apr  2 06:56:35 2002):
+how can i be ambushed if im invisible????
+
+Celtron (/wizards/celtron/workroom, Fri Apr 12 17:01:41 2002):
+horde follows player to the hell. necroguild needs more helpfiles also
+
+Forath (/data/castle/castle_2/entry, Sat Apr 13 17:31:08 2002):
+The guards in castles bug. They don't receive damage and when hitting them, they give exp and rarely hit back. Thank you for your co-operation :)
+
+Trooper (/world/city/cs, Tue Apr 16 23:21:43 2002):
+party statuksessa ei updatee toi members osio... näyttää aina sen monta jäsentä o parhaimmillaa ollu kyseisessä partissa
+
+Jenny (/world/city/cs, Sat Apr 20 20:30:00 2002):
+partykick bugs...if i lead and type partykick (name) it kicks me out not the one i want to kick
+
+Trooper (/wizards/walla/area/undergravesouth, Sat Apr 27 21:04:40 2002):
+wallan jerikos o tä bugi et mosat saa repopis hipot tappii.. tai ainaki alakerras kävi äske sillee :P
+
+Trooper (/guilds/channel/high_cleric, Fri May  3 22:33:30 2002):
+hordeis sama bugi ku dragois, jos se saa sen final blowin mosaa ni pelaajalta voi lähtä kaikki skillit treenistä ja muuta vastaavaa jäynää
+
+Jukinisti (/world/city/cs, Mon May  6 18:37:25 2002):
+necro horde ei lyö eikä lähe karkuun combateista
+
+Jenny (/wizards/nalle/jerusalem/catcellar3, Sat May 18 11:01:08 2002):
+kun con boosti menee offile jos on bersu paal ni bersun antamat statit katoo mut bersu pysyy paal
+
+
+Celtron (/wizards/celtron/workroom, Tue Jun  4 14:06:02 2002):
+necrohorde ei tule mukana ambush huoneeseen
+
+Celes (/wizards/walla/area/southstreet1, Tue Jun  4 17:47:28 2002):
+Necro!
+
+Celes (/wizards/walla/area/ujar-1, Tue Jun  4 17:50:38 2002):
+Necrobugi: eli necroissa bugaa toi horde aika pahasti eli jos horde tappaa mosan boltilla niin saattaa kaikki skillit pyörähtää tappiin vaikka skillit olis lousy ja menossa outtiin... ja toinen bugi on toi horden wraithi joka ei toimi ollenkaan ilman wraithii horde toimii jotenkuten mutta jos wraithin tekee nii horde lopettaa kokonaan bolttaamisen...
+
+Girion (/room/out/plains#24986, Fri Jun 14 22:03:42 2002):
+fell into an ambush. Killed the monsters, but when i tried summoning my horde later, it said that i dont have a horde
+
+Girion (/world/city/inn, Fri Jun 14 22:11:28 2002):
+cant advance levels all it says is 'you must complete your base guild'
+
+Girion (/guilds/channel/r02, Sat Jun 15 02:53:24 2002):
+gets a 'You need to complete your background guild before joining other guilds.' message....
+
+Girion (/wizards/nalle/jerusalem/arma3, Sat Jun 15 23:52:27 2002):
+cant get my horde. managed to attack a human in a no-skills zone, the horde cant kill it and i cant summon it
+
+Girion (/guilds/necro/unholy_lords, Thu Jun 20 00:45:46 2002):
+I cant 'train control dark magic to max'
+
+Karnos (/wizards/ahma/castle/rooms/area37h, Thu Jun 20 00:57:46 2002):
+somehow monsters stop hitting
+
+Girion (/wizards/ahma/castle/rooms/area37h, Thu Jun 20 00:58:24 2002):
+this demonic hunter sometimes stops hitting
+
+Karnos (/wizards/ahma/castle/rooms/area37h, Thu Jun 20 01:14:17 2002):
+Demonic soul hunter seems to bug , he suddenly stops to attack
+
+Girion (/wizards/ahma/castle/rooms/area37b, Thu Jun 20 01:32:04 2002):
+'cast kyo sol jht' == sense wrongness
+
+Girion (/guilds/library/mainhall, Mon Jun 24 16:58:00 2002):
+seems like 'summon undead horde' bugs, tried to summon it. it said that i couldnt add more undead of that type, and then, when i tried to go and fetch it in the western gate it was gone
+
+Girion (/wizards/walla/area/ujar4, Mon Jun 24 18:06:07 2002):
+my horde havent been in a fight but is still 'about to die'
+
+Girion (/room/out/hills#28739, Mon Jun 24 18:59:09 2002):
+its impossible to recall the horde after an ambush
+
+Girion (/room/out/hills#28739, Mon Jun 24 18:59:23 2002):
+its impossible to summon the horde after an ambush
+
+Drakhor (/wizards/bulut/forest/forest11, Tue Jun 25 22:18:15 2002):
+Necrojen 'doo nee maa' -spelli (monta skeletonia hordeen yhdellä taialla) ei tarkista ollaanko ylitetty jo skeletonien maksimimäärä. Nytkin on 50+ skeletonia hordessa.
+
+Trooper (/guilds/fighter/fighter, Wed Jun 26 04:15:36 2002):
+Background trainingis... se settaa aina skillit joka levelillä.... -> olin treenannu bare handsin ja considerin outtii ja otin leban ni tippu goodii =U
+
+Girion (/world/city/diamond4, Fri Jun 28 23:34:24 2002):
+get 'Your sensitive mind notices a wrongness in the fabric of space.' when i try to 'cast kyo brr jht'
+
+Girion (/world/city/diamond4, Fri Jun 28 23:35:22 2002):
+get 'Your sensitive mind notices a wrongness in the fabric of space.' when i try to 'cast kyo sol jht'
+
+James (/world/city/cs, Mon Jul  1 05:48:58 2002):
+jarzki
+
+Trooper (/wizards/walla/area/yksnorth/lebway2, Tue Jul  2 01:58:17 2002):
+Tääl wallan areal o se vanha bugi et mosat saa area restores hipot täysiin
+
+Nightfire (/guilds/mage/apprmage, Tue Jul  2 04:32:55 2002):
+the training ability in the mages' guild is bugging. it say i am unable to train skills before my background stage is complete. (level 15), but for me to begin to gain exp for level 2, i need to train cast essence to low, yet i can't train any skills
+
+Razarac (/guilds/mage/apprmage, Wed Jul  3 02:59:18 2002):
+cant train because background stage is not complete and cant advance because of skill requirements
+
+Girion (/wizards/walla/area/kirkko11, Fri Jul  5 11:43:15 2002):
+when a horde attacks nother neither seems to die...
+
+Girion (/wizards/walla/area/kirkko11, Fri Jul  5 11:43:53 2002):
+ah now it worked
+
+Hemies (/wizards/walla/area/ispep-2, Fri Jul  5 14:32:22 2002):
+One does not stop tinning when moving.
+
+Hemies (/wizards/nalle/area/drawbridge, Fri Jul  5 14:36:40 2002):
+You can also tin armours, weapons and money with tinning kit (if they are on corpse)
+
+Trooper (/wizards/nalle/area/darvroomu, Sat Jul  6 05:53:01 2002):
+jos vaikka tä darvo huone korjattais... tänne ku tultii ni tultii ei mihkää ja ... jumiha siitä tuli...
+
+James (/world/city/cs, Sun Jul  7 16:51:47 2002):
+tossing doesn't correct weight automatically
+
+James (/wizards/nalle/area/godfhome, Sun Jul  7 17:02:49 2002):
+la oxfern -> normal desc + No sir oxfern here.
+
+Banned (/world/city/inn, Fri Jul 12 16:07:22 2002):
+kick
+
+Trooper (/world/mine/rat_min2, Sun Jul 14 23:24:32 2002):
+vois vaikka ton korjoo et jos joku iso expaa jonku pienen kans ni se saa ylimäärästä expaa ku sen pienen exprate o joku alle se 24.. mutta se kai edellyttäis partyn uusimista
+
+Trooper (/world/city/cs, Mon Jul 15 21:36:24 2002):
+help fileis o vanhaa tietoo... ainaski dark elffis.. siin lukee et saa criticaalia, mut saa cast bolttia
+
+Trooper (/room/out/n_s_road#212, Mon Jul 15 22:44:38 2002):
+mun edellistä bug ilmotusta ei ollukkaa.
+
+Celes (/wizards/celtron/maze/necro/6, Thu Jul 18 01:00:15 2002):
+Hriak's ghosts
+
+Celes (/wizards/celtron/maze/necro/6, Thu Jul 18 01:01:05 2002):
+Hriak's ghosts has little typo... A ghost appears from nowhere.-> feed ghost with sword -> You throw sword towards the ghost and they both disappear.... what both? there were only 1 ghost in room
+
+Neophyte (/world/city/eastgate, Thu Jul 18 05:24:45 2002):
+red force field ei toimi outworldissa eika remove force fieldi
+
+Jarzki (/world/city/cs, Fri Jul 19 21:18:57 2002):
+in the bank the actions
+
+Jarzki (/wizards/nalle/jerusalem/chrcat, Fri Jul 19 22:33:25 2002):
+party...when takes party leave and try to another...it says You are already in party or invited to one.
+
+Jarzki (/wizards/nalle/jerusalem/catb1, Sun Jul 21 22:45:40 2002):
+my horde again
+
+Jarzki (/wizards/nalle/jerusalem/cate4, Mon Jul 22 14:47:25 2002):
+horde
+
+Lorik (/guilds/mage/apprmage, Tue Jul 23 21:29:18 2002):
+unless i'm at a loss as to how your experience system works.. i've killed about 12 different monsters (in the newbie mine area) and my "free experience" has not changed from zero
+
+Trooper (/wizards/morgoth/slummi/room/slum4, Thu Jul 25 01:34:58 2002):
+psiojen tuo mental strike alka spammaan tuota tekstiä You dont have enough mental strength to complete this attack. aina ku meen taisteluu.. vaikka o manat tapis.. siis se sen taistelun ajan ammuilee ja sit alkaa tuo spammi, loppuu heti ku tikkaan spt tappii
+
+Trooper (/wizards/ahma/castle/rooms/area37c, Thu Jul 25 02:54:20 2002):
+sit tuo mental denial bugaa jos tulee yhtä aikaa ku bersul agroo jollekki.. se näyttää jäävän pitkäksi aikaa päälle, niin ettei se vaikuta mitään
+
+Trooper (/wizards/ahma/castle/rooms/area37g, Thu Jul 25 02:57:50 2002):
+sit tuo mental expansioni jää bugaa aina ku sekoilee bersun kans... jää muka päälle ja ei auta fixstatsi eikä voi uutta pistää... vois uuden skillin ku.. mental restore? se normittais sit bodyn ns
+
+Jarzki (/world/city/cs, Fri Jul 26 00:54:33 2002):
+necromancer again
+
+Jarzki (/world/city/cs, Sat Jul 27 20:15:19 2002):
+me or the mud
+
+Jarzki (/world/mine/ant_ca10, Sun Jul 28 02:38:52 2002):
+charge rush
+
+Neophyte (/world/city/cs, Sun Jul 28 16:49:53 2002):
+give bugaa jos eq nodrop -> gives 0 to you. tms
+
+Jarzki (/wizards/nalle/jerusalem/chrcat, Wed Aug  7 19:15:25 2002):
+my horde does not bolt
+
+Jarzki (/wizards/nalle/area/i1, Fri Aug  9 02:38:21 2002):
+nheo bugaa jälleen kerran eli ei lyö takasin tappelussa
+
+Jarzki (/guilds/channel/r02, Sat Aug 10 21:00:52 2002):
+menin khalandil ja sanosin ask for free reinc ja se pöllis mun rahat.odottanu tässä jo joku 5minuuttia.tehny mitään
+
+James (/world/city/inn, Tue Aug 13 19:30:57 2002):
+can't light a torch if there's a burned one on the ground
+
+Neophyte (/world/city/cs, Wed Aug 14 18:31:21 2002):
+psionicit vetaa meleeta vaikka olisivat stunnissa
+
+Neophyte (/world/city/cs, Wed Aug 14 21:20:25 2002):
+James says 'korjaatko ton etta ei voi lightaa torchia jos on palanut torchi maassa'
+
+Neophyte (/world/city/cs, Tue Aug 20 09:56:59 2002):
+jos koitan tehda jonkun toisen hordelle jotain esmes: celes_horde follow -> horde katoaa
+
+Neophyte (/wizards/walla/area/ujar5, Wed Aug 21 12:25:46 2002):
+pistakaas joku tohon hordeen se keta on sen mastery checkkaus ekaks kun nyt voi destaa toisen hordeja jossei ole necro
+
+Neophyte (/wizards/neophyte/areat/farm/room7, Thu Aug 22 12:29:58 2002):
+drop noeq vois droppaa kaikki eika vaan armoureita/wepoja
+
+Neophyte (/wizards/nalle/jerusalem/elattar3, Thu Aug 22 20:13:46 2002):
+hpblessin jalkee kun se tippuu vois hp updatee
+
+Neophyte (/world/city/cs, Fri Aug 23 14:32:55 2002):
+ton vois fixaa et vois attackkaa vaikka olis back rankissa partys jossei ole leaderi paikalla
+
+Neophyte (/room/bank, Fri Aug 23 14:42:07 2002):
+ton actions commandin vois removee bankista kun seon turha kunnei edes toimi
+
+Neophyte (/room/bank, Fri Aug 23 14:47:13 2002):
+en voi lightaa torchia inventorysta jos maassa on palanut torchi
+
+Neophyte (/world/city/cs, Fri Aug 23 15:58:21 2002):
+hordelle vois pistaa jonku nakosen nomoney? jutun ettei silta tule rahaa kun se kuolee
+
+Neophyte (/world/city/cs, Fri Aug 23 20:36:51 2002):
+boxeja vois vaha saataa et nayttais jotain muutakin 'show' commandilla kun 0
+
+Neophyte (/world/city/cs, Sat Aug 24 12:32:14 2002):
+psionic vetaa meleeta vaikka ovat stunnissa
+
+Neophyte (/world/city/cs, Sat Aug 24 12:37:38 2002):
+nyt loyty hieno feature, vedan rundin viela meleeta vaikka olen wimpyny monsulta pois
+
+Neophyte (/room/locker, Sat Aug 24 19:32:10 2002):
+storetus ei laske uudestaan weightia
+
+Neophyte (/world/city/cs, Sat Aug 24 21:01:02 2002):
+party kick neophyte -> party create sanoo etta on jo partyssa
+
+Neophyte (/wizards/bulut/forl/house3, Sun Aug 25 15:55:49 2002):
+loot ei toimi oikein jos on corpse inventoryssa
+
+Neophyte (/room/locker, Mon Aug 26 13:06:54 2002):
+lockeriin voi pistaa keep equja ja ei update weightia
+
+Neophyte (/wizards/irmeli/bwp/room8, Mon Sep  2 20:19:44 2002):
+cross river -> No destination.
+
+Razarac (/wizards/nalle/jerusalem/vd8, Thu Sep 12 22:09:46 2002):
+The orb vanishe's
+
+Razarac (/wizards/nalle/jerusalem/vd8, Thu Sep 12 22:10:20 2002):
+The orb vanishe's and that bug is in dissappearing of mental light spells orb.
+
+Axiom (/world/city/inn, Sat Sep 14 19:12:29 2002):
+nettisivulla eventlistissä Once again the evil dryad arrives our lovely city to steal.
+
+Jarzki (/world/city/wood4, Mon Sep 23 14:58:22 2002):
+A guard watching the gate of Duranghom.Sama ku Nheossa...Mutta tiedän vian :)
+
+Cremater (/world/city/cs, Thu Oct  3 18:37:54 2002):
+mental dormancy uses up almost all the eps and the help file says it costs only 5% eps
+
+Cremater (/wizards/manta/hill/room4, Sat Oct  5 01:03:52 2002):
+mental expansion doesn't drop when you die, but the eps go back to normal
+
+Cremater (/wizards/grathlek/area1/eroom5, Sat Oct  5 01:15:06 2002):
+You are using 58 % of your carrying capacity. -> You put A sharp iron long sword in sack. -> You are using 60 % of your carrying capacity.
+
+Cremater (/wizards/grathlek/area1/eroom9, Sat Oct  5 01:19:16 2002):
+taking something from the sack and putting it back fucks up the weight (weight carried increases). fix_weight doesn't help
+
+Jarzki (/world/city/cs, Sat Oct  5 15:34:07 2002):
+se necrojen liidi equ taas bugaa eli kun tuut peliin sul on 2niitä...jos siitä safe_quit esim. ni ja reconnet ni 3
+
+Cathoris (/guilds/abjurer/abjurers, Sun Oct 20 04:37:28 2002):
+Got a Sensitive mind message ... no action taken. just happened. not entering, not doing anything. just sitting here.
+
+Cathoris (/wizards/ahma/orc/forest/for28, Wed Oct 23 07:00:47 2002):
+pants from the dwarf caves if you remove them when not wearing them gives sensitive mind
+
+Cathoris (/wizards/siki/lizard/hut4, Thu Oct 24 06:49:20 2002):
+between armor and resistances it says No kar'hheni here.  probably where his "health" should be.  in lizardman village btw (in case room is not included with bug report)
+
+Siki (/wizards/siki/workroom, Mon Oct 28 19:46:44 2002):
+round blow osuu mobiin vaikka on ghost|wimpyny pois siita roomista missa oli matsissa
+
+Cremater (/world/city/cs, Wed Nov  6 22:31:08 2002):
+put all in sack -> unwields weapons
+
+Siki (/wizards/siki/workroom, Thu Nov  7 10:57:35 2002):
+bind cmd featuroi!
+
+Cremater (/world/city/inn, Tue Nov 12 18:27:59 2002):
+light_green in lite command is actually light_red. besides light_red is undocumented, but works :)
+
+Trooper (/world/shops/general_store, Wed Nov 13 14:09:18 2002):
+tuos bargainis o bugi... Your saved 240 bronze coins of 1000 due bargain.->You buy A huge sized leather sack for 1000 bronzes. ilmottaa tuos jäles vaa väärin et paljolla osti
+
+Aria (/room/bank, Mon Nov 18 07:42:11 2002):
+My horde was fighting a demon and the demon got a critical with the message: "Horde's loosened head flies two metres before it drops on the ground!"  This killed the entire horde, rather than just the flesh golem as I would have expected.
+
+Trooper (/wizards/nalle/jerusalem/chrc1, Tue Nov 19 20:50:30 2002):
+rebirthien se ettei skillejä tarvi treenaa niin paljoa, ja tämä että saa skillejä käyttämäl, menee ristii keskenään... killassa on treenattu outstandingii overload brain skilli, mutta skills lista näyttää superb, ja statilla se o 88! =P
+
+Cremater (/world/city/eastgate, Tue Nov 26 14:50:14 2002):
+cast doo nuu muu/doo nuu maa/doo nuu moo -> always fails when i intone nuu. i have the skill at great, so it should work. what's wrong?
+
+Walla (/wizards/walla/workroom, Tue Nov 26 17:22:51 2002):
+testingk
+
+Cathoris (/world/city/cs, Sun Dec  1 03:35:40 2002):
+Necromancer Horde vanishes during battle.
+
+Bix (/world/city/inn, Sat Jan  4 23:09:04 2003):
+hemies
+
+Bix (/world/city/inn, Sat Jan  4 23:09:04 2003):
+hemies
+
+Bix (/world/city/inn, Sat Jan  4 23:09:04 2003):
+hemies
+
+Hemies (/room/ambush/ambush_room#795, Tue Jan  7 23:06:13 2003):
+Seems like the Warlocks lose half of their exp even when the demon is not with them.
+
+Cremater (/wizards/walla/jericho/rooms/ujar-1, Fri Feb 14 20:20:32 2003):
+Horde doesn't interrupt its spell when moving...
+
+Grizzt (/wizards/grizzt/workroom, Sat Mar 15 19:29:00 2003):
+Snowball event bugs
+
+Gynter (/wizards/gynter/area2/city1/t, Sun Mar 16 23:34:45 2003):
+What ? when breaking bread
+
+Greed (/wizards/nalle/area/chamron4, Tue Apr 29 16:30:58 2003):
+you use scan to check enemy's shape in combat this cmd could also include a check for wheter the mob is in the same room with you as it currently does not
+
+Walla (/wizards/walla/workroom, Tue May 13 22:18:09 2003):
+doorcode
+
+Guest-1 (/world/city/inn, Wed Jun 11 22:51:28 2003):
+score shows 'incorrect argument type to %s, after stats
+
+Shem (/world/shops/magic_shop, Tue Aug 26 11:43:14 2003):
+peek in magic shop
+
+Nalle (/wizards/nalle/workroom, Fri Oct 24 00:47:39 2003):
+test
+
+Razarac (/guilds/warlock/warlock, Wed Nov  5 23:56:41 2003):
+I have no demon summoned so "worship" gives following message -> PROSSA ON 0. <- why finnish not english? ,)
+
+Razarac (/guilds/warlock/warlock6, Thu Nov  6 01:59:07 2003):
+help skill knowledge of cleric -> No such a skill.
+
+Razarac (/world/city/inn, Mon Nov 10 18:45:20 2003):
+when leader of other party shakes all members it shows on my screen (thought i'm not in that party and i'm leading my party) :)
+
+Razarac (/wizards/nalle/jerusalem/elattar1, Thu Nov 13 05:13:13 2003):
+promptissa mosan shape juttu näyttää monsun kaikki shapet
+
+Cremater (/guilds/necro/base_guild, Thu Dec  4 20:59:56 2003):
+party say does not work in reinc room
+
+Solaris (/wizards/jenny/mehta/huoneet/forest9, Fri Dec 12 08:09:53 2003):
+solaris
+
+Solaris (/wizards/jenny/mehta/huoneet/forest9, Fri Dec 12 08:11:13 2003):
+cast kyo jht tdr at solaris  ... You enchant a 0 shield for Solaris's protection. Nothing happens.
+
+Solaris (/wizards/walla/jericho/rooms/htorn-4, Sat Dec 13 02:19:11 2003):
+iron will wears off and when i cast again it says already affected
+
+Nalle (/wizards/nalle/workroom, Sun Dec 14 00:37:22 2003):
+room test
+
+Nalle (/wizards/nalle/workroom, Sun Dec 14 00:37:44 2003):
+taitaa olla aika arslesta tää meidän bug-komento
+
+Solaris (/wizards/nalle/area/e3, Tue Dec 16 04:37:30 2003):
+help masteries command seems to be case-sensitive .
+
+Solaris (/wizards/nalle/area/chamron4, Tue Dec 16 06:32:55 2003):
+When travelling on vmap with numbered directions (eg. 10 e, 10 n) there is no force look for last room entered and the vmap colors dont reset causeing the whole screen to be the color of the last terrain seen.  Solaris the Annoying
+
+Solaris (/world/city/cs, Tue Dec 16 09:12:08 2003):
+I wore an eq that made eq command say Your equipment offers you some protection to your torso and arms..... after i removed the eq the message stayed..
+
+Solaris (/wizards/manta/hill/room11, Thu Dec 18 07:09:54 2003):
+In castle of demons.... the scared guard EMITS and not says what his says are
+
+Jenny (/wizards/moonstar/areas/forest/entrance, Fri Dec 19 12:39:22 2003):
+look at fox --> He is an animal. ( gender to IT! )
+
+Jenny (/wizards/moonstar/areas/forest/f_room9, Fri Dec 19 12:39:54 2003):
+same thing on big fox
+
+Jenny (/wizards/moonstar/areas/forest/f_room16, Fri Dec 19 12:40:10 2003):
+and bear
+
+Jenny (/wizards/moonstar/areas/forest/town/house2, Fri Dec 19 12:42:06 2003):
+citizen of town Giadi --> put set_race before set_level so race will affect the stats of the mob
+
+Jenny (/wizards/moonstar/areas/forest/town/mayorhouse, Fri Dec 19 12:44:08 2003):
+set_race before set_level to mayor
+
+Solaris (/wizards/irmeli/area2/hissi, Sun Dec 21 06:37:17 2003):
+in hobbits area if you dont wait for elevator to move before jumping off of it then it will never start moving up and down
+
+Proge (/wizards/nalle/area/pathe, Sat Jan 10 06:35:05 2004):
+upper floors. It seems like Darvox would tyr to show, that
+
+Neophyte (/wizards/nalle/jerusalem/catd5, Sat Jan 10 16:09:47 2004):
+hordelta ei breakkaa spellit moves
+
+Hemies (/guilds/channel/appr_cleric, Fri Feb 13 15:36:40 2004):
+Trying to advance for lvl 2 in Clerics is impossible, you only get Channel to feeble and it should be very poor so you could advance.
+
+Jenny (/wizards/grathlek/area1/room24, Fri Feb 27 00:57:35 2004):
+U can reloc to invis players
+
+Jenny (/wizards/jenny/linnake/huoneet/storage1, Fri Feb 27 02:49:56 2004):
+abju guild bugs btw
+
+Jenny (/wizards/celtron/maze/4, Fri Feb 27 18:16:45 2004):
+aggr mobs dont attack invis player when he turns visible in room
+
+Maximus (/wizards/jenny/linnake/huoneet/path22, Fri Feb 27 19:35:46 2004):
+'party report' bugs
+
+Nightscale (/guilds/mage/entrance, Sat Feb 28 00:33:51 2004):
+A guard dressed in deep blue and white clothes doesn't let me in because it want's 10 level abjurers and i can only get 5 abjurer
+
+Jenny (/wizards/siki/lizard/hut3, Sun Feb 29 16:27:17 2004):
+seamonster questi antaa bug errori loppuu
+
+Jenny (/wizards/ahma/castle/rooms/area49, Sun Feb 29 20:03:44 2004):
+Rakk 0 you causing just light scratches.
+
+Jenny (/room/out/plains#14947, Sun Feb 29 21:01:40 2004):
+banishaat jonku ni naat mihi se lentaa (look tulee sulle)
+
+Jenny (/wizards/jenny/linnake/huoneet/ulkoovi, Mon Mar  1 02:18:38 2004):
+leader teleporttaa pois -> what message saat, return 1 sinne koodi loppuu kiitti
+
+Cedar (/wizards/celtron/field/plains#16123, Mon Mar  1 13:49:56 2004):
+Suddenly you can see through Jenny's eyes -> You are not powerful enough to look through jenny's eyes.
+
+Jenny (/wizards/jenny/linnake/huoneet/prison21, Mon Mar  1 15:31:21 2004):
+regen and hp/spbless wears off on avoid death
+
+Jenny (/obj/rebirth_room, Mon Mar  1 17:49:15 2004):
+ku meet birth fountainile ni tulee what ku painat nw mut silti lahet menee sinne ja southi o dirri milla taalt tullaa pois eika southeast joka ois loogine
+
+Cedar (/wizards/bulut/forl/road3, Tue Mar  2 11:05:02 2004):
+fix the remote thank command, there shouldn't be a 's in the end of the target
+
+Jenny (/wizards/walla/jericho/rooms/leblair/leblair4, Sun Mar  7 15:27:44 2004):
+void in lebs room again
+
+Ab (/wizards/neophyte/areat/farm/house, Sun Mar  7 15:54:28 2004):
+Woman says: 'Thank you so much for your help! (no quest points)
+
+Jenny (/world/city/adventurers_hall, Tue Mar  9 01:45:22 2004):
+pf still doesnt work :/
+
+Jenny (/wizards/jenny/linnake/huoneet/piha6, Tue Mar  9 12:20:03 2004):
+pf still bugs
+
+Jenny (/wizards/rag/elf/room1, Sun Mar 14 00:44:13 2004):
+Ei ziisus
+
+Jenny (/wizards/rag/elf/room1, Sun Mar 14 00:45:25 2004):
+joku plz korjatkaa necros, pistaa vaik 100 (nimi)_horde fix ni horde ampuu sen jalkee 100 bolttii roundis ku se alottaa fixista aina uude bolti ja lallallaa arvatkaa vaa stoppaako se entista ku alottaa uude iha natisti nuo necrot nayttaa equttavan ja expaavan tollasil abuseil ei HUOH
+
+Jenny (/wizards/moonstar/areas/mosnotar/forest/up2, Tue Mar 16 03:30:40 2004):
+party report bugaa aina booti jalkee jos kukaa ei kirjota normaalii reporttii eka
+
+Jenny (/room/bank, Fri Mar 19 15:08:13 2004):
+desc bugs
+
+Aleksi (/wizards/jenny/linnake/huoneet/way2, Tue Mar 30 11:08:59 2004):
+mirror imaget toimii aika jännästi horden kans, tuntuvat jäävän päälle tms
+
+Nightscale (/wizards/moonstar/areas/forest/town/town9, Sat Apr 10 14:11:00 2004):
+help mastery Dangerous Earth --> No such mastery.
+
+Astarel (/wizards/astarel/workroom, Mon Apr 12 23:09:46 2004):
+all
+
+Celtron (/wizards/celtron/workroom, Mon Apr 12 23:10:12 2004):
+bug bugs

@@ -1,0 +1,846 @@
+wizards/belar/ent/entrance.c line 3 :Variable monster not declared !
+wizards/belar/ent/entrance.c line 4 :Variable monster not declared !
+wizards/belar/ent/entrance.c line 5 :Variable monster not declared !
+wizards/belar/ent/entrance.c line 3 :Variable monster not declared !
+wizards/belar/ent/entrance.c line 4 :Variable monster not declared !
+wizards/belar/ent/entrance.c line 5 :Variable monster not declared !
+wizards/belar/ent/entrance.c line 3 :Variable monster not declared !
+wizards/belar/ent/entrance.c line 4 :Variable monster not declared !
+wizards/belar/ent/entrance.c line 5 :Variable monster not declared !
+wizards/belar/ent/entrance.c line 3 :Variable monster not declared !
+wizards/belar/ent/entrance.c line 4 :Variable monster not declared !
+wizards/belar/ent/entrance.c line 5 :Variable monster not declared !
+wizards/belar/ent/entrance.c line 3 :Variable monster not declared !
+wizards/belar/ent/entrance.c line 4 :Variable monster not declared !
+wizards/belar/ent/entrance.c line 5 :Variable monster not declared !
+wizards/belar/ent/entrance.c line 3 :Variable monster not declared !
+wizards/belar/ent/entrance.c line 4 :Variable monster not declared !
+wizards/belar/ent/entrance.c line 5 :Variable monster not declared !
+wizards/belar/ent/entrance.c line 3 :Variable monster not declared !
+wizards/belar/ent/entrance.c line 4 :Variable monster2 not declared !
+wizards/belar/ent/entrance.c line 5 :Variable monster not declared !
+wizards/belar/ent/entrance.c line 6 :Variable monster not declared !
+wizards/belar/ent/entrance.c line 3 :Variable monster not declared !
+wizards/belar/ent/entrance.c line 4 :Variable monster2 not declared !
+wizards/belar/ent/entrance.c line 5 :Variable monster not declared !
+wizards/belar/ent/entrance.c line 6 :Variable monster not declared !
+wizards/belar/ent/entrance.c line 3 :Variable monster not declared !
+wizards/belar/ent/entrance.c line 4 :Variable monster2 not declared !
+wizards/belar/ent/entrance.c line 5 :Variable monster not declared !
+wizards/belar/ent/entrance.c line 6 :Variable monster not declared !
+wizards/belar/ent/entrance.c line 8 :syntax error
+wizards/belar/ent/entrance.c line 8 :syntax error
+wizards/belar/ent/entrance.c line 8 :syntax error
+wizards/belar/workroom.c line 5 :Variable monster not declared !
+wizards/belar/workroom.c line 6 :Variable monster not declared !
+wizards/belar/workroom.c line 7 :Variable monster not declared !
+wizards/belar/workroom.c line 18 :syntax error
+wizards/belar/workroom.c line 5 :Variable monster not declared !
+wizards/belar/workroom.c line 6 :Variable monster not declared !
+wizards/belar/workroom.c line 7 :Variable monster not declared !
+wizards/belar/workroom.c line 18 :syntax error
+wizards/belar/workroom.c line 19 :syntax error
+wizards/belar/workroom.c line 19 :syntax error
+wizards/belar/workroom.c line 19 :syntax error
+wizards/belar/workroom.c line 19 :syntax error
+wizards/belar/workroom.c line 19 :syntax error
+wizards/belar/workroom.c line 17 :syntax error
+wizards/belar/workroom.c line 17 :syntax error
+wizards/belar/ent/monsters/entg.c line 17 :syntax error
+wizards/belar/ent/monsters/entg.c line 18 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entg.c line 17 :syntax error
+wizards/belar/ent/monsters/entg.c line 18 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entg.c line 17 :syntax error
+wizards/belar/ent/monsters/entg.c line 18 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entg.c line 17 :syntax error
+wizards/belar/ent/monsters/entg.c line 18 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entg.c line 17 :Variable weapon not declared !
+wizards/belar/ent/monsters/entg.c line 18 :Variable weapon not declared !
+wizards/belar/ent/monsters/entg.c line 17 :Variable weapon not declared !
+wizards/belar/ent/monsters/entg.c line 18 :Variable weapon not declared !
+wizards/belar/ent/monsters/entg.c line 17 :Variable weapon not declared !
+wizards/belar/ent/monsters/entg.c line 18 :Variable weapon not declared !
+wizards/belar/ent/monsters/Cler2.c line 51 :syntax error
+wizards/belar/ent/monsters/Cler1.c line 2 :syntax error
+wizards/belar/ent/monsters/drag.c line 23 :Variable mail not declared !
+wizards/belar/ent/monsters/drag.c line 23 :Variable mail not declared !
+wizards/belar/monsu/hinu.c line 35 :Redeclaration of function reset.
+wizards/belar/monsu/hinu.c line 51 :Redeclaration of function reset.
+wizards/belar/monsu/hinu.c line 53 :Redeclaration of function extra.
+wizards/belar/monsu/hinu.c line 66 :Redeclaration of function extra.
+wizards/belar/monsu/hinu.c line 67 :Illegal character (hex 2e) '.'
+wizards/belar/monsu/hinu.c line 67 :syntax error
+wizards/belar/monsu/hinu.c line 35 :Redeclaration of function reset.
+wizards/belar/monsu/hinu.c line 51 :Redeclaration of function reset.
+wizards/belar/monsu/hinu.c line 53 :Redeclaration of function extra.
+wizards/belar/monsu/hinu.c line 66 :Redeclaration of function extra.
+wizards/belar/monsu/hinu.c line 67 :Illegal character (hex 2e) '.'
+wizards/belar/monsu/hinu.c line 67 :syntax error
+wizards/belar/monsu/cle.c line 2 :syntax error
+wizards/belar/monsu/cle.c line 2 :syntax error
+wizards/belar/monsu/cle.c line 2 :syntax error
+wizards/belar/monsu/cle.c line 2 :syntax error
+wizards/belar/monsu/cle.c line 2 :syntax error
+wizards/belar/monsu/cle.c line 39 :syntax error
+wizards/belar/monsu/cle.c line 39 :syntax error
+wizards/belar/monsu/cle.c line 39 :syntax error
+wizards/belar/monsu/cle.c line 39 :syntax error
+wizards/belar/monsu/cle.c line 39 :syntax error
+wizards/belar/monsu/hinu.c line 35 :Redeclaration of function reset.
+wizards/belar/monsu/hinu.c line 51 :Redeclaration of function reset.
+wizards/belar/monsu/hinu.c line 53 :Redeclaration of function extra.
+wizards/belar/monsu/hinu.c line 66 :Redeclaration of function extra.
+wizards/belar/monsu/hinu.c line 67 :Illegal character (hex 2e) '.'
+wizards/belar/monsu/hinu.c line 67 :syntax error
+wizards/belar/monsu/cle.c line 49 :Variable More not declared !
+wizards/belar/monsu/cle.c line 49 :syntax error
+wizards/belar/monsu/cle.c line 51 :syntax error
+wizards/belar/monsu/cle.c line 63 :Too few arguments to clone_object
+wizards/belar/monsu/cle.c line 63 :Illegal LHS
+wizards/belar/monsu/cle.c line 63 :Illegal LHS
+wizards/belar/monsu/cle.c line 49 :Variable More not declared !
+wizards/belar/monsu/cle.c line 49 :syntax error
+wizards/belar/monsu/cle.c line 51 :syntax error
+wizards/belar/monsu/cle.c line 63 :Too few arguments to clone_object
+wizards/belar/monsu/cle.c line 63 :Illegal LHS
+wizards/belar/monsu/cle.c line 63 :Illegal LHS
+wizards/belar/monsu/cle.c line 5 :Variable heal not declared !
+wizards/belar/monsu/cle.c line 6 :Variable hpbless not declared !
+wizards/belar/monsu/cle.c line 7 :Variable spbless not declared !
+wizards/belar/monsu/cle.c line 64 :Variable hpbless not declared !
+wizards/belar/monsu/cle.c line 65 :Variable hpbless not declared !
+wizards/belar/monsu/cle.c line 67 :Variable spbless not declared !
+wizards/belar/monsu/cle.c line 5 :Variable heal not declared !
+wizards/belar/monsu/cle.c line 6 :Variable hpbless not declared !
+wizards/belar/monsu/cle.c line 7 :Variable spbless not declared !
+wizards/belar/monsu/cle.c line 64 :Variable hpbless not declared !
+wizards/belar/monsu/cle.c line 65 :Variable hpbless not declared !
+wizards/belar/monsu/cle.c line 67 :Variable spbless not declared !
+wizards/belar/monsu/cle.c line 5 :Variable heal not declared !
+wizards/belar/monsu/cle.c line 6 :Variable hpbless not declared !
+wizards/belar/monsu/cle.c line 7 :Variable spbless not declared !
+wizards/belar/monsu/cle.c line 70 :Variable spbless not declared !
+wizards/belar/monsu/cle.c line 5 :Variable heal not declared !
+wizards/belar/monsu/cle.c line 6 :Variable hpbless not declared !
+wizards/belar/monsu/cle.c line 7 :Variable spbless not declared !
+wizards/belar/monsu/cle.c line 70 :Variable spbless not declared !
+wizards/belar/monsu/cle.c line 5 :Variable heal not declared !
+wizards/belar/monsu/cle.c line 6 :Variable hpbless not declared !
+wizards/belar/monsu/cle.c line 7 :Variable spbless not declared !
+wizards/belar/monsu/cle.c line 70 :Variable spbless not declared !
+wizards/belar/monsu/cle.c line 70 :Variable spbless not declared !
+wizards/belar/monsu/cle.c line 70 :Variable spbless not declared !
+wizards/belar/monsu/cle.c line 70 :Variable spbless not declared !
+wizards/belar/monsu/cle.c line 70 :Variable spbless not declared !
+wizards/belar/monsu/cle.c line 70 :Variable spbless not declared !
+wizards/belar/monsu/cle.c line 70 :Variable spbless not declared !
+wizards/belar/monsu/cle.c line 70 :Variable spbless not declared !
+wizards/belar/monsu/cle.c line 64 :Variable spbless not declared !
+wizards/belar/monsu/cle.c line 64 :Variable spbless not declared !
+wizards/belar/monsu/cle.c line 64 :Variable spbless not declared !
+wizards/belar/monsu/cle.c line 64 :Variable spbless not declared !
+wizards/belar/monsu/hinu.c line 35 :Redeclaration of function reset.
+wizards/belar/monsu/hinu.c line 51 :Redeclaration of function reset.
+wizards/belar/monsu/hinu.c line 53 :Redeclaration of function extra.
+wizards/belar/monsu/hinu.c line 66 :Redeclaration of function extra.
+wizards/belar/monsu/hinu.c line 67 :Illegal character (hex 2e) '.'
+wizards/belar/monsu/hinu.c line 67 :syntax error
+wizards/belar/ent/eq/swgu.c line 10 :syntax error
+wizards/belar/ent/eq/swgu.c line 11 :syntax error
+wizards/belar/ent/eq/swgu.c line 10 :syntax error
+wizards/belar/ent/eq/swgu.c line 11 :syntax error
+wizards/belar/ent/eq/swgu.c line 10 :syntax error
+wizards/belar/ent/eq/swgu.c line 11 :syntax error
+wizards/belar/ent/monsters/entguard.c line 11 :syntax error
+wizards/belar/ent/monsters/entguard.c line 15 :syntax error
+wizards/belar/ent/monsters/entguard.c line 22 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 22 :Illegal LHS
+wizards/belar/ent/monsters/entguard.c line 22 :syntax error
+wizards/belar/ent/monsters/entguard.c line 11 :syntax error
+wizards/belar/ent/monsters/entguard.c line 15 :syntax error
+wizards/belar/ent/monsters/entguard.c line 22 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 22 :Illegal LHS
+wizards/belar/ent/monsters/entguard.c line 22 :syntax error
+wizards/belar/ent/monsters/entguard.c line 11 :syntax error
+wizards/belar/ent/monsters/entguard.c line 15 :syntax error
+wizards/belar/ent/monsters/entguard.c line 22 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 22 :Illegal LHS
+wizards/belar/ent/monsters/entguard.c line 22 :syntax error
+wizards/belar/ent/monsters/entguard.c line 11 :syntax error
+wizards/belar/ent/monsters/entguard.c line 15 :syntax error
+wizards/belar/ent/monsters/entguard.c line 22 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 22 :Illegal LHS
+wizards/belar/ent/monsters/entguard.c line 22 :syntax error
+wizards/belar/ent/monsters/entguard.c line 11 :syntax error
+wizards/belar/ent/monsters/entguard.c line 15 :syntax error
+wizards/belar/ent/monsters/entguard.c line 22 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 22 :Illegal LHS
+wizards/belar/ent/monsters/entguard.c line 22 :syntax error
+wizards/belar/ent/monsters/entguard.c line 11 :syntax error
+wizards/belar/ent/monsters/entguard.c line 15 :syntax error
+wizards/belar/ent/monsters/entguard.c line 22 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 22 :Illegal LHS
+wizards/belar/ent/monsters/entguard.c line 22 :syntax error
+wizards/belar/ent/monsters/entguard.c line 11 :syntax error
+wizards/belar/ent/monsters/entguard.c line 15 :syntax error
+wizards/belar/ent/monsters/entguard.c line 22 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 22 :Illegal LHS
+wizards/belar/ent/monsters/entguard.c line 22 :syntax error
+wizards/belar/ent/monsters/entguard.c line 11 :syntax error
+wizards/belar/ent/monsters/entguard.c line 15 :syntax error
+wizards/belar/ent/monsters/entguard.c line 22 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 22 :Illegal LHS
+wizards/belar/ent/monsters/entguard.c line 22 :syntax error
+wizards/belar/ent/monsters/entguard.c line 11 :syntax error
+wizards/belar/ent/monsters/entguard.c line 15 :syntax error
+wizards/belar/ent/monsters/entguard.c line 22 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 22 :Illegal LHS
+wizards/belar/ent/monsters/entguard.c line 22 :syntax error
+wizards/belar/ent/monsters/entguard.c line 11 :syntax error
+wizards/belar/ent/monsters/entguard.c line 15 :syntax error
+wizards/belar/ent/monsters/entguard.c line 22 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 22 :Illegal LHS
+wizards/belar/ent/monsters/entguard.c line 22 :syntax error
+wizards/belar/ent/monsters/entguard.c line 11 :syntax error
+wizards/belar/ent/monsters/entguard.c line 15 :syntax error
+wizards/belar/ent/monsters/entguard.c line 22 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 22 :Illegal LHS
+wizards/belar/ent/monsters/entguard.c line 22 :syntax error
+wizards/belar/ent/monsters/entguard.c line 11 :syntax error
+wizards/belar/ent/monsters/entguard.c line 15 :syntax error
+wizards/belar/ent/monsters/entguard.c line 22 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 22 :Illegal LHS
+wizards/belar/ent/monsters/entguard.c line 22 :syntax error
+wizards/belar/ent/monsters/entguard.c line 11 :syntax error
+wizards/belar/ent/monsters/entguard.c line 15 :syntax error
+wizards/belar/ent/monsters/entguard.c line 22 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 22 :Illegal LHS
+wizards/belar/ent/monsters/entguard.c line 22 :syntax error
+wizards/belar/ent/monsters/entguard.c line 11 :syntax error
+wizards/belar/ent/monsters/entguard.c line 15 :syntax error
+wizards/belar/ent/monsters/entguard.c line 22 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 22 :Illegal LHS
+wizards/belar/ent/monsters/entguard.c line 22 :syntax error
+wizards/belar/ent/monsters/entguard.c line 11 :syntax error
+wizards/belar/ent/monsters/entguard.c line 15 :syntax error
+wizards/belar/ent/monsters/entguard.c line 22 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 22 :Illegal LHS
+wizards/belar/ent/monsters/entguard.c line 22 :syntax error
+wizards/belar/ent/monsters/entguard.c line 11 :syntax error
+wizards/belar/ent/monsters/entguard.c line 15 :syntax error
+wizards/belar/ent/monsters/entguard.c line 22 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 22 :Illegal LHS
+wizards/belar/ent/monsters/entguard.c line 22 :syntax error
+wizards/belar/ent/monsters/entleader.c line 12 :syntax error
+wizards/belar/ent/monsters/entleader.c line 15 :syntax error
+wizards/belar/ent/monsters/entleader.c line 21 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entleader.c line 21 :Illegal LHS
+wizards/belar/ent/monsters/entleader.c line 21 :syntax error
+wizards/belar/ent/monsters/entleader.c line 24 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 11 :syntax error
+wizards/belar/ent/monsters/entguard.c line 15 :syntax error
+wizards/belar/ent/monsters/entguard.c line 22 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 22 :Illegal LHS
+wizards/belar/ent/monsters/entguard.c line 22 :syntax error
+wizards/belar/ent/monsters/entguard.c line 11 :syntax error
+wizards/belar/ent/monsters/entguard.c line 15 :syntax error
+wizards/belar/ent/monsters/entguard.c line 22 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 22 :Illegal LHS
+wizards/belar/ent/monsters/entguard.c line 22 :syntax error
+wizards/belar/ent/monsters/entguard.c line 11 :syntax error
+wizards/belar/ent/monsters/entguard.c line 15 :syntax error
+wizards/belar/ent/monsters/entguard.c line 22 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 22 :Illegal LHS
+wizards/belar/ent/monsters/entguard.c line 22 :syntax error
+wizards/belar/ent/monsters/entguard.c line 11 :syntax error
+wizards/belar/ent/monsters/entguard.c line 15 :syntax error
+wizards/belar/ent/monsters/entguard.c line 22 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 22 :Illegal LHS
+wizards/belar/ent/monsters/entguard.c line 22 :syntax error
+wizards/belar/ent/monsters/entguard.c line 11 :syntax error
+wizards/belar/ent/monsters/entguard.c line 15 :syntax error
+wizards/belar/ent/monsters/entguard.c line 22 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 22 :Illegal LHS
+wizards/belar/ent/monsters/entguard.c line 22 :syntax error
+wizards/belar/ent/monsters/entguard.c line 11 :syntax error
+wizards/belar/ent/monsters/entguard.c line 15 :syntax error
+wizards/belar/ent/monsters/entguard.c line 22 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 22 :Illegal LHS
+wizards/belar/ent/monsters/entguard.c line 22 :syntax error
+wizards/belar/ent/monsters/entguard.c line 11 :syntax error
+wizards/belar/ent/monsters/entguard.c line 15 :syntax error
+wizards/belar/ent/monsters/entguard.c line 22 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 22 :Illegal LHS
+wizards/belar/ent/monsters/entguard.c line 22 :syntax error
+wizards/belar/ent/monsters/entguard.c line 11 :syntax error
+wizards/belar/ent/monsters/entguard.c line 15 :syntax error
+wizards/belar/ent/monsters/entguard.c line 22 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 22 :Illegal LHS
+wizards/belar/ent/monsters/entguard.c line 22 :syntax error
+wizards/belar/ent/monsters/entguard.c line 11 :syntax error
+wizards/belar/ent/monsters/entguard.c line 15 :syntax error
+wizards/belar/ent/monsters/entguard.c line 22 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 22 :Illegal LHS
+wizards/belar/ent/monsters/entguard.c line 22 :syntax error
+wizards/belar/ent/monsters/entguard.c line 11 :syntax error
+wizards/belar/ent/monsters/entguard.c line 15 :syntax error
+wizards/belar/ent/monsters/entguard.c line 22 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 22 :Illegal LHS
+wizards/belar/ent/monsters/entguard.c line 22 :syntax error
+wizards/belar/ent/monsters/entguard.c line 11 :syntax error
+wizards/belar/ent/monsters/entguard.c line 15 :syntax error
+wizards/belar/ent/monsters/entguard.c line 22 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 22 :Illegal LHS
+wizards/belar/ent/monsters/entguard.c line 22 :syntax error
+wizards/belar/ent/monsters/entguard.c line 11 :syntax error
+wizards/belar/ent/monsters/entguard.c line 15 :syntax error
+wizards/belar/ent/monsters/entguard.c line 22 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 22 :Illegal LHS
+wizards/belar/ent/monsters/entguard.c line 22 :syntax error
+wizards/belar/ent/monsters/entguard.c line 11 :syntax error
+wizards/belar/ent/monsters/entguard.c line 15 :syntax error
+wizards/belar/ent/monsters/entguard.c line 22 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 22 :Illegal LHS
+wizards/belar/ent/monsters/entguard.c line 22 :syntax error
+wizards/belar/ent/monsters/entguard.c line 11 :syntax error
+wizards/belar/ent/monsters/entguard.c line 15 :syntax error
+wizards/belar/ent/monsters/entguard.c line 22 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 22 :Illegal LHS
+wizards/belar/ent/monsters/entguard.c line 22 :syntax error
+wizards/belar/ent/monsters/entguard.c line 11 :syntax error
+wizards/belar/ent/monsters/entguard.c line 15 :syntax error
+wizards/belar/ent/monsters/entguard.c line 22 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 22 :Illegal LHS
+wizards/belar/ent/monsters/entguard.c line 22 :syntax error
+wizards/belar/ent/monsters/entguard.c line 11 :syntax error
+wizards/belar/ent/monsters/entguard.c line 15 :syntax error
+wizards/belar/ent/monsters/entguard.c line 22 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 22 :Illegal LHS
+wizards/belar/ent/monsters/entguard.c line 22 :syntax error
+wizards/belar/ent/monsters/entguard.c line 11 :syntax error
+wizards/belar/ent/monsters/entguard.c line 15 :syntax error
+wizards/belar/ent/monsters/entguard.c line 22 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 22 :Illegal LHS
+wizards/belar/ent/monsters/entguard.c line 22 :syntax error
+wizards/belar/ent/monsters/entguard.c line 11 :syntax error
+wizards/belar/ent/monsters/entguard.c line 15 :syntax error
+wizards/belar/ent/monsters/entguard.c line 22 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 22 :Illegal LHS
+wizards/belar/ent/monsters/entguard.c line 22 :syntax error
+wizards/belar/ent/rooms/l1tree1.c line 6 :Variable monster not declared !
+wizards/belar/ent/rooms/l1tree1.c line 9 :Variable monster not declared !
+wizards/belar/ent/rooms/l1tree1.c line 12 :Variable monster not declared !
+wizards/belar/ent/rooms/l1tree1.c line 6 :Variable monster not declared !
+wizards/belar/ent/rooms/l1tree1.c line 9 :Variable monster not declared !
+wizards/belar/ent/rooms/l1tree1.c line 12 :Variable monster not declared !
+wizards/belar/ent/rooms/l1tree1.c line 6 :Variable monster not declared !
+wizards/belar/ent/rooms/l1tree1.c line 9 :Variable monster not declared !
+wizards/belar/ent/rooms/l1tree1.c line 12 :Variable monster not declared !
+wizards/belar/ent/rooms/l1tree1.c line 6 :Variable monster not declared !
+wizards/belar/ent/rooms/l1tree1.c line 9 :Variable monster not declared !
+wizards/belar/ent/rooms/l1tree1.c line 12 :Variable monster not declared !
+wizards/belar/ent/monsters/entguard.c line 11 :syntax error
+wizards/belar/ent/monsters/entguard.c line 15 :syntax error
+wizards/belar/ent/monsters/entguard.c line 22 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 22 :Illegal LHS
+wizards/belar/ent/monsters/entguard.c line 22 :syntax error
+wizards/belar/ent/monsters/entguard.c line 11 :syntax error
+wizards/belar/ent/monsters/entguard.c line 15 :syntax error
+wizards/belar/ent/monsters/entguard.c line 22 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 22 :Illegal LHS
+wizards/belar/ent/monsters/entguard.c line 22 :syntax error
+wizards/belar/ent/monsters/entguard.c line 11 :syntax error
+wizards/belar/ent/monsters/entguard.c line 15 :syntax error
+wizards/belar/ent/monsters/entguard.c line 22 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 22 :Illegal LHS
+wizards/belar/ent/monsters/entguard.c line 22 :syntax error
+wizards/belar/ent/monsters/entguard.c line 11 :syntax error
+wizards/belar/ent/monsters/entguard.c line 15 :syntax error
+wizards/belar/ent/monsters/entguard.c line 22 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 22 :Illegal LHS
+wizards/belar/ent/monsters/entguard.c line 22 :syntax error
+wizards/belar/ent/monsters/entguard.c line 11 :syntax error
+wizards/belar/ent/monsters/entguard.c line 15 :syntax error
+wizards/belar/ent/monsters/entguard.c line 22 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 22 :Illegal LHS
+wizards/belar/ent/monsters/entguard.c line 22 :syntax error
+wizards/belar/ent/monsters/entguard.c line 11 :syntax error
+wizards/belar/ent/monsters/entguard.c line 15 :syntax error
+wizards/belar/ent/monsters/entguard.c line 22 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 22 :Illegal LHS
+wizards/belar/ent/monsters/entguard.c line 22 :syntax error
+wizards/belar/ent/monsters/entguard.c line 11 :syntax error
+wizards/belar/ent/monsters/entguard.c line 15 :syntax error
+wizards/belar/ent/monsters/entguard.c line 22 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 22 :Illegal LHS
+wizards/belar/ent/monsters/entguard.c line 22 :syntax error
+wizards/belar/ent/monsters/entguard.c line 11 :syntax error
+wizards/belar/ent/monsters/entguard.c line 15 :syntax error
+wizards/belar/ent/monsters/entguard.c line 22 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 22 :Illegal LHS
+wizards/belar/ent/monsters/entguard.c line 22 :syntax error
+wizards/belar/ent/monsters/entguard.c line 11 :syntax error
+wizards/belar/ent/monsters/entguard.c line 15 :syntax error
+wizards/belar/ent/monsters/entguard.c line 22 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 22 :Illegal LHS
+wizards/belar/ent/monsters/entguard.c line 22 :syntax error
+wizards/belar/ent/monsters/entguard.c line 11 :syntax error
+wizards/belar/ent/monsters/entguard.c line 15 :syntax error
+wizards/belar/ent/monsters/entguard.c line 22 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 22 :Illegal LHS
+wizards/belar/ent/monsters/entguard.c line 22 :syntax error
+wizards/belar/ent/monsters/entguard.c line 21 :syntax error
+wizards/belar/ent/monsters/entguard.c line 22 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 21 :syntax error
+wizards/belar/ent/monsters/entguard.c line 22 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 21 :syntax error
+wizards/belar/ent/monsters/entguard.c line 22 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 21 :syntax error
+wizards/belar/ent/monsters/entguard.c line 22 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 22 :syntax error
+wizards/belar/ent/monsters/entguard.c line 23 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entguard.c line 21 :syntax error
+wizards/belar/ent/monsters/entguard.c line 22 :Too few arguments to clone_object
+wizards/belar/ent/rooms/l1tree2.c line 23 :syntax error
+wizards/belar/ent/rooms/l1tree2.c line 23 :syntax error
+wizards/belar/ent/monsters/entleader.c line 12 :syntax error
+wizards/belar/ent/monsters/entleader.c line 15 :syntax error
+wizards/belar/ent/monsters/entleader.c line 21 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entleader.c line 21 :Illegal LHS
+wizards/belar/ent/monsters/entleader.c line 21 :syntax error
+wizards/belar/ent/monsters/entleader.c line 24 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entleader.c line 12 :syntax error
+wizards/belar/ent/monsters/entleader.c line 15 :syntax error
+wizards/belar/ent/monsters/entleader.c line 21 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entleader.c line 21 :Illegal LHS
+wizards/belar/ent/monsters/entleader.c line 21 :syntax error
+wizards/belar/ent/monsters/entleader.c line 24 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entleader.c line 12 :syntax error
+wizards/belar/ent/monsters/entleader.c line 15 :syntax error
+wizards/belar/ent/monsters/entleader.c line 21 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entleader.c line 21 :Illegal LHS
+wizards/belar/ent/monsters/entleader.c line 21 :syntax error
+wizards/belar/ent/monsters/entleader.c line 24 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entleader.c line 12 :syntax error
+wizards/belar/ent/monsters/entleader.c line 15 :syntax error
+wizards/belar/ent/monsters/entleader.c line 21 :Too few arguments to clone_object
+wizards/belar/ent/monsters/entleader.c line 21 :Illegal LHS
+wizards/belar/ent/monsters/entleader.c line 21 :syntax error
+wizards/belar/ent/monsters/entleader.c line 24 :Too few arguments to clone_object
+wizards/belar/ent/rooms/l1tree2.c line 23 :syntax error
+wizards/belar/ent/rooms/l1tree2.c line 23 :syntax error
+wizards/belar/ent/rooms/l1tree2.c line 23 :syntax error
+wizards/belar/ent/rooms/l1tree2.c line 23 :syntax error
+wizards/belar/ent/rooms/l1tree2.c line 23 :syntax error
+wizards/belar/ent/rooms/l1tree2.c line 23 :syntax error
+wizards/belar/ent/rooms/l1tree2.c line 23 :syntax error
+wizards/belar/ent/rooms/l1tree2.c line 23 :syntax error
+wizards/belar/ent/rooms/l1tree2.c line 23 :syntax error
+wizards/belar/ent/rooms/l1tree2.c line 23 :syntax error
+wizards/belar/ent/rooms/l1tree2.c line 23 :syntax error
+wizards/belar/ent/rooms/l1tree2.c line 23 :syntax error
+wizards/belar/ent/rooms/l1tree2.c line 23 :syntax error
+wizards/belar/ent/rooms/l1tree2.c line 23 :syntax error
+wizards/belar/ent/rooms/l1tree2.c line 23 :syntax error
+wizards/belar/ent/rooms/l1tree2.c line 23 :syntax error
+wizards/belar/ent/rooms/l1tree2.c line 23 :syntax error
+wizards/belar/ent/rooms/l1tree2.c line 23 :syntax error
+wizards/belar/ent/rooms/l1tree3.c line 24 :syntax error
+wizards/belar/ent/rooms/l1tree3.c line 24 :syntax error
+wizards/belar/ent/rooms/l1tree2.c line 23 :syntax error
+wizards/belar/ent/rooms/l1tree3.c line 24 :syntax error
+wizards/belar/ent/rooms/l1tree3.c line 24 :syntax error
+wizards/belar/ent/rooms/l1tree2.c line 23 :syntax error
+wizards/belar/ent/rooms/l1tree3.c line 24 :syntax error
+wizards/belar/ent/rooms/l1tree3.c line 24 :syntax error
+wizards/belar/ent/entrance.c line 4 :syntax error
+wizards/belar/ent/entrance.c line 4 :syntax error
+wizards/belar/ent/entrance.c line 4 :syntax error
+wizards/belar/ent/entrance.c line 4 :syntax error
+wizards/belar/ent/entrance.c line 4 :syntax error
+wizards/belar/ent/entrance.c line 4 :syntax error
+wizards/belar/ent/entrance.c line 4 :syntax error
+wizards/belar/ent/entra.c line 4 :syntax error
+wizards/belar/ent/entra.c line 4 :syntax error
+wizards/belar/ent/eq/sword.c line 8 :Variable demonslayer not declared !
+wizards/belar/ent/eq/sword.c line 12 :Variable demon not declared !
+wizards/belar/ent/eq/sword.c line 8 :Variable demonslayer not declared !
+wizards/belar/ent/eq/sword.c line 12 :Variable demon not declared !
+wizards/belar/ent/eq/sword.c line 8 :Variable demonslayer not declared !
+wizards/belar/ent/eq/sword.c line 12 :Variable demon not declared !
+wizards/belar/ent/eq/sword.c line 8 :Variable demonslayer not declared !
+wizards/belar/ent/eq/sword.c line 12 :Variable demon not declared !
+wizards/belar/ent/eq/sword.c line 12 :Variable demon not declared !
+wizards/belar/ent/eq/sword.c line 12 :Variable demon not declared !
+wizards/belar/ent/eq/sword.c line 12 :Variable demon not declared !
+wizards/belar/ent/eq/sword.c line 12 :Variable demon not declared !
+wizards/belar/ent/eq/sword.c line 11 :Variable demon not declared !
+wizards/belar/ent/eq/sword.c line 11 :Variable demon not declared !
+wizards/belar/ent/eq/sword.c line 11 :Variable demon not declared !
+wizards/belar/ent/eq/sword.c line 11 :Variable demon not declared !
+wizards/belar/ent/eq/sword.c line 12 :Variable str not declared !
+wizards/belar/ent/eq/sword.c line 13 :Variable damage not declared !
+wizards/belar/ent/eq/sword.c line 14 :Variable hit not declared !
+wizards/belar/ent/eq/sword.c line 12 :Variable str not declared !
+wizards/belar/ent/eq/sword.c line 13 :Variable damage not declared !
+wizards/belar/ent/eq/sword.c line 14 :Variable hit not declared !
+wizards/belar/ent/eq/sword.c line 12 :Variable str not declared !
+wizards/belar/ent/eq/sword.c line 13 :Variable damage not declared !
+wizards/belar/ent/eq/sword.c line 14 :Variable hit not declared !
+wizards/belar/ent/eq/sword.c line 10 :Variable str not declared !
+wizards/belar/ent/eq/sword.c line 11 :Variable hit not declared !
+wizards/belar/ent/eq/sword.c line 10 :Variable str not declared !
+wizards/belar/ent/eq/sword.c line 11 :Variable hit not declared !
+wizards/belar/ent/eq/sword.c line 10 :Variable str not declared !
+wizards/belar/ent/eq/sword.c line 11 :Variable hit not declared !
+wizards/belar/ent/eq/sword.c line 10 :Variable str not declared !
+wizards/belar/ent/eq/sword.c line 10 :Variable str not declared !
+wizards/belar/ent/eq/sword.c line 10 :Variable str not declared !
+wizards/belar/ent/eq/sword.c line 10 :Variable str not declared !
+wizards/belar/ent/eq/sword.c line 10 :Variable str not declared !
+wizards/belar/ent/eq/eqdag.c line 5 :syntax error
+wizards/belar/ent/rooms/l2map7.c line 8 :Variable guard3 not declared !
+wizards/belar/ent/rooms/l2map7.c line 21 :Newline in string
+wizards/belar/ent/rooms/l2map7.c line 22 :syntax error
+wizards/belar/ent/rooms/l2map7.c line 8 :Variable guard3 not declared !
+wizards/belar/ent/rooms/l2map7.c line 21 :Newline in string
+wizards/belar/ent/rooms/l2map7.c line 22 :syntax error
+wizards/belar/ent/rooms/l2map7.c line 8 :Variable guard3 not declared !
+wizards/belar/ent/rooms/l2map7.c line 21 :Newline in string
+wizards/belar/ent/rooms/l2map7.c line 22 :syntax error
+wizards/belar/ent/rooms/l2map7.c line 8 :Variable guard3 not declared !
+wizards/belar/ent/rooms/l2map7.c line 21 :Newline in string
+wizards/belar/ent/rooms/l2map7.c line 22 :syntax error
+wizards/belar/ent/rooms/l2map7.c line 8 :Variable guard3 not declared !
+wizards/belar/ent/rooms/l2map7.c line 21 :Newline in string
+wizards/belar/ent/rooms/l2map7.c line 22 :syntax error
+wizards/belar/ent/rooms/l2map7.c line 8 :Variable guard3 not declared !
+wizards/belar/ent/rooms/l2map7.c line 21 :Newline in string
+wizards/belar/ent/rooms/l2map7.c line 22 :syntax error
+wizards/belar/ent/rooms/l2map7.c line 8 :Variable guard3 not declared !
+wizards/belar/ent/rooms/l2map7.c line 21 :Newline in string
+wizards/belar/ent/rooms/l2map7.c line 22 :syntax error
+wizards/belar/ent/rooms/l2map7.c line 8 :Variable guard3 not declared !
+wizards/belar/ent/rooms/l2map7.c line 8 :Variable guard3 not declared !
+wizards/belar/ent/rooms/l2map7.c line 8 :Variable guard3 not declared !
+wizards/belar/ent/rooms/l2map7.c line 8 :Variable guard3 not declared !
+wizards/belar/ent/rooms/l2map7.c line 14 :syntax error
+wizards/belar/ent/rooms/l2map7.c line 14 :syntax error
+wizards/belar/ent/rooms/l2map7.c line 14 :syntax error
+wizards/belar/ent/rooms/l2map7.c line 14 :syntax error
+wizards/belar/ent/rooms/l2map7.c line 14 :syntax error
+wizards/belar/ent/rooms/l2map7.c line 11 :syntax error
+wizards/belar/ent/rooms/l2map7.c line 11 :syntax error
+wizards/belar/ent/rooms/l2map7.c line 11 :syntax error
+wizards/belar/ent/rooms/l1map4.c line 16 :syntax error
+wizards/belar/ent/rooms/l1map4.c line 16 :syntax error
+wizards/belar/ent/rooms/l1map4.c line 16 :syntax error
+wizards/belar/ent/rooms/l1map4.c line 16 :syntax error
+wizards/belar/ent/rooms/l1map4.c line 16 :syntax error
+wizards/belar/ent/rooms/l1map1.c line 9 :Variable monster not declared !
+wizards/belar/ent/rooms/l1map1.c line 10 :Variable monster2 not declared !
+wizards/belar/ent/rooms/l1map1.c line 9 :Variable monster not declared !
+wizards/belar/ent/rooms/l1map1.c line 10 :Variable monster2 not declared !
+wizards/belar/ent/rooms/l1map1.c line 9 :Variable monster not declared !
+wizards/belar/ent/rooms/l1map1.c line 10 :Variable monster2 not declared !
+wizards/belar/ent/rooms/l1map2.c line 9 :Variable monster not declared !
+wizards/belar/ent/rooms/l1map2.c line 10 :Variable monster2 not declared !
+wizards/belar/ent/rooms/l1map2.c line 9 :Variable monster not declared !
+wizards/belar/ent/rooms/l1map2.c line 10 :Variable monster2 not declared !
+wizards/belar/ent/rooms/l1map3.c line 9 :Variable monster not declared !
+wizards/belar/ent/rooms/l1map3.c line 10 :Variable monster2 not declared !
+wizards/belar/ent/rooms/l1map1.c line 9 :Variable monster not declared !
+wizards/belar/ent/rooms/l1map1.c line 10 :Variable monster2 not declared !
+wizards/belar/ent/rooms/l1map1.c line 9 :Variable monster not declared !
+wizards/belar/ent/rooms/l1map1.c line 10 :Variable monster2 not declared !
+wizards/belar/ent/rooms/l1map2.c line 9 :Variable monster not declared !
+wizards/belar/ent/rooms/l1map2.c line 10 :Variable monster2 not declared !
+wizards/belar/ent/rooms/l1map1.c line 9 :Variable monster not declared !
+wizards/belar/ent/rooms/l1map1.c line 10 :Variable monster2 not declared !
+wizards/belar/ent/rooms/l1map1.c line 9 :Variable monster not declared !
+wizards/belar/ent/rooms/l1map1.c line 10 :Variable monster2 not declared !
+wizards/belar/ent/rooms/l1map1.c line 9 :Variable monster not declared !
+wizards/belar/ent/rooms/l1map1.c line 10 :Variable monster2 not declared !
+wizards/belar/ent/rooms/l1map2.c line 9 :Variable monster not declared !
+wizards/belar/ent/rooms/l1map2.c line 10 :Variable monster2 not declared !
+wizards/belar/ent/rooms/l1map3.c line 9 :Variable monster not declared !
+wizards/belar/ent/rooms/l1map3.c line 10 :Variable monster2 not declared !
+wizards/belar/ent/rooms/l1map4.c line 8 :Variable childr2 not declared !
+wizards/belar/ent/rooms/l1map1.c line 9 :Variable monster not declared !
+wizards/belar/ent/rooms/l1map1.c line 10 :Variable monster2 not declared !
+wizards/belar/ent/rooms/l1map1.c line 9 :Variable monster not declared !
+wizards/belar/ent/rooms/l1map1.c line 10 :Variable monster2 not declared !
+wizards/belar/ent/rooms/l1map2.c line 9 :Variable monster not declared !
+wizards/belar/ent/rooms/l1map2.c line 10 :Variable monster2 not declared !
+wizards/belar/ent/rooms/l1map4.c line 8 :Variable childr2 not declared !
+wizards/belar/ent/rooms/l1map3.c line 9 :Variable monster not declared !
+wizards/belar/ent/rooms/l1map3.c line 10 :Variable monster2 not declared !
+wizards/belar/ent/rooms/l1hut.c line 9 :Variable childr2 not declared !
+wizards/belar/ent/rooms/l1hut.c line 29 :syntax error
+wizards/belar/ent/rooms/l1hut.c line 9 :Variable childr2 not declared !
+wizards/belar/ent/rooms/l1hut.c line 29 :syntax error
+wizards/belar/ent/rooms/l1hut.c line 30 :syntax error
+wizards/belar/ent/rooms/l1hut.c line 30 :syntax error
+wizards/belar/ent/rooms/l1hut.c line 30 :syntax error
+wizards/belar/ent/rooms/l1hut.c line 30 :syntax error
+wizards/belar/ent/rooms/l1hut.c line 30 :syntax error
+wizards/belar/ent/rooms/l2tree1.c line 10 :Variable ent not declared !
+wizards/belar/ent/rooms/l2tree1.c line 13 :Variable ent not declared !
+wizards/belar/ent/rooms/l2tree1.c line 10 :Variable ent not declared !
+wizards/belar/ent/rooms/l2tree1.c line 13 :Variable ent not declared !
+wizards/belar/ent/rooms/l2tree1.c line 10 :Variable ent not declared !
+wizards/belar/ent/rooms/l2tree1.c line 13 :Variable ent not declared !
+wizards/belar/ent/rooms/l2tree1.c line 10 :Variable ent not declared !
+wizards/belar/ent/rooms/l2tree1.c line 13 :Variable ent not declared !
+wizards/belar/ent/rooms/l2tree1.c line 10 :Variable ent not declared !
+wizards/belar/ent/rooms/l2tree1.c line 13 :Variable ent not declared !
+wizards/belar/key.c line 10 :syntax error
+wizards/belar/key.c line 10 :syntax error
+wizards/belar/key.c line 10 :syntax error
+wizards/belar/ent/rooms/l1tree3.c line 42 :syntax error
+wizards/belar/ent/rooms/l1tree3.c line 42 :syntax error
+wizards/belar/tree.c line 18 :syntax error
+wizards/belar/tree.c line 18 :syntax error
+wizards/belar/key2.c line 12 :Variable door_number not declared !
+wizards/belar/key.c line 17 :illegal to inherit after defining functions
+wizards/belar/key.c line 19 :Redeclaration of function id.
+wizards/belar/key.c line 19 :Redeclaration of function id.
+wizards/belar/key.c line 21 :Redeclaration of function short.
+wizards/belar/key.c line 21 :Redeclaration of function short.
+wizards/belar/key.c line 23 :Redeclaration of function long.
+wizards/belar/tree.c line 58 :syntax error
+wizards/belar/tree.c line 61 :Too few arguments to write
+wizards/belar/tree.c line 58 :syntax error
+wizards/belar/tree.c line 61 :Too few arguments to write
+wizards/belar/tree.c line 58 :syntax error
+wizards/belar/tree.c line 61 :Too few arguments to write
+wizards/belar/tree.c line 58 :syntax error
+wizards/belar/tree.c line 61 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 57 :syntax error
+wizards/belar/tree.c line 60 :Too few arguments to write
+wizards/belar/tree.c line 34 :syntax error
+wizards/belar/tree.c line 37 :Too few arguments to write
+wizards/belar/tree.c line 34 :syntax error
+wizards/belar/tree.c line 37 :Too few arguments to write
+wizards/belar/tree.c line 34 :syntax error
+wizards/belar/tree.c line 37 :Too few arguments to write
+wizards/belar/tree.c line 34 :syntax error
+wizards/belar/tree.c line 37 :Too few arguments to write
+wizards/belar/tree.c line 33 :syntax error
+wizards/belar/tree.c line 36 :Too few arguments to write
+wizards/belar/tree.c line 33 :syntax error
+wizards/belar/tree.c line 36 :Too few arguments to write
+wizards/belar/tree.c line 33 :syntax error
+wizards/belar/tree.c line 36 :Too few arguments to write
+wizards/belar/tree.c line 33 :syntax error
+wizards/belar/tree.c line 36 :Too few arguments to write
+wizards/belar/tree.c line 33 :syntax error
+wizards/belar/tree.c line 36 :Too few arguments to write
+wizards/belar/tree.c line 33 :syntax error
+wizards/belar/tree.c line 36 :Too few arguments to write
+wizards/belar/tree.c line 33 :syntax error
+wizards/belar/tree.c line 36 :Too few arguments to write
+wizards/belar/tree.c line 33 :syntax error
+wizards/belar/tree.c line 36 :Too few arguments to write
+wizards/belar/tree.c line 33 :syntax error
+wizards/belar/tree.c line 36 :Too few arguments to write
+wizards/belar/tree.c line 33 :syntax error
+wizards/belar/tree.c line 36 :Too few arguments to write
+wizards/belar/tree.c line 33 :syntax error
+wizards/belar/tree.c line 36 :Too few arguments to write
+wizards/belar/tree.c line 33 :syntax error
+wizards/belar/tree.c line 36 :Too few arguments to write
+wizards/belar/monsu/hinu.c line 2: Program 'obj/monster.c' already inherited
+wizards/belar/monsu/hinu.c line 35: Redeclaration of function reset.
+wizards/belar/monsu/hinu.c line 53: Redeclaration of function extra.
+wizards/belar/monsu/hinu.c line 67: Illegal character (hex 2e) '.'
+wizards/belar/monsu/hinu.c line 67: Unrecognized inheritance modifier 'a'
+wizards/belar/monsu/hinu.c line 67: syntax error
+wizards/belar/monsu/hinu.c line 2: Program 'obj/monster.c' already inherited
+wizards/belar/monsu/hinu.c line 35: Redeclaration of function reset.
+wizards/belar/monsu/hinu.c line 53: Redeclaration of function extra.
+wizards/belar/monsu/hinu.c line 67: Illegal character (hex 2e) '.'
+wizards/belar/monsu/hinu.c line 67: Unrecognized inheritance modifier 'a'
+wizards/belar/monsu/hinu.c line 67: syntax error
+wizards/belar/monsu/hinu.c line 2: Program 'obj/monster.c' already inherited
+wizards/belar/monsu/hinu.c line 35: Redeclaration of function reset.
+wizards/belar/monsu/hinu.c line 53: Redeclaration of function extra.
+wizards/belar/monsu/hinu.c line 67: Illegal character (hex 2e) '.'
+wizards/belar/monsu/hinu.c line 67: Unrecognized inheritance modifier 'a'
+wizards/belar/monsu/hinu.c line 67: syntax error
+wizards/belar/monsu/hinu.c line 2: Program 'obj/monster.c' already inherited
+wizards/belar/monsu/hinu.c line 35: Redeclaration of function reset.
+wizards/belar/monsu/hinu.c line 53: Redeclaration of function extra.
+wizards/belar/monsu/hinu.c line 67: Illegal character (hex 2e) '.'
+wizards/belar/monsu/hinu.c line 67: Unrecognized inheritance modifier 'a'
+wizards/belar/monsu/hinu.c line 67: syntax error
+wizards/belar/monsu/hinu.c line 2: Program 'obj/monster.c' already inherited
+wizards/belar/monsu/hinu.c line 35: Redeclaration of function reset.
+wizards/belar/monsu/hinu.c line 53: Redeclaration of function extra.
+wizards/belar/monsu/hinu.c line 67: Illegal character (hex 2e) '.'
+wizards/belar/monsu/hinu.c line 67: Unrecognized inheritance modifier 'a'
+wizards/belar/monsu/hinu.c line 67: syntax error
+wizards/belar/monsu/hinu.c line 2: Program 'obj/monster.c' already inherited
+wizards/belar/monsu/hinu.c line 35: Redeclaration of function reset.
+wizards/belar/monsu/hinu.c line 53: Redeclaration of function extra.
+wizards/belar/monsu/hinu.c line 67: Illegal character (hex 2e) '.'
+wizards/belar/monsu/hinu.c line 67: syntax error
+wizards/belar/monsu/hinu.c line 2: Program 'obj/monster.c' already inherited
+wizards/belar/monsu/hinu.c line 35: Redeclaration of function reset.
+wizards/belar/monsu/hinu.c line 53: Redeclaration of function extra.
+wizards/belar/monsu/hinu.c line 67: Illegal character (hex 2e) '.'
+wizards/belar/monsu/hinu.c line 67: Unrecognized inheritance modifier 'a'
+wizards/belar/monsu/hinu.c line 67: syntax error
+wizards/belar/monsu/hinu.c line 2: Program 'obj/monster.c' already inherited
+wizards/belar/monsu/hinu.c line 35: Redeclaration of function reset.
+wizards/belar/monsu/hinu.c line 53: Redeclaration of function extra.
+wizards/belar/monsu/hinu.c line 67: Illegal character (hex 2e) '.'
+wizards/belar/monsu/hinu.c line 67: syntax error
+wizards/belar/monsu/hinu.c line 2: Program 'obj/monster.c' already inherited
+wizards/belar/monsu/hinu.c line 35: Redeclaration of function reset.
+wizards/belar/monsu/hinu.c line 53: Redeclaration of function extra.
+wizards/belar/monsu/hinu.c line 67: Illegal character (hex 2e) '.'
+wizards/belar/monsu/hinu.c line 67: Unrecognized inheritance modifier 'a'
+wizards/belar/monsu/hinu.c line 67: syntax error
+wizards/belar/monsu/hinu.c line 2: Program 'obj/monster.c' already inherited
+wizards/belar/monsu/hinu.c line 35: Redeclaration of function reset.
+wizards/belar/monsu/hinu.c line 53: Redeclaration of function extra.
+wizards/belar/monsu/hinu.c line 67: Illegal character (hex 2e) '.'
+wizards/belar/monsu/hinu.c line 67: Unrecognized inheritance modifier 'a'
+wizards/belar/monsu/hinu.c line 67: syntax error
+wizards/belar/monsu/hinu.c line 2: Program 'obj/monster.c' already inherited
+wizards/belar/monsu/hinu.c line 35: Redeclaration of function reset.
+wizards/belar/monsu/hinu.c line 53: Redeclaration of function extra.
+wizards/belar/monsu/hinu.c line 67: Illegal character (hex 2e) '.'
+wizards/belar/monsu/hinu.c line 67: Unrecognized inheritance modifier 'a'
+wizards/belar/monsu/hinu.c line 67: syntax error
+wizards/belar/monsu/hinu.c line 2: Program 'obj/monster.c' already inherited
+wizards/belar/monsu/hinu.c line 35: Redeclaration of function reset.
+wizards/belar/monsu/hinu.c line 53: Redeclaration of function extra.
+wizards/belar/monsu/hinu.c line 67: Illegal character (hex 2e) '.'
+wizards/belar/monsu/hinu.c line 67: Unrecognized inheritance modifier 'a'
+wizards/belar/monsu/hinu.c line 67: syntax error

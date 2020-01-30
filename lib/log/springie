@@ -1,0 +1,19 @@
+wizards/springie/workroom.c line 2 :Illegal character (hex 1b) ''
+wizards/springie/workroom.c line 2 :syntax error
+wizards/springie/workroom.c line 2 :Illegal character (hex 1b) ''
+wizards/springie/workroom.c line 2 :syntax error
+wizards/springie/workroom.c line 2 :Illegal character (hex 1b) ''
+wizards/springie/workroom.c line 2 :syntax error
+wizards/springie/test.c line 1 :Cannot #include mudlib.h
+wizards/springie/darkmaster.c line 2 :Illegal character (hex 1b) ''
+wizards/springie/darkmaster.c line 2 :syntax error
+wizards/springie/darkmaster.c line 13 :syntax error
+wizards/springie/darkmaster.c line 13 :Illegal character (hex 5c) '\'
+wizards/springie/darkmaster.c line 13 :Newline in string
+wizards/springie/darkmaster.c line 23 :Illegal character (hex 1b) ''
+wizards/springie/darkmaster.c line 23 :syntax error
+wizards/springie/darkrealm/entrance.c line 5 :syntax error
+wizards/springie/darkrealm/entrance.c line 5 :syntax error
+wizards/springie/darkrealm/entrance.c line 5 :syntax error
+wizards/springie/test.c line 11 :Variable human not declared !
+wizards/springie/test.c line 5 :Variable human not declared !

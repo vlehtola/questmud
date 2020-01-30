@@ -1,0 +1,966 @@
+Sun May 23 15:27:17 2004 A Dark Hooded Executioner of the Castle Asgroth(strong) (/wizards/irmeli/castle/monsters/executioner#12896, 84) killed by Reaper (206) 
+wizards/irmeli/castle/etower3.c line 41 :syntax error
+wizards/irmeli/castle/etower3.c line 41 :syntax error
+wizards/irmeli/castle/etower3.c line 52 :syntax error
+wizards/irmeli/castle/etower3.c line 41 :syntax error
+wizards/irmeli/castle/etower3.c line 52 :syntax error
+wizards/irmeli/castle/monsters/executioner.c line 7 :syntax error
+wizards/irmeli/castle/monsters/executioner.c line 28 :Illegal LHS
+wizards/irmeli/castle/monsters/executioner.c line 28 :syntax error
+wizards/irmeli/castle/monsters/executioner.c line 33 :Illegal LHS
+wizards/irmeli/castle/monsters/executioner.c line 33 :Illegal LHS
+wizards/irmeli/castle/monsters/executioner.c line 33 :Illegal LHS
+wizards/irmeli/castle/monsters/executioner.c line 7 :syntax error
+wizards/irmeli/castle/monsters/executioner.c line 28 :Illegal LHS
+wizards/irmeli/castle/monsters/executioner.c line 28 :syntax error
+wizards/irmeli/castle/monsters/executioner.c line 33 :Illegal LHS
+wizards/irmeli/castle/monsters/executioner.c line 33 :Illegal LHS
+wizards/irmeli/castle/monsters/executioner.c line 33 :Illegal LHS
+Tue May 25 23:07:03 2004 A Dark Hooded Executioner of the Castle Asgroth(strong) (/wizards/irmeli/castle/monsters/executioner#9068, 70) killed by Reaper (224) 
+Tue May 25 23:43:51 2004 Henrik IV, Lord of the Castle Asgroth(strong) (/wizards/irmeli/castle/monsters/lord#7883, 80) killed by Reaper (224) 
+Wed May 26 19:39:11 2004 A Dark Hooded Executioner of the Castle Asgroth(strong) (/wizards/irmeli/castle/monsters/executioner#26790, 70) killed by Reaper (224) 
+Thu May 27 19:30:42 2004 A dark-hooded Executioner of the Castle Asgroth(strong) (/wizards/irmeli/castle/monsters/executioner#36990, 70) killed by Reaper (225) 
+wizards/irmeli/castle//wroof.c line 13 :Too many arguments to clone_object
+wizards/irmeli/castle//wroof.c line 13 :syntax error
+wizards/irmeli/castle//wroof.c line 28 :Illegal LHS
+wizards/irmeli/castle//wroof.c line 28 :Illegal LHS
+wizards/irmeli/castle//wroof.c line 28 :Illegal LHS
+wizards/irmeli/castle//wroof.c line 28 :syntax error
+Fri May 28 21:52:43 2004 King Arthur VII, the old ruler of hobbits(strong) (/wizards/irmeli/area2/king#51906, 38) killed by Reaper (231) 
+Tue Jun  1 20:10:49 2004 A dark-hooded Executioner of the Castle Asgroth(strong) (/wizards/irmeli/castle/monsters/executioner#26895, 70) killed by Bloodstorm (195) 
+Tue Jun 15 14:39:54 2004 King Arthur VII, the old ruler of hobbits(strong) (/wizards/irmeli/area2/king#11572, 38) killed by Yodin (115) 
+Sat Jul 10 21:05:13 2004 Marcus the Forest Ranger(strong) (/wizards/irmeli/bwp/monsters/ranger#19756, 57) killed by Reaper (346) 
+Sat Jul 10 21:31:09 2004 The damned witch of dark forest (strong) (/wizards/irmeli/bwp/monsters/witch#20448, 65) killed by Reaper (346) 
+Mon Jul 12 04:02:34 2004 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#40036, 70) killed by Glyco (76) 
+Mon Jul 12 04:07:04 2004 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#40413, 58) killed by Reaper (346) 
+Mon Jul 12 04:17:20 2004 The High Priestess, Healer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/priestess#40718, 40) killed by Reaper (346) 
+Mon Jul 12 04:40:54 2004 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#40681, 83) killed by Reaper (346) 
+Wed Jul 14 21:11:19 2004 A dark-hooded Executioner of the Castle Asgroth(strong) (/wizards/irmeli/castle/monsters/executioner#23609, 70) killed by Reaper (346) 
+Wed Jul 14 22:24:26 2004 Elizabeth III, Lady of the Castle Asgroth(strong) (/wizards/irmeli/castle/monsters/lady#26135, 80) killed by Reaper (346) 
+Thu Jul 15 22:10:44 2004 King Arthur VII, the old ruler of hobbits(strong) (/wizards/irmeli/area2/king#35278, 38) killed by Reaper (346) 
+Thu Jul 22 20:41:05 2004 King Arthur VII, the old ruler of hobbits(strong) (/wizards/irmeli/area2/king#28128, 38) killed by Reaper (347) 
+Sun Jul 25 00:03:42 2004 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#25174, 70) killed by Reaper (349) 
+Sun Jul 25 00:08:10 2004 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#25728, 58) killed by Reaper (349) 
+Sun Jul 25 00:17:04 2004 The Soul Assassin, Sorcerer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/assassin#26062, 42) killed by Reaper (349) 
+Sun Jul 25 17:14:05 2004 A dark-hooded Executioner of the Castle Asgroth(strong) (/wizards/irmeli/castle/monsters/executioner#15017, 70) killed by Reaper (349) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Mon Sep 06 16:10:36 2004 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#15452, 70) killed by Madk (94) 
+Mon Sep 06 16:13:02 2004 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#15723, 58) killed by Reaper (349) 
+Mon Sep 06 16:22:30 2004 The Soul Assassin, Sorcerer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/headhunter#15842, 38) killed by Reaper (349) 
+Mon Sep 06 16:25:50 2004 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#15820, 83) killed by Reaper (349) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Thu Sep 16 04:01:37 2004 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#73761, 70) killed by Reaper (357) 
+Thu Sep 16 04:03:51 2004 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#73902, 58) killed by Reaper (357) 
+Thu Sep 16 04:10:31 2004 The High Priestess, Healer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/priestess#74039, 40) killed by Reaper (357) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Mon Sep 20 12:35:30 2004 King Arthur VII, the old ruler of hobbits(strong) (/wizards/irmeli/area2/king#6009, 38) killed by Aleksi (163) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Thu Sep 23 12:40:48 2004 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#13178, 70) killed by Reaper (361) 
+Thu Sep 23 12:44:02 2004 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#14335, 58) killed by Reaper (361) 
+Thu Sep 23 12:49:36 2004 The Soul Assassin, Sorcerer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/assassin#15201, 42) killed by Reaper (361) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Mon Sep 27 18:12:30 2004 King Arthur VII, the old ruler of hobbits(strong) (/wizards/irmeli/area2/king#56288, 38) killed by Elric (127) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Thu Sep 30 05:16:32 2004 King Arthur VII, the old ruler of hobbits(strong) (/wizards/irmeli/area2/king#108670, 38) killed by Madk (130) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Fri Oct 08 14:57:41 2004 King Arthur VII, the old ruler of hobbits(strong) (/wizards/irmeli/area2/king#37429, 38) killed by Celes (177) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Wed Oct 13 01:04:07 2004 King Arthur VII, the old ruler of hobbits(strong) (/wizards/irmeli/area2/king#62624, 38) killed by Gravius (145) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Tue Nov 30 20:14:14 2004 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#36240, 70) killed by Golthar (239) 
+Tue Nov 30 20:29:17 2004 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#36666, 58) killed by Celes (216) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Wed Dec 01 20:47:16 2004 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#25609, 70) killed by Golthar (239) 
+Wed Dec 01 20:53:20 2004 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#25882, 58) killed by Celes (216) 
+Wed Dec 01 21:21:47 2004 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#26864, 83) killed by Golthar (239) 
+Wed Dec 01 21:22:57 2004 The Soul Assassin, Sorcerer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/headhunter#27224, 38) killed by Celes (216) 
+Thu Dec 02 18:35:11 2004 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#14648, 70) killed by Golthar (239) 
+Thu Dec 02 18:42:03 2004 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#18130, 58) killed by Celes (216) 
+Thu Dec 02 18:51:07 2004 The Soul Assassin, Sorcerer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/assassin#18965, 42) killed by Celes (216) 
+Thu Dec 02 18:59:03 2004 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#18721, 83) killed by Celes (216) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Wed Dec 15 03:16:03 2004 King Arthur VII, the old ruler of hobbits(strong) (/wizards/irmeli/area2/king#57136, 38) killed by Madk (144) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Fri Dec 17 16:28:57 2004 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#10579, 70) killed by Golthar (243) 
+Sat Dec 18 11:51:56 2004 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#6050, 70) killed by Golthar (243) 
+Sat Dec 18 11:56:46 2004 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#6448, 58) killed by Golthar (243) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Sun Jan 02 20:44:42 2005 King Arthur VII, the old ruler of hobbits(strong) (/wizards/irmeli/area2/king#42037, 38) killed by Daelon (165) 
+Mon Jan 03 00:14:54 2005 King Arthur VII, the old ruler of hobbits(strong) (/wizards/irmeli/area2/king#42480, 38) killed by Daelon (166) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Tue Jan 04 16:48:02 2005 King Arthur VII, the old ruler of hobbits(strong) (/wizards/irmeli/area2/king#30666, 38) killed by Daelon (169) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Fri Jan 14 13:55:25 2005 King Arthur VII, the old ruler of hobbits(strong) (/wizards/irmeli/area2/king#14009, 38) killed by Daelon (93) 
+Fri Jan 14 15:56:08 2005 King Arthur VII, the old ruler of hobbits(strong) (/wizards/irmeli/area2/king#14353, 38) killed by Daelon (95) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Fri Jan 21 00:25:00 2005 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#14797, 70) killed by Madk (179) 
+Fri Jan 21 00:45:29 2005 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#43951, 58) killed by Madk (179) 
+Fri Jan 21 01:52:50 2005 The Soul Assassin, Sorcerer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/assassin#45840, 42) killed by Ntg (172) 
+Fri Jan 21 02:07:13 2005 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#45608, 83) killed by Madk (179) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Wed Feb 09 21:49:24 2005 Marcus the Forest Ranger(strong) (/wizards/irmeli/bwp/monsters/ranger#31386, 57) killed by Kaappi (249) 
+Wed Feb 09 22:00:38 2005 The damned witch of dark forest (strong) (/wizards/irmeli/bwp/monsters/witch#31961, 65) killed by Madk (121) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Thu Feb 10 07:36:04 2005 Marcus the Forest Ranger(strong) (/wizards/irmeli/bwp/monsters/ranger#558, 57) killed by Kaappi (249) 
+Thu Feb 10 09:00:18 2005 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#352, 70) killed by Kaappi (249) 
+Thu Feb 10 09:03:04 2005 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#2954, 58) killed by Kaappi (249) 
+Thu Feb 10 09:14:29 2005 The High Priestess, Healer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/priestess#3085, 40) killed by Kaappi (249) 
+Thu Feb 10 09:16:25 2005 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#3028, 83) killed by Kaappi (249) 
+Fri Feb 11 17:56:29 2005 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#572, 70) killed by Kaappi (265) 
+Fri Feb 11 18:00:02 2005 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#12949, 58) killed by Kaappi (265) 
+Fri Feb 11 18:09:44 2005 The Soul Assassin, Sorcerer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/headhunter#13350, 38) killed by Ntg (109) 
+Fri Feb 11 18:11:08 2005 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#13241, 83) killed by Kaappi (265) 
+Sat Feb 12 21:14:27 2005 A dark-hooded Executioner of the Castle Asgroth(strong) (/wizards/irmeli/castle/monsters/executioner#14817, 70) killed by Kaappi (265) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Sat Feb 19 17:02:02 2005 Marcus the Forest Ranger(strong) (/wizards/irmeli/bwp/monsters/ranger#12660, 57) killed by Kaappi (267) 
+Sun Feb 20 22:39:11 2005 Marcus the Forest Ranger(strong) (/wizards/irmeli/bwp/monsters/ranger#14335, 57) killed by Kaappi (267) 
+Wed Mar 02 12:39:26 2005 A dark-hooded Executioner of the Castle Asgroth(strong) (/wizards/irmeli/castle/monsters/executioner#7266, 70) killed by Kaappi (280) 
+Wed Mar 02 13:22:11 2005 Henrik IV, Lord of the Castle Asgroth(strong) (/wizards/irmeli/castle/monsters/lord#8070, 80) killed by Kaappi (280) 
+Wed Mar 02 13:44:53 2005 Edwin McLeod, the Master Knight(strong) (/wizards/irmeli/castle/monsters/masterknight#8076, 85) killed by Kaappi (280) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Wed Mar 02 19:17:52 2005 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#14531, 70) killed by Kaappi (280) 
+Wed Mar 02 19:20:42 2005 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#14686, 58) killed by Kaappi (280) 
+Wed Mar 02 19:26:03 2005 The High Priestess, Healer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/priestess#14820, 40) killed by Kaappi (280) 
+Wed Mar 02 19:36:03 2005 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#14802, 83) killed by Kaappi (280) 
+Thu Mar 03 12:52:33 2005 A dark-hooded Executioner of the Castle Asgroth(strong) (/wizards/irmeli/castle/monsters/executioner#4650, 70) killed by Kaappi (280) 
+Thu Mar 03 13:30:18 2005 Elizabeth III, Lady of the Castle Asgroth(strong) (/wizards/irmeli/castle/monsters/lady#5263, 80) killed by Kaappi (280) 
+Thu Mar 03 13:41:22 2005 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#6037, 70) killed by Kaappi (280) 
+Thu Mar 03 13:48:40 2005 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#6148, 58) killed by Kaappi (280) 
+Thu Mar 03 14:11:05 2005 The High Priestess, Healer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/priestess#6427, 40) killed by Kaappi (280) 
+Thu Mar 03 14:20:27 2005 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#6368, 83) killed by Kaappi (280) 
+Sat Mar 05 00:43:39 2005 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#12715, 70) killed by Kaappi (280) 
+Sat Mar 05 00:47:30 2005 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#12842, 58) killed by Kaappi (280) 
+Sat Mar 05 00:57:02 2005 The Soul Assassin, Sorcerer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/assassin#13107, 42) killed by Ntg (159) 
+Sat Mar 05 01:01:56 2005 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#12989, 83) killed by Kaappi (280) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Sun Mar 06 17:23:23 2005 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#6697, 70) killed by Ntg (174) 
+Sun Mar 06 17:26:25 2005 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#6925, 58) killed by Kaappi (281) 
+Sun Mar 06 17:35:09 2005 The Soul Assassin, Sorcerer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/assassin#7099, 42) killed by Kaappi (281) 
+Sun Mar 06 17:46:01 2005 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#7068, 83) killed by Kaappi (281) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Fri Sep 09 23:40:04 2005 Marcus the Forest Ranger(strong) (/wizards/irmeli/bwp/monsters/ranger#14174, 57) killed by Ntg (200) 
+Fri Sep 09 23:46:05 2005 The damned witch of dark forest (strong) (/wizards/irmeli/bwp/monsters/witch#14375, 65) killed by Ntg (200) 
+Sat Sep 10 17:36:41 2005 Marcus the Forest Ranger(strong) (/wizards/irmeli/bwp/monsters/ranger#9918, 57) killed by Ntg (200) 
+Sun Sep 11 12:54:08 2005 Marcus the Forest Ranger(strong) (/wizards/irmeli/bwp/monsters/ranger#2065, 57) killed by Ntg (200) 
+Sun Sep 11 13:06:16 2005 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#2361, 70) killed by Ntg (200) 
+Sun Sep 11 13:12:58 2005 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#2871, 58) killed by Ntg (200) 
+Sun Sep 11 13:28:04 2005 The Soul Assassin, Sorcerer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/headhunter#3282, 38) killed by Ntg (200) 
+Sun Sep 11 13:34:43 2005 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#3185, 83) killed by Ntg (200) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Sat Sep 17 17:35:20 2005 King Arthur VII, the old ruler of hobbits(strong) (/wizards/irmeli/area2/king#11621, 38) killed by Moonshdw (140) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Mon Oct 10 14:59:46 2005 Marcus the Forest Ranger(strong) (/wizards/irmeli/bwp/monsters/ranger#9190, 57) killed by Ntg (229) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Fri Oct 28 22:52:05 2005 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#32373, 70) killed by Ntg (229) 
+Fri Oct 28 22:55:19 2005 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#32933, 58) killed by Ntg (229) 
+Fri Oct 28 23:15:32 2005 The High Priestess, Healer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/priestess#33407, 40) killed by Ntg (229) 
+Fri Oct 28 23:31:34 2005 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#33297, 83) killed by Ntg (229) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Sat Oct 29 23:15:43 2005 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#50196, 70) killed by Atw (70) 
+Sat Oct 29 23:22:07 2005 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#50830, 58) killed by Ntg (229) 
+Sat Oct 29 23:28:29 2005 The High Priestess, Healer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/priestess#51817, 40) killed by Ntg (229) 
+Sat Oct 29 23:43:02 2005 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#51535, 83) killed by Ntg (229) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Sun Oct 30 15:51:36 2005 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#14766, 70) killed by Ntg (229) 
+Sun Oct 30 15:54:21 2005 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#15333, 58) killed by Madk (164) 
+Sun Oct 30 16:01:23 2005 The High Priestess, Healer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/priestess#15719, 40) killed by Ntg (229) 
+Sun Oct 30 16:06:09 2005 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#15632, 83) killed by Ntg (229) 
+Mon Oct 31 23:01:27 2005 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#34308, 70) killed by Bloodstorm (138) 
+Mon Oct 31 23:12:25 2005 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#34903, 58) killed by Elric (209) 
+Mon Oct 31 23:21:43 2005 The Soul Assassin, Sorcerer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/assassin#35316, 42) killed by Elric (209) 
+Mon Oct 31 23:36:15 2005 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#35261, 83) killed by Elric (209) 
+wizards/irmeli/help/quest_monster2.c line 24: Variable this_object not declared !
+wizards/irmeli/help/quest_monster2.c line 24: syntax error
+wizards/irmeli/help/quest_monster2.c line 25: Illegal LHS
+wizards/irmeli/help/quest_monster2.c line 25: syntax error
+wizards/irmeli/help/quest_monster2.c line 24: Variable this_object not declared !
+wizards/irmeli/help/quest_monster2.c line 24: syntax error
+wizards/irmeli/help/quest_monster2.c line 25: Illegal LHS
+wizards/irmeli/help/quest_monster2.c line 25: syntax error
+wizards/irmeli/help/quest_monster2.c line 24: Variable this_object not declared !
+wizards/irmeli/help/quest_monster2.c line 24: syntax error
+wizards/irmeli/help/quest_monster2.c line 25: Illegal LHS
+wizards/irmeli/help/quest_monster2.c line 25: syntax error
+wizards/irmeli/help/quest_monster2.c line 24: Variable this_object not declared !
+wizards/irmeli/help/quest_monster2.c line 24: syntax error
+wizards/irmeli/help/quest_monster2.c line 25: Illegal LHS
+wizards/irmeli/help/quest_monster2.c line 25: syntax error
+wizards/irmeli/help/quest_monster2.c line 24: Variable this_object not declared !
+wizards/irmeli/help/quest_monster2.c line 24: syntax error
+wizards/irmeli/help/quest_monster2.c line 25: Illegal LHS
+wizards/irmeli/help/quest_monster2.c line 25: syntax error
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Tue Nov 01 23:22:47 2005 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#32178, 70) killed by Elric (212) 
+Tue Nov 01 23:27:39 2005 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#32750, 58) killed by Elric (212) 
+Tue Nov 01 23:36:37 2005 The Soul Assassin, Sorcerer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/headhunter#33180, 38) killed by Elric (212) 
+Tue Nov 01 23:41:44 2005 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#33114, 83) killed by Elric (212) 
+Wed Nov 02 00:08:16 2005 Marcus the Forest Ranger(strong) (/wizards/irmeli/bwp/monsters/ranger#35018, 57) killed by Elric (212) 
+Wed Nov 02 00:31:07 2005 The damned witch of dark forest (strong) (/wizards/irmeli/bwp/monsters/witch#35445, 65) killed by Elric (212) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Thu Nov 03 18:07:36 2005 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#21942, 70) killed by Elric (184) 
+Thu Nov 03 18:11:32 2005 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#23399, 58) killed by Elric (184) 
+Thu Nov 03 18:25:35 2005 The Soul Assassin, Sorcerer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/headhunter#23845, 38) killed by Elric (184) 
+Thu Nov 03 18:41:49 2005 Marcus the Forest Ranger(strong) (/wizards/irmeli/bwp/monsters/ranger#24965, 57) killed by Elric (184) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Sat Nov 05 01:10:15 2005 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#41587, 93) killed by Elric (187) 
+Sat Nov 05 01:14:25 2005 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#42141, 58) killed by Elric (187) 
+Sat Nov 05 01:23:51 2005 The High Priestess, Healer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/priestess#42523, 40) killed by Elric (187) 
+Sat Nov 05 01:30:43 2005 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#42435, 83) killed by Elric (187) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Sat Nov 05 22:01:05 2005 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#23689, 70) killed by Elric (187) 
+Sat Nov 05 22:04:51 2005 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#23871, 58) killed by Elric (187) 
+Sat Nov 05 22:20:29 2005 The Soul Assassin, Sorcerer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/assassin#24206, 42) killed by Moonshdw (139) 
+Sat Nov 05 22:24:59 2005 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#24123, 83) killed by Moonshdw (139) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Thu Nov 10 12:32:34 2005 Marcus the Forest Ranger(strong) (/wizards/irmeli/bwp/monsters/ranger#9888, 57) killed by Ntg (231) 
+Thu Nov 10 13:09:11 2005 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#10152, 70) killed by Ntg (231) 
+Thu Nov 10 13:17:31 2005 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#12056, 58) killed by Ntg (231) 
+Thu Nov 10 13:31:50 2005 The Soul Assassin, Sorcerer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/assassin#12920, 42) killed by Ntg (231) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Sat Dec 10 00:32:30 2005 Marcus the Forest Ranger(strong) (/wizards/irmeli/bwp/monsters/ranger#10192, 57) killed by Ntg (269) 
+Sat Dec 10 00:42:20 2005 The damned witch of dark forest (strong) (/wizards/irmeli/bwp/monsters/witch#10576, 65) killed by Ntg (269) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Fri Dec 23 00:46:31 2005 Marcus the Forest Ranger(strong) (/wizards/irmeli/bwp/monsters/ranger#16644, 57) killed by Ntg (274) 
+Sun Dec 25 23:41:31 2005 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#21303, 70) killed by Ntg (275) 
+Sun Dec 25 23:47:31 2005 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#21507, 58) killed by Ntg (275) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Tue Dec 27 00:36:25 2005 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#16556, 70) killed by Ntg (270) 
+Tue Dec 27 00:40:31 2005 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#17045, 58) killed by Ntg (270) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Thu Dec 29 20:32:09 2005 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#21041, 70) killed by Ntg (269) 
+Thu Dec 29 20:35:41 2005 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#21249, 58) killed by Ntg (269) 
+Thu Dec 29 20:41:58 2005 The High Priestess, Healer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/priestess#21548, 40) killed by Ntg (269) 
+Thu Dec 29 21:03:10 2005 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#21483, 83) killed by Ntg (269) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Sat Jan 28 21:05:58 2006 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#16380, 70) killed by Ntg (301) 
+Sat Jan 28 21:12:16 2006 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#17297, 58) killed by Ntg (301) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Fri Feb 17 20:56:10 2006 Marcus the Forest Ranger(strong) (/wizards/irmeli/bwp/monsters/ranger#28442, 57) killed by Devil (170) 
+Fri Feb 17 21:01:12 2006 The damned witch of dark forest (strong) (/wizards/irmeli/bwp/monsters/witch#29129, 65) killed by Devil (170) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Sat Jun 24 18:54:29 2006 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#7491, 70) killed by Reaper (195) 
+Sat Jun 24 19:01:23 2006 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#7649, 58) killed by Reaper (195) 
+Sat Jun 24 19:15:39 2006 The Soul Assassin, Sorcerer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/assassin#7921, 42) killed by Reaper (195) 
+Sat Jun 24 19:31:18 2006 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#7843, 83) killed by Reaper (195) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Sat Jul 29 21:22:04 2006 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#3477, 70) killed by Reaper (238) 
+Sat Jul 29 21:25:16 2006 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#7209, 58) killed by Reaper (238) 
+Sat Jul 29 21:41:44 2006 The Soul Assassin, Sorcerer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/headhunter#7473, 38) killed by Reaper (238) 
+Sat Jul 29 21:50:27 2006 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#7329, 83) killed by Reaper (238) 
+Mon Jul 31 00:15:04 2006 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#2731, 70) killed by Reaper (238) 
+Mon Jul 31 00:17:10 2006 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#2894, 58) killed by Reaper (238) 
+Mon Jul 31 00:22:18 2006 The Soul Assassin, Sorcerer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/headhunter#2980, 38) killed by Reaper (238) 
+Mon Jul 31 19:58:31 2006 Marcus the Forest Ranger(strong) (/wizards/irmeli/bwp/monsters/ranger#7576, 76) killed by Reaper (238) 
+Tue Aug 01 03:38:55 2006 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#12887, 70) killed by Ntg (290) 
+Tue Aug 01 03:41:07 2006 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#18949, 58) killed by Devil (181) 
+Tue Aug 01 04:28:44 2006 The Soul Assassin, Sorcerer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/assassin#19187, 42) killed by Devil (181) 
+Tue Aug 01 04:38:42 2006 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#19113, 83) killed by Devil (181) 
+Tue Aug 01 22:49:17 2006 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#10133, 70) killed by Ax (85) 
+Tue Aug 01 22:56:45 2006 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#11664, 58) killed by Devil (178) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Tue Aug 01 23:25:59 2006 The Soul Assassin, Sorcerer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/headhunter#12377, 38) killed by Devil (178) 
+Wed Aug 02 01:51:45 2006 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#12091, 83) killed by Ntg (290) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Fri Aug 04 17:29:49 2006 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#9121, 70) killed by Reaper (239) 
+Fri Aug 04 17:32:39 2006 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#10497, 58) killed by Reaper (239) 
+Fri Aug 04 17:38:38 2006 The High Priestess, Healer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/priestess#10597, 40) killed by Bloodstorm (243) 
+Fri Aug 04 17:39:46 2006 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#10580, 83) killed by Reaper (239) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Wed Nov 22 07:49:15 2006 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#468, 70) killed by Ntg (297) 
+Wed Nov 22 07:57:18 2006 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#566, 58) killed by Ntg (297) 
+Fri Nov 24 00:06:40 2006 Marcus the Forest Ranger(strong) (/wizards/irmeli/bwp/monsters/ranger#6570, 57) killed by Ntg (297) 
+Fri Nov 24 00:12:54 2006 The damned witch of dark forest (strong) (/wizards/irmeli/bwp/monsters/witch#6657, 65) killed by Madk (169) 
+Fri Nov 24 00:18:49 2006 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#6789, 70) killed by Ntg (297) 
+Fri Nov 24 00:21:31 2006 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#6864, 58) killed by Ntg (297) 
+Fri Nov 24 00:26:25 2006 The Soul Assassin, Sorcerer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/headhunter#7027, 38) killed by Ntg (297) 
+Fri Nov 24 00:31:35 2006 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#6992, 83) killed by Ntg (297) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Tue Nov 28 21:14:41 2006 King Arthur VII, the old ruler of hobbits(strong) (/wizards/irmeli/area2/king#11221, 38) killed by Madk (180) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Tue Feb 20 16:51:24 2007 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#12371, 70) killed by Devil (187) 
+Tue Feb 20 16:54:18 2007 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#13066, 58) killed by Devil (187) 
+Tue Feb 20 17:11:13 2007 The High Priestess, Healer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/priestess#13265, 40) killed by Azash (107) 
+Tue Feb 20 17:16:45 2007 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#13228, 83) killed by Devil (187) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Thu May 31 13:43:05 2007 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#3339, 70) killed by Elric (400) 
+Thu May 31 13:48:19 2007 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#3835, 58) killed by Elric (400) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Sat Jun 02 19:07:15 2007 The Soul Assassin, Sorcerer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/headhunter#2461, 38) killed by Elric (400) 
+Sat Jun 02 19:15:01 2007 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#2422, 83) killed by Elric (400) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Wed Jul 11 11:34:34 2007 King Arthur VII, the old ruler of hobbits(strong) (/wizards/irmeli/area2/king#404, 38) killed by Nightwish (190) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Fri Jul 13 17:38:03 2007 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#5475, 70) killed by Bloodstorm (210) 
+Fri Jul 13 17:42:27 2007 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#10301, 58) killed by Bloodstorm (210) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Wed Jul 18 16:54:19 2007 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#11260, 70) killed by Alardolath (165) 
+Wed Jul 18 17:01:33 2007 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#22103, 58) killed by Alardolath (165) 
+Wed Jul 18 17:35:32 2007 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#22336, 83) killed by Nightwish (184) 
+Wed Jul 18 17:38:10 2007 The Soul Assassin, Sorcerer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/headhunter#22411, 38) killed by Nightwish (184) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Mon Aug 20 02:32:28 2007 King Arthur VII, the old ruler of hobbits(strong) (/wizards/irmeli/area2/king#32194, 38) killed by Nightwish (220) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Wed Sep 26 15:34:11 2007 King Arthur VII, the old ruler of hobbits(strong) (/wizards/irmeli/area2/king#3109, 38) killed by Olsma (178) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Tue Oct 23 17:44:20 2007 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#7760, 70) killed by Devil (193) 
+Tue Oct 23 17:52:54 2007 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#16382, 58) killed by Devil (193) 
+Tue Oct 23 19:54:13 2007 The High Priestess, Healer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/priestess#21805, 40) killed by Oaycrin (170) 
+Tue Oct 23 20:11:06 2007 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#21309, 83) killed by Devil (193) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Fri Nov 16 02:24:49 2007 Marcus the Forest Ranger(strong) (/wizards/irmeli/bwp/monsters/ranger#30649, 57) killed by Bloodstorm (243) 
+Fri Nov 16 02:31:15 2007 The damned witch of dark forest (strong) (/wizards/irmeli/bwp/monsters/witch#31000, 65) killed by Olsma (80) 
+Fri Nov 16 03:08:44 2007 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#33248, 70) killed by Bloodstorm (243) 
+Fri Nov 16 03:10:50 2007 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#33944, 58) killed by Bloodstorm (243) 
+Fri Nov 16 03:18:47 2007 The Soul Assassin, Sorcerer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/assassin#34277, 42) killed by Bloodstorm (243) 
+Fri Nov 16 03:19:41 2007 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#34222, 83) killed by Bloodstorm (243) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Wed Dec 19 01:06:50 2007 Marcus the Forest Ranger(strong) (/wizards/irmeli/bwp/monsters/ranger#37186, 57) killed by Bloodstorm (284) 
+Wed Dec 19 01:14:50 2007 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#37307, 70) killed by Bloodstorm (284) 
+Wed Dec 19 01:18:48 2007 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#37453, 58) killed by Bloodstorm (284) 
+Wed Dec 19 01:25:08 2007 The High Priestess, Healer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/priestess#37580, 40) killed by Bloodstorm (284) 
+Wed Dec 19 22:29:25 2007 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#33704, 70) killed by Bloodstorm (285) 
+Wed Dec 19 22:35:45 2007 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#33990, 58) killed by Bloodstorm (285) 
+Wed Dec 19 22:42:55 2007 The Soul Assassin, Sorcerer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/assassin#34288, 42) killed by Bloodstorm (285) 
+Wed Dec 19 22:48:07 2007 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#34231, 83) killed by Bloodstorm (285) 
+Thu Dec 20 00:37:50 2007 Marcus the Forest Ranger(strong) (/wizards/irmeli/bwp/monsters/ranger#37671, 57) killed by Bloodstorm (285) 
+Thu Dec 20 00:46:26 2007 The damned witch of dark forest (strong) (/wizards/irmeli/bwp/monsters/witch#37719, 86) killed by Bloodstorm (285) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Tue Dec 25 20:41:56 2007 Marcus the Forest Ranger(strong) (/wizards/irmeli/bwp/monsters/ranger#8898, 57) killed by Ntg (139) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Mon Jan 07 02:18:19 2008 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#180280, 70) killed by Olsma (182) 
+Mon Jan 07 02:20:31 2008 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#180342, 58) killed by Olsma (182) 
+Mon Jan 07 02:26:05 2008 The Soul Assassin, Sorcerer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/headhunter#180451, 50) killed by Olsma (182) 
+Mon Jan 07 02:28:15 2008 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#180436, 83) killed by Bloodstorm (286) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Sat Jan 12 01:16:46 2008 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#248100, 70) killed by Devil (225) 
+Sat Jan 12 01:22:31 2008 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#271831, 58) killed by Devil (225) 
+Sat Jan 12 01:29:35 2008 The High Priestess, Healer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/priestess#272076, 40) killed by Olsma (184) 
+Sat Jan 12 01:29:35 2008 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#272064, 83) killed by Olsma (184) 
+Sun Jan 13 18:21:37 2008 Marcus the Forest Ranger(strong) (/wizards/irmeli/bwp/monsters/ranger#307997, 57) killed by Alardolath (232) 
+Sun Jan 13 18:30:22 2008 The damned witch of dark forest (strong) (/wizards/irmeli/bwp/monsters/witch#309989, 65) killed by Alardolath (232) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Sun Jan 20 00:29:49 2008 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#45604, 70) killed by Ozmala (197) 
+Sun Jan 20 00:31:02 2008 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#45807, 58) killed by Devil (223) 
+Sun Jan 20 00:36:04 2008 The Soul Assassin, Sorcerer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/headhunter#45977, 38) killed by Devil (223) 
+Sun Jan 20 00:36:46 2008 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#45921, 83) killed by Devil (223) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Mon Jan 21 00:04:18 2008 King Arthur VII, the old ruler of hobbits(strong) (/wizards/irmeli/area2/king#32124, 50) killed by Manzku (104) 
+Sat Jan 26 18:23:19 2008 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#25174, 70) killed by Alardolath (243) 
+Sat Jan 26 18:25:22 2008 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#25570, 58) killed by Alardolath (243) 
+Sat Jan 26 18:36:40 2008 The High Priestess, Healer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/priestess#25798, 40) killed by Alardolath (243) 
+Sat Jan 26 19:25:37 2008 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#25740, 110) killed by Alardolath (243) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Mon Feb 11 16:04:37 2008 Marcus the Forest Ranger(strong) (/wizards/irmeli/bwp/monsters/ranger#21875, 57) killed by Olsma (219) 
+Mon Feb 11 16:19:48 2008 The damned witch of dark forest (strong) (/wizards/irmeli/bwp/monsters/witch#22313, 65) killed by Olsma (219) 
+Tue Feb 12 12:43:10 2008 Marcus the Forest Ranger(strong) (/wizards/irmeli/bwp/monsters/ranger#10800, 57) killed by Olsma (219) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Wed Feb 13 18:28:51 2008 Marcus the Forest Ranger(strong) (/wizards/irmeli/bwp/monsters/ranger#39730, 57) killed by Alardolath (180) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Sat Feb 16 09:34:07 2008 King Arthur VII, the old ruler of hobbits(strong) (/wizards/irmeli/area2/king#593, 38) killed by Olsma (229) 
+Sun Feb 17 13:06:14 2008 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#5818, 70) killed by Olsma (229) 
+Sun Feb 17 13:47:21 2008 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#8428, 77) killed by Olsma (229) 
+Sun Feb 17 15:03:50 2008 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#9736, 83) killed by Olsma (229) 
+Sun Feb 17 15:07:11 2008 The Soul Assassin, Sorcerer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/headhunter#10933, 38) killed by Olsma (229) 
+Mon Feb 18 11:01:28 2008 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#5326, 70) killed by Olsma (229) 
+Mon Feb 18 11:21:47 2008 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#6434, 58) killed by Olsma (229) 
+Mon Feb 18 11:34:49 2008 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#6973, 83) killed by Olsma (229) 
+Mon Feb 18 11:35:31 2008 The High Priestess, Healer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/priestess#7054, 40) killed by Olsma (229) 
+Tue Feb 19 12:10:31 2008 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#4063, 70) killed by Olsma (229) 
+Tue Feb 19 12:20:28 2008 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#6072, 58) killed by Olsma (229) 
+Tue Feb 19 12:42:52 2008 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#6896, 83) killed by Olsma (229) 
+Tue Feb 19 12:44:20 2008 The Soul Assassin, Sorcerer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/assassin#7453, 42) killed by Olsma (229) 
+Thu Feb 21 14:33:47 2008 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#2905, 70) killed by Azash (130) 
+Thu Feb 21 14:37:09 2008 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#15920, 58) killed by Olsma (229) 
+Thu Feb 21 15:03:42 2008 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#16316, 83) killed by Azash (130) 
+Thu Feb 21 15:03:54 2008 The Soul Assassin, Sorcerer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/headhunter#16614, 38) killed by Olsma (229) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Sat Feb 23 14:07:51 2008 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#21879, 70) killed by Ntg (243) 
+Sat Feb 23 14:21:21 2008 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#24537, 58) killed by Ntg (243) 
+Sat Feb 23 22:39:00 2008 Marcus the Forest Ranger(strong) (/wizards/irmeli/bwp/monsters/ranger#45117, 57) killed by Ntg (243) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Sun Feb 24 20:29:32 2008 Marcus the Forest Ranger(strong) (/wizards/irmeli/bwp/monsters/ranger#13372, 57) killed by Ntg (243) 
+Sun Feb 24 21:14:43 2008 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#12814, 70) killed by Atw (92) 
+Sun Feb 24 21:16:39 2008 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#47941, 58) killed by Ntg (243) 
+Sun Feb 24 21:24:19 2008 The High Priestess, Healer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/priestess#48264, 40) killed by Ntg (243) 
+Sun Feb 24 21:27:27 2008 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#48178, 83) killed by Ntg (243) 
+Mon Feb 25 11:19:38 2008 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#5942, 70) killed by Olsma (229) 
+Mon Feb 25 11:28:26 2008 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#10208, 58) killed by Olsma (229) 
+Mon Feb 25 11:59:45 2008 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#11062, 83) killed by Olsma (229) 
+Mon Feb 25 12:00:43 2008 The Soul Assassin, Sorcerer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/headhunter#11811, 38) killed by Olsma (229) 
+Tue Feb 26 10:45:17 2008 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#5523, 70) killed by Ntg (243) 
+Tue Feb 26 10:52:09 2008 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#6266, 58) killed by Ntg (243) 
+Tue Feb 26 11:01:23 2008 The High Priestess, Healer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/priestess#6751, 40) killed by Ntg (243) 
+Tue Feb 26 11:06:00 2008 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#6659, 83) killed by Ntg (243) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Fri Mar 07 10:27:43 2008 Marcus the Forest Ranger(strong) (/wizards/irmeli/bwp/monsters/ranger#6689, 57) killed by Alardolath (249) 
+Fri Mar 07 10:31:23 2008 The damned witch of dark forest (strong) (/wizards/irmeli/bwp/monsters/witch#6818, 65) killed by Alardolath (249) 
+Fri Mar 07 11:13:54 2008 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#9339, 70) killed by Ntg (156) 
+Fri Mar 07 11:15:52 2008 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#9745, 58) killed by Alardolath (249) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Fri Mar 07 11:21:56 2008 The Soul Assassin, Sorcerer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/headhunter#10075, 38) killed by Ntg (156) 
+Fri Mar 07 11:23:04 2008 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#9991, 83) killed by Alardolath (249) 
+Sat Mar 08 09:10:31 2008 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#3502, 70) killed by Alardolath (250) 
+Sat Mar 08 09:11:39 2008 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#3657, 58) killed by Alardolath (250) 
+Sat Mar 08 09:18:37 2008 The Soul Assassin, Sorcerer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/assassin#3889, 42) killed by Ntg (156) 
+Sat Mar 08 09:19:41 2008 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#3790, 83) killed by Alardolath (250) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Sun Mar 09 09:36:30 2008 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#1915, 70) killed by Alardolath (250) 
+Sun Mar 09 09:38:22 2008 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#10015, 58) killed by Alardolath (250) 
+Sun Mar 09 09:43:14 2008 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#11392, 83) killed by Ntg (158) 
+Sun Mar 09 09:43:30 2008 The High Priestess, Healer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/priestess#11842, 40) killed by Ntg (158) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Sat Apr 05 19:41:33 2008 Marcus the Forest Ranger(strong) (/wizards/irmeli/bwp/monsters/ranger#20957, 57) killed by Ntg (291) 
+Sat Apr 05 22:41:37 2008 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#26206, 70) killed by Ntg (291) 
+Sat Apr 05 22:42:39 2008 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#26391, 58) killed by Ntg (291) 
+Sat Apr 05 22:46:25 2008 The Soul Assassin, Sorcerer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/headhunter#26483, 38) killed by Atw (181) 
+Sat Apr 05 22:48:21 2008 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#26472, 83) killed by Ntg (291) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Wed May 21 14:22:00 2008 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#1293, 70) killed by Olsma (230) 
+Wed May 21 14:24:04 2008 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#1714, 58) killed by Olsma (230) 
+Wed May 21 14:42:21 2008 The Soul Assassin, Sorcerer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/headhunter#2243, 38) killed by Olsma (230) 
+Wed May 21 14:44:59 2008 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#1856, 83) killed by Olsma (230) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Fri May 23 14:01:51 2008 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#5168, 70) killed by Olsma (230) 
+Fri May 23 14:06:07 2008 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#5561, 58) killed by Olsma (230) 
+Fri May 23 14:12:05 2008 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#5917, 83) killed by Olsma (230) 
+Fri May 23 14:13:57 2008 The Soul Assassin, Sorcerer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/assassin#6011, 42) killed by Olsma (230) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Mon Aug 11 23:14:30 2008 Marcus the Forest Ranger(strong) (/wizards/irmeli/bwp/monsters/ranger#31530, 57) killed by Alardolath (267) 
+Mon Aug 11 23:33:38 2008 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#32041, 70) killed by Alardolath (267) 
+Mon Aug 11 23:34:38 2008 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#32379, 58) killed by Alardolath (267) 
+Mon Aug 11 23:45:44 2008 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#32471, 83) killed by Terror (99) 
+Mon Aug 11 23:45:56 2008 The Soul Assassin, Sorcerer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/headhunter#32515, 38) killed by Terror (99) 
+Thu Aug 14 21:27:19 2008 Marcus the Forest Ranger(strong) (/wizards/irmeli/bwp/monsters/ranger#15218, 57) killed by Alardolath (267) 
+Thu Aug 14 21:34:53 2008 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#15583, 70) killed by Alardolath (267) 
+Thu Aug 14 21:36:27 2008 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#15854, 58) killed by Alardolath (267) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Thu Sep 04 19:23:18 2008 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#17993, 70) killed by Golthar (368) 
+Thu Sep 04 19:25:08 2008 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#18159, 58) killed by Golthar (368) 
+Fri Sep 05 16:32:55 2008 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#19557, 70) killed by Golthar (368) 
+Fri Sep 05 16:35:35 2008 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#19753, 58) killed by Golthar (368) 
+Fri Sep 05 16:58:30 2008 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#20191, 83) killed by Golthar (368) 
+Fri Sep 05 16:58:54 2008 The High Priestess, Healer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/priestess#20225, 40) killed by Golthar (368) 
+Sat Sep 06 09:55:56 2008 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#4351, 70) killed by Golthar (368) 
+Sat Sep 06 09:59:08 2008 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#4475, 58) killed by Golthar (368) 
+Sat Sep 06 10:12:06 2008 The Soul Assassin, Sorcerer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/assassin#4729, 42) killed by Golthar (368) 
+Sat Sep 06 10:12:06 2008 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#4650, 83) killed by Golthar (368) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Thu Sep 11 22:19:38 2008 Marcus the Forest Ranger(strong) (/wizards/irmeli/bwp/monsters/ranger#55218, 57) killed by Ntg (351) 
+Sat Sep 13 10:58:12 2008 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#7143, 70) killed by Ntg (387) 
+Sat Sep 13 11:00:18 2008 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#7258, 58) killed by Ntg (387) 
+Sat Sep 13 11:05:28 2008 The Soul Assassin, Sorcerer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/assassin#7465, 42) killed by Ntg (387) 
+Sat Sep 13 11:09:17 2008 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#7428, 83) killed by Ntg (387) 
+Sat Sep 13 11:18:17 2008 Marcus the Forest Ranger(strong) (/wizards/irmeli/bwp/monsters/ranger#8279, 57) killed by Ntg (387) 
+Sat Sep 13 11:21:39 2008 The damned witch of dark forest (strong) (/wizards/irmeli/bwp/monsters/witch#8407, 65) killed by Ntg (387) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Sat Sep 20 18:22:25 2008 King Arthur VII, the old ruler of hobbits(strong) (/wizards/irmeli/area2/king#15699, 38) killed by Terror (227) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Fri Sep 26 22:57:31 2008 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#63004, 70) killed by Madk (155) 
+Fri Sep 26 22:59:19 2008 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#63130, 58) killed by Ntg (400) 
+Fri Sep 26 23:02:25 2008 The High Priestess, Healer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/priestess#63322, 40) killed by Ntg (400) 
+Sat Sep 27 12:13:20 2008 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#11277, 70) killed by Ntg (400) 
+Sat Sep 27 12:14:04 2008 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#11401, 58) killed by Ntg (400) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Wed Oct 01 10:38:22 2008 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#5739, 70) killed by Golthar (400) 
+Wed Oct 01 10:42:28 2008 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#5887, 58) killed by Golthar (400) 
+Wed Oct 01 10:48:41 2008 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#6084, 83) killed by Golthar (400) 
+Wed Oct 01 10:49:27 2008 The Soul Assassin, Sorcerer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/headhunter#6171, 38) killed by Golthar (400) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Sat Oct 11 17:55:38 2008 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#36429, 70) killed by Golthar (400) 
+Sat Oct 11 18:01:14 2008 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#43178, 58) killed by Golthar (400) 
+Sat Oct 11 18:09:20 2008 The Soul Assassin, Sorcerer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/assassin#50379, 42) killed by Golthar (400) 
+Sat Oct 11 18:09:20 2008 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#50298, 83) killed by Golthar (400) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Mon Oct 13 16:26:06 2008 Marcus the Forest Ranger(strong) (/wizards/irmeli/bwp/monsters/ranger#18918, 57) killed by Olsma (233) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Mon Oct 27 20:39:27 2008 Knight of the Cross, archfiend of the Enchantress(strong) (/wizards/irmeli/valley/monsters/knight#13461, 100) killed by Ntg (400) 
+Sun Nov 09 14:46:45 2008 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#7286, 70) killed by Ntg (400) 
+Sun Nov 09 14:48:55 2008 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#7394, 58) killed by Ntg (400) 
+Sun Nov 09 14:54:19 2008 The High Priestess, Healer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/priestess#7614, 40) killed by Ntg (400) 
+Sun Nov 09 15:00:36 2008 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#7483, 83) killed by Ntg (400) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Mon Dec 08 22:32:26 2008 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#11299, 70) killed by Laeh (203) 
+Mon Dec 08 22:34:34 2008 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#11417, 58) killed by Ozmala (250) 
+Mon Dec 08 22:41:44 2008 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#11633, 83) killed by Laeh (203) 
+Mon Dec 08 22:42:13 2008 The Soul Assassin, Sorcerer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/headhunter#11677, 38) killed by Laeh (203) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Mon Jan 19 16:39:56 2009 Marcus the Forest Ranger(strong) (/wizards/irmeli/bwp/monsters/ranger#5426, 57) killed by Alardolath (371) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Sat Jan 31 14:31:21 2009 Marcus the Forest Ranger(strong) (/wizards/irmeli/bwp/monsters/ranger#12032, 57) killed by Terror (214) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Tue Feb 03 22:15:24 2009 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#20568, 70) killed by Terror (236) 
+Tue Feb 03 22:20:06 2009 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#20738, 58) killed by Terror (236) 
+Tue Feb 03 22:51:19 2009 The Soul Assassin, Sorcerer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/assassin#22176, 42) killed by Terror (236) 
+Tue Feb 03 22:53:47 2009 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#22005, 83) killed by Terror (236) 
+Wed Feb 04 16:21:37 2009 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#8849, 70) killed by Terror (239) 
+Wed Feb 04 16:32:55 2009 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#9669, 58) killed by Terror (239) 
+Wed Feb 04 16:48:09 2009 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#10010, 83) killed by Terror (239) 
+Wed Feb 04 16:51:35 2009 The Soul Assassin, Sorcerer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/assassin#10094, 42) killed by Terror (239) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Fri Feb 06 22:50:37 2009 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#13721, 70) killed by Reaper (209) 
+Fri Feb 06 22:53:53 2009 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#13858, 58) killed by Reaper (209) 
+Fri Feb 06 23:06:59 2009 The Soul Assassin, Sorcerer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/headhunter#14288, 38) killed by Reaper (209) 
+Fri Feb 06 23:17:37 2009 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#14231, 83) killed by Reaper (209) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Tue Jan 12 17:40:21 2010 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#589, 70) killed by Ntg (558) 
+Tue Jan 12 17:45:31 2010 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#661, 58) killed by Ntg (558) 
+Tue Jan 12 17:52:35 2010 The Soul Assassin, Sorcerer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/assassin#825, 56) killed by Ntg (558) 
+Tue Jan 12 17:54:09 2010 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#774, 83) killed by Ntg (558) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Wed Jan 27 18:36:42 2010 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#5282, 70) killed by Ntg (558) 
+Wed Jan 27 19:05:31 2010 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#5405, 58) killed by Ntg (558) 
+Wed Jan 27 19:10:35 2010 The Soul Assassin, Sorcerer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/headhunter#6534, 38) killed by Ntg (558) 
+Wed Jan 27 19:14:38 2010 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#6512, 83) killed by Ntg (558) 
+Sat Jan 30 15:04:31 2010 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#2832, 70) killed by Olsma (251) 
+Sat Jan 30 15:13:17 2010 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#3348, 58) killed by Olsma (251) 
+Sat Jan 30 15:36:02 2010 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#3720, 83) killed by Olsma (251) 
+Sat Jan 30 15:38:50 2010 The Soul Assassin, Sorcerer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/assassin#3901, 42) killed by Olsma (251) 
+Sun Feb 07 18:49:04 2010 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#2866, 70) killed by Ntg (558) 
+Sun Feb 07 18:50:04 2010 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#2927, 58) killed by Ntg (558) 
+Sun Feb 07 18:55:29 2010 The High Priestess, Healer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/priestess#3040, 40) killed by Ntg (558) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Fri Apr 02 14:56:51 2010 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#6182, 70) killed by Ozmala (246) 
+Fri Apr 02 15:05:15 2010 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#6905, 58) killed by Ozmala (246) 
+Mon Apr 05 14:41:46 2010 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#4228, 83) killed by Ozmala (246) 
+Mon Apr 05 14:44:02 2010 The Soul Assassin, Sorcerer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/headhunter#4359, 38) killed by Ozmala (246) 
+Tue Apr 20 08:34:05 2010 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#631, 70) killed by Ozmala (246) 
+Tue Apr 20 08:40:52 2010 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#782, 58) killed by Ozmala (246) 
+Tue Apr 20 08:56:08 2010 The High Priestess, Healer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/priestess#1017, 40) killed by Ozmala (246) 
+Tue Apr 20 09:20:31 2010 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#984, 83) killed by Ozmala (246) 
+Sun Sep 26 19:16:50 2010 Marcus the Forest Ranger(strong) (/wizards/irmeli/bwp/monsters/ranger#7731, 57) killed by Ntg (558) 
+Mon Sep 27 22:57:15 2010 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#7581, 70) killed by Ntg (558) 
+Mon Sep 27 22:59:59 2010 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#7713, 58) killed by Ntg (558) 
+Mon Sep 27 23:07:29 2010 The High Priestess, Healer of the Enchantress (charmed)(strong) (/wizards/irmeli/valley/monsters/priestess#7990, 53) killed by Ntg (558) 
+Mon Sep 27 23:09:19 2010 Enchantress Victoria, the fallen angel(strong) (/wizards/irmeli/valley/monsters/fallen#7893, 83) killed by Ntg (558) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Sun Oct 24 00:09:40 2010 King Arthur VII, the old ruler of hobbits(strong) (/wizards/irmeli/area2/king#26541, 38) killed by Rold (136) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+Sat Oct 01 16:31:02 2011 The Scarecrow, raiser of Fear and Chaos(strong) (/wizards/irmeli/valley/monsters/scarecrow#4096, 70) killed by Terror (558) 
+Sat Oct 01 16:33:50 2011 A double-headed Raven(strong) (/wizards/irmeli/valley/monsters/raven#4259, 58) killed by Terror (558) 
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable
+wizards/irmeli/area2/hissi.c line 3: Redefining inherited nosave variable 'direction' with a non-nosave variable

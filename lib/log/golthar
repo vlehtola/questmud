@@ -1,0 +1,121 @@
+wizards/golthar/eval_file.c line 2 :syntax error
+wizards/golthar/eval_file.c line 2 :Variable golthar not declared !
+wizards/golthar/eval_file.c line 2 :Variable find not declared !
+wizards/golthar/eval_file.c line 2 :Undefined function enviroment
+wizards/golthar/rako.c line 1 :Unrecognized inheritance modifier qualifier
+wizards/golthar/rako.c line 1 :Unrecognized inheritance modifier qualifier
+wizards/golthar/rako.c line 1 :Unrecognized inheritance modifier qualifier
+wizards/golthar/rako.c line 1 :Illegal character (hex 2e) '.'
+wizards/golthar/rako.c line 1 :syntax error
+wizards/golthar/rako.c line 13 :syntax error
+wizards/golthar/rako.c line 15 :syntax error
+wizards/golthar/rako.c line 17 :Newline in string
+wizards/golthar/rako.c line 21 :syntax error
+wizards/golthar/rako.c line 13 :syntax error
+wizards/golthar/rako.c line 15 :syntax error
+wizards/golthar/rako.c line 17 :Newline in string
+wizards/golthar/rako.c line 21 :syntax error
+wizards/golthar/rako.c line 13 :syntax error
+wizards/golthar/rako.c line 15 :syntax error
+wizards/golthar/rako.c line 17 :Newline in string
+wizards/golthar/rako.c line 19 :Illegal character (hex 5c) '\'
+wizards/golthar/rako.c line 19 :syntax error
+wizards/golthar/rako.c line 19 :Illegal character (hex 5c) '\'
+wizards/golthar/rako.c line 19 :syntax error
+wizards/golthar/rako.c line 19 :Illegal character (hex 5c) '\'
+wizards/golthar/rako.c line 19 :syntax error
+wizards/golthar/rako.c line 19 :Illegal character (hex 5c) '\'
+wizards/golthar/rako.c line 19 :syntax error
+wizards/golthar/rako.c line 19 :Illegal character (hex 5c) '\'
+wizards/golthar/rako.c line 19 :syntax error
+wizards/golthar/rako.c line 19 :Illegal character (hex 5c) '\'
+wizards/golthar/rako.c line 19 :syntax error
+wizards/golthar/eqs/eku1.c line 7 :Illegal character (hex 5c) '\'
+wizards/golthar/eqs/eku1.c line 7 :syntax error
+wizards/golthar/eqs/eku1.c line 8 :Illegal character (hex 5c) '\'
+wizards/golthar/eqs/eku1.c line 12 :Illegal LHS
+wizards/golthar/eqs/eku1.c line 8 :syntax error
+wizards/golthar/eqs/eku1.c line 10 :syntax error
+wizards/golthar/eqs/eku1.c line 12 :Illegal LHS
+wizards/golthar/eval_file.c line 2 :syntax error
+wizards/golthar/panik.c line 8 :Illegal character (hex 5c) '\'
+wizards/golthar/panik.c line 8 :syntax error
+wizards/golthar/panik.c line 9 :Illegal character (hex 5c) '\'
+wizards/golthar/panik.c line 10 :Illegal character (hex 5c) '\'
+wizards/golthar/panik.c line 11 :Illegal LHS
+wizards/golthar/panik.c line 12 :syntax error
+wizards/golthar/eval_file.c line 2 :syntax error
+wizards/golthar/eval_file.c line 2 :syntax error
+wizards/golthar/eval_file.c line 2 :Undefined function ntg
+wizards/golthar/eval_file.c line 2 :Variable celes not declared !
+wizards/golthar/eval_file.c line 2 :Too many arguments to this_player
+wizards/golthar/eval_file.c line 2 :Undefined function celes
+wizards/golthar/eval_file.c line 2 :Undefined function read_dir
+wizards/golthar/eval_file.c line 2 :Undefined function toggle_ghost
+wizards/golthar/eval_file.c line 2 :Variable l not declared !
+wizards/golthar/eval_file.c line 2 :Variable kkk not declared !
+wizards/golthar/eval_file.c line 2 :Undefined function set_object_name
+wizards/golthar/eval_file.c line 2 :Variable celes not declared !
+wizards/golthar/eval_file.c line 2 :Undefined function catch_tell
+wizards/golthar/eval_file.c line 2 :syntax error
+wizards/golthar/eval_file.c line 2 :Undefined function catch_tell
+wizards/golthar/eval_file.c line 2 :syntax error
+wizards/golthar/eval_file.c line 2 :Undefined function enter_inv
+wizards/golthar/ishmail.c line 17 :Variable More not declared !
+wizards/golthar/ishmail.c line 17 :syntax error
+wizards/golthar/ishmail.c line 22 :syntax error
+wizards/golthar/shadow.c line 16 :Variable player not declared !
+wizards/golthar/shadow.c line 16 :Variable player not declared !
+wizards/golthar/workroom.c line 50 :syntax error
+wizards/golthar/workroom.c line 50 :Newline in string
+wizards/golthar/workroom.c line 53 :Illegal LHS
+wizards/golthar/workroom.c line 53 :syntax error
+wizards/golthar/workroom.c line 65 :syntax error
+wizards/golthar/workroom.c line 68 :Illegal LHS
+wizards/golthar/workroom.c line 50 :syntax error
+wizards/golthar/workroom.c line 50 :Newline in string
+wizards/golthar/workroom.c line 53 :Illegal LHS
+wizards/golthar/workroom.c line 53 :syntax error
+wizards/golthar/workroom.c line 65 :syntax error
+wizards/golthar/workroom.c line 68 :Illegal LHS
+wizards/golthar/workroom.c line 88 :syntax error
+wizards/golthar/workroom.c line 92 :Variable ob not declared !
+wizards/golthar/workroom.c line 93 :Variable ob not declared !
+wizards/golthar/workroom.c line 93 :Variable ob not declared !
+wizards/golthar/workroom.c line 94 :Variable ob not declared !
+wizards/golthar/workroom.c line 94 :Variable ob not declared !
+wizards/golthar/eval_file.c line 2 :syntax error
+wizards/golthar/eval_file.c line 2 :syntax error
+wizards/golthar/eval_file.c line 2 :Newline in string
+wizards/golthar/eval_file.c line 3 :syntax error
+wizards/golthar/eval_file.c line 2 :syntax error
+wizards/golthar/eval_file.c line 2 :Undefined function catch_tell
+wizards/golthar/eval_file.c line 2 :Variable golthar not declared !
+wizards/golthar/eval_file.c line 2 :Bad argument 1 type to efun environment()
+wizards/golthar/eval_file.c line 2 :Bad argument 1 type to efun environment()
+wizards/golthar/eval_file.c line 2 :Bad argument 1 type to efun environment()
+wizards/golthar/eval_file.c line 2 :Undefined function move_player
+wizards/golthar/eval_file.c line 2 :syntax error
+wizards/golthar/eval_file.c line 2 :Undefined function show_age
+wizards/golthar/eval_file.c line 2 :syntax error
+wizards/golthar/eval_file.c line 2 :syntax error
+wizards/golthar/quest_monster2.c line 24: Variable this_object not declared !
+wizards/golthar/quest_monster2.c line 24: syntax error
+wizards/golthar/quest_monster2.c line 25: Illegal LHS
+wizards/golthar/quest_monster2.c line 25: syntax error
+wizards/golthar/quest_monster2.c line 24: Variable this_object not declared !
+wizards/golthar/quest_monster2.c line 24: syntax error
+wizards/golthar/quest_monster2.c line 25: Illegal LHS
+wizards/golthar/quest_monster2.c line 25: syntax error
+wizards/golthar/quest_monster2.c line 24: Variable this_object not declared !
+wizards/golthar/quest_monster2.c line 24: syntax error
+wizards/golthar/quest_monster2.c line 25: Illegal LHS
+wizards/golthar/quest_monster2.c line 25: syntax error
+wizards/golthar/quest_monster2.c line 24: Variable this_object not declared !
+wizards/golthar/quest_monster2.c line 24: syntax error
+wizards/golthar/quest_monster2.c line 25: Illegal LHS
+wizards/golthar/quest_monster2.c line 25: syntax error
+wizards/golthar/quest_monster2.c line 24: Variable this_object not declared !
+wizards/golthar/quest_monster2.c line 24: syntax error
+wizards/golthar/quest_monster2.c line 25: Illegal LHS
+wizards/golthar/quest_monster2.c line 25: syntax error

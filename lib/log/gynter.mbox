@@ -1,0 +1,623 @@
+From: Onarion
+Subj: weapons/armours
+
+Date: Oct 12
+
+You don't have to set anything else than the set_class() when you use set_sub_type(). And I had forgotten to update the weapon files, so they did not work until now :)
+
+From: Onarion
+ Re:   ring/set_race/shield
+Date: Oct 12
+
+rings: You can make misc eq by setting slot, using set_slot() and then setting short, long, weight, value, but not ac.
+
+set_race(): nope, but it does not really matter, because you can set what you want.
+Anyway you can use help race to see if such a race exists.
+
+And as I said, ignore the shield thing for now :)
+I'll see about them soon.
+
+Onarion
+
+From: Onarion
+Subj: shields
+
+Date: Oct 12
+
+You can now set_sub_type() small/medium/large shield.
+
+
+
+From: Onarion
+Subj: re: robes & cloaks
+
+Date: Oct 13
+
+You can use set slot, as I previously said, but then you don't set ac.
+
+From: Onarion
+ Re:   hmmm races
+Date: Oct 13
+
+Yeah.. whoops:) fixing..
+
+From: Tiergon
+Subj: element
+
+Date: Oct 20
+
+I was supposed to approve your area, however I think a few things should be changed:
+1) Several typos, some in important places
+2) The water area is illogical, if you're in an endless sea, you should be able to swim with more freedom
+-Tiergon
+
+From: Celtron
+Subj: something to do
+
+Date: Oct 22
+
+Tell me what would you like to code. Maybe some
+playroom (casino), events (orcs attack the city etc), some useful
+command or list or whatever you'd like the best.
+Maybe you'd want to convert some more areas? :)
+
+From: Celtron
+Subj: re:event
+
+Date: Oct 25
+
+yeah, you do that.
+
+From: Celtron
+Subj: re:events
+
+Date: Oct 30
+
+we have no events.
+
+From: Celtron
+Subj: heh
+
+Date: Nov  4
+
+i guess you weren't smart enough to conceal your mp3s :)
+you did know that they're illegal stuff?
+;)
+
+From: Celtron
+Subj: heh
+
+Date: Nov  4
+
+i guess you weren't smart enough to conceal your mp3s :)
+you did know that they're illegal stuff?
+;)
+
+From: Celtron
+Subj: re
+
+Date: Nov 10
+
+whatever
+
+From: Sandtiger
+Subj: bug report.......
+
+Date: Dec 10
+
+ya..... the rusty key.. that the demons give.. not rosty... also it appears.. that it is VERY hard to close all 4 portals AND have the 4 "elemental masters" ie.. huge demon... great white shark.. blah blah... be gone (ie.. give item to them they disapear... before everything repops... ive tried like 4 times.. couldnt do it...
+i know all 4 words.. plus the fifth one.. but when i type in all 4.. then 5th... it says.. unable to open gate to 5th element.... some plane still open or something..?1? its a bug.... and..... once you close all 4 exits... sw will now go to swim?!! DOH :):)
+
+From: Sandtiger
+Subj: well then its definately not working :)
+
+Date: Dec 12
+
+well then its definately not working :)
+
+From: Sandtiger
+Subj: well then its definately not working :)
+
+Date: Dec 12
+
+well then its definately not working :)
+
+From: Celtron
+Subj: re:lfuns
+
+Date: Jan 21
+
+try query_guild_level("fighter") till exempel
+returns the levels in the given guild/sub.
+
+From: Celtron
+Subj: re:weapon.c
+
+Date: Jan 28
+
+i copied it in your dir.
+
+From: Onarion
+Subj: area
+
+Cc: 
+Date: Feb  2
+
+mail me the area entrance room and i'll check it when i have the time.
+
+From: Celtron
+Subj: re:pkill/death/bug
+
+Date: Feb  2
+
+send the log to wilzu€serge.hrsk.edu.fi.
+
+From: Drude
+Subj: the area with those elements
+
+Cc: drude
+Date: Feb  3
+
+
+ Hiya Gynter,
+
+I've spend quite some time looking around in your area and must say that
+there's parts of it that I like, and also things I don't like .. like for
+instance randomly blocking monsters.
+Well I think I've come quite far but am rather stuck now. I've found the
+Airlord and its description says it needs a weapon of some kind that one
+of his followers has made for him especially. It took me quite some time to
+kill those beasties (and guards) up there and only came up with three weapons.
+The bronze hand axe, fine battle axe and the vorpal blade, the latter of which
+has a typo in its description (you could look into that). But the Airlord
+doesn't accept those as the special weapon he's looking for. So I'm out of
+ideas.
+Does this mean that I've used the wrong way of offering the weapon to him ...
+because when looking at the description I would say that the vorpal blade is
+that special weapon he's looking for, or have I still missed something
+completely.
+
+It would be a help if you could guide me further. Actually I'm also surprised
+that the Airlord doesn't talk (to me). He 
+is only standing still and waiting for something. While for instance the 'very
+old elemental' does say what he wants ... though that shark didn't ...
+Anyhow I could use some pointers.
+
+Then finally I've come upon some strange bug yesterday. I was using the quest-
+char to explore a bit for me in order to make sure that I wouldn't stumble into
+deathtraps or such so. At one point with the huge guard I made him cast the
+spell that I usually use at monsters. Of course, the guest char doens't know
+how to cast so it fell unconscious and after that whenever I ran into the
+room with the guard and cast my spell at it and left it would stay in the room
+but also continue still attacking me, even when I wasn't in the same room with
+it. Things even became more strange when I was attacked by a paladin in your area ...
+
+Keep up the good work and I hope I'll be hearing from you.
+Cheers, Drude
+
+From: Onarion
+Subj: area
+
+Date: Feb  4
+
+If you want monsters to cast spells successfully you have to use set_mage(1);, not set_spell_chance anymore.
+And guards could attack if you attack king.
+Otherwise looked like ok. (didn't check the whole thing, but i'll say to tiergon to check it so i guess you will be getting some critic) :)
+
+From: Onarion
+Subj: element area
+
+Date: Feb  8
+
+I have noticed several bug report about the element area. They might be out of date, but maybe it would be best if you asked the bug reporters I now mention.
+
+Sandtiger (wizards/gynter/element/gateway, Sat Dec 12 21:29:24 1998):
+okey.. after saying the four words.. the sw exit takes me to demons (wrong right
+ ??).. (i'm not quite sure what this one means. Onarion)
+
+Drude (wizards/gynter/element/gateway, Fri Jan 29 16:24:43 1999):
+i've closed the water world with the correct word, but now the exit to the sw ha
+s changed and has become the water world .. is this a bug or a feature ??
+
+Drude (wizards/gynter/element/gateway, Thu Feb  4 16:37:37 1999):
+i would say it is buggy here because your spirit doesn't fight back
+
+See if you can do something about these.
+Onarion
+
+From: Onarion
+Subj: element area
+
+Date: Feb  8
+
+I have noticed several bug report about the element area. They might be out of date, but maybe it would be best if you asked the bug reporters I now mention.
+
+Sandtiger (wizards/gynter/element/gateway, Sat Dec 12 21:29:24 1998):
+okey.. after saying the four words.. the sw exit takes me to demons (wrong right
+ ??).. (i'm not quite sure what this one means. Onarion)
+
+Drude (wizards/gynter/element/gateway, Fri Jan 29 16:24:43 1999):
+i've closed the water world with the correct word, but now the exit to the sw ha
+s changed and has become the water world .. is this a bug or a feature ??
+
+Drude (wizards/gynter/element/gateway, Thu Feb  4 16:37:37 1999):
+i would say it is buggy here because your spirit doesn't fight back
+
+See if you can do something about these.
+Onarion
+
+From: Celtron
+Subj: about the trap thing
+
+Date: Feb  9
+
+give me some hard stuff.
+ie. bear traps (one stays caught until released)
+    pit trap: all stuff falls down to some other room. do the fall delay and effects
+    falling ceiling: everybody dies and eq on the ground is destroyed. the room is unenterable after the trap is sprung
+PS. i don't need any stinking trap d which is a exact clone of the weapon.c
+-> traps are hidden, there are no short descs available etc.
+do the backbone code and leave the visual effects to me.
+
+From: Onarion
+Subj: set_mage
+
+Date: Feb  9
+
+Can't be the bug.
+Set_mage() currently has no difference to set_mage(1);
+
+Onarion
+
+From: Onarion
+Subj: new job
+
+Date: Feb 11
+
+You could write long descs for weapon/armour sub types
+They are listed in /doc/build/weapon_sub_types and armour_sub_types.
+
+Onarion
+
+From: Celtron
+Subj: re:flag
+
+Date: Feb 12
+
+just do some file that keeps count of unwanted players.
+keeps their names on some list etc
+
+From: Celtron
+Subj: re:flag
+
+Date: Feb 12
+
+just do some file that keeps count of unwanted players.
+keeps their names on some list etc
+
+From: Onarion
+Subj: weapons/armours
+
+Date: Oct 12
+
+You don't have to set anything else than the set_class() when you use set_sub_type(). And I had forgotten to update the weapon files, so they did not work until now :)
+
+From: Onarion
+Subj: arch wizard rights
+
+Date: Apr  6
+
+Your temporary archwizards rights have been returned back to normal status. (wizard)
+
+From: Celtron
+Subj: re: eqmob
+
+Date: Apr 20
+
+cp the eqs to different filenames.
+make the mob load the new files.
+divide all stat and regen bonuses from old files by three and add set_desc("rusty"); or so..
+//Celtron, the productive answer.
+
+From: Celtron
+Subj: icehockey
+
+Date: May 11
+
+russia was the first real opponent for tre kronor.
+they stumbled over it but failed against czech, as i said sweden will drop.
+finland instead has already won czech, canada, usa, slovakia and played even with russia.
+so.. hehe:) seems like sweden didn't even got a chance to really play.
+but we got the finland-sweden match! :O
+
+From: Celtron
+Subj: re:incehockey
+
+Date: May 12
+
+"we face".. "we play", i haven't seen YOU in the arena.
+btw. your opinions don't weight a damn, facts count.
+
+From: Nalle
+Subj: redguard
+
+Date: May 11
+
+yeah. well ums there is an example (an extrait) from a tame animal shadow i made some time ago. it s not exaclty what you wanted but maybe itll be of some help.
+this is because i'm really busy in rl. so the file is located in your homedir
+in extract.c
+cheers, nalle.
+
+From: Nalle
+Subj: redguard
+
+Date: May 11
+
+yeah. well ums there is an example (an extrait) from a tame animal shadow i made some time ago. it s not exaclty what you wanted but maybe itll be of some help.
+this is because i'm really busy in rl. so the file is located in your homedir
+in extract.c
+cheers, nalle.
+
+From: Onarion
+Subj: dark elf area
+
+Date: Jul  2
+
+was your dark elf area ready?
+If yes, send me the entrance filename.
+
+Onarion
+
+From: Onarion
+Subj: dark elf area
+
+Date: Jul  2
+
+was your dark elf area ready?
+If yes, send me the entrance filename.
+
+Onarion
+
+From: Onarion
+ Re:   dark elf area
+Date: Dec  5
+
+uuh.. dont remember too much of those, but mail to me the names of the files that you have problems with. i will be getting out of the army 31.12.1999! :)
+
+Onarion
+
+From: Onarion
+Subj: area
+
+Date: Dec 20
+
+I have checked your area a little. Many rooms have typos and many are not working at all.. patience :) Check all the room so that they work, i gave some typo reports with the TYPO command.. you get them in your /log/gynter.rep file
+
+Read the descs again to check if they all make clear sense. I am waiting with interest to see your area finished :)
+
+Onarion
+
+From: Onarion
+Subj: virtual map entrances
+
+Date: Dec 20
+
+Here you go an example how to do it, just change the filename..
+
+  add_exit("west", "/wizards/celtron/field/virtual_map: 37 15");
+
+From: Onarion
+ Re:   virtual city
+Date: Jan  3
+
+You have to load the virtual maps first, do this by call_other("filename..", "xx", 0); for example, xx can be anything, or just xx, it will load the file to check if such function exists, and as it doesnt, will do nothing else than load he file.
+
+Onarion
+
+From: Onarion
+ Re:   virtual city
+Date: Jan  3
+
+You have to load the virtual maps first, do this by call_other("filename..", "xx", 0); for example, xx can be anything, or just xx, it will load the file to check if such function exists, and as it doesnt, will do nothing else than load he file.
+
+Onarion
+
+From: Onarion
+Subj: darke
+
+Date: Jan 27
+
+I have investigated the vmap area problems you had, as i said you have to load the virtual maps before they can be found by the room.. it is enough that you call_other the files from the entrance of your area.. like call_other("/wizards/blaabalaa/virtual_tunnel_map", "XX (<-this can be what ever)", 0);
+got it?
+and then, for some reason you can only use the "normal" exits to enter a vmap, "tunnels" is no good.. and then when you try to enter a vmap and you get just nothing.. no error, nothing, just the same as you would press enter, it means that the exit is trying to enter to a map location with no file, that is ^ usually.. you should also mark all exits from the vmap as ? or something.. that is not necessary for the code to work, but help the mortals, ofcourse if you wish some place to be a secret exit, go ahead and make it look like just an other room.. like "S" or something.. wellwell.. i dont remember anything more to say just right now, try to manage for a while :)
+
+Onarion
+
+From: Onarion
+Subj: darke
+
+Date: Jan 27
+
+I have investigated the vmap area problems you had, as i said you have to load the virtual maps before they can be found by the room.. it is enough that you call_other the files from the entrance of your area.. like call_other("/wizards/blaabalaa/virtual_tunnel_map", "XX (<-this can be what ever)", 0);
+got it?
+and then, for some reason you can only use the "normal" exits to enter a vmap, "tunnels" is no good.. and then when you try to enter a vmap and you get just nothing.. no error, nothing, just the same as you would press enter, it means that the exit is trying to enter to a map location with no file, that is ^ usually.. you should also mark all exits from the vmap as ? or something.. that is not necessary for the code to work, but help the mortals, ofcourse if you wish some place to be a secret exit, go ahead and make it look like just an other room.. like "S" or something.. wellwell.. i dont remember anything more to say just right now, try to manage for a while :)
+
+Onarion
+
+From: Onarion
+Subj: darke
+
+Date: Jan 27
+
+I have investigated the vmap area problems you had, as i said you have to load the virtual maps before they can be found by the room.. it is enough that you call_other the files from the entrance of your area.. like call_other("/wizards/blaabalaa/virtual_tunnel_map", "XX (<-this can be what ever)", 0);
+got it?
+and then, for some reason you can only use the "normal" exits to enter a vmap, "tunnels" is no good.. and then when you try to enter a vmap and you get just nothing.. no error, nothing, just the same as you would press enter, it means that the exit is trying to enter to a map location with no file, that is ^ usually.. you should also mark all exits from the vmap as ? or something.. that is not necessary for the code to work, but help the mortals, ofcourse if you wish some place to be a secret exit, go ahead and make it look like just an other room.. like "S" or something.. wellwell.. i dont remember anything more to say just right now, try to manage for a while :)
+
+Onarion
+
+From: Onarion
+Subj: darke
+
+Date: Jan 27
+
+I have investigated the vmap area problems you had, as i said you have to load the virtual maps before they can be found by the room.. it is enough that you call_other the files from the entrance of your area.. like call_other("/wizards/blaabalaa/virtual_tunnel_map", "XX (<-this can be what ever)", 0);
+got it?
+and then, for some reason you can only use the "normal" exits to enter a vmap, "tunnels" is no good.. and then when you try to enter a vmap and you get just nothing.. no error, nothing, just the same as you would press enter, it means that the exit is trying to enter to a map location with no file, that is ^ usually.. you should also mark all exits from the vmap as ? or something.. that is not necessary for the code to work, but help the mortals, ofcourse if you wish some place to be a secret exit, go ahead and make it look like just an other room.. like "S" or something.. wellwell.. i dont remember anything more to say just right now, try to manage for a while :)
+
+Onarion
+
+From: Nigel
+Subj: area ?
+
+Date: Apr  4
+
+if thou are doing an area .. would it be possible to do an mirror or an plaque 10 area ? .. those players who are on top 10 plaque would be there as monsters ? .. 
+another one .. a dragon area would be nice .. green,red,black,grey and of course gold dragons ... =)
+another one .. a dragon area would be nice .. green,red,black,grey and of course gold dragons ... =)
+typoed . sorry
+see ya  =o
+
+From: Onarion
+Subj: area
+
+Date: Apr  8
+
+Are you making progress with your darkelf area?
+If you are still having problems, ask me.
+
+From: Onarion
+Subj: re: area
+
+Date: Apr  9
+
+Some errors i noticed in there:
+error in room file darke/city/garden/2g0.c
+
+error in the farthest SE corner of virtual map.. think all the errors in the virtual map caused
+that you would see then over the borders.. so extend them..
+And somehow the there is no "feeling" of a real alive city, well i cant say duranghom has any feeling anyways, but that would be the aim.. put better short and long descs, tell the race of the creature in the short already, like darkelf guard, not just guard, and, better desc especially for the workers, havent got a slightest idea about what they are, except some slaves :) like race atleast.. and mosters should talk, atleast some of them, and make the quests you have planned, and the city should also maybe consist of something more than just barrack, garden and slums. and hum.. the monster levels are out of tune, max level should be 30, for exp monsters, and go donw to 10, "small worker", at level 18 or something is _way_ too high.. something like 5 would be better.. tune all of the levels down, like / 2 atleast most of them. then.. hum, dont use "..." in descs, looks more like my mail than a desc :) just replace them with just "." if you dont figure out anything better for it.. and well. hum.. i guess ill put siki to look at the area, so prepare for heavy flame :) you've seen quite much trouble to make the area, why not finish it to details so all the work is not for nothing.. cause the area will be better when finished.. if i were you i would add some danger to the caves too.. some strange monsters.. have you ever heard about cavefishers? :P
+
+well i think thats about it :) and yes you might put some other small area in the caverns that would be related to the dark elf city with a quest for example.
+
+Patience, Onarion :)
+
+From: Onarion
+Subj: Web page
+
+Date: Apr 29
+
+Looking much better already, just the links to the races link below the image, so you see the image of the next race instead of the intended..
+
+From: Kedalius
+Subj: My news
+
+Date: May  9
+
+I'll only need 7 lines... But there's only 4...
+so that's why well need more space to mail...
+
+From: Gheldor
+Subj: The shadow...
+
+Date: Oct 10
+
+object player;
+
+start() {
+  player = this_player();
+  shadow(player, 1);
+}
+
+short() {
+  return this_player()->query_name()+" just can't get enought of Gynter!";
+}
+
+-*-
+Just put the code into a file "shadow.c" and then 'call shadow.c;start' and it
+should start by it's own... Enjoy the usage and use it wisely with wisdom and care!
+
+++Gheldor
+=)
+
+From: Onarion
+Subj: fixed bug
+
+Date: Oct 16
+
+Fixed remove_exit function in/room/room.c, so that fixed the bug that has plagued your elements area's gateway,  that caused exits to be a little messed up.. well its fixed now :)
+The bug was actually in my code, im am sorry if you got flamed for a buggy area.. :(
+
+From: Onarion
+Subj: fixed bug
+
+Date: Oct 16
+
+Fixed remove_exit function in/room/room.c, so that fixed the bug that has plagued your elements area's gateway,  that caused exits to be a little messed up.. well its fixed now :)
+The bug was actually in my code, im am sorry if you got flamed for a buggy area.. :(
+
+From: Tekari
+Subj: elemental area
+
+Date: Jan  3
+
+All we highbies really wish that you would fix that elemental area, so we would have an area for exp, too.
+
+From: Nalle
+Subj: WWW
+
+Date: Feb  1
+
+Hi,
+The pages look quite nice, elegant but not too flashy, which is good.
+However, I'd like you to put the TTF fonts you've used into the directory
+with the pages (as much of the text is in images, we'll need that to
+make identical text) and also if you could make a small WWW-README.txt
+with other stuff you might think is relevant (font sizes you've used,
+common frame names etc), that would be great. Also if you happen to find
+a compiled/source java telnet client we could use for please let me know.
+No rush, but please send me mail when that's done. The font thing being
+the most important thing.
+-Nalle.
+
+From: Celtron
+Subj: webpage
+
+Date: Jan 19
+
+the page is up.
+
+From: Celtron
+Subj: re:map_d
+
+Date: Nov 26
+
+just leave some spaces to the edges. like in other vmap areas.
+in outworld the sea functions as empty space between the edges and
+allowed areas
+
+From: Celtron
+Subj: re:map_daemon
+
+Date: Nov 26
+
+yes it gives a error. you are not supposed to walk to the edge... you might fall down
+
+From: Celtron
+Subj: re: www
+
+Date: Aug 29
+
+cool. looks a lot better now.
+
+"psionicist guild" text is with a small font. you forgot to size it up.. :o
+
+From: Celtron
+Subj: re: subguilds page
+
+Date: Aug 26
+
+the page could be better looking... :o
+
+if you could put the info (which is up to date atm) to tables, it would be cool
+:)
+
